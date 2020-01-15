@@ -1,0 +1,124 @@
+// this file was generated from Polaris Dark Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=741 end=293453 sample=../Audio/Polaris Dark Piano/24C0-8ESA.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=831 end=287599 sample=../Audio/Polaris Dark Piano/25C#0-T7FC.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=704 end=289107 sample=../Audio/Polaris Dark Piano/26D0-1CSC.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 sample=../Audio/Polaris Dark Piano/27D#0-06B6.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=289915 sample=../Audio/Polaris Dark Piano/28E0-XQRZ.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=588 end=269231 sample=../Audio/Polaris Dark Piano/29F0-JBKV.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=772 end=269432 sample=../Audio/Polaris Dark Piano/30F#0-ZNV8.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=440 end=262506 sample=../Audio/Polaris Dark Piano/31G0-M6SV.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=946 end=259917 sample=../Audio/Polaris Dark Piano/32G#0-2FLI.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1065 end=270050 sample=../Audio/Polaris Dark Piano/33A0-2WXV.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 end=248677 sample=../Audio/Polaris Dark Piano/34A#0-UVLM.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=495 end=240390 sample=../Audio/Polaris Dark Piano/35B0-2XLH.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=549 sample=../Audio/Polaris Dark Piano/36C1-K0US.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=829 end=237311 sample=../Audio/Polaris Dark Piano/37C#1-N86V.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=913 end=241815 sample=../Audio/Polaris Dark Piano/38D1-E2NX.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=240177 sample=../Audio/Polaris Dark Piano/39D#1-L518.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 end=231368 sample=../Audio/Polaris Dark Piano/40E1-1XUN.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=230087 sample=../Audio/Polaris Dark Piano/41F1-Q7IG.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=228091 sample=../Audio/Polaris Dark Piano/42F#1-NE9T.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=964 end=220851 sample=../Audio/Polaris Dark Piano/43G1-FFV8.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=618 end=225032 sample=../Audio/Polaris Dark Piano/44G#1-ANVX.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=800 end=222989 sample=../Audio/Polaris Dark Piano/45A1-F5ZW.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=713 end=215181 sample=../Audio/Polaris Dark Piano/46A#1-EA5V.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=214665 sample=../Audio/Polaris Dark Piano/47B1-L841.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=546 end=214663 sample=../Audio/Polaris Dark Piano/48C2-02M5.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=908 end=211523 sample=../Audio/Polaris Dark Piano/49C#2-G1LZ.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=922 end=208992 sample=../Audio/Polaris Dark Piano/50D2-OLCZ.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=786 end=209524 sample=../Audio/Polaris Dark Piano/51D#2-PEZN.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=449 end=205264 sample=../Audio/Polaris Dark Piano/52E2-SD2R.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=991 end=204933 sample=../Audio/Polaris Dark Piano/53F2-5OPT.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=821 end=202150 sample=../Audio/Polaris Dark Piano/54F#2-WZ38.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=199312 sample=../Audio/Polaris Dark Piano/55G2-S2YU.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=830 end=197566 sample=../Audio/Polaris Dark Piano/56G#2-INBE.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=198053 sample=../Audio/Polaris Dark Piano/57A2-S60T.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=600 end=193822 sample=../Audio/Polaris Dark Piano/58A#2-AYRG.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=194258 sample=../Audio/Polaris Dark Piano/59B2-K0F9.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=918 end=193013 sample=../Audio/Polaris Dark Piano/60C3-VDGM.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=797 end=186618 sample=../Audio/Polaris Dark Piano/61C#3-N6UT.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=189186 sample=../Audio/Polaris Dark Piano/62D3-U248.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=712 end=186031 sample=../Audio/Polaris Dark Piano/63D#3-59KD.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=492 end=185219 sample=../Audio/Polaris Dark Piano/64E3-HY2F.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=770 end=183232 sample=../Audio/Polaris Dark Piano/65F3-YQH6.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 end=181149 sample=../Audio/Polaris Dark Piano/66F#3-LQT7.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=818 end=181921 sample=../Audio/Polaris Dark Piano/67G3-HQT1.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=814 end=178862 sample=../Audio/Polaris Dark Piano/68G#3-1Z6U.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=453 end=180921 sample=../Audio/Polaris Dark Piano/69A3-DEMC.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=658 end=177116 sample=../Audio/Polaris Dark Piano/70A#3-GA7B.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=765 end=177157 sample=../Audio/Polaris Dark Piano/71B3-ABWT.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=539 end=175498 sample=../Audio/Polaris Dark Piano/72C4-INOL.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=668 sample=../Audio/Polaris Dark Piano/73C#4-LHKL.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=174337 sample=../Audio/Polaris Dark Piano/74D4-14Q2.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 end=172994 sample=../Audio/Polaris Dark Piano/75D#4-UJI3.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=859 end=170187 sample=../Audio/Polaris Dark Piano/76E4-RXX3.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=169860 sample=../Audio/Polaris Dark Piano/77F4-CICV.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=706 end=170251 sample=../Audio/Polaris Dark Piano/78F#4-F8PQ.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=953 end=169625 sample=../Audio/Polaris Dark Piano/79G4-1SYZ.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=714 end=167098 sample=../Audio/Polaris Dark Piano/80G#4-M0VC.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=495 end=166929 sample=../Audio/Polaris Dark Piano/81A4-HDMU.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=568 end=166816 sample=../Audio/Polaris Dark Piano/82A#4-CUN3.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=640 end=162713 sample=../Audio/Polaris Dark Piano/83B4-458R.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=413 end=162055 sample=../Audio/Polaris Dark Piano/84C5-9WEB.wav

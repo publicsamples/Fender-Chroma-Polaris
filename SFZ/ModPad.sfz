@@ -1,0 +1,368 @@
+// this file was generated from ModPad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=383311 loop_end=479066 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-1S3Y.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1091 end=572082 sample=../Audio/TouchPad/TouchPad.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1516 sample=../Audio/TouchPad/TouchPad_0001.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1171 sample=../Audio/TouchPad/TouchPad_0002.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1568 sample=../Audio/TouchPad/TouchPad_0003.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=328700 loop_end=425127 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-97GT.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1073 end=579464 sample=../Audio/TouchPad/TouchPad_0004.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1397 end=579176 sample=../Audio/TouchPad/TouchPad_0005.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1112 end=578689 sample=../Audio/TouchPad/TouchPad_0006.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1321 end=579973 sample=../Audio/TouchPad/TouchPad_0007.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=328067 loop_end=423887 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-24UI.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1076 end=582731 sample=../Audio/TouchPad/TouchPad_0008.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1326 end=583049 sample=../Audio/TouchPad/TouchPad_0009.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=997 end=580959 sample=../Audio/TouchPad/TouchPad_0010.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1306 end=579212 sample=../Audio/TouchPad/TouchPad_0011.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=392324 loop_end=488510 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-YROB.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1257 end=590788 sample=../Audio/TouchPad/TouchPad_0012.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1293 end=591143 sample=../Audio/TouchPad/TouchPad_0013.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1245 end=591360 sample=../Audio/TouchPad/TouchPad_0014.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1197 end=591362 sample=../Audio/TouchPad/TouchPad_0015.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=382442 loop_end=478488 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-CMPJ.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1310 end=590594 sample=../Audio/TouchPad/TouchPad_0016.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1344 sample=../Audio/TouchPad/TouchPad_0017.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=912 end=590820 sample=../Audio/TouchPad/TouchPad_0018.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1391 end=590159 sample=../Audio/TouchPad/TouchPad_0019.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=382921 loop_end=477684 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-CMTK.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1410 sample=../Audio/TouchPad/TouchPad_0020.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1259 end=572969 sample=../Audio/TouchPad/TouchPad_0021.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1019 end=572685 sample=../Audio/TouchPad/TouchPad_0022.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1205 end=572871 sample=../Audio/TouchPad/TouchPad_0023.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=379117 loop_end=475009 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-13XM.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1048 end=581378 sample=../Audio/TouchPad/TouchPad_0024.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1021 sample=../Audio/TouchPad/TouchPad_0025.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1485 sample=../Audio/TouchPad/TouchPad_0026.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1259 end=580394 sample=../Audio/TouchPad/TouchPad_0027.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377079 loop_end=473147 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-WYXE.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1347 end=583654 sample=../Audio/TouchPad/TouchPad_0028.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1127 sample=../Audio/TouchPad/TouchPad_0029.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=907 end=584188 sample=../Audio/TouchPad/TouchPad_0030.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1229 end=582239 sample=../Audio/TouchPad/TouchPad_0031.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=381209 loop_end=477827 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-SMVH.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1195 end=591489 sample=../Audio/TouchPad/TouchPad_0032.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=968 end=590862 sample=../Audio/TouchPad/TouchPad_0033.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1155 end=591122 sample=../Audio/TouchPad/TouchPad_0034.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1324 sample=../Audio/TouchPad/TouchPad_0035.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377450 loop_end=474142 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-GHQ9.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=956 end=590168 sample=../Audio/TouchPad/TouchPad_0036.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1224 end=591326 sample=../Audio/TouchPad/TouchPad_0037.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1080 end=590848 sample=../Audio/TouchPad/TouchPad_0038.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1264 end=591262 sample=../Audio/TouchPad/TouchPad_0039.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378193 loop_end=474734 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-NTWL.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1096 end=572995 sample=../Audio/TouchPad/TouchPad_0040.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1089 sample=../Audio/TouchPad/TouchPad_0041.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1176 end=572779 sample=../Audio/TouchPad/TouchPad_0042.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1457 end=572544 sample=../Audio/TouchPad/TouchPad_0043.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378238 loop_end=473640 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-3TRU.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1450 end=581522 sample=../Audio/TouchPad/TouchPad_0044.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1176 end=582963 sample=../Audio/TouchPad/TouchPad_0045.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1196 end=582921 sample=../Audio/TouchPad/TouchPad_0046.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1125 end=578980 sample=../Audio/TouchPad/TouchPad_0047.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378059 loop_end=474244 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-03XT.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=997 sample=../Audio/TouchPad/TouchPad_0048.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1235 end=582938 sample=../Audio/TouchPad/TouchPad_0049.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1347 end=580720 sample=../Audio/TouchPad/TouchPad_0050.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1059 sample=../Audio/TouchPad/TouchPad_0051.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377032 loop_end=473297 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-SE5U.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1054 end=590686 sample=../Audio/TouchPad/TouchPad_0052.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1247 sample=../Audio/TouchPad/TouchPad_0053.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1395 end=591448 sample=../Audio/TouchPad/TouchPad_0054.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=999 end=591146 sample=../Audio/TouchPad/TouchPad_0055.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378000 loop_end=474300 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-VELH.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1655 end=590667 sample=../Audio/TouchPad/TouchPad_0056.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1144 end=591113 sample=../Audio/TouchPad/TouchPad_0057.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=886 sample=../Audio/TouchPad/TouchPad_0058.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1270 end=592345 sample=../Audio/TouchPad/TouchPad_0059.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377585 loop_end=473645 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-5KK5.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1450 sample=../Audio/TouchPad/TouchPad_0060.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1413 sample=../Audio/TouchPad/TouchPad_0061.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1248 end=572915 sample=../Audio/TouchPad/TouchPad_0062.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1313 sample=../Audio/TouchPad/TouchPad_0063.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=376291 loop_end=471791 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-M7N2.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1454 end=578434 sample=../Audio/TouchPad/TouchPad_0064.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=891 sample=../Audio/TouchPad/TouchPad_0065.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1014 end=583424 sample=../Audio/TouchPad/TouchPad_0066.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1359 sample=../Audio/TouchPad/TouchPad_0067.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378981 loop_end=474118 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-AZX2.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1221 end=583556 sample=../Audio/TouchPad/TouchPad_0068.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1241 end=583140 sample=../Audio/TouchPad/TouchPad_0069.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1324 end=581578 sample=../Audio/TouchPad/TouchPad_0070.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1291 sample=../Audio/TouchPad/TouchPad_0071.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=394429 loop_end=490305 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-JDA2.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1255 end=590741 sample=../Audio/TouchPad/TouchPad_0072.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1136 end=591149 sample=../Audio/TouchPad/TouchPad_0073.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1485 sample=../Audio/TouchPad/TouchPad_0074.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1103 end=591173 sample=../Audio/TouchPad/TouchPad_0075.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377838 loop_end=474206 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-AT1B.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1519 end=590857 sample=../Audio/TouchPad/TouchPad_0076.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1415 end=591267 sample=../Audio/TouchPad/TouchPad_0077.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1408 end=591417 sample=../Audio/TouchPad/TouchPad_0078.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1049 end=591094 sample=../Audio/TouchPad/TouchPad_0079.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=394767 loop_end=491146 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-U4LZ.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1410 sample=../Audio/TouchPad/TouchPad_0080.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1155 sample=../Audio/TouchPad/TouchPad_0081.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1292 end=571777 sample=../Audio/TouchPad/TouchPad_0082.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=992 end=570625 sample=../Audio/TouchPad/TouchPad_0083.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=391596 loop_end=487718 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-8GWL.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1137 end=578108 sample=../Audio/TouchPad/TouchPad_0084.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1201 end=582934 sample=../Audio/TouchPad/TouchPad_0085.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1103 end=578752 sample=../Audio/TouchPad/TouchPad_0086.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1258 sample=../Audio/TouchPad/TouchPad_0087.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=394244 loop_end=490739 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-ABHG.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1495 end=579364 sample=../Audio/TouchPad/TouchPad_0088.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1285 sample=../Audio/TouchPad/TouchPad_0089.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1535 end=581764 sample=../Audio/TouchPad/TouchPad_0090.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1362 end=582319 sample=../Audio/TouchPad/TouchPad_0091.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=392589 loop_end=488882 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-WFUD.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1406 end=591814 sample=../Audio/TouchPad/TouchPad_0092.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1108 end=591020 sample=../Audio/TouchPad/TouchPad_0093.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1212 sample=../Audio/TouchPad/TouchPad_0094.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=888 end=590869 sample=../Audio/TouchPad/TouchPad_0095.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377078 loop_end=472721 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-B5GL.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1377 end=590666 sample=../Audio/TouchPad/TouchPad_0096.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1560 end=591393 sample=../Audio/TouchPad/TouchPad_0097.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=975 end=591029 sample=../Audio/TouchPad/TouchPad_0098.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1238 end=590140 sample=../Audio/TouchPad/TouchPad_0099.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378730 loop_end=475280 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-XHSH.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1348 end=571776 sample=../Audio/TouchPad/TouchPad_0100.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=970 sample=../Audio/TouchPad/TouchPad_0101.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1087 end=572545 sample=../Audio/TouchPad/TouchPad_0102.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1336 end=572800 sample=../Audio/TouchPad/TouchPad_0103.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=391472 loop_end=488017 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-P6UL.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1444 end=583680 sample=../Audio/TouchPad/TouchPad_0104.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1391 end=578597 sample=../Audio/TouchPad/TouchPad_0105.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1217 sample=../Audio/TouchPad/TouchPad_0106.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1170 end=580901 sample=../Audio/TouchPad/TouchPad_0107.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=368798 loop_end=464506 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-TTTK.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1297 sample=../Audio/TouchPad/TouchPad_0108.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1496 sample=../Audio/TouchPad/TouchPad_0109.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1222 sample=../Audio/TouchPad/TouchPad_0110.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1355 end=579336 sample=../Audio/TouchPad/TouchPad_0111.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378712 loop_end=475355 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-OA3F.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1256 end=590667 sample=../Audio/TouchPad/TouchPad_0112.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1530 sample=../Audio/TouchPad/TouchPad_0113.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1354 end=591263 sample=../Audio/TouchPad/TouchPad_0114.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1114 end=591293 sample=../Audio/TouchPad/TouchPad_0115.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377068 loop_end=472843 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-NUZM.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=948 end=590361 sample=../Audio/TouchPad/TouchPad_0116.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1192 end=591108 sample=../Audio/TouchPad/TouchPad_0117.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1027 end=591142 sample=../Audio/TouchPad/TouchPad_0118.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1350 end=591424 sample=../Audio/TouchPad/TouchPad_0119.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=377921 loop_end=474169 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-RC65.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=969 sample=../Audio/TouchPad/TouchPad_0120.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1247 sample=../Audio/TouchPad/TouchPad_0121.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1340 sample=../Audio/TouchPad/TouchPad_0122.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1283 end=571523 sample=../Audio/TouchPad/TouchPad_0123.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=378081 loop_end=473693 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-55D4.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1012 end=578049 sample=../Audio/TouchPad/TouchPad_0124.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1394 end=579627 sample=../Audio/TouchPad/TouchPad_0125.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1161 sample=../Audio/TouchPad/TouchPad_0126.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1291 end=578828 sample=../Audio/TouchPad/TouchPad_0127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=379005 loop_end=475299 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-8GZI.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1267 end=579093 sample=../Audio/TouchPad/TouchPad_0128.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1394 end=578952 sample=../Audio/TouchPad/TouchPad_0129.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1099 end=578718 sample=../Audio/TouchPad/TouchPad_0130.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1132 sample=../Audio/TouchPad/TouchPad_0131.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=392330 loop_end=488653 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-VSIE.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1330 end=590745 sample=../Audio/TouchPad/TouchPad_0132.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1070 end=591262 sample=../Audio/TouchPad/TouchPad_0133.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=858 end=591181 sample=../Audio/TouchPad/TouchPad_0134.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1346 sample=../Audio/TouchPad/TouchPad_0135.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=355314 loop_end=451057 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-4QJJ.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1261 end=589485 sample=../Audio/TouchPad/TouchPad_0136.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1485 sample=../Audio/TouchPad/TouchPad_0137.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1388 sample=../Audio/TouchPad/TouchPad_0138.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1125 sample=../Audio/TouchPad/TouchPad_0139.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=336747 loop_end=432473 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-4F6A.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1416 end=571676 sample=../Audio/TouchPad/TouchPad_0140.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1203 end=572173 sample=../Audio/TouchPad/TouchPad_0141.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1382 sample=../Audio/TouchPad/TouchPad_0142.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1449 sample=../Audio/TouchPad/TouchPad_0143.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=368247 loop_end=463972 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-S2FM.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1190 sample=../Audio/TouchPad/TouchPad_0144.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1131 sample=../Audio/TouchPad/TouchPad_0145.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1130 sample=../Audio/TouchPad/TouchPad_0146.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1139 sample=../Audio/TouchPad/TouchPad_0147.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=383090 loop_end=479234 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-UE3D.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1363 end=579468 sample=../Audio/TouchPad/TouchPad_0148.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1478 end=579200 sample=../Audio/TouchPad/TouchPad_0149.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1191 end=579330 sample=../Audio/TouchPad/TouchPad_0150.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1452 sample=../Audio/TouchPad/TouchPad_0151.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=383037 loop_end=478626 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-I5V1.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1213 sample=../Audio/TouchPad/TouchPad_0152.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=907 sample=../Audio/TouchPad/TouchPad_0153.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1225 end=591518 sample=../Audio/TouchPad/TouchPad_0154.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=872 end=591141 sample=../Audio/TouchPad/TouchPad_0155.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=376397 loop_end=472353 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-PTLD.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1276 end=590726 sample=../Audio/TouchPad/TouchPad_0156.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1006 sample=../Audio/TouchPad/TouchPad_0157.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1188 end=589083 sample=../Audio/TouchPad/TouchPad_0158.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1127 end=591399 sample=../Audio/TouchPad/TouchPad_0159.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=381122 loop_end=477368 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-IOWJ.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1368 sample=../Audio/TouchPad/TouchPad_0160.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1537 end=571429 sample=../Audio/TouchPad/TouchPad_0161.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1404 end=572419 sample=../Audio/TouchPad/TouchPad_0162.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1410 end=571010 sample=../Audio/TouchPad/TouchPad_0163.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=395384 loop_end=491760 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-HL0V.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1449 end=578049 sample=../Audio/TouchPad/TouchPad_0164.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1186 sample=../Audio/TouchPad/TouchPad_0165.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1000 end=577424 sample=../Audio/TouchPad/TouchPad_0166.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1183 sample=../Audio/TouchPad/TouchPad_0167.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=322475 loop_end=418079 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-RYSY.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1095 end=578208 sample=../Audio/TouchPad/TouchPad_0168.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1247 end=578948 sample=../Audio/TouchPad/TouchPad_0169.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1277 sample=../Audio/TouchPad/TouchPad_0170.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1072 end=578973 sample=../Audio/TouchPad/TouchPad_0171.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=396464 loop_end=473216 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-KWUG.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1470 end=591023 sample=../Audio/TouchPad/TouchPad_0172.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1341 sample=../Audio/TouchPad/TouchPad_0173.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1395 end=590373 sample=../Audio/TouchPad/TouchPad_0174.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1315 end=591499 sample=../Audio/TouchPad/TouchPad_0175.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=398550 loop_end=475379 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-CQJJ.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1228 end=590748 sample=../Audio/TouchPad/TouchPad_0176.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1314 end=590237 sample=../Audio/TouchPad/TouchPad_0177.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=983 end=589629 sample=../Audio/TouchPad/TouchPad_0178.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1120 end=590098 sample=../Audio/TouchPad/TouchPad_0179.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=379087 loop_end=455871 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-VLQG.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1247 end=571032 sample=../Audio/TouchPad/TouchPad_0180.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1248 sample=../Audio/TouchPad/TouchPad_0181.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1267 sample=../Audio/TouchPad/TouchPad_0182.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1185 end=572081 sample=../Audio/TouchPad/TouchPad_0183.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=394419 loop_end=490701 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-SWZT.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1200 end=578691 sample=../Audio/TouchPad/TouchPad_0184.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1480 sample=../Audio/TouchPad/TouchPad_0185.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1218 sample=../Audio/TouchPad/TouchPad_0186.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1186 end=577689 sample=../Audio/TouchPad/TouchPad_0187.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=358560 loop_end=454819 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-0BSQ.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1001 end=578075 sample=../Audio/TouchPad/TouchPad_0188.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1211 end=577578 sample=../Audio/TouchPad/TouchPad_0189.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1568 sample=../Audio/TouchPad/TouchPad_0190.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1214 end=577664 sample=../Audio/TouchPad/TouchPad_0191.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=323367 loop_end=399911 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-LB9E.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1179 end=590740 sample=../Audio/TouchPad/TouchPad_0192.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1152 sample=../Audio/TouchPad/TouchPad_0193.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1307 end=591897 sample=../Audio/TouchPad/TouchPad_0194.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1455 end=591894 sample=../Audio/TouchPad/TouchPad_0195.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=409787 loop_end=486653 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-EIVN.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1253 sample=../Audio/TouchPad/TouchPad_0196.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1512 end=590882 sample=../Audio/TouchPad/TouchPad_0197.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=994 end=590350 sample=../Audio/TouchPad/TouchPad_0198.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1300 end=588033 sample=../Audio/TouchPad/TouchPad_0199.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=390318 loop_end=486578 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-4KPP.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1380 end=571795 sample=../Audio/TouchPad/TouchPad_0200.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1397 end=572054 sample=../Audio/TouchPad/TouchPad_0201.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1385 end=571536 sample=../Audio/TouchPad/TouchPad_0202.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1394 end=571277 sample=../Audio/TouchPad/TouchPad_0203.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=387218 loop_end=464075 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-6MB8.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1269 sample=../Audio/TouchPad/TouchPad_0204.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1156 end=577982 sample=../Audio/TouchPad/TouchPad_0205.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1116 end=577920 sample=../Audio/TouchPad/TouchPad_0206.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1250 sample=../Audio/TouchPad/TouchPad_0207.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=384158 loop_end=460956 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-WJZB.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=986 end=578459 sample=../Audio/TouchPad/TouchPad_0208.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1177 end=578077 sample=../Audio/TouchPad/TouchPad_0209.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1094 sample=../Audio/TouchPad/TouchPad_0210.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1444 end=578322 sample=../Audio/TouchPad/TouchPad_0211.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=404637 loop_end=481532 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-M1RI.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1147 end=591237 sample=../Audio/TouchPad/TouchPad_0212.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1212 end=590913 sample=../Audio/TouchPad/TouchPad_0213.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1088 end=590898 sample=../Audio/TouchPad/TouchPad_0214.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=986 end=587527 sample=../Audio/TouchPad/TouchPad_0215.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=406665 loop_end=483576 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-9F4W.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1262 end=587530 sample=../Audio/TouchPad/TouchPad_0216.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1285 end=588037 sample=../Audio/TouchPad/TouchPad_0217.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1033 sample=../Audio/TouchPad/TouchPad_0218.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1229 sample=../Audio/TouchPad/TouchPad_0219.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=402610 loop_end=479371 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-RY10.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1376 end=571662 sample=../Audio/TouchPad/TouchPad_0220.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1182 end=571153 sample=../Audio/TouchPad/TouchPad_0221.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1286 sample=../Audio/TouchPad/TouchPad_0222.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1094 end=571401 sample=../Audio/TouchPad/TouchPad_0223.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=400631 loop_end=477360 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-UFZB.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1040 end=577034 sample=../Audio/TouchPad/TouchPad_0224.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1215 end=576026 sample=../Audio/TouchPad/TouchPad_0225.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=994 sample=../Audio/TouchPad/TouchPad_0226.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=953 sample=../Audio/TouchPad/TouchPad_0227.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=395400 loop_end=491714 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-JLUM.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1125 sample=../Audio/TouchPad/TouchPad_0228.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1039 end=577805 sample=../Audio/TouchPad/TouchPad_0229.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=945 end=578057 sample=../Audio/TouchPad/TouchPad_0230.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1195 sample=../Audio/TouchPad/TouchPad_0231.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=399024 loop_end=475940 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-2K3P.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1247 sample=../Audio/TouchPad/TouchPad_0232.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1207 end=588616 sample=../Audio/TouchPad/TouchPad_0233.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1234 end=590616 sample=../Audio/TouchPad/TouchPad_0234.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=932 sample=../Audio/TouchPad/TouchPad_0235.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=409339 loop_end=486063 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-8RM7.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1553 end=587528 sample=../Audio/TouchPad/TouchPad_0236.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1119 end=588044 sample=../Audio/TouchPad/TouchPad_0237.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=987 end=587029 sample=../Audio/TouchPad/TouchPad_0238.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1169 sample=../Audio/TouchPad/TouchPad_0239.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=338166 loop_end=491734 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-HHS3.aif
+	<region> lovel=001 hivel=031 amp_velcurve_031=1 offset=1271 sample=../Audio/TouchPad/TouchPad_0240.aif
+	<region> lovel=032 hivel=062 amp_velcurve_062=1 offset=1035 sample=../Audio/TouchPad/TouchPad_0241.aif
+	<region> lovel=063 hivel=094 amp_velcurve_094=1 offset=1055 end=571145 sample=../Audio/TouchPad/TouchPad_0242.aif
+	<region> lovel=095 hivel=110 amp_velcurve_110=1 offset=1395 end=571664 sample=../Audio/TouchPad/TouchPad_0243.aif

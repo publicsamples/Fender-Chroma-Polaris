@@ -1,0 +1,196 @@
+// this file was generated from StickyWickets.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=12 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=613 end=469229 sample=../Audio/StickyWickets/StickyWickets1212.aif
+<group> key=13 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=447505 sample=../Audio/StickyWickets/StickyWickets1313.aif
+<group> key=14 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=919 end=457406 sample=../Audio/StickyWickets/StickyWickets1414.aif
+<group> key=15 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1032 sample=../Audio/StickyWickets/StickyWickets1515.aif
+<group> key=16 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1134 end=449666 sample=../Audio/StickyWickets/StickyWickets1616.aif
+<group> key=17 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=822 end=444710 sample=../Audio/StickyWickets/StickyWickets1717.aif
+<group> key=18 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=876 end=444883 sample=../Audio/StickyWickets/StickyWickets1818.aif
+<group> key=19 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=444172 sample=../Audio/StickyWickets/StickyWickets1919.aif
+<group> key=20 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=861 end=444582 sample=../Audio/StickyWickets/StickyWickets2020.aif
+<group> key=21 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1156 end=455172 sample=../Audio/StickyWickets/StickyWickets2121.aif
+<group> key=22 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1000 end=445243 sample=../Audio/StickyWickets/StickyWickets2222.aif
+<group> key=23 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1014 end=443613 sample=../Audio/StickyWickets/StickyWickets2323.aif
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1122 end=443631 sample=../Audio/StickyWickets/StickyWickets2424.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1172 end=445432 sample=../Audio/StickyWickets/StickyWickets2525.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1172 end=445042 sample=../Audio/StickyWickets/StickyWickets2626.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=610 end=444743 sample=../Audio/StickyWickets/StickyWickets2727.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=445251 sample=../Audio/StickyWickets/StickyWickets2828.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 end=444669 sample=../Audio/StickyWickets/StickyWickets2929.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=984 end=444903 sample=../Audio/StickyWickets/StickyWickets3030.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=892 end=444874 sample=../Audio/StickyWickets/StickyWickets3131.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1066 end=455077 sample=../Audio/StickyWickets/StickyWickets3232.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=798 end=444504 sample=../Audio/StickyWickets/StickyWickets3333.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 sample=../Audio/StickyWickets/StickyWickets3434.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 end=445082 sample=../Audio/StickyWickets/StickyWickets3535.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=444783 sample=../Audio/StickyWickets/StickyWickets3636.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=854 end=450770 sample=../Audio/StickyWickets/StickyWickets3737.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=764 end=444085 sample=../Audio/StickyWickets/StickyWickets3838.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=963 end=443669 sample=../Audio/StickyWickets/StickyWickets3939.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1039 end=446661 sample=../Audio/StickyWickets/StickyWickets4040.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=757 end=444017 sample=../Audio/StickyWickets/StickyWickets4141.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1052 sample=../Audio/StickyWickets/StickyWickets4242.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1009 end=443535 sample=../Audio/StickyWickets/StickyWickets4343.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=648 end=447197 sample=../Audio/StickyWickets/StickyWickets4444.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 end=446446 sample=../Audio/StickyWickets/StickyWickets4545.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=689 end=452711 sample=../Audio/StickyWickets/StickyWickets4646.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=803 end=443913 sample=../Audio/StickyWickets/StickyWickets4747.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1116 end=444819 sample=../Audio/StickyWickets/StickyWickets4848.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 sample=../Audio/StickyWickets/StickyWickets4949.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=974 end=444081 sample=../Audio/StickyWickets/StickyWickets5050.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=904 end=450606 sample=../Audio/StickyWickets/StickyWickets5151.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1106 end=448492 sample=../Audio/StickyWickets/StickyWickets5252.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1023 end=443695 sample=../Audio/StickyWickets/StickyWickets5353.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1138 end=445563 sample=../Audio/StickyWickets/StickyWickets5454.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=445983 sample=../Audio/StickyWickets/StickyWickets5555.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=852 end=450229 sample=../Audio/StickyWickets/StickyWickets5656.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1116 end=453913 sample=../Audio/StickyWickets/StickyWickets5757.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1007 end=446205 sample=../Audio/StickyWickets/StickyWickets5858.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=812 sample=../Audio/StickyWickets/StickyWickets5959.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=917 end=445496 sample=../Audio/StickyWickets/StickyWickets6060.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 end=459416 sample=../Audio/StickyWickets/StickyWickets6161.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=450782 sample=../Audio/StickyWickets/StickyWickets6262.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=827 end=444685 sample=../Audio/StickyWickets/StickyWickets6363.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 end=456013 sample=../Audio/StickyWickets/StickyWickets6464.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 end=443600 sample=../Audio/StickyWickets/StickyWickets6565.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1019 end=442732 sample=../Audio/StickyWickets/StickyWickets6666.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=923 end=446901 sample=../Audio/StickyWickets/StickyWickets6767.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=687 end=454026 sample=../Audio/StickyWickets/StickyWickets6868.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=454921 sample=../Audio/StickyWickets/StickyWickets6969.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 end=457494 sample=../Audio/StickyWickets/StickyWickets7070.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=704 end=443400 sample=../Audio/StickyWickets/StickyWickets7171.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 end=444052 sample=../Audio/StickyWickets/StickyWickets7272.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 end=455854 sample=../Audio/StickyWickets/StickyWickets7373.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1072 end=457126 sample=../Audio/StickyWickets/StickyWickets7474.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=776 sample=../Audio/StickyWickets/StickyWickets7575.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=721 end=458760 sample=../Audio/StickyWickets/StickyWickets7676.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1035 end=460296 sample=../Audio/StickyWickets/StickyWickets7777.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1204 end=445696 sample=../Audio/StickyWickets/StickyWickets7878.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 end=459799 sample=../Audio/StickyWickets/StickyWickets7979.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=886 end=461488 sample=../Audio/StickyWickets/StickyWickets8080.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1124 end=467881 sample=../Audio/StickyWickets/StickyWickets8181.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1075 end=461970 sample=../Audio/StickyWickets/StickyWickets8282.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=828 end=468353 sample=../Audio/StickyWickets/StickyWickets8383.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=459931 sample=../Audio/StickyWickets/StickyWickets8484.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 sample=../Audio/StickyWickets/StickyWickets8585.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1100 end=460821 sample=../Audio/StickyWickets/StickyWickets8686.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=869 end=459518 sample=../Audio/StickyWickets/StickyWickets8787.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=983 end=467258 sample=../Audio/StickyWickets/StickyWickets8888.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=970 end=464923 sample=../Audio/StickyWickets/StickyWickets8989.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=796 end=470403 sample=../Audio/StickyWickets/StickyWickets9090.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 end=467460 sample=../Audio/StickyWickets/StickyWickets9191.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=612 sample=../Audio/StickyWickets/StickyWickets9292.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1115 end=462605 sample=../Audio/StickyWickets/StickyWickets9393.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=929 end=474089 sample=../Audio/StickyWickets/StickyWickets9494.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1003 end=473893 sample=../Audio/StickyWickets/StickyWickets9595.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=464147 sample=../Audio/StickyWickets/StickyWickets9696.aif
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=829 end=466214 sample=../Audio/StickyWickets/StickyWickets9797.aif
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1202 end=466746 sample=../Audio/StickyWickets/StickyWickets9898.aif
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=837 end=468791 sample=../Audio/StickyWickets/StickyWickets9999.aif
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=726 end=473244 sample=../Audio/StickyWickets/StickyWickets100100.aif
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 end=468779 sample=../Audio/StickyWickets/StickyWickets101101.aif
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=864 end=469257 sample=../Audio/StickyWickets/StickyWickets102102.aif
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=178 end=473981 sample=../Audio/StickyWickets/StickyWickets103103.aif
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=472338 sample=../Audio/StickyWickets/StickyWickets104104.aif
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 end=473355 sample=../Audio/StickyWickets/StickyWickets105105.aif
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=905 sample=../Audio/StickyWickets/StickyWickets106106.aif
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1034 end=472730 sample=../Audio/StickyWickets/StickyWickets107107.aif
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=934 end=472771 sample=../Audio/StickyWickets/StickyWickets108108.aif

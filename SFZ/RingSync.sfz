@@ -1,0 +1,124 @@
+// this file was generated from RingSync.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=795 end=373787 sample=../Audio/RingSync/RingSync2424.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=743 sample=../Audio/RingSync/RingSync2525.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=951 sample=../Audio/RingSync/RingSync2626.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 end=368852 sample=../Audio/RingSync/RingSync2727.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 end=367530 sample=../Audio/RingSync/RingSync2828.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1267 end=360107 sample=../Audio/RingSync/RingSync2929.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=916 end=357755 sample=../Audio/RingSync/RingSync3030.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1070 end=356863 sample=../Audio/RingSync/RingSync3131.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1044 end=357342 sample=../Audio/RingSync/RingSync3232.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=685 sample=../Audio/RingSync/RingSync3333.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=731 end=356330 sample=../Audio/RingSync/RingSync3434.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=730 end=360694 sample=../Audio/RingSync/RingSync3535.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1149 end=362812 sample=../Audio/RingSync/RingSync3636.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=723 end=356162 sample=../Audio/RingSync/RingSync3737.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=357013 sample=../Audio/RingSync/RingSync3838.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1152 end=361900 sample=../Audio/RingSync/RingSync3939.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=987 end=356704 sample=../Audio/RingSync/RingSync4040.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=974 end=362742 sample=../Audio/RingSync/RingSync4141.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=826 end=360879 sample=../Audio/RingSync/RingSync4242.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=946 end=362703 sample=../Audio/RingSync/RingSync4343.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=770 end=356616 sample=../Audio/RingSync/RingSync4444.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 end=362046 sample=../Audio/RingSync/RingSync4545.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=729 sample=../Audio/RingSync/RingSync4646.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=939 end=361216 sample=../Audio/RingSync/RingSync4747.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=360628 sample=../Audio/RingSync/RingSync4848.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=358657 sample=../Audio/RingSync/RingSync4949.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 sample=../Audio/RingSync/RingSync5050.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=958 end=362020 sample=../Audio/RingSync/RingSync5151.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=842 end=355891 sample=../Audio/RingSync/RingSync5252.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1215 end=363292 sample=../Audio/RingSync/RingSync5353.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=850 sample=../Audio/RingSync/RingSync5454.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=807 end=374416 sample=../Audio/RingSync/RingSync5555.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=628 end=374284 sample=../Audio/RingSync/RingSync5656.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=738 end=369089 sample=../Audio/RingSync/RingSync5757.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1162 end=380203 sample=../Audio/RingSync/RingSync5858.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=794 end=375999 sample=../Audio/RingSync/RingSync5959.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=374297 sample=../Audio/RingSync/RingSync6060.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 end=377875 sample=../Audio/RingSync/RingSync6161.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=957 end=376581 sample=../Audio/RingSync/RingSync6262.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1275 end=386883 sample=../Audio/RingSync/RingSync6363.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1037 end=381572 sample=../Audio/RingSync/RingSync6464.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=978 end=387551 sample=../Audio/RingSync/RingSync6565.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1033 sample=../Audio/RingSync/RingSync6666.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=758 end=380447 sample=../Audio/RingSync/RingSync6767.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=926 end=388648 sample=../Audio/RingSync/RingSync6868.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=976 end=388541 sample=../Audio/RingSync/RingSync6969.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=516 end=380035 sample=../Audio/RingSync/RingSync7070.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=384227 sample=../Audio/RingSync/RingSync7171.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 end=385807 sample=../Audio/RingSync/RingSync7272.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 end=385140 sample=../Audio/RingSync/RingSync7373.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1060 end=386690 sample=../Audio/RingSync/RingSync7474.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1035 end=385870 sample=../Audio/RingSync/RingSync7575.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=712 end=385812 sample=../Audio/RingSync/RingSync7676.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=552 end=390482 sample=../Audio/RingSync/RingSync7777.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 end=392749 sample=../Audio/RingSync/RingSync7878.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=316 sample=../Audio/RingSync/RingSync7979.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 end=386358 sample=../Audio/RingSync/RingSync8080.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=881 sample=../Audio/RingSync/RingSync8181.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1174 end=387318 sample=../Audio/RingSync/RingSync8282.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=389369 sample=../Audio/RingSync/RingSync8383.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=389888 sample=../Audio/RingSync/RingSync8484.aif

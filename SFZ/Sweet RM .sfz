@@ -1,0 +1,76 @@
+// this file was generated from Sweet RM .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=9 hikey=60 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=910 sample=../Audio/Sweet and Full of Grace/60C3-10A8.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=267568 sample=../Audio/Sweet and Full of Grace/61C#3-S9HG.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1159 sample=../Audio/Sweet and Full of Grace/62D3-V85J.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=757 end=274770 sample=../Audio/Sweet and Full of Grace/63D#3-G4H7.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 end=276161 sample=../Audio/Sweet and Full of Grace/64E3-600N.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1028 end=284170 sample=../Audio/Sweet and Full of Grace/65F3-49X6.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=267218 sample=../Audio/Sweet and Full of Grace/66F#3-35QE.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=973 end=291719 sample=../Audio/Sweet and Full of Grace/67G3-BULO.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 sample=../Audio/Sweet and Full of Grace/68G#3-3OYF.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1115 sample=../Audio/Sweet and Full of Grace/69A3-RAQ8.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 end=284221 sample=../Audio/Sweet and Full of Grace/70A#3-84O3.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1052 end=267543 sample=../Audio/Sweet and Full of Grace/71B3-3CSV.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 sample=../Audio/Sweet and Full of Grace/72C4-H0Y9.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1052 sample=../Audio/Sweet and Full of Grace/73C#4-3J9J.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=888 end=273174 sample=../Audio/Sweet and Full of Grace/74D4-C3BJ.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=866 end=282416 sample=../Audio/Sweet and Full of Grace/75D#4-CQ0N.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=687 end=266018 sample=../Audio/Sweet and Full of Grace/76E4-MRXJ.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=739 end=288933 sample=../Audio/Sweet and Full of Grace/77F4-RHPR.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=929 sample=../Audio/Sweet and Full of Grace/78F#4-MT97.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=797 end=274999 sample=../Audio/Sweet and Full of Grace/79G4-1CDE.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=860 sample=../Audio/Sweet and Full of Grace/80G#4-PDUT.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=266058 sample=../Audio/Sweet and Full of Grace/81A4-KDD5.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=885 end=82086 sample=../Audio/Sweet and Full of Grace/82A#4-COFG.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=822 sample=../Audio/Sweet and Full of Grace/83B4-VZA5.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1094 sample=../Audio/Sweet and Full of Grace/84C5-9BML.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=977 end=280410 sample=../Audio/Sweet and Full of Grace/85C#5-EIAM.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 end=265001 sample=../Audio/Sweet and Full of Grace/86D5-F5DE.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=948 end=286482 sample=../Audio/Sweet and Full of Grace/87D#5-XEBF.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=554 end=271643 sample=../Audio/Sweet and Full of Grace/88E5-N69D.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1206 end=272905 sample=../Audio/Sweet and Full of Grace/89F5-J9N8.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=866 sample=../Audio/Sweet and Full of Grace/90F#5-3KCF.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1034 end=263845 sample=../Audio/Sweet and Full of Grace/91G5-Z4O5.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=282408 sample=../Audio/Sweet and Full of Grace/92G#5-YSQ1.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 end=272013 sample=../Audio/Sweet and Full of Grace/93A5-W4X8.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=916 end=271625 sample=../Audio/Sweet and Full of Grace/94A#5-EJFA.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 sample=../Audio/Sweet and Full of Grace/95B5-53YK.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=712 sample=../Audio/Sweet and Full of Grace/96C6-1KDN.aif

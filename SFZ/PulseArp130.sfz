@@ -1,0 +1,124 @@
+// this file was generated from PulseArp130.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=198591 loop_end=361469 sample=../Audio/PulseArp130/(201381 124757)/24C0-XD73.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30705 loop_end=356275 sample=../Audio/PulseArp130/(201381 124757)/25C#0-EYHP.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=193491 loop_end=356353 sample=../Audio/PulseArp130/(201381 124757)/26D0-MCRC.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188841 loop_end=351863 sample=../Audio/PulseArp130/(201381 124757)/27D#0-KRD3.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92097 loop_end=254696 sample=../Audio/PulseArp130/(201381 124757)/28E0-M9L0.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15240 loop_end=178129 sample=../Audio/PulseArp130/(201381 124757)/29F0-ZGV7.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=193694 loop_end=356306 sample=../Audio/PulseArp130/(201381 124757)/30F#0-P107.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=5660 loop_end=147663 sample=../Audio/PulseArp130/(201381 124757)/31G0-IGUT.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=5480 loop_end=310899 sample=../Audio/PulseArp130/(201381 124757)/32G#0-J3C2.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173051 loop_end=335688 sample=../Audio/PulseArp130/(201381 124757)/33A0-F8DU.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167931 loop_end=351235 sample=../Audio/PulseArp130/(201381 124757)/34A#0-3Y2F.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147792 loop_end=310649 sample=../Audio/PulseArp130/(201381 124757)/35B0-R71V.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81905 loop_end=265002 sample=../Audio/PulseArp130/(201381 124757)/36C1-I4QS.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=41428 loop_end=204068 sample=../Audio/PulseArp130/(201381 124757)/37C#1-QP1J.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188341 loop_end=351209 sample=../Audio/PulseArp130/(201381 124757)/38D1-1PFC.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=122600 loop_end=285652 sample=../Audio/PulseArp130/(201381 124757)/39D#1-9B0M.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=107184 loop_end=249491 sample=../Audio/PulseArp130/(201381 124757)/40E1-7CFA.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=45970 loop_end=208879 sample=../Audio/PulseArp130/(201381 124757)/41F1-QVX4.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15460 loop_end=361420 sample=../Audio/PulseArp130/(201381 124757)/42F#1-Z60N.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=46075 loop_end=208749 sample=../Audio/PulseArp130/(201381 124757)/43G1-VQ6K.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183764 loop_end=346475 sample=../Audio/PulseArp130/(201381 124757)/44G#1-X94A.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66494 loop_end=229134 sample=../Audio/PulseArp130/(201381 124757)/45A1-PAT3.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35660 loop_end=361340 sample=../Audio/PulseArp130/(201381 124757)/46A#1-0CN2.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188313 loop_end=351191 sample=../Audio/PulseArp130/(201381 124757)/47B1-6B0B.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76522 loop_end=239320 sample=../Audio/PulseArp130/(201381 124757)/48C2-UC6F.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188341 loop_end=351228 sample=../Audio/PulseArp130/(201381 124757)/49C#2-TE6H.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35682 loop_end=361393 sample=../Audio/PulseArp130/(201381 124757)/50D2-6DDE.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35773 loop_end=361381 sample=../Audio/PulseArp130/(201381 124757)/51D#2-KIJP.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=107129 loop_end=269652 sample=../Audio/PulseArp130/(201381 124757)/52E2-J6AO.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81698 loop_end=244618 sample=../Audio/PulseArp130/(201381 124757)/53F2-GFDY.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=46013 loop_end=208720 sample=../Audio/PulseArp130/(201381 124757)/54F#2-ZIMF.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162761 loop_end=346109 sample=../Audio/PulseArp130/(201381 124757)/55G2-V0PS.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25593 loop_end=188292 sample=../Audio/PulseArp130/(201381 124757)/56G#2-QGIG.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127336 loop_end=290244 sample=../Audio/PulseArp130/(201381 124757)/57A2-I2DQ.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35742 loop_end=361440 sample=../Audio/PulseArp130/(201381 124757)/58A#2-VHG1.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4968 loop_end=167927 sample=../Audio/PulseArp130/(201381 124757)/59B2-NDJ7.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167913 loop_end=330740 sample=../Audio/PulseArp130/(201381 124757)/60C3-RQM2.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20265 loop_end=162817 sample=../Audio/PulseArp130/(201381 124757)/61C#3-NH9F.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20445 loop_end=183294 sample=../Audio/PulseArp130/(201381 124757)/62D3-ZELN.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25595 loop_end=351206 sample=../Audio/PulseArp130/(201381 124757)/63D#3-U94O.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=96737 loop_end=259584 sample=../Audio/PulseArp130/(201381 124757)/64E3-X6CS.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30471 loop_end=356163 sample=../Audio/PulseArp130/(201381 124757)/65F3-YUEM.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81550 loop_end=244260 sample=../Audio/PulseArp130/(201381 124757)/66F#3-DE8W.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20397 loop_end=346046 sample=../Audio/PulseArp130/(201381 124757)/67G3-C1ZN.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35706 loop_end=361233 sample=../Audio/PulseArp130/(201381 124757)/68G#3-FL7V.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66415 loop_end=229277 sample=../Audio/PulseArp130/(201381 124757)/69A3-WFH6.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66388 loop_end=229230 sample=../Audio/PulseArp130/(201381 124757)/70A#3-04D2.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208828 loop_end=351223 sample=../Audio/PulseArp130/(201381 124757)/71B3-UY6F.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20442 loop_end=346107 sample=../Audio/PulseArp130/(201381 124757)/72C4-YIYB.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20414 loop_end=346103 sample=../Audio/PulseArp130/(201381 124757)/73C#4-W0HA.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=198513 loop_end=361395 sample=../Audio/PulseArp130/(201381 124757)/74D4-E3NP.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142684 loop_end=305419 sample=../Audio/PulseArp130/(201381 124757)/75D#4-R5ZQ.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30621 loop_end=213811 sample=../Audio/PulseArp130/(201381 124757)/76E4-CKUY.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152570 loop_end=335679 sample=../Audio/PulseArp130/(201381 124757)/77F4-6ATJ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25534 loop_end=188400 sample=../Audio/PulseArp130/(201381 124757)/78F#4-47T1.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=10052 loop_end=172859 sample=../Audio/PulseArp130/(201381 124757)/79G4-ABG4.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25425 loop_end=188278 sample=../Audio/PulseArp130/(201381 124757)/80G#4-WKFO.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25539 loop_end=351225 sample=../Audio/PulseArp130/(201381 124757)/81A4-21K1.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183270 loop_end=346109 sample=../Audio/PulseArp130/(201381 124757)/82A#4-RZWP.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=56050 loop_end=361229 sample=../Audio/PulseArp130/(201381 124757)/83B4-XCCO.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61165 loop_end=223907 sample=../Audio/PulseArp130/(201381 124757)/84C5-AIE8.wav

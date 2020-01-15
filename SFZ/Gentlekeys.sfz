@@ -1,0 +1,124 @@
+// this file was generated from Gentlekeys.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3548 end=455734 loop_mode=loop_sustain loop_start=210034 loop_end=350266 sample=../Audio/GentleLFO/24C0-64KK.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2829 end=459675 loop_mode=loop_sustain loop_start=239672 loop_end=371831 sample=../Audio/GentleLFO/25C#0-H1FA.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3706 end=459525 loop_mode=loop_sustain loop_start=226746 loop_end=361837 sample=../Audio/GentleLFO/26D0-CJVG.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2484 end=463365 loop_mode=loop_sustain loop_start=250832 loop_end=352672 sample=../Audio/GentleLFO/27D#0-4AP0.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1301 end=472263 loop_mode=loop_sustain loop_start=270861 loop_end=369195 sample=../Audio/GentleLFO/28E0-XAH9.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2348 end=462688 loop_mode=loop_sustain loop_start=258947 loop_end=331502 sample=../Audio/GentleLFO/29F0-73OH.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3006 end=456320 loop_mode=loop_sustain loop_start=240176 loop_end=380650 sample=../Audio/GentleLFO/30F#0-730K.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2510 end=459439 loop_mode=loop_sustain loop_start=230558 loop_end=369609 sample=../Audio/GentleLFO/31G0-CNJH.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2989 end=458233 loop_mode=loop_sustain loop_start=246904 loop_end=374574 sample=../Audio/GentleLFO/32G#0-Y6T9.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2596 end=463852 loop_mode=loop_sustain loop_start=250070 loop_end=366062 sample=../Audio/GentleLFO/33A0-C0IV.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1471 loop_mode=loop_sustain loop_start=220394 loop_end=305723 sample=../Audio/GentleLFO/34A#0-HC6T.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2625 loop_mode=loop_sustain loop_start=249623 loop_end=322281 sample=../Audio/GentleLFO/35B0-5DLD.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3792 end=456551 loop_mode=loop_sustain loop_start=227284 loop_end=367596 sample=../Audio/GentleLFO/36C1-2IRW.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2289 end=459138 loop_mode=loop_sustain loop_start=273552 loop_end=378242 sample=../Audio/GentleLFO/37C#1-OMO7.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2719 end=458819 loop_mode=loop_sustain loop_start=234911 loop_end=362691 sample=../Audio/GentleLFO/38D1-4TJC.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2679 loop_mode=loop_sustain loop_start=284740 loop_end=346349 sample=../Audio/GentleLFO/39D#1-D1E8.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1384 end=471663 loop_mode=loop_sustain loop_start=266166 loop_end=364606 sample=../Audio/GentleLFO/40E1-GX8E.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2473 end=462748 loop_mode=loop_sustain loop_start=249109 loop_end=321641 sample=../Audio/GentleLFO/41F1-5WG5.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3686 end=456123 loop_mode=loop_sustain loop_start=234554 loop_end=374822 sample=../Audio/GentleLFO/42F#1-VBIC.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2946 end=459281 loop_mode=loop_sustain loop_start=232595 loop_end=371627 sample=../Audio/GentleLFO/43G1-YBNU.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3168 end=457888 loop_mode=loop_sustain loop_start=234583 loop_end=362201 sample=../Audio/GentleLFO/44G#1-PBUS.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2372 end=463509 loop_mode=loop_sustain loop_start=316680 loop_end=378258 sample=../Audio/GentleLFO/45A1-YSI3.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1380 end=472701 loop_mode=loop_sustain loop_start=235657 loop_end=320587 sample=../Audio/GentleLFO/46A#1-680J.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2282 end=462214 loop_mode=loop_sustain loop_start=284747 loop_end=357558 sample=../Audio/GentleLFO/47B1-WHVV.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2981 end=456273 loop_mode=loop_sustain loop_start=235138 loop_end=375388 sample=../Audio/GentleLFO/48C2-YIFV.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2652 end=459214 loop_mode=loop_sustain loop_start=233799 loop_end=338272 sample=../Audio/GentleLFO/49C#2-71WP.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2404 end=458432 loop_mode=loop_sustain loop_start=244968 loop_end=373014 sample=../Audio/GentleLFO/50D2-SCBO.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2145 end=463435 loop_mode=loop_sustain loop_start=252179 loop_end=313656 sample=../Audio/GentleLFO/51D#2-JR8A.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=919 end=472319 loop_mode=loop_sustain loop_start=266721 loop_end=351674 sample=../Audio/GentleLFO/52E2-Q62T.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2286 end=462507 loop_mode=loop_sustain loop_start=272032 loop_end=344743 sample=../Audio/GentleLFO/53F2-NR77.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3692 end=456576 loop_mode=loop_sustain loop_start=241007 loop_end=380871 sample=../Audio/GentleLFO/54F#2-VYIW.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2321 end=459298 loop_mode=loop_sustain loop_start=234995 loop_end=374225 sample=../Audio/GentleLFO/55G2-DMHN.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2366 loop_mode=loop_sustain loop_start=252008 loop_end=380006 sample=../Audio/GentleLFO/56G#2-AVN1.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2547 end=463950 loop_mode=loop_sustain loop_start=297078 loop_end=358566 sample=../Audio/GentleLFO/57A2-9KAD.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1077 end=472429 loop_mode=loop_sustain loop_start=226428 loop_end=311467 sample=../Audio/GentleLFO/58A#2-5SPX.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2445 end=462791 loop_mode=loop_sustain loop_start=258593 loop_end=331193 sample=../Audio/GentleLFO/59B2-U49C.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3686 end=456339 loop_mode=loop_sustain loop_start=231225 loop_end=371582 sample=../Audio/GentleLFO/60C3-262R.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2700 end=459198 loop_mode=loop_sustain loop_start=260733 loop_end=358044 sample=../Audio/GentleLFO/61C#3-23GC.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2464 end=458912 loop_mode=loop_sustain loop_start=237342 loop_end=365357 sample=../Audio/GentleLFO/62D3-2IKG.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2539 end=462739 loop_mode=loop_sustain loop_start=295536 loop_end=357007 sample=../Audio/GentleLFO/63D#3-5UAT.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1372 end=471607 loop_mode=loop_sustain loop_start=268356 loop_end=353392 sample=../Audio/GentleLFO/64E3-LEGG.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2363 end=461578 loop_mode=loop_sustain loop_start=241167 loop_end=313894 sample=../Audio/GentleLFO/65F3-IG9U.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3284 end=455366 loop_mode=loop_sustain loop_start=250725 loop_end=377588 sample=../Audio/GentleLFO/66F#3-YC98.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2383 end=459149 loop_mode=loop_sustain loop_start=234916 loop_end=374124 sample=../Audio/GentleLFO/67G3-X12P.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3201 end=457663 loop_mode=loop_sustain loop_start=232312 loop_end=353064 sample=../Audio/GentleLFO/68G#3-UB56.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2576 end=462554 loop_mode=loop_sustain loop_start=277296 loop_end=338705 sample=../Audio/GentleLFO/69A3-O3HJ.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 loop_mode=loop_sustain loop_start=290043 loop_end=355384 sample=../Audio/GentleLFO/70A#3-39PR.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2385 end=460172 loop_mode=loop_sustain loop_start=234620 loop_end=380004 sample=../Audio/GentleLFO/71B3-JLN7.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3524 end=455363 loop_mode=loop_sustain loop_start=242120 loop_end=369028 sample=../Audio/GentleLFO/72C4-K3GC.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2607 end=458004 loop_mode=loop_sustain loop_start=240944 loop_end=380240 sample=../Audio/GentleLFO/73C#4-NVMH.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3463 end=456840 loop_mode=loop_sustain loop_start=240420 loop_end=361631 sample=../Audio/GentleLFO/74D4-5FL5.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3136 end=459279 loop_mode=loop_sustain loop_start=279492 loop_end=341078 sample=../Audio/GentleLFO/75D#4-ZFL5.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1154 end=471433 loop_mode=loop_sustain loop_start=278480 loop_end=344438 sample=../Audio/GentleLFO/76E4-SC48.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2895 end=459387 loop_mode=loop_sustain loop_start=307175 loop_end=380138 sample=../Audio/GentleLFO/77F4-ZGI3.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3705 end=454478 loop_mode=loop_sustain loop_start=232172 loop_end=359146 sample=../Audio/GentleLFO/78F#4-BRDK.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2996 end=457075 loop_mode=loop_sustain loop_start=238333 loop_end=377604 sample=../Audio/GentleLFO/79G4-72YV.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=4217 end=455769 loop_mode=loop_sustain loop_start=254859 loop_end=375556 sample=../Audio/GentleLFO/80G#4-LV4W.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3344 end=457766 loop_mode=loop_sustain loop_start=264519 loop_end=326000 sample=../Audio/GentleLFO/81A4-L6VM.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1595 end=471928 loop_mode=loop_sustain loop_start=305440 loop_end=370812 sample=../Audio/GentleLFO/82A#4-IROU.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2857 end=457670 loop_mode=loop_sustain loop_start=296281 loop_end=369019 sample=../Audio/GentleLFO/83B4-CF34.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5251 end=454669 loop_mode=loop_sustain loop_start=240578 loop_end=380867 sample=../Audio/GentleLFO/84C5-8A38.wav

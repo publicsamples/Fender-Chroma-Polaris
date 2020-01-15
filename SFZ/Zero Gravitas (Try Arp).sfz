@@ -1,0 +1,307 @@
+// this file was generated from Zero Gravitas (Try Arp).exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=672 end=217555 sample=../Audio/Zero Gravitas/24C0-MZYF.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=936 end=218225 sample=../Audio/Zero Gravitas/24C0-SL4K.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=822 end=219105 sample=../Audio/Zero Gravitas/24C0-7WTI.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=721 end=218781 sample=../Audio/Zero Gravitas/24C0-9FEU.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=694 end=171417 sample=../Audio/Zero Gravitas/25C#0-RMME.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=781 end=171603 sample=../Audio/Zero Gravitas/25C#0-LF6Q.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=767 end=171707 sample=../Audio/Zero Gravitas/25C#0-3G5H.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=767 end=176097 sample=../Audio/Zero Gravitas/25C#0-SDHS.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=811 sample=../Audio/Zero Gravitas/26D0-FUHI.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=923 end=124517 sample=../Audio/Zero Gravitas/26D0-NC0U.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=509 sample=../Audio/Zero Gravitas/26D0-D9KY.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=680 end=124678 sample=../Audio/Zero Gravitas/26D0-LR91.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=1018 end=150318 sample=../Audio/Zero Gravitas/27D#0-Z9W5.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=794 end=148753 sample=../Audio/Zero Gravitas/27D#0-0LMC.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=526 end=152329 sample=../Audio/Zero Gravitas/27D#0-O5H1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=420 end=150645 sample=../Audio/Zero Gravitas/27D#0-7V5W.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=1001 end=141924 sample=../Audio/Zero Gravitas/28E0-NQIY.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=931 end=141443 sample=../Audio/Zero Gravitas/28E0-BAPS.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=478 end=141981 sample=../Audio/Zero Gravitas/28E0-FIXK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=644 end=141463 sample=../Audio/Zero Gravitas/28E0-GQX8.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=729 sample=../Audio/Zero Gravitas/29F0-2PLK.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=749 end=177841 sample=../Audio/Zero Gravitas/29F0-FNTD.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=992 sample=../Audio/Zero Gravitas/29F0-AQY8.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=640 end=171671 sample=../Audio/Zero Gravitas/29F0-JRB5.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=881 end=217834 sample=../Audio/Zero Gravitas/30F#0-PDTI.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=863 end=218456 sample=../Audio/Zero Gravitas/30F#0-64LW.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=895 end=217744 sample=../Audio/Zero Gravitas/30F#0-YIDJ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=825 end=218474 sample=../Audio/Zero Gravitas/30F#0-5IET.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=795 end=166946 sample=../Audio/Zero Gravitas/31G0-7VGQ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=710 sample=../Audio/Zero Gravitas/31G0-Z9OV.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=551 end=172339 sample=../Audio/Zero Gravitas/31G0-O7JH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=865 end=174030 sample=../Audio/Zero Gravitas/31G0-M8S2.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=802 sample=../Audio/Zero Gravitas/32G#0-ADGW.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=749 end=122565 sample=../Audio/Zero Gravitas/32G#0-RUFH.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=374 end=123845 sample=../Audio/Zero Gravitas/32G#0-BLYW.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=925 end=124762 sample=../Audio/Zero Gravitas/32G#0-JICA.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=477 end=151082 sample=../Audio/Zero Gravitas/33A0-N3DI.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=898 end=146675 sample=../Audio/Zero Gravitas/33A0-SQ77.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=739 end=145248 sample=../Audio/Zero Gravitas/33A0-8IMO.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=603 end=145626 sample=../Audio/Zero Gravitas/33A0-QB4A.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=908 end=138985 sample=../Audio/Zero Gravitas/34A#0-YHGS.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=876 end=141967 sample=../Audio/Zero Gravitas/34A#0-U5PU.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=910 sample=../Audio/Zero Gravitas/34A#0-3WPB.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=536 sample=../Audio/Zero Gravitas/34A#0-RZCK.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=669 end=175023 sample=../Audio/Zero Gravitas/35B0-9GW7.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=818 end=176507 sample=../Audio/Zero Gravitas/35B0-LACH.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=909 end=177964 sample=../Audio/Zero Gravitas/35B0-57XL.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=856 end=175258 sample=../Audio/Zero Gravitas/35B0-A80I.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=688 end=217376 sample=../Audio/Zero Gravitas/36C1-QG2G.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=918 end=218472 sample=../Audio/Zero Gravitas/36C1-15TQ.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=510 end=217874 sample=../Audio/Zero Gravitas/36C1-FUCV.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=755 end=217922 sample=../Audio/Zero Gravitas/36C1-YPE8.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=971 sample=../Audio/Zero Gravitas/37C#1-EV05.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=465 end=160881 sample=../Audio/Zero Gravitas/37C#1-4VZP.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=504 end=168293 sample=../Audio/Zero Gravitas/37C#1-KEYL.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=804 end=166846 sample=../Audio/Zero Gravitas/37C#1-1DCX.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=590 end=120186 sample=../Audio/Zero Gravitas/38D1-WOV6.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=697 end=123418 sample=../Audio/Zero Gravitas/38D1-EBKF.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=759 end=123457 sample=../Audio/Zero Gravitas/38D1-CWTP.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=669 end=120922 sample=../Audio/Zero Gravitas/38D1-DZCR.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=641 end=147455 sample=../Audio/Zero Gravitas/39D#1-5SA8.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=533 end=151188 sample=../Audio/Zero Gravitas/39D#1-2NKG.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=856 end=145009 sample=../Audio/Zero Gravitas/39D#1-SGWN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=453 end=147331 sample=../Audio/Zero Gravitas/39D#1-BNAN.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=841 end=137734 sample=../Audio/Zero Gravitas/40E1-RAOC.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=575 sample=../Audio/Zero Gravitas/40E1-MA57.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=913 end=138371 sample=../Audio/Zero Gravitas/40E1-CVN9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=528 end=140010 sample=../Audio/Zero Gravitas/40E1-ABWF.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=789 sample=../Audio/Zero Gravitas/41F1-UTEM.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=867 end=167846 sample=../Audio/Zero Gravitas/41F1-VB4T.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=629 end=174929 sample=../Audio/Zero Gravitas/41F1-M2CY.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=652 end=171295 sample=../Audio/Zero Gravitas/41F1-JLYG.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=718 end=217338 sample=../Audio/Zero Gravitas/42F#1-GJQU.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=859 end=217728 sample=../Audio/Zero Gravitas/42F#1-VQNR.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=858 end=218070 sample=../Audio/Zero Gravitas/42F#1-KX8X.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=766 end=218460 sample=../Audio/Zero Gravitas/42F#1-PLQ1.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=695 end=168759 sample=../Audio/Zero Gravitas/43G1-KSZR.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=842 end=165426 sample=../Audio/Zero Gravitas/43G1-SM7C.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=436 end=161466 sample=../Audio/Zero Gravitas/43G1-YLW5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=711 end=165447 sample=../Audio/Zero Gravitas/43G1-WDGD.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=395 sample=../Audio/Zero Gravitas/44G#1-PWMI.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=939 end=121225 sample=../Audio/Zero Gravitas/44G#1-8N18.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=901 end=123139 sample=../Audio/Zero Gravitas/44G#1-AJPN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=598 end=123762 sample=../Audio/Zero Gravitas/44G#1-1VS6.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=521 sample=../Audio/Zero Gravitas/45A1-D0ZK.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=684 end=145772 sample=../Audio/Zero Gravitas/45A1-67JH.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=914 end=145168 sample=../Audio/Zero Gravitas/45A1-HIC5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=429 sample=../Audio/Zero Gravitas/45A1-8UCR.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=573 end=138180 sample=../Audio/Zero Gravitas/46A#1-NSDM.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=902 end=134814 sample=../Audio/Zero Gravitas/46A#1-BH3T.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=848 end=139029 sample=../Audio/Zero Gravitas/46A#1-9741.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=734 end=139214 sample=../Audio/Zero Gravitas/46A#1-VUT5.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=462 end=160651 sample=../Audio/Zero Gravitas/47B1-968R.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=523 end=167889 sample=../Audio/Zero Gravitas/47B1-T616.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=591 end=169982 sample=../Audio/Zero Gravitas/47B1-V837.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=477 end=159578 sample=../Audio/Zero Gravitas/47B1-VXQ7.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=476 sample=../Audio/Zero Gravitas/48C2-OOBF.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=498 end=216143 sample=../Audio/Zero Gravitas/48C2-2H7Z.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=930 end=218238 sample=../Audio/Zero Gravitas/48C2-0VBU.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=473 end=217348 sample=../Audio/Zero Gravitas/48C2-0KZ7.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=908 end=157843 sample=../Audio/Zero Gravitas/49C#2-UK6J.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=743 end=160941 sample=../Audio/Zero Gravitas/49C#2-9YNL.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=610 end=162564 sample=../Audio/Zero Gravitas/49C#2-1ILU.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=886 end=164612 sample=../Audio/Zero Gravitas/49C#2-9M12.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=983 end=122368 sample=../Audio/Zero Gravitas/50D2-Y8C1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=722 end=121849 sample=../Audio/Zero Gravitas/50D2-Y8XC.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=490 end=119343 sample=../Audio/Zero Gravitas/50D2-JMIR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=950 end=120493 sample=../Audio/Zero Gravitas/50D2-KAZ6.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=885 end=139353 sample=../Audio/Zero Gravitas/51D#2-M667.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=618 sample=../Audio/Zero Gravitas/51D#2-XM3J.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=711 end=139569 sample=../Audio/Zero Gravitas/51D#2-DUGH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=522 end=146127 sample=../Audio/Zero Gravitas/51D#2-P1VW.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=797 end=133483 sample=../Audio/Zero Gravitas/52E2-ACXP.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=1003 end=134514 sample=../Audio/Zero Gravitas/52E2-VH61.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=479 end=136036 sample=../Audio/Zero Gravitas/52E2-S3BK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=728 end=138021 sample=../Audio/Zero Gravitas/52E2-ALDA.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=758 end=162076 sample=../Audio/Zero Gravitas/53F2-QCIP.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=572 end=163010 sample=../Audio/Zero Gravitas/53F2-ESZJ.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=940 end=155813 sample=../Audio/Zero Gravitas/53F2-EY9S.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=828 end=152009 sample=../Audio/Zero Gravitas/53F2-F4QK.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=906 end=217242 sample=../Audio/Zero Gravitas/54F#2-YWJJ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=743 end=217705 sample=../Audio/Zero Gravitas/54F#2-6YM1.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=693 end=217801 sample=../Audio/Zero Gravitas/54F#2-0MSK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=564 sample=../Audio/Zero Gravitas/54F#2-XT4H.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=852 end=159887 sample=../Audio/Zero Gravitas/55G2-GBV1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=610 end=157243 sample=../Audio/Zero Gravitas/55G2-4FGM.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=994 end=158667 sample=../Audio/Zero Gravitas/55G2-6WO1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=988 end=154930 sample=../Audio/Zero Gravitas/55G2-NBZ5.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=968 end=115571 sample=../Audio/Zero Gravitas/56G#2-LDU4.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=941 end=116183 sample=../Audio/Zero Gravitas/56G#2-DRW0.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=936 end=117307 sample=../Audio/Zero Gravitas/56G#2-FVVP.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=448 end=118449 sample=../Audio/Zero Gravitas/56G#2-HYHC.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=888 end=137399 sample=../Audio/Zero Gravitas/57A2-DWTX.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=754 end=142158 sample=../Audio/Zero Gravitas/57A2-KLDD.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=411 end=136634 sample=../Audio/Zero Gravitas/57A2-SR6K.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=643 end=136484 sample=../Audio/Zero Gravitas/57A2-IJWN.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=500 end=128035 sample=../Audio/Zero Gravitas/58A#2-6XYP.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=567 end=130883 sample=../Audio/Zero Gravitas/58A#2-CCHA.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=990 end=130474 sample=../Audio/Zero Gravitas/58A#2-PIWW.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=763 sample=../Audio/Zero Gravitas/58A#2-99IZ.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=596 end=150698 sample=../Audio/Zero Gravitas/59B2-0WYQ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=763 end=157450 sample=../Audio/Zero Gravitas/59B2-VW37.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=732 end=157709 sample=../Audio/Zero Gravitas/59B2-JPQB.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=785 end=155289 sample=../Audio/Zero Gravitas/59B2-4B6B.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=916 end=217288 sample=../Audio/Zero Gravitas/60C3-5E9U.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=595 end=217486 sample=../Audio/Zero Gravitas/60C3-NV6M.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=813 end=218204 sample=../Audio/Zero Gravitas/60C3-T9D1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=422 end=217938 sample=../Audio/Zero Gravitas/60C3-AUTL.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=606 end=146049 sample=../Audio/Zero Gravitas/61C#3-G9FV.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=850 end=151203 sample=../Audio/Zero Gravitas/61C#3-KX0V.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=944 end=148792 sample=../Audio/Zero Gravitas/61C#3-9PNS.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=484 end=147002 sample=../Audio/Zero Gravitas/61C#3-7CF9.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=821 end=116098 sample=../Audio/Zero Gravitas/62D3-1O06.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=545 sample=../Audio/Zero Gravitas/62D3-SA10.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=842 end=114383 sample=../Audio/Zero Gravitas/62D3-0XMS.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=781 end=114615 sample=../Audio/Zero Gravitas/62D3-JXDO.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=759 end=135556 sample=../Audio/Zero Gravitas/63D#3-C06Q.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=725 end=137095 sample=../Audio/Zero Gravitas/63D#3-CJWX.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=600 end=134785 sample=../Audio/Zero Gravitas/63D#3-N99B.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=754 end=135607 sample=../Audio/Zero Gravitas/63D#3-Z9NU.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=757 end=129220 sample=../Audio/Zero Gravitas/64E3-MXO1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=466 end=130693 sample=../Audio/Zero Gravitas/64E3-8TZB.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=910 end=130356 sample=../Audio/Zero Gravitas/64E3-2JZ2.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=758 end=125861 sample=../Audio/Zero Gravitas/64E3-N0T0.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=427 end=139433 sample=../Audio/Zero Gravitas/65F3-AZ94.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=827 end=152180 sample=../Audio/Zero Gravitas/65F3-LJHX.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=885 end=137958 sample=../Audio/Zero Gravitas/65F3-MEE0.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=356 end=143753 sample=../Audio/Zero Gravitas/65F3-VOLC.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=832 end=217779 sample=../Audio/Zero Gravitas/66F#3-FFDA.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=711 end=217747 sample=../Audio/Zero Gravitas/66F#3-CD3R.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=828 end=217967 sample=../Audio/Zero Gravitas/66F#3-J91O.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=853 end=218105 sample=../Audio/Zero Gravitas/66F#3-ML42.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=830 end=140646 sample=../Audio/Zero Gravitas/67G3-N8OG.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=813 end=138800 sample=../Audio/Zero Gravitas/67G3-Q1V0.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=493 end=141735 sample=../Audio/Zero Gravitas/67G3-AG8U.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=414 end=133831 sample=../Audio/Zero Gravitas/67G3-C0NP.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=784 end=114754 sample=../Audio/Zero Gravitas/68G#3-ROQJ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=507 end=111616 sample=../Audio/Zero Gravitas/68G#3-BTW9.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=828 end=108033 sample=../Audio/Zero Gravitas/68G#3-FCCO.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=788 end=108060 sample=../Audio/Zero Gravitas/68G#3-QRSK.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=594 end=129927 sample=../Audio/Zero Gravitas/69A3-4KO8.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=644 end=130435 sample=../Audio/Zero Gravitas/69A3-U1L8.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=493 end=128950 sample=../Audio/Zero Gravitas/69A3-3M6N.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=670 end=128205 sample=../Audio/Zero Gravitas/69A3-69C9.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=1036 end=122410 sample=../Audio/Zero Gravitas/70A#3-SHLM.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=821 end=127197 sample=../Audio/Zero Gravitas/70A#3-02T8.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=684 end=124607 sample=../Audio/Zero Gravitas/70A#3-ROTN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=524 end=125611 sample=../Audio/Zero Gravitas/70A#3-BZT8.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=848 end=144390 sample=../Audio/Zero Gravitas/71B3-8BRY.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=829 end=143296 sample=../Audio/Zero Gravitas/71B3-OXZ8.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=580 end=134784 sample=../Audio/Zero Gravitas/71B3-R7JJ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=840 end=148228 sample=../Audio/Zero Gravitas/71B3-X6CE.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=868 end=218003 sample=../Audio/Zero Gravitas/72C4-3287.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=455 end=217372 sample=../Audio/Zero Gravitas/72C4-XGRD.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=373 end=217855 sample=../Audio/Zero Gravitas/72C4-Z789.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=935 end=218007 sample=../Audio/Zero Gravitas/72C4-C47Z.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=538 end=134689 sample=../Audio/Zero Gravitas/73C#4-JVR1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=901 end=137108 sample=../Audio/Zero Gravitas/73C#4-F3O0.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=905 end=137665 sample=../Audio/Zero Gravitas/73C#4-MKHJ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=556 end=134331 sample=../Audio/Zero Gravitas/73C#4-8U9T.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=541 end=108068 sample=../Audio/Zero Gravitas/74D4-WJXA.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=706 end=105747 sample=../Audio/Zero Gravitas/74D4-GBQ7.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=812 end=112320 sample=../Audio/Zero Gravitas/74D4-B472.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=610 end=105909 sample=../Audio/Zero Gravitas/74D4-3MUR.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=726 end=133185 sample=../Audio/Zero Gravitas/75D#4-VD0P.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=525 end=130982 sample=../Audio/Zero Gravitas/75D#4-ISRY.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=628 end=130262 sample=../Audio/Zero Gravitas/75D#4-WYHI.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=870 end=126871 sample=../Audio/Zero Gravitas/75D#4-4Z4Y.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=523 end=122708 sample=../Audio/Zero Gravitas/76E4-1PFO.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=904 end=119296 sample=../Audio/Zero Gravitas/76E4-0XE5.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=528 end=122771 sample=../Audio/Zero Gravitas/76E4-AJEH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=718 end=122789 sample=../Audio/Zero Gravitas/76E4-F9KD.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=665 end=140362 sample=../Audio/Zero Gravitas/77F4-W8YM.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=588 end=133087 sample=../Audio/Zero Gravitas/77F4-BZ6E.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=823 end=143762 sample=../Audio/Zero Gravitas/77F4-WJC3.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=833 end=132761 sample=../Audio/Zero Gravitas/77F4-DQ2J.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=558 end=216636 sample=../Audio/Zero Gravitas/78F#4-KKPY.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=932 end=216710 sample=../Audio/Zero Gravitas/78F#4-C1GQ.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=916 end=216889 sample=../Audio/Zero Gravitas/78F#4-PUF1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=610 end=217709 sample=../Audio/Zero Gravitas/78F#4-SXA5.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=858 end=126300 sample=../Audio/Zero Gravitas/79G4-VGRA.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=523 end=134531 sample=../Audio/Zero Gravitas/79G4-J9LO.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=528 end=128611 sample=../Audio/Zero Gravitas/79G4-W9JC.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=637 end=135508 sample=../Audio/Zero Gravitas/79G4-F0HY.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=547 sample=../Audio/Zero Gravitas/80G#4-9MW0.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=762 end=108567 sample=../Audio/Zero Gravitas/80G#4-7FRD.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=532 sample=../Audio/Zero Gravitas/80G#4-JC0B.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=656 end=108711 sample=../Audio/Zero Gravitas/80G#4-IM1O.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=850 end=129112 sample=../Audio/Zero Gravitas/81A4-3LE1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=859 end=127748 sample=../Audio/Zero Gravitas/81A4-CGVB.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=865 end=126861 sample=../Audio/Zero Gravitas/81A4-6803.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=913 end=124719 sample=../Audio/Zero Gravitas/81A4-1LJM.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=880 end=126002 sample=../Audio/Zero Gravitas/82A#4-QUWP.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=678 sample=../Audio/Zero Gravitas/82A#4-RC2H.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=499 sample=../Audio/Zero Gravitas/82A#4-38DI.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=921 end=124653 sample=../Audio/Zero Gravitas/82A#4-H2DT.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=543 end=133474 sample=../Audio/Zero Gravitas/83B4-455X.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=731 end=137416 sample=../Audio/Zero Gravitas/83B4-O52T.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=991 end=159425 sample=../Audio/Zero Gravitas/83B4-6Q5U.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=479 end=219650 sample=../Audio/Zero Gravitas/83B4-7YEM.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=507 end=286473 sample=../Audio/Zero Gravitas/84C5-WQSZ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=927 end=216927 sample=../Audio/Zero Gravitas/84C5-K1DG.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=876 end=218327 sample=../Audio/Zero Gravitas/84C5-TXJ7.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=736 end=217774 sample=../Audio/Zero Gravitas/84C5-XK1G.wav

@@ -1,0 +1,551 @@
+// this file was generated from Displacement Activity.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=632 end=21888 sample=../Audio/Displacement Activity/24C0-CB60.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=628 end=21816 sample=../Audio/Displacement Activity/24C0-OAXW.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=864 end=21888 sample=../Audio/Displacement Activity/24C0-S9RB.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=950 sample=../Audio/Displacement Activity/24C0-3O4Y.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=783 sample=../Audio/Displacement Activity/24C0-270Y.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=838 end=22440 sample=../Audio/Displacement Activity/24C0-NY3X.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=497 end=22174 sample=../Audio/Displacement Activity/24C0-QXCO.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=889 sample=../Audio/Displacement Activity/24C0-HOJV.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=516 end=27201 sample=../Audio/Displacement Activity/25C#0-HL2K.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=622 end=26491 sample=../Audio/Displacement Activity/25C#0-G70I.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=857 end=25800 sample=../Audio/Displacement Activity/25C#0-H53V.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=859 end=26836 sample=../Audio/Displacement Activity/25C#0-M70H.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=694 end=26746 sample=../Audio/Displacement Activity/25C#0-ZT7S.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=585 end=26743 sample=../Audio/Displacement Activity/25C#0-U2ZB.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=807 end=25572 sample=../Audio/Displacement Activity/25C#0-GZ1T.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=487 end=26736 sample=../Audio/Displacement Activity/25C#0-65KB.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=929 end=35110 sample=../Audio/Displacement Activity/26D0-FA7W.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=647 end=35309 sample=../Audio/Displacement Activity/26D0-FQRA.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=474 end=34703 sample=../Audio/Displacement Activity/26D0-Z0N2.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=679 end=35148 sample=../Audio/Displacement Activity/26D0-ARPI.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=1001 end=34525 sample=../Audio/Displacement Activity/26D0-DU2O.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=970 end=34410 sample=../Audio/Displacement Activity/26D0-DMB7.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=837 end=33704 sample=../Audio/Displacement Activity/26D0-0KY5.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=394 end=34684 sample=../Audio/Displacement Activity/26D0-ZSU2.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=680 end=25556 sample=../Audio/Displacement Activity/27D#0-T7XX.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=1009 end=26847 sample=../Audio/Displacement Activity/27D#0-IBFZ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=643 end=26650 sample=../Audio/Displacement Activity/27D#0-IVOJ.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=879 end=26627 sample=../Audio/Displacement Activity/27D#0-VB04.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=771 end=24678 sample=../Audio/Displacement Activity/27D#0-3IQC.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=379 end=25151 sample=../Audio/Displacement Activity/27D#0-BVL8.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=539 end=25957 sample=../Audio/Displacement Activity/27D#0-6EXM.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=862 end=24762 sample=../Audio/Displacement Activity/27D#0-XQ11.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=595 end=19865 sample=../Audio/Displacement Activity/28E0-VPV5.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=831 sample=../Audio/Displacement Activity/28E0-XV1J.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=760 end=19460 sample=../Audio/Displacement Activity/28E0-OMHH.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=474 end=19764 sample=../Audio/Displacement Activity/28E0-H372.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=565 sample=../Audio/Displacement Activity/28E0-FE7W.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=725 end=19253 sample=../Audio/Displacement Activity/28E0-4WUU.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=1040 sample=../Audio/Displacement Activity/28E0-FTG7.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=718 end=19677 sample=../Audio/Displacement Activity/28E0-M80A.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=868 sample=../Audio/Displacement Activity/29F0-VUGX.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=722 sample=../Audio/Displacement Activity/29F0-UVR6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=867 end=23877 sample=../Audio/Displacement Activity/29F0-L05D.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=635 end=23031 sample=../Audio/Displacement Activity/29F0-XWAO.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=495 sample=../Audio/Displacement Activity/29F0-BUUY.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=1040 sample=../Audio/Displacement Activity/29F0-I2MF.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=497 end=22124 sample=../Audio/Displacement Activity/29F0-ZBHN.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=944 sample=../Audio/Displacement Activity/29F0-LZ1N.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=859 end=21875 sample=../Audio/Displacement Activity/30F#0-YEJD.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=575 end=21633 sample=../Audio/Displacement Activity/30F#0-A7RE.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=882 end=21761 sample=../Audio/Displacement Activity/30F#0-DDNX.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=550 sample=../Audio/Displacement Activity/30F#0-P1GD.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=662 sample=../Audio/Displacement Activity/30F#0-8K6Z.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=701 end=22029 sample=../Audio/Displacement Activity/30F#0-6651.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=450 sample=../Audio/Displacement Activity/30F#0-4DD2.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=478 sample=../Audio/Displacement Activity/30F#0-A6KS.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=887 end=26836 sample=../Audio/Displacement Activity/31G0-90NS.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=1003 end=26863 sample=../Audio/Displacement Activity/31G0-5PA7.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=740 sample=../Audio/Displacement Activity/31G0-6O3Q.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=536 end=26288 sample=../Audio/Displacement Activity/31G0-AO2W.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=543 end=26819 sample=../Audio/Displacement Activity/31G0-T0OB.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=691 end=27954 sample=../Audio/Displacement Activity/31G0-7LBJ.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=370 end=26490 sample=../Audio/Displacement Activity/31G0-G130.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=721 end=26586 sample=../Audio/Displacement Activity/31G0-ZYIW.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=417 end=33935 sample=../Audio/Displacement Activity/32G#0-8F3I.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=558 end=34646 sample=../Audio/Displacement Activity/32G#0-BGPO.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=582 end=34975 sample=../Audio/Displacement Activity/32G#0-Y1H7.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=544 end=35049 sample=../Audio/Displacement Activity/32G#0-NPTV.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=504 end=34922 sample=../Audio/Displacement Activity/32G#0-TD1M.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=919 end=35121 sample=../Audio/Displacement Activity/32G#0-YGVM.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=456 end=33590 sample=../Audio/Displacement Activity/32G#0-5D7M.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=665 end=34658 sample=../Audio/Displacement Activity/32G#0-119F.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=943 end=25560 sample=../Audio/Displacement Activity/33A0-GPGW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=515 end=25546 sample=../Audio/Displacement Activity/33A0-CBA6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=722 end=25696 sample=../Audio/Displacement Activity/33A0-HK93.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=497 end=25442 sample=../Audio/Displacement Activity/33A0-7JW4.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=917 end=24954 sample=../Audio/Displacement Activity/33A0-UYC5.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=423 end=24397 sample=../Audio/Displacement Activity/33A0-YQWW.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=362 end=25113 sample=../Audio/Displacement Activity/33A0-WVRP.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=449 end=25873 sample=../Audio/Displacement Activity/33A0-4ZNX.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=709 end=19983 sample=../Audio/Displacement Activity/34A#0-FBSI.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=985 end=20109 sample=../Audio/Displacement Activity/34A#0-FA3S.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=628 sample=../Audio/Displacement Activity/34A#0-C8XN.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=862 end=19835 sample=../Audio/Displacement Activity/34A#0-8M8B.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=936 sample=../Audio/Displacement Activity/34A#0-A8G7.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=641 sample=../Audio/Displacement Activity/34A#0-YFNJ.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=891 end=19666 sample=../Audio/Displacement Activity/34A#0-JF5X.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=860 sample=../Audio/Displacement Activity/34A#0-D9BX.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=672 sample=../Audio/Displacement Activity/35B0-A0MA.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=428 sample=../Audio/Displacement Activity/35B0-Y7VX.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=490 end=22778 sample=../Audio/Displacement Activity/35B0-I0AY.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=836 sample=../Audio/Displacement Activity/35B0-6SOJ.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=575 sample=../Audio/Displacement Activity/35B0-AVAS.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=553 end=22828 sample=../Audio/Displacement Activity/35B0-8BSI.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=464 end=21764 sample=../Audio/Displacement Activity/35B0-OUJC.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=452 sample=../Audio/Displacement Activity/35B0-55TS.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=848 sample=../Audio/Displacement Activity/36C1-QIKR.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=580 end=21452 sample=../Audio/Displacement Activity/36C1-VHUT.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=473 end=21605 sample=../Audio/Displacement Activity/36C1-LZJ2.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=929 sample=../Audio/Displacement Activity/36C1-XOLN.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=983 end=22177 sample=../Audio/Displacement Activity/36C1-KST3.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=810 end=21116 sample=../Audio/Displacement Activity/36C1-R46O.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=569 end=21853 sample=../Audio/Displacement Activity/36C1-9T8F.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=647 sample=../Audio/Displacement Activity/36C1-CSOH.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=933 end=26937 sample=../Audio/Displacement Activity/37C#1-P18L.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=497 end=27857 sample=../Audio/Displacement Activity/37C#1-5UF1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=736 end=25498 sample=../Audio/Displacement Activity/37C#1-VC7F.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=772 end=25734 sample=../Audio/Displacement Activity/37C#1-WP87.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=580 end=27870 sample=../Audio/Displacement Activity/37C#1-71Y3.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=532 end=26422 sample=../Audio/Displacement Activity/37C#1-AB6A.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=795 end=27938 sample=../Audio/Displacement Activity/37C#1-K7D5.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=634 end=26641 sample=../Audio/Displacement Activity/37C#1-QGRY.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=782 end=35017 sample=../Audio/Displacement Activity/38D1-WPIJ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=914 end=35155 sample=../Audio/Displacement Activity/38D1-8ZNG.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=874 end=34939 sample=../Audio/Displacement Activity/38D1-9GBE.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=479 end=33893 sample=../Audio/Displacement Activity/38D1-OZXR.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=830 end=34117 sample=../Audio/Displacement Activity/38D1-Q385.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=484 end=34203 sample=../Audio/Displacement Activity/38D1-0MUP.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=536 end=34403 sample=../Audio/Displacement Activity/38D1-B5BD.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=942 end=34509 sample=../Audio/Displacement Activity/38D1-FM8V.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=744 end=25351 sample=../Audio/Displacement Activity/39D#1-TJ4W.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=681 end=24688 sample=../Audio/Displacement Activity/39D#1-N8NZ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=972 sample=../Audio/Displacement Activity/39D#1-VFDG.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=856 sample=../Audio/Displacement Activity/39D#1-9OM3.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=630 end=25288 sample=../Audio/Displacement Activity/39D#1-318Z.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=520 end=24352 sample=../Audio/Displacement Activity/39D#1-H8XF.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=698 end=24421 sample=../Audio/Displacement Activity/39D#1-MXSH.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=582 end=24773 sample=../Audio/Displacement Activity/39D#1-ND36.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=940 end=20104 sample=../Audio/Displacement Activity/40E1-EQN2.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=824 end=19519 sample=../Audio/Displacement Activity/40E1-RHLA.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=829 sample=../Audio/Displacement Activity/40E1-9TS3.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=725 sample=../Audio/Displacement Activity/40E1-1NZ2.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=455 end=18696 sample=../Audio/Displacement Activity/40E1-RXSR.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=496 sample=../Audio/Displacement Activity/40E1-QVOK.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=903 end=19507 sample=../Audio/Displacement Activity/40E1-TO1M.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=485 end=20254 sample=../Audio/Displacement Activity/40E1-MNEP.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=936 sample=../Audio/Displacement Activity/41F1-2SLM.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=546 sample=../Audio/Displacement Activity/41F1-R20F.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=824 sample=../Audio/Displacement Activity/41F1-GT83.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=582 sample=../Audio/Displacement Activity/41F1-MXC2.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=912 sample=../Audio/Displacement Activity/41F1-AVEB.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=853 sample=../Audio/Displacement Activity/41F1-ED95.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=746 sample=../Audio/Displacement Activity/41F1-5TF1.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=865 end=23373 sample=../Audio/Displacement Activity/41F1-H8ES.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=757 end=21289 sample=../Audio/Displacement Activity/42F#1-LKXT.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=635 sample=../Audio/Displacement Activity/42F#1-C7S2.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=816 sample=../Audio/Displacement Activity/42F#1-DCK8.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=552 sample=../Audio/Displacement Activity/42F#1-6Z49.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=955 sample=../Audio/Displacement Activity/42F#1-TODA.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=901 sample=../Audio/Displacement Activity/42F#1-ACSW.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=811 sample=../Audio/Displacement Activity/42F#1-853J.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=996 end=20944 sample=../Audio/Displacement Activity/42F#1-FTJP.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=901 end=26415 sample=../Audio/Displacement Activity/43G1-30W0.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=842 end=25697 sample=../Audio/Displacement Activity/43G1-XG4N.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=428 end=26516 sample=../Audio/Displacement Activity/43G1-33C1.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=540 end=26625 sample=../Audio/Displacement Activity/43G1-7OY6.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=482 end=26116 sample=../Audio/Displacement Activity/43G1-CD6O.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=539 end=26052 sample=../Audio/Displacement Activity/43G1-YIC1.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=695 end=26779 sample=../Audio/Displacement Activity/43G1-PE1B.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=439 end=26531 sample=../Audio/Displacement Activity/43G1-3109.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=529 end=34278 sample=../Audio/Displacement Activity/44G#1-SO8G.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=743 end=34675 sample=../Audio/Displacement Activity/44G#1-OUL5.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=905 end=34887 sample=../Audio/Displacement Activity/44G#1-4FRV.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=860 end=34195 sample=../Audio/Displacement Activity/44G#1-IZIP.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=383 end=33918 sample=../Audio/Displacement Activity/44G#1-L28A.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=844 end=34075 sample=../Audio/Displacement Activity/44G#1-ZTCY.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=723 end=34657 sample=../Audio/Displacement Activity/44G#1-0O77.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=818 end=34785 sample=../Audio/Displacement Activity/44G#1-5WDS.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=642 sample=../Audio/Displacement Activity/45A1-C7IN.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=856 end=25950 sample=../Audio/Displacement Activity/45A1-4ZG2.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=504 end=25286 sample=../Audio/Displacement Activity/45A1-PJ0L.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=678 end=25374 sample=../Audio/Displacement Activity/45A1-197R.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=792 sample=../Audio/Displacement Activity/45A1-RSW7.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=363 end=25100 sample=../Audio/Displacement Activity/45A1-YT6E.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=531 end=25351 sample=../Audio/Displacement Activity/45A1-BJZL.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=840 end=26427 sample=../Audio/Displacement Activity/45A1-WTQ9.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=861 sample=../Audio/Displacement Activity/46A#1-C7ON.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=510 end=18371 sample=../Audio/Displacement Activity/46A#1-LYVS.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=435 end=19156 sample=../Audio/Displacement Activity/46A#1-ASK2.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=948 sample=../Audio/Displacement Activity/46A#1-VOJA.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=514 sample=../Audio/Displacement Activity/46A#1-FN46.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=820 sample=../Audio/Displacement Activity/46A#1-Y2B5.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=792 sample=../Audio/Displacement Activity/46A#1-204S.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=539 end=19286 sample=../Audio/Displacement Activity/46A#1-HJXQ.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=779 sample=../Audio/Displacement Activity/47B1-TGI2.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=457 sample=../Audio/Displacement Activity/47B1-XLLV.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=817 sample=../Audio/Displacement Activity/47B1-J3P4.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=904 sample=../Audio/Displacement Activity/47B1-U7GD.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=886 sample=../Audio/Displacement Activity/47B1-YNPG.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=702 end=21763 sample=../Audio/Displacement Activity/47B1-1EH2.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=993 sample=../Audio/Displacement Activity/47B1-NNDX.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=365 sample=../Audio/Displacement Activity/47B1-M5O1.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=638 sample=../Audio/Displacement Activity/48C2-06TT.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=808 sample=../Audio/Displacement Activity/48C2-B8KS.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=422 sample=../Audio/Displacement Activity/48C2-3KL4.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=480 sample=../Audio/Displacement Activity/48C2-MBJO.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=573 end=20732 sample=../Audio/Displacement Activity/48C2-JSNE.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=510 sample=../Audio/Displacement Activity/48C2-KNO9.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=472 sample=../Audio/Displacement Activity/48C2-TN3Y.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=601 sample=../Audio/Displacement Activity/48C2-S6OG.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=958 end=26631 sample=../Audio/Displacement Activity/49C#2-AXNW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=520 end=24408 sample=../Audio/Displacement Activity/49C#2-3XO4.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=609 end=24319 sample=../Audio/Displacement Activity/49C#2-5SRX.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=879 end=25572 sample=../Audio/Displacement Activity/49C#2-8OAR.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=620 end=25614 sample=../Audio/Displacement Activity/49C#2-BVKL.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=387 end=27400 sample=../Audio/Displacement Activity/49C#2-KADB.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=643 end=25484 sample=../Audio/Displacement Activity/49C#2-UFOS.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=944 end=26503 sample=../Audio/Displacement Activity/49C#2-N6WU.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=704 end=34282 sample=../Audio/Displacement Activity/50D2-C41Y.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=517 end=33846 sample=../Audio/Displacement Activity/50D2-A4GX.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=700 end=34040 sample=../Audio/Displacement Activity/50D2-FCLF.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=617 sample=../Audio/Displacement Activity/50D2-ONOI.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=947 end=34493 sample=../Audio/Displacement Activity/50D2-K4W0.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=1035 end=34285 sample=../Audio/Displacement Activity/50D2-G854.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=618 sample=../Audio/Displacement Activity/50D2-XM6R.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=836 end=34431 sample=../Audio/Displacement Activity/50D2-IJR5.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=665 end=24774 sample=../Audio/Displacement Activity/51D#2-EUHY.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=513 end=23952 sample=../Audio/Displacement Activity/51D#2-H1X5.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=596 end=25350 sample=../Audio/Displacement Activity/51D#2-HUMA.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=458 end=25171 sample=../Audio/Displacement Activity/51D#2-TE73.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=719 end=24990 sample=../Audio/Displacement Activity/51D#2-W3ZF.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=895 end=24199 sample=../Audio/Displacement Activity/51D#2-9R5H.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=866 end=25741 sample=../Audio/Displacement Activity/51D#2-SA3V.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=775 end=26115 sample=../Audio/Displacement Activity/51D#2-0AFF.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=945 end=19848 sample=../Audio/Displacement Activity/52E2-MATE.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=841 end=19534 sample=../Audio/Displacement Activity/52E2-H3B3.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=845 end=19744 sample=../Audio/Displacement Activity/52E2-2G4Q.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=552 end=18290 sample=../Audio/Displacement Activity/52E2-MB9F.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=825 end=19769 sample=../Audio/Displacement Activity/52E2-ASRK.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=828 end=19584 sample=../Audio/Displacement Activity/52E2-969Z.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=501 end=19296 sample=../Audio/Displacement Activity/52E2-715O.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=926 sample=../Audio/Displacement Activity/52E2-IV36.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=652 sample=../Audio/Displacement Activity/53F2-L55Z.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=795 sample=../Audio/Displacement Activity/53F2-7HZY.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=818 sample=../Audio/Displacement Activity/53F2-NTID.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=678 sample=../Audio/Displacement Activity/53F2-5JCP.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=510 sample=../Audio/Displacement Activity/53F2-WAV1.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=838 sample=../Audio/Displacement Activity/53F2-L27H.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=618 sample=../Audio/Displacement Activity/53F2-6U71.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=748 sample=../Audio/Displacement Activity/53F2-S980.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=536 sample=../Audio/Displacement Activity/54F#2-1TZO.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=864 end=21946 sample=../Audio/Displacement Activity/54F#2-J99E.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=879 end=20884 sample=../Audio/Displacement Activity/54F#2-WWVC.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=483 sample=../Audio/Displacement Activity/54F#2-N6TG.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=664 end=20670 sample=../Audio/Displacement Activity/54F#2-NS7D.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=518 end=21551 sample=../Audio/Displacement Activity/54F#2-KY7N.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=606 sample=../Audio/Displacement Activity/54F#2-YZIV.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=925 end=21672 sample=../Audio/Displacement Activity/54F#2-Z3NG.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=598 end=26429 sample=../Audio/Displacement Activity/55G2-Y2QI.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=470 end=25910 sample=../Audio/Displacement Activity/55G2-IP54.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=414 end=26185 sample=../Audio/Displacement Activity/55G2-ICSF.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=757 end=24348 sample=../Audio/Displacement Activity/55G2-3Q4U.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=861 end=24374 sample=../Audio/Displacement Activity/55G2-JIUO.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=940 end=26731 sample=../Audio/Displacement Activity/55G2-SP6U.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=469 end=26454 sample=../Audio/Displacement Activity/55G2-C3FT.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=913 end=27161 sample=../Audio/Displacement Activity/55G2-ZJLC.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=575 end=33896 sample=../Audio/Displacement Activity/56G#2-U7WC.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=994 end=34388 sample=../Audio/Displacement Activity/56G#2-P9FA.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=687 sample=../Audio/Displacement Activity/56G#2-41CL.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=772 end=34032 sample=../Audio/Displacement Activity/56G#2-10XN.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=472 end=35183 sample=../Audio/Displacement Activity/56G#2-2Z1O.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=438 end=33673 sample=../Audio/Displacement Activity/56G#2-6EOH.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=779 end=34013 sample=../Audio/Displacement Activity/56G#2-H5MH.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=528 end=33756 sample=../Audio/Displacement Activity/56G#2-IPDD.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=566 end=24055 sample=../Audio/Displacement Activity/57A2-9BI3.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=735 end=23328 sample=../Audio/Displacement Activity/57A2-KT4Z.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=762 end=24252 sample=../Audio/Displacement Activity/57A2-NYQF.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=880 end=23396 sample=../Audio/Displacement Activity/57A2-TSRQ.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=540 end=25408 sample=../Audio/Displacement Activity/57A2-2QPL.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=806 end=23494 sample=../Audio/Displacement Activity/57A2-4B8E.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=905 end=25543 sample=../Audio/Displacement Activity/57A2-N7MH.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=526 end=23631 sample=../Audio/Displacement Activity/57A2-S5OF.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=457 sample=../Audio/Displacement Activity/58A#2-S9QK.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=904 end=19489 sample=../Audio/Displacement Activity/58A#2-MGTU.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=909 end=19544 sample=../Audio/Displacement Activity/58A#2-8QY0.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=832 sample=../Audio/Displacement Activity/58A#2-HAME.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=727 end=18746 sample=../Audio/Displacement Activity/58A#2-8DRJ.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=578 end=19117 sample=../Audio/Displacement Activity/58A#2-OC1S.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=1025 sample=../Audio/Displacement Activity/58A#2-U8MV.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=722 end=19284 sample=../Audio/Displacement Activity/58A#2-PAZ8.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=832 end=22825 sample=../Audio/Displacement Activity/59B2-3NKC.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=698 sample=../Audio/Displacement Activity/59B2-Q0VL.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=728 end=21822 sample=../Audio/Displacement Activity/59B2-WP3H.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=847 sample=../Audio/Displacement Activity/59B2-89YX.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=668 sample=../Audio/Displacement Activity/59B2-56DL.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=801 end=22314 sample=../Audio/Displacement Activity/59B2-R5EH.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=632 sample=../Audio/Displacement Activity/59B2-ZR1K.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=575 end=22017 sample=../Audio/Displacement Activity/59B2-GOWR.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=608 sample=../Audio/Displacement Activity/60C3-410E.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=758 sample=../Audio/Displacement Activity/60C3-QA6Q.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=628 end=20497 sample=../Audio/Displacement Activity/60C3-8DES.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=924 end=21127 sample=../Audio/Displacement Activity/60C3-YHYX.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=808 end=21739 sample=../Audio/Displacement Activity/60C3-CLKO.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=824 end=21662 sample=../Audio/Displacement Activity/60C3-Z3H4.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=378 sample=../Audio/Displacement Activity/60C3-D0I7.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=441 end=20225 sample=../Audio/Displacement Activity/60C3-3HHN.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=765 end=24905 sample=../Audio/Displacement Activity/61C#3-TQVB.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=496 end=24002 sample=../Audio/Displacement Activity/61C#3-YF5K.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=729 end=25277 sample=../Audio/Displacement Activity/61C#3-9ZLN.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=737 end=25009 sample=../Audio/Displacement Activity/61C#3-9ARA.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=924 end=25665 sample=../Audio/Displacement Activity/61C#3-I0G9.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=683 end=25233 sample=../Audio/Displacement Activity/61C#3-8EO9.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=730 end=25406 sample=../Audio/Displacement Activity/61C#3-U7R0.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=642 end=23938 sample=../Audio/Displacement Activity/61C#3-XB42.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=813 end=34185 sample=../Audio/Displacement Activity/62D3-DPVA.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=819 end=34144 sample=../Audio/Displacement Activity/62D3-SG8M.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=491 end=32577 sample=../Audio/Displacement Activity/62D3-63HR.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=822 end=34107 sample=../Audio/Displacement Activity/62D3-BEO6.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=478 end=33768 sample=../Audio/Displacement Activity/62D3-AAVB.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=852 end=32899 sample=../Audio/Displacement Activity/62D3-DFJL.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=891 end=34209 sample=../Audio/Displacement Activity/62D3-BMEM.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=869 end=34126 sample=../Audio/Displacement Activity/62D3-KPLZ.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=411 end=23868 sample=../Audio/Displacement Activity/63D#3-4ZXD.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=850 end=24384 sample=../Audio/Displacement Activity/63D#3-QESE.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=740 end=25253 sample=../Audio/Displacement Activity/63D#3-Z0ZP.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=796 end=25094 sample=../Audio/Displacement Activity/63D#3-54JO.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=555 end=24034 sample=../Audio/Displacement Activity/63D#3-5L5I.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=664 end=24326 sample=../Audio/Displacement Activity/63D#3-XBTS.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=611 end=25149 sample=../Audio/Displacement Activity/63D#3-OXND.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=672 end=23178 sample=../Audio/Displacement Activity/63D#3-1MPU.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=597 sample=../Audio/Displacement Activity/64E3-R5XZ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=680 end=18330 sample=../Audio/Displacement Activity/64E3-J33F.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=736 sample=../Audio/Displacement Activity/64E3-0ITT.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=881 end=19601 sample=../Audio/Displacement Activity/64E3-U7YL.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=535 sample=../Audio/Displacement Activity/64E3-Z5V9.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=816 end=19450 sample=../Audio/Displacement Activity/64E3-RBFK.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=841 sample=../Audio/Displacement Activity/64E3-7EUY.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=544 end=19305 sample=../Audio/Displacement Activity/64E3-ZS6Y.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=543 end=21541 sample=../Audio/Displacement Activity/65F3-HXQK.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=513 sample=../Audio/Displacement Activity/65F3-W1M8.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=648 sample=../Audio/Displacement Activity/65F3-K4DN.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=528 end=20259 sample=../Audio/Displacement Activity/65F3-DPDX.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=918 sample=../Audio/Displacement Activity/65F3-34FH.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=588 sample=../Audio/Displacement Activity/65F3-42KJ.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=694 sample=../Audio/Displacement Activity/65F3-LN8Y.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=622 sample=../Audio/Displacement Activity/65F3-46PC.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=782 sample=../Audio/Displacement Activity/66F#3-875W.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=527 sample=../Audio/Displacement Activity/66F#3-8O90.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=1003 sample=../Audio/Displacement Activity/66F#3-9UEH.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=939 sample=../Audio/Displacement Activity/66F#3-R0LM.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=651 sample=../Audio/Displacement Activity/66F#3-DTYZ.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=790 end=20083 sample=../Audio/Displacement Activity/66F#3-49KI.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=591 end=20631 sample=../Audio/Displacement Activity/66F#3-L41E.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=904 sample=../Audio/Displacement Activity/66F#3-3U1I.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=766 end=24744 sample=../Audio/Displacement Activity/67G3-LWEX.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=394 end=23698 sample=../Audio/Displacement Activity/67G3-E8D3.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=884 end=25489 sample=../Audio/Displacement Activity/67G3-QZTB.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=957 end=23700 sample=../Audio/Displacement Activity/67G3-SJIX.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=626 end=24717 sample=../Audio/Displacement Activity/67G3-XBX7.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=747 end=24109 sample=../Audio/Displacement Activity/67G3-O7RW.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=731 end=25624 sample=../Audio/Displacement Activity/67G3-01LT.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=563 end=24882 sample=../Audio/Displacement Activity/67G3-RF2A.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=583 end=32661 sample=../Audio/Displacement Activity/68G#3-EJR4.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=737 end=34078 sample=../Audio/Displacement Activity/68G#3-CEWQ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=623 end=33941 sample=../Audio/Displacement Activity/68G#3-6YSJ.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=686 end=33979 sample=../Audio/Displacement Activity/68G#3-WPAZ.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=825 end=34057 sample=../Audio/Displacement Activity/68G#3-K91U.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=574 end=33830 sample=../Audio/Displacement Activity/68G#3-7QBH.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=444 end=33737 sample=../Audio/Displacement Activity/68G#3-KA04.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=443 end=33700 sample=../Audio/Displacement Activity/68G#3-T0W8.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=795 sample=../Audio/Displacement Activity/69A3-K5NF.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=778 end=23944 sample=../Audio/Displacement Activity/69A3-RWB2.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=897 end=24238 sample=../Audio/Displacement Activity/69A3-EZ4N.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=498 end=23856 sample=../Audio/Displacement Activity/69A3-3WM6.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=865 end=22654 sample=../Audio/Displacement Activity/69A3-S7YQ.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=515 sample=../Audio/Displacement Activity/69A3-TZX2.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=546 end=23627 sample=../Audio/Displacement Activity/69A3-KBH6.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=736 end=23554 sample=../Audio/Displacement Activity/69A3-IPJP.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=960 end=18688 sample=../Audio/Displacement Activity/70A#3-N9FR.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=413 end=19009 sample=../Audio/Displacement Activity/70A#3-CBW1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=685 end=18310 sample=../Audio/Displacement Activity/70A#3-O6FG.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=482 sample=../Audio/Displacement Activity/70A#3-TO45.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=696 end=19454 sample=../Audio/Displacement Activity/70A#3-XVSI.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=530 end=18949 sample=../Audio/Displacement Activity/70A#3-4R5Y.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=918 sample=../Audio/Displacement Activity/70A#3-UF97.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=1002 sample=../Audio/Displacement Activity/70A#3-PU5L.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=914 sample=../Audio/Displacement Activity/71B3-1RVD.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=539 sample=../Audio/Displacement Activity/71B3-G7XT.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=904 end=21598 sample=../Audio/Displacement Activity/71B3-CZS4.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=565 end=22678 sample=../Audio/Displacement Activity/71B3-3KRC.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=894 end=21048 sample=../Audio/Displacement Activity/71B3-HO8G.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=597 sample=../Audio/Displacement Activity/71B3-MKTV.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=552 end=21834 sample=../Audio/Displacement Activity/71B3-515B.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=680 end=22633 sample=../Audio/Displacement Activity/71B3-ASF3.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=808 end=20656 sample=../Audio/Displacement Activity/72C4-77A1.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=813 sample=../Audio/Displacement Activity/72C4-4TAP.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=607 sample=../Audio/Displacement Activity/72C4-Q0XW.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=797 end=19644 sample=../Audio/Displacement Activity/72C4-NLN5.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=428 sample=../Audio/Displacement Activity/72C4-6BCW.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=713 end=20254 sample=../Audio/Displacement Activity/72C4-FC4Y.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=836 sample=../Audio/Displacement Activity/72C4-BKXJ.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=591 sample=../Audio/Displacement Activity/72C4-WL4M.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=419 end=21679 sample=../Audio/Displacement Activity/73C#4-AAYM.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=883 end=24572 sample=../Audio/Displacement Activity/73C#4-8E8Y.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=634 end=24046 sample=../Audio/Displacement Activity/73C#4-QZSH.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=840 end=25410 sample=../Audio/Displacement Activity/73C#4-GDXZ.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=938 end=25964 sample=../Audio/Displacement Activity/73C#4-5PC7.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=495 end=23813 sample=../Audio/Displacement Activity/73C#4-AJEJ.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=423 end=22674 sample=../Audio/Displacement Activity/73C#4-ODNS.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=632 end=24898 sample=../Audio/Displacement Activity/73C#4-W9BY.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=1020 end=34355 sample=../Audio/Displacement Activity/74D4-7FFG.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=848 end=34179 sample=../Audio/Displacement Activity/74D4-OOF8.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=722 end=34102 sample=../Audio/Displacement Activity/74D4-4LHC.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=660 end=33951 sample=../Audio/Displacement Activity/74D4-WU3S.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=693 end=33985 sample=../Audio/Displacement Activity/74D4-95SJ.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=556 sample=../Audio/Displacement Activity/74D4-WNPW.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=595 end=33844 sample=../Audio/Displacement Activity/74D4-V3FO.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=811 sample=../Audio/Displacement Activity/74D4-TCDM.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=919 end=24613 sample=../Audio/Displacement Activity/75D#4-TAVN.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=894 end=24018 sample=../Audio/Displacement Activity/75D#4-QGUV.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=736 end=23097 sample=../Audio/Displacement Activity/75D#4-63TH.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=734 end=21633 sample=../Audio/Displacement Activity/75D#4-Z92J.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=524 end=23034 sample=../Audio/Displacement Activity/75D#4-94OK.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=568 end=22808 sample=../Audio/Displacement Activity/75D#4-SAPP.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=768 end=23364 sample=../Audio/Displacement Activity/75D#4-TATL.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=710 end=24713 sample=../Audio/Displacement Activity/75D#4-22NH.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=451 end=18319 sample=../Audio/Displacement Activity/76E4-FF62.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=490 end=18299 sample=../Audio/Displacement Activity/76E4-SGIR.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=732 sample=../Audio/Displacement Activity/76E4-U9Y6.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=408 end=18331 sample=../Audio/Displacement Activity/76E4-04OI.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=609 end=19120 sample=../Audio/Displacement Activity/76E4-22M5.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=575 end=19129 sample=../Audio/Displacement Activity/76E4-WZDY.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=727 end=19251 sample=../Audio/Displacement Activity/76E4-H0NZ.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=1023 end=19568 sample=../Audio/Displacement Activity/76E4-TMJ2.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=661 end=20400 sample=../Audio/Displacement Activity/77F4-1MXG.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=530 sample=../Audio/Displacement Activity/77F4-5H5Q.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=779 sample=../Audio/Displacement Activity/77F4-BT5I.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=792 sample=../Audio/Displacement Activity/77F4-322X.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=732 end=21178 sample=../Audio/Displacement Activity/77F4-GSYD.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=798 end=21699 sample=../Audio/Displacement Activity/77F4-X8JP.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=796 end=23063 sample=../Audio/Displacement Activity/77F4-9SO8.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=511 end=20008 sample=../Audio/Displacement Activity/77F4-QIGJ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=928 sample=../Audio/Displacement Activity/78F#4-BDVT.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=731 end=20620 sample=../Audio/Displacement Activity/78F#4-79YP.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=616 sample=../Audio/Displacement Activity/78F#4-UQ6M.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=418 end=19132 sample=../Audio/Displacement Activity/78F#4-5C4I.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=611 sample=../Audio/Displacement Activity/78F#4-Z9X1.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=657 end=20556 sample=../Audio/Displacement Activity/78F#4-CE3M.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=503 end=19850 sample=../Audio/Displacement Activity/78F#4-WCPV.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=668 end=20380 sample=../Audio/Displacement Activity/78F#4-XUPV.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=559 end=21837 sample=../Audio/Displacement Activity/79G4-NYD9.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=709 end=24260 sample=../Audio/Displacement Activity/79G4-I6RJ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=666 end=26147 sample=../Audio/Displacement Activity/79G4-DRX5.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=861 end=25253 sample=../Audio/Displacement Activity/79G4-X63E.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=600 end=21863 sample=../Audio/Displacement Activity/79G4-B9ZV.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=567 end=24743 sample=../Audio/Displacement Activity/79G4-HH64.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=431 end=24713 sample=../Audio/Displacement Activity/79G4-Z5LY.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=675 end=24227 sample=../Audio/Displacement Activity/79G4-PFKC.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=520 end=35121 sample=../Audio/Displacement Activity/80G#4-F5M0.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=733 end=34077 sample=../Audio/Displacement Activity/80G#4-DR6J.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=644 end=33980 sample=../Audio/Displacement Activity/80G#4-1LM0.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=844 end=34149 sample=../Audio/Displacement Activity/80G#4-V7KT.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=599 end=33841 sample=../Audio/Displacement Activity/80G#4-CEC1.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=920 end=34221 sample=../Audio/Displacement Activity/80G#4-WYNI.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=587 end=33890 sample=../Audio/Displacement Activity/80G#4-M16A.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=966 end=34316 sample=../Audio/Displacement Activity/80G#4-F1ON.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=598 sample=../Audio/Displacement Activity/81A4-ELJM.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=756 end=21431 sample=../Audio/Displacement Activity/81A4-FCJ5.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=623 end=21718 sample=../Audio/Displacement Activity/81A4-S6DV.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=772 end=22242 sample=../Audio/Displacement Activity/81A4-40O0.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=550 sample=../Audio/Displacement Activity/81A4-I2TY.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=843 sample=../Audio/Displacement Activity/81A4-A1MP.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=742 end=21686 sample=../Audio/Displacement Activity/81A4-IP8Z.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=626 end=21425 sample=../Audio/Displacement Activity/81A4-L7V5.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=786 end=18944 sample=../Audio/Displacement Activity/82A#4-3Q3W.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=819 end=17679 sample=../Audio/Displacement Activity/82A#4-D8UX.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=433 end=18993 sample=../Audio/Displacement Activity/82A#4-ZSBA.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=882 sample=../Audio/Displacement Activity/82A#4-NQMG.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=707 end=18581 sample=../Audio/Displacement Activity/82A#4-JW04.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=743 end=18120 sample=../Audio/Displacement Activity/82A#4-MS10.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=600 end=18974 sample=../Audio/Displacement Activity/82A#4-N7HG.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=457 sample=../Audio/Displacement Activity/82A#4-E44V.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=752 end=20068 sample=../Audio/Displacement Activity/83B4-31N7.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=486 end=19858 sample=../Audio/Displacement Activity/83B4-ZK2E.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=646 end=20399 sample=../Audio/Displacement Activity/83B4-X0M4.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=437 end=20563 sample=../Audio/Displacement Activity/83B4-06AM.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=794 end=21053 sample=../Audio/Displacement Activity/83B4-E0QA.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=585 end=22543 sample=../Audio/Displacement Activity/83B4-3JEE.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=494 end=20363 sample=../Audio/Displacement Activity/83B4-EH0Y.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=485 end=19406 sample=../Audio/Displacement Activity/83B4-C3PG.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=837 sample=../Audio/Displacement Activity/84C5-2F3W.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=543 end=19975 sample=../Audio/Displacement Activity/84C5-WJOD.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=582 sample=../Audio/Displacement Activity/84C5-5YQ6.wav
+	<region> lovel=046 hivel=061 amp_velcurve_061=1 offset=944 end=20399 sample=../Audio/Displacement Activity/84C5-FWWB.wav
+	<region> lovel=062 hivel=077 amp_velcurve_077=1 offset=736 end=20611 sample=../Audio/Displacement Activity/84C5-FNF4.wav
+	<region> lovel=078 hivel=092 amp_velcurve_092=1 offset=696 end=19493 sample=../Audio/Displacement Activity/84C5-OLNT.wav
+	<region> lovel=093 hivel=107 amp_velcurve_107=1 offset=387 end=19088 sample=../Audio/Displacement Activity/84C5-2KTF.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=873 end=20260 sample=../Audio/Displacement Activity/84C5-MJIN.wav

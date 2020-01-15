@@ -1,0 +1,124 @@
+// this file was generated from SoildPassing.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=664 end=273870 sample=../Audio/SoildPassing/SoildPassing_0050.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=745 end=282396 sample=../Audio/SoildPassing/SoildPassing_0051.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1079 sample=../Audio/SoildPassing/SoildPassing_0052.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=817 sample=../Audio/SoildPassing/SoildPassing_0053.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=667 sample=../Audio/SoildPassing/SoildPassing_0054.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=744 end=279038 sample=../Audio/SoildPassing/SoildPassing_0055.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=773 sample=../Audio/SoildPassing/SoildPassing_0056.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1002 end=276700 sample=../Audio/SoildPassing/SoildPassing_0057.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=827 end=273022 sample=../Audio/SoildPassing/SoildPassing_0058.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=742 sample=../Audio/SoildPassing/SoildPassing_0059.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1063 sample=../Audio/SoildPassing/SoildPassing_0060.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1168 end=278301 sample=../Audio/SoildPassing/SoildPassing_0061.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1033 end=269719 sample=../Audio/SoildPassing/SoildPassing_0062.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=802 end=268379 sample=../Audio/SoildPassing/SoildPassing_0063.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1148 end=280431 sample=../Audio/SoildPassing/SoildPassing_0064.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1039 sample=../Audio/SoildPassing/SoildPassing_0065.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=956 sample=../Audio/SoildPassing/SoildPassing_0066.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=989 sample=../Audio/SoildPassing/SoildPassing_0067.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1056 sample=../Audio/SoildPassing/SoildPassing_0068.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1025 sample=../Audio/SoildPassing/SoildPassing_0069.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=833 end=269377 sample=../Audio/SoildPassing/SoildPassing_0070.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=709 sample=../Audio/SoildPassing/SoildPassing_0071.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1158 end=276028 sample=../Audio/SoildPassing/SoildPassing_0072.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=726 end=269399 sample=../Audio/SoildPassing/SoildPassing_0073.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1008 sample=../Audio/SoildPassing/SoildPassing_0074.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=638 end=268267 sample=../Audio/SoildPassing/SoildPassing_0075.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=854 sample=../Audio/SoildPassing/SoildPassing_0076.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1086 end=268332 sample=../Audio/SoildPassing/SoildPassing_0077.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=975 end=269197 sample=../Audio/SoildPassing/SoildPassing_0078.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=968 end=268594 sample=../Audio/SoildPassing/SoildPassing_0079.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=919 sample=../Audio/SoildPassing/SoildPassing_0080.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1045 end=267383 sample=../Audio/SoildPassing/SoildPassing_0081.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=748 sample=../Audio/SoildPassing/SoildPassing_0082.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=673 end=268328 sample=../Audio/SoildPassing/SoildPassing_0083.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=995 end=265917 sample=../Audio/SoildPassing/SoildPassing_0084.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=730 end=268150 sample=../Audio/SoildPassing/SoildPassing_0085.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1170 end=268396 sample=../Audio/SoildPassing/SoildPassing_0086.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=578 end=267613 sample=../Audio/SoildPassing/SoildPassing_0087.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=866 end=267301 sample=../Audio/SoildPassing/SoildPassing_0088.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1018 end=267891 sample=../Audio/SoildPassing/SoildPassing_0089.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=734 end=266090 sample=../Audio/SoildPassing/SoildPassing_0090.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1108 end=267860 sample=../Audio/SoildPassing/SoildPassing_0091.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=660 end=266309 sample=../Audio/SoildPassing/SoildPassing_0092.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=874 end=267994 sample=../Audio/SoildPassing/SoildPassing_0093.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=714 end=265642 sample=../Audio/SoildPassing/SoildPassing_0094.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1055 end=267610 sample=../Audio/SoildPassing/SoildPassing_0095.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=986 end=265957 sample=../Audio/SoildPassing/SoildPassing_0096.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=773 end=267562 sample=../Audio/SoildPassing/SoildPassing_0097.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1026 end=267914 sample=../Audio/SoildPassing/SoildPassing_0098.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1046 sample=../Audio/SoildPassing/SoildPassing_0099.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=689 sample=../Audio/SoildPassing/SoildPassing_0100.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=889 end=267046 sample=../Audio/SoildPassing/SoildPassing_0101.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=813 end=265885 sample=../Audio/SoildPassing/SoildPassing_0102.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1176 end=266975 sample=../Audio/SoildPassing/SoildPassing_0103.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1009 end=267149 sample=../Audio/SoildPassing/SoildPassing_0104.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1071 end=268183 sample=../Audio/SoildPassing/SoildPassing_0105.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1117 end=266831 sample=../Audio/SoildPassing/SoildPassing_0106.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=984 end=267636 sample=../Audio/SoildPassing/SoildPassing_0107.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1126 sample=../Audio/SoildPassing/SoildPassing_0108.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=880 end=266612 sample=../Audio/SoildPassing/SoildPassing_0109.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1050 end=266694 sample=../Audio/SoildPassing/SoildPassing_0110.aif

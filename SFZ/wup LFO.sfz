@@ -1,0 +1,296 @@
+// this file was generated from wup LFO.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=828 end=388971 sample=../Audio/wup/wup.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=587 end=386742 sample=../Audio/wup/wup_0001.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=711 end=388298 sample=../Audio/wup/wup_0002.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1104 end=387167 sample=../Audio/wup/wup_0003.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1096 end=387982 sample=../Audio/wup/wup_0004.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=695 end=388573 sample=../Audio/wup/wup_0005.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=652 end=389265 sample=../Audio/wup/wup_0006.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=924 end=389033 sample=../Audio/wup/wup_0007.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1138 end=390569 sample=../Audio/wup/wup_0008.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=944 end=389307 sample=../Audio/wup/wup_0009.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=801 end=390961 sample=../Audio/wup/wup_0010.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=904 end=390975 sample=../Audio/wup/wup_0011.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=953 end=389350 sample=../Audio/wup/wup_0012.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=595 end=390016 sample=../Audio/wup/wup_0013.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=813 end=389853 sample=../Audio/wup/wup_0014.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=842 end=389507 sample=../Audio/wup/wup_0015.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=975 sample=../Audio/wup/wup_0016.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=920 end=380536 sample=../Audio/wup/wup_0017.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=899 sample=../Audio/wup/wup_0018.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1042 end=380928 sample=../Audio/wup/wup_0019.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1159 end=390138 sample=../Audio/wup/wup_0020.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1099 end=390535 sample=../Audio/wup/wup_0021.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=754 end=389252 sample=../Audio/wup/wup_0022.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=990 end=390715 sample=../Audio/wup/wup_0023.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=782 end=389140 sample=../Audio/wup/wup_0024.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=819 end=388430 sample=../Audio/wup/wup_0025.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=973 end=387826 sample=../Audio/wup/wup_0026.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=741 end=388605 sample=../Audio/wup/wup_0027.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=926 end=390176 sample=../Audio/wup/wup_0028.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=702 end=390781 sample=../Audio/wup/wup_0029.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=908 end=391152 sample=../Audio/wup/wup_0030.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1081 end=391281 sample=../Audio/wup/wup_0031.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=690 end=389637 sample=../Audio/wup/wup_0032.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=917 end=389248 sample=../Audio/wup/wup_0033.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=783 end=389266 sample=../Audio/wup/wup_0034.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1038 end=389539 sample=../Audio/wup/wup_0035.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=731 end=379117 sample=../Audio/wup/wup_0036.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=886 end=380436 sample=../Audio/wup/wup_0037.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=889 end=380234 sample=../Audio/wup/wup_0038.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=715 sample=../Audio/wup/wup_0039.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1164 end=388419 sample=../Audio/wup/wup_0040.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=988 end=389208 sample=../Audio/wup/wup_0041.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1018 sample=../Audio/wup/wup_0042.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=905 end=390609 sample=../Audio/wup/wup_0043.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=582 end=385099 sample=../Audio/wup/wup_0044.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1072 end=386197 sample=../Audio/wup/wup_0045.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1130 end=387718 sample=../Audio/wup/wup_0046.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=878 end=387110 sample=../Audio/wup/wup_0047.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=823 end=390936 sample=../Audio/wup/wup_0048.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=699 end=388877 sample=../Audio/wup/wup_0049.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=848 end=390554 sample=../Audio/wup/wup_0050.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=928 end=390676 sample=../Audio/wup/wup_0051.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=791 end=389701 sample=../Audio/wup/wup_0052.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1072 end=389353 sample=../Audio/wup/wup_0053.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=635 end=389247 sample=../Audio/wup/wup_0054.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=689 end=390403 sample=../Audio/wup/wup_0055.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=604 end=380660 sample=../Audio/wup/wup_0056.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1012 end=380330 sample=../Audio/wup/wup_0057.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1010 sample=../Audio/wup/wup_0058.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=646 end=380022 sample=../Audio/wup/wup_0059.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=907 end=389489 sample=../Audio/wup/wup_0060.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1097 end=388979 sample=../Audio/wup/wup_0061.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1023 end=389412 sample=../Audio/wup/wup_0062.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=683 end=390078 sample=../Audio/wup/wup_0063.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=696 end=386220 sample=../Audio/wup/wup_0064.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=778 end=386012 sample=../Audio/wup/wup_0065.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1066 end=389037 sample=../Audio/wup/wup_0066.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1063 end=386277 sample=../Audio/wup/wup_0067.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=922 end=390247 sample=../Audio/wup/wup_0068.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=996 end=389296 sample=../Audio/wup/wup_0069.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=878 sample=../Audio/wup/wup_0070.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=793 sample=../Audio/wup/wup_0071.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=840 sample=../Audio/wup/wup_0072.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=555 end=388875 sample=../Audio/wup/wup_0073.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=881 end=389399 sample=../Audio/wup/wup_0074.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=988 end=389566 sample=../Audio/wup/wup_0075.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=902 end=381023 sample=../Audio/wup/wup_0076.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=772 end=380365 sample=../Audio/wup/wup_0077.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=846 end=380536 sample=../Audio/wup/wup_0078.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=760 end=380448 sample=../Audio/wup/wup_0079.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=672 end=390604 sample=../Audio/wup/wup_0080.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=994 end=390421 sample=../Audio/wup/wup_0081.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=877 end=389444 sample=../Audio/wup/wup_0082.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=838 end=390504 sample=../Audio/wup/wup_0083.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=775 end=389525 sample=../Audio/wup/wup_0084.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1009 end=391490 sample=../Audio/wup/wup_0085.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=984 end=389554 sample=../Audio/wup/wup_0086.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=707 end=389198 sample=../Audio/wup/wup_0087.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=738 end=389635 sample=../Audio/wup/wup_0088.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=618 end=211731 sample=../Audio/wup/wup_0089.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=767 end=388285 sample=../Audio/wup/wup_0090.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=786 end=389402 sample=../Audio/wup/wup_0091.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1036 end=388830 sample=../Audio/wup/wup_0092.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=900 end=390354 sample=../Audio/wup/wup_0093.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=828 end=389430 sample=../Audio/wup/wup_0094.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=669 end=389597 sample=../Audio/wup/wup_0095.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1082 end=379957 sample=../Audio/wup/wup_0096.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=526 end=379908 sample=../Audio/wup/wup_0097.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=946 end=379453 sample=../Audio/wup/wup_0098.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=851 end=380549 sample=../Audio/wup/wup_0099.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=740 end=388459 sample=../Audio/wup/wup_0100.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=893 end=389082 sample=../Audio/wup/wup_0101.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=923 end=391293 sample=../Audio/wup/wup_0102.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=787 end=389356 sample=../Audio/wup/wup_0103.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=818 end=387188 sample=../Audio/wup/wup_0104.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=977 end=386262 sample=../Audio/wup/wup_0105.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=514 end=386176 sample=../Audio/wup/wup_0106.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1032 end=388480 sample=../Audio/wup/wup_0107.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=926 end=389780 sample=../Audio/wup/wup_0108.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=955 end=389268 sample=../Audio/wup/wup_0109.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=851 end=389409 sample=../Audio/wup/wup_0110.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1153 end=390858 sample=../Audio/wup/wup_0111.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=958 end=388669 sample=../Audio/wup/wup_0112.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=976 end=390418 sample=../Audio/wup/wup_0113.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=888 end=389418 sample=../Audio/wup/wup_0114.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1150 sample=../Audio/wup/wup_0115.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=721 sample=../Audio/wup/wup_0116.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=870 sample=../Audio/wup/wup_0117.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=689 end=379385 sample=../Audio/wup/wup_0118.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1139 end=380056 sample=../Audio/wup/wup_0119.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1051 end=386816 sample=../Audio/wup/wup_0120.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=909 sample=../Audio/wup/wup_0121.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=704 end=389120 sample=../Audio/wup/wup_0122.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=852 end=389251 sample=../Audio/wup/wup_0123.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=829 end=385281 sample=../Audio/wup/wup_0124.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=785 end=385032 sample=../Audio/wup/wup_0125.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1023 end=386182 sample=../Audio/wup/wup_0126.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=648 end=386171 sample=../Audio/wup/wup_0127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1007 end=389903 sample=../Audio/wup/wup_0128.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=916 end=389139 sample=../Audio/wup/wup_0129.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1075 end=389660 sample=../Audio/wup/wup_0130.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=780 end=389256 sample=../Audio/wup/wup_0131.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=896 end=388685 sample=../Audio/wup/wup_0132.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=698 sample=../Audio/wup/wup_0133.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=617 end=389120 sample=../Audio/wup/wup_0134.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1052 end=389548 sample=../Audio/wup/wup_0135.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=768 end=378813 sample=../Audio/wup/wup_0136.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=842 end=379476 sample=../Audio/wup/wup_0137.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=981 end=379649 sample=../Audio/wup/wup_0138.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=812 end=379708 sample=../Audio/wup/wup_0139.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=979 end=386432 sample=../Audio/wup/wup_0140.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=934 end=386293 sample=../Audio/wup/wup_0141.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1058 end=386405 sample=../Audio/wup/wup_0142.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=850 end=386184 sample=../Audio/wup/wup_0143.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=659 end=384911 sample=../Audio/wup/wup_0144.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=755 end=384705 sample=../Audio/wup/wup_0145.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1101 end=386510 sample=../Audio/wup/wup_0146.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1010 end=385628 sample=../Audio/wup/wup_0147.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=588 end=388376 sample=../Audio/wup/wup_0148.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=850 end=389174 sample=../Audio/wup/wup_0149.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=878 end=389442 sample=../Audio/wup/wup_0150.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=902 sample=../Audio/wup/wup_0151.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=884 end=389832 sample=../Audio/wup/wup_0152.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=786 end=391405 sample=../Audio/wup/wup_0153.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1060 end=390802 sample=../Audio/wup/wup_0154.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=938 sample=../Audio/wup/wup_0155.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=563 end=378690 sample=../Audio/wup/wup_0156.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1032 end=379667 sample=../Audio/wup/wup_0157.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=735 end=379291 sample=../Audio/wup/wup_0158.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=784 end=379693 sample=../Audio/wup/wup_0159.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=696 end=386052 sample=../Audio/wup/wup_0160.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=560 end=385428 sample=../Audio/wup/wup_0161.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=857 end=386638 sample=../Audio/wup/wup_0162.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=706 end=386064 sample=../Audio/wup/wup_0163.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=762 end=386519 sample=../Audio/wup/wup_0164.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=674 end=385743 sample=../Audio/wup/wup_0165.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=689 end=385474 sample=../Audio/wup/wup_0166.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=1120 end=385613 sample=../Audio/wup/wup_0167.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=982 end=389891 sample=../Audio/wup/wup_0168.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1083 end=389488 sample=../Audio/wup/wup_0169.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1086 sample=../Audio/wup/wup_0170.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=849 end=389471 sample=../Audio/wup/wup_0171.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=932 end=389810 sample=../Audio/wup/wup_0172.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=665 sample=../Audio/wup/wup_0173.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=912 end=389530 sample=../Audio/wup/wup_0174.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=918 end=389520 sample=../Audio/wup/wup_0175.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=849 end=378756 sample=../Audio/wup/wup_0176.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=879 end=379403 sample=../Audio/wup/wup_0177.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1074 end=379967 sample=../Audio/wup/wup_0178.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=635 end=379400 sample=../Audio/wup/wup_0179.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=851 end=384440 sample=../Audio/wup/wup_0180.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1093 end=385974 sample=../Audio/wup/wup_0181.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=859 end=386134 sample=../Audio/wup/wup_0182.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=980 end=385984 sample=../Audio/wup/wup_0183.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1032 end=385152 sample=../Audio/wup/wup_0184.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=777 end=385872 sample=../Audio/wup/wup_0185.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=702 end=385920 sample=../Audio/wup/wup_0186.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=815 end=386096 sample=../Audio/wup/wup_0187.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1003 end=389931 sample=../Audio/wup/wup_0188.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=990 sample=../Audio/wup/wup_0189.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1070 end=390796 sample=../Audio/wup/wup_0190.aif
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=710 end=390546 sample=../Audio/wup/wup_0191.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1101 end=389010 sample=../Audio/wup/wup_0192.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=934 end=389331 sample=../Audio/wup/wup_0193.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=736 end=389409 sample=../Audio/wup/wup_0194.aif
+<group>lokey=72 hikey=120 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=127 hivel=127 amp_velcurve_127=1 volume=12 offset=742 end=389394 sample=../Audio/wup/wup_0195.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=987 sample=../Audio/wup/wup_0196.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=851 end=379411 sample=../Audio/wup/wup_0197.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=770 sample=../Audio/wup/wup_0198.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1077 end=385060 sample=../Audio/wup/wup_0199.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1040 end=386469 sample=../Audio/wup/wup_0200.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=684 end=385209 sample=../Audio/wup/wup_0201.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=973 end=386688 sample=../Audio/wup/wup_0202.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1129 end=386629 sample=../Audio/wup/wup_0203.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=626 end=386327 sample=../Audio/wup/wup_0204.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=895 end=388851 sample=../Audio/wup/wup_0205.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1010 end=390671 sample=../Audio/wup/wup_0206.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=818 end=388427 sample=../Audio/wup/wup_0207.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1203 end=390295 sample=../Audio/wup/wup_0208.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1086 sample=../Audio/wup/wup_0209.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1098 end=388762 sample=../Audio/wup/wup_0210.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=737 end=379179 sample=../Audio/wup/wup_0211.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=900 end=379889 sample=../Audio/wup/wup_0212.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=1078 end=380672 sample=../Audio/wup/wup_0213.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=850 end=386538 sample=../Audio/wup/wup_0214.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=657 end=385956 sample=../Audio/wup/wup_0215.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=973 end=386335 sample=../Audio/wup/wup_0216.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=917 sample=../Audio/wup/wup_0217.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=648 end=388865 sample=../Audio/wup/wup_0218.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=569 sample=../Audio/wup/wup_0219.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=713 end=389835 sample=../Audio/wup/wup_0220.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=740 end=389347 sample=../Audio/wup/wup_0221.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=991 end=389804 sample=../Audio/wup/wup_0222.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=997 end=389051 sample=../Audio/wup/wup_0223.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=908 end=390561 sample=../Audio/wup/wup_0224.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=992 sample=../Audio/wup/wup_0225.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=1119 end=380038 sample=../Audio/wup/wup_0226.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=777 sample=../Audio/wup/wup_0227.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=800 end=379468 sample=../Audio/wup/wup_0228.aif
+<group>lokey=84 hikey=120 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=013 amp_velcurve_013=1 volume=12 offset=759 end=386188 sample=../Audio/wup/wup_0229.aif
+	<region> lovel=014 hivel=029 amp_velcurve_029=1 volume=12 offset=1021 end=386501 sample=../Audio/wup/wup_0230.aif
+	<region> lovel=030 hivel=126 amp_velcurve_126=1 volume=12 offset=516 end=384784 sample=../Audio/wup/wup_0231.aif

@@ -1,0 +1,124 @@
+// this file was generated from FritzOrgan.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47160 loop_end=122403 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan2424-T8HN.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266790 loop_end=341711 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan2525-PBHS.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247979 loop_end=320977 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan2626-FZ66.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236408 loop_end=309779 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan2727-MYF5.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82858 loop_end=157449 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan2828-60DF.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51492 loop_end=126952 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan2929-TS70.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=7087 loop_end=80104 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3030-4L7L.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267028 loop_end=342408 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3131-RU3N.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282177 loop_end=355680 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3232-YDVT.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257528 loop_end=331733 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3333-92H9.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=28289 loop_end=102107 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3434-X4VN.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34454 loop_end=109133 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3535-2S3M.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=38567 loop_end=113641 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3636-PXPT.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281621 loop_end=356990 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3737-PHQ6.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271293 loop_end=344157 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3838-LVXT.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285072 loop_end=358929 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan3939-L28X.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16518 loop_end=91586 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4040-LECY.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163845 loop_end=243252 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4141-XPGY.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=28142 loop_end=102508 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4242-9F8A.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101226 loop_end=174914 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4343-WMIE.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276211 loop_end=349261 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4444-TF69.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283550 loop_end=357743 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4545-0JAO.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269750 loop_end=363108 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4646-I4RL.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47412 loop_end=122727 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4747-FPPC.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=29821 loop_end=107501 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4848-Z878.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=199732 loop_end=276466 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan4949-R1UZ.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276271 loop_end=349974 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5050-UVLT.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200591 loop_end=273963 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5151-DI64.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=37230 loop_end=112537 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5252-RPSL.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103288 loop_end=179115 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5353-CH0A.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32840 loop_end=108349 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5454-QZOI.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286166 loop_end=361743 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5555-1Z7Y.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262079 loop_end=335209 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5656-C4XF.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284045 loop_end=357952 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5757-PBX8.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32944 loop_end=108413 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5858-LXBS.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218814 loop_end=296390 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan5959-N9RZ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267940 loop_end=362671 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6060-GF9E.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179985 loop_end=254172 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6161-WD20.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204704 loop_end=277840 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6262-8HLP.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=196502 loop_end=270243 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6363-2FYP.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266429 loop_end=358318 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6464-4MDX.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268305 loop_end=344304 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6565-L79Y.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266515 loop_end=361413 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6666-WCCX.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267709 loop_end=343196 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6767-KG8V.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60480 loop_end=136181 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6868-CUYO.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260790 loop_end=334921 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan6969-07H8.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245650 loop_end=326982 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7070-OVY4.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263941 loop_end=340948 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7171-I2TT.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255744 loop_end=350664 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7272-3UNU.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270802 loop_end=346287 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7373-D0ZV.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266097 loop_end=361428 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7474-NQ41.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289553 loop_end=363684 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7575-PBPD.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237632 loop_end=329885 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7676-RN87.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=205814 loop_end=282562 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7777-V0TS.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203660 loop_end=297981 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7878-GIGB.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209697 loop_end=285698 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan7979-YREB.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145409 loop_end=221201 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan8080-EM36.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=199235 loop_end=275484 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan8181-C8SF.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147780 loop_end=221211 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan8282-IOMU.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188686 loop_end=264161 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan8383-CQPE.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288771 loop_end=362511 sample=../Audio/FritzOrgan/(2013713 22552)/FritzOrgan8484-6CF5.aif

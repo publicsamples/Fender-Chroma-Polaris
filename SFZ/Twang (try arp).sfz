@@ -1,0 +1,673 @@
+// this file was generated from Twang (try arp).exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=804 end=367450 sample=../Audio/Twang/24C0-0YZ5.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=939 end=367257 sample=../Audio/Twang/24C0-MZXW.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=781 sample=../Audio/Twang/24C0-GJ8R.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=717 end=367002 sample=../Audio/Twang/24C0-8LG3.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=569 end=366522 sample=../Audio/Twang/24C0-EEOU.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=804 end=367450 sample=../Audio/Twang/24C0-0YZ5.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=939 end=367257 sample=../Audio/Twang/24C0-MZXW.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=781 sample=../Audio/Twang/24C0-GJ8R.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=717 end=367002 sample=../Audio/Twang/24C0-8LG3.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=569 end=366522 sample=../Audio/Twang/24C0-EEOU.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=965 end=372989 sample=../Audio/Twang/25C#0-1PTC.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=701 end=373104 sample=../Audio/Twang/25C#0-WWOB.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=806 end=372339 sample=../Audio/Twang/25C#0-Q18I.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=421 end=372730 sample=../Audio/Twang/25C#0-DL8I.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=563 end=371699 sample=../Audio/Twang/25C#0-SMKJ.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=965 end=372989 sample=../Audio/Twang/25C#0-1PTC.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=701 end=373104 sample=../Audio/Twang/25C#0-WWOB.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=806 end=372339 sample=../Audio/Twang/25C#0-Q18I.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=421 end=372730 sample=../Audio/Twang/25C#0-DL8I.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=563 end=371699 sample=../Audio/Twang/25C#0-SMKJ.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=837 end=366830 sample=../Audio/Twang/26D0-HIY5.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=672 end=366919 sample=../Audio/Twang/26D0-6Q0G.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=716 end=366689 sample=../Audio/Twang/26D0-KBQB.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=866 end=366565 sample=../Audio/Twang/26D0-KQ88.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=603 sample=../Audio/Twang/26D0-96HQ.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=837 end=366830 sample=../Audio/Twang/26D0-HIY5.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=672 end=366919 sample=../Audio/Twang/26D0-6Q0G.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=716 end=366689 sample=../Audio/Twang/26D0-KBQB.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=866 end=366565 sample=../Audio/Twang/26D0-KQ88.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=603 sample=../Audio/Twang/26D0-96HQ.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=700 end=362458 sample=../Audio/Twang/27D#0-L90A.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=597 end=362744 sample=../Audio/Twang/27D#0-IQG9.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=831 end=363041 sample=../Audio/Twang/27D#0-OYBF.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=524 sample=../Audio/Twang/27D#0-E0J6.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=416 sample=../Audio/Twang/27D#0-7QEK.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=700 end=362458 sample=../Audio/Twang/27D#0-L90A.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=597 end=362744 sample=../Audio/Twang/27D#0-IQG9.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=831 end=363041 sample=../Audio/Twang/27D#0-OYBF.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=524 sample=../Audio/Twang/27D#0-E0J6.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=416 sample=../Audio/Twang/27D#0-7QEK.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=955 end=365171 sample=../Audio/Twang/28E0-DZV4.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=876 end=364657 sample=../Audio/Twang/28E0-VZWZ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=915 end=365050 sample=../Audio/Twang/28E0-QRSK.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=836 end=366072 sample=../Audio/Twang/28E0-M9MC.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=742 end=364762 sample=../Audio/Twang/28E0-2LEF.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=955 end=365171 sample=../Audio/Twang/28E0-DZV4.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=876 end=364657 sample=../Audio/Twang/28E0-VZWZ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=915 end=365050 sample=../Audio/Twang/28E0-QRSK.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=836 end=366072 sample=../Audio/Twang/28E0-M9MC.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=742 end=364762 sample=../Audio/Twang/28E0-2LEF.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=712 end=363671 sample=../Audio/Twang/29F0-KK0Y.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=695 end=364282 sample=../Audio/Twang/29F0-V50L.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=561 end=364572 sample=../Audio/Twang/29F0-LJOP.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=855 end=363856 sample=../Audio/Twang/29F0-ZH6F.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=707 end=364024 sample=../Audio/Twang/29F0-YNWE.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=712 end=363671 sample=../Audio/Twang/29F0-KK0Y.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=695 end=364282 sample=../Audio/Twang/29F0-V50L.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=561 end=364572 sample=../Audio/Twang/29F0-LJOP.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=855 end=363856 sample=../Audio/Twang/29F0-ZH6F.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=707 end=364024 sample=../Audio/Twang/29F0-YNWE.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=523 end=366616 sample=../Audio/Twang/30F#0-P53X.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=895 sample=../Audio/Twang/30F#0-IH0E.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=810 end=367793 sample=../Audio/Twang/30F#0-676D.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=656 end=367687 sample=../Audio/Twang/30F#0-QTZN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=963 end=367768 sample=../Audio/Twang/30F#0-GL87.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=523 end=366616 sample=../Audio/Twang/30F#0-P53X.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=895 sample=../Audio/Twang/30F#0-IH0E.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=810 end=367793 sample=../Audio/Twang/30F#0-676D.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=656 end=367687 sample=../Audio/Twang/30F#0-QTZN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=963 end=367768 sample=../Audio/Twang/30F#0-GL87.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=1021 end=372143 sample=../Audio/Twang/31G0-CMD6.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=737 end=371421 sample=../Audio/Twang/31G0-OENA.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=818 end=373627 sample=../Audio/Twang/31G0-Z6G0.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=984 end=372582 sample=../Audio/Twang/31G0-MAVY.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=628 end=372606 sample=../Audio/Twang/31G0-YT7E.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=1021 end=372143 sample=../Audio/Twang/31G0-CMD6.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=737 end=371421 sample=../Audio/Twang/31G0-OENA.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=818 end=373627 sample=../Audio/Twang/31G0-Z6G0.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=984 end=372582 sample=../Audio/Twang/31G0-MAVY.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=628 end=372606 sample=../Audio/Twang/31G0-YT7E.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=925 end=366704 sample=../Audio/Twang/32G#0-TSQ0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=1054 end=366634 sample=../Audio/Twang/32G#0-98UR.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=741 end=366679 sample=../Audio/Twang/32G#0-04JH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=771 end=366785 sample=../Audio/Twang/32G#0-L9GG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=853 end=366882 sample=../Audio/Twang/32G#0-V3VO.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=925 end=366704 sample=../Audio/Twang/32G#0-TSQ0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=1054 end=366634 sample=../Audio/Twang/32G#0-98UR.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=741 end=366679 sample=../Audio/Twang/32G#0-04JH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=771 end=366785 sample=../Audio/Twang/32G#0-L9GG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=853 end=366882 sample=../Audio/Twang/32G#0-V3VO.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=605 end=361852 sample=../Audio/Twang/33A0-M74M.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=787 end=362191 sample=../Audio/Twang/33A0-6ZWK.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=764 end=361969 sample=../Audio/Twang/33A0-URQX.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=834 end=362175 sample=../Audio/Twang/33A0-BCRF.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=912 end=362090 sample=../Audio/Twang/33A0-8ENV.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=605 end=361852 sample=../Audio/Twang/33A0-M74M.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=787 end=362191 sample=../Audio/Twang/33A0-6ZWK.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=764 end=361969 sample=../Audio/Twang/33A0-URQX.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=834 end=362175 sample=../Audio/Twang/33A0-BCRF.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=912 end=362090 sample=../Audio/Twang/33A0-8ENV.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=886 end=365834 sample=../Audio/Twang/34A#0-MJ8U.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=705 end=364265 sample=../Audio/Twang/34A#0-ZA7U.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=525 end=364452 sample=../Audio/Twang/34A#0-3O97.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=920 end=364900 sample=../Audio/Twang/34A#0-9EZK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=1008 end=364647 sample=../Audio/Twang/34A#0-JAKJ.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=886 end=365834 sample=../Audio/Twang/34A#0-MJ8U.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=705 end=364265 sample=../Audio/Twang/34A#0-ZA7U.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=525 end=364452 sample=../Audio/Twang/34A#0-3O97.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=920 end=364900 sample=../Audio/Twang/34A#0-9EZK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=1008 end=364647 sample=../Audio/Twang/34A#0-JAKJ.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=748 end=363916 sample=../Audio/Twang/35B0-CGPT.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=598 end=363903 sample=../Audio/Twang/35B0-ZBHV.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=957 end=363543 sample=../Audio/Twang/35B0-UC9A.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=665 end=363826 sample=../Audio/Twang/35B0-BTRG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=662 end=363852 sample=../Audio/Twang/35B0-FSS9.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=748 end=363916 sample=../Audio/Twang/35B0-CGPT.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=598 end=363903 sample=../Audio/Twang/35B0-ZBHV.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=957 end=363543 sample=../Audio/Twang/35B0-UC9A.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=665 end=363826 sample=../Audio/Twang/35B0-BTRG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=662 end=363852 sample=../Audio/Twang/35B0-FSS9.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=930 end=368611 sample=../Audio/Twang/36C1-G6LD.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=835 end=366892 sample=../Audio/Twang/36C1-UYH2.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=732 end=367087 sample=../Audio/Twang/36C1-WA9U.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=650 end=368092 sample=../Audio/Twang/36C1-2PDH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=679 sample=../Audio/Twang/36C1-OOJA.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=930 end=368611 sample=../Audio/Twang/36C1-G6LD.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=835 end=366892 sample=../Audio/Twang/36C1-UYH2.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=732 end=367087 sample=../Audio/Twang/36C1-WA9U.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=650 end=368092 sample=../Audio/Twang/36C1-2PDH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=679 sample=../Audio/Twang/36C1-OOJA.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=864 sample=../Audio/Twang/37C#1-UMA8.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=629 end=372929 sample=../Audio/Twang/37C#1-RVEV.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=742 sample=../Audio/Twang/37C#1-ZBKK.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=459 end=372532 sample=../Audio/Twang/37C#1-PKRI.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=729 end=371918 sample=../Audio/Twang/37C#1-4392.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=864 sample=../Audio/Twang/37C#1-UMA8.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=629 end=372929 sample=../Audio/Twang/37C#1-RVEV.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=742 sample=../Audio/Twang/37C#1-ZBKK.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=459 end=372532 sample=../Audio/Twang/37C#1-PKRI.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=729 end=371918 sample=../Audio/Twang/37C#1-4392.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=466 end=367362 sample=../Audio/Twang/38D1-U3EY.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=826 end=366646 sample=../Audio/Twang/38D1-HEH7.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=1051 end=367062 sample=../Audio/Twang/38D1-GDKF.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=573 sample=../Audio/Twang/38D1-3RG9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=787 end=366711 sample=../Audio/Twang/38D1-08ME.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=466 end=367362 sample=../Audio/Twang/38D1-U3EY.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=826 end=366646 sample=../Audio/Twang/38D1-HEH7.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=1051 end=367062 sample=../Audio/Twang/38D1-GDKF.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=573 sample=../Audio/Twang/38D1-3RG9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=787 end=366711 sample=../Audio/Twang/38D1-08ME.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=704 end=362087 sample=../Audio/Twang/39D#1-YE1V.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=854 end=363368 sample=../Audio/Twang/39D#1-TDLL.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=574 end=361932 sample=../Audio/Twang/39D#1-RIPF.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=517 end=362058 sample=../Audio/Twang/39D#1-7OD6.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=974 end=362375 sample=../Audio/Twang/39D#1-AOCX.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=704 end=362087 sample=../Audio/Twang/39D#1-YE1V.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=854 end=363368 sample=../Audio/Twang/39D#1-TDLL.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=574 end=361932 sample=../Audio/Twang/39D#1-RIPF.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=517 end=362058 sample=../Audio/Twang/39D#1-7OD6.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=974 end=362375 sample=../Audio/Twang/39D#1-AOCX.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=799 end=364347 sample=../Audio/Twang/40E1-4DJ6.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=796 end=364411 sample=../Audio/Twang/40E1-NC0I.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=912 end=364363 sample=../Audio/Twang/40E1-2WFJ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=590 end=364221 sample=../Audio/Twang/40E1-T76M.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=577 end=364227 sample=../Audio/Twang/40E1-CBQ1.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=799 end=364347 sample=../Audio/Twang/40E1-4DJ6.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=796 end=364411 sample=../Audio/Twang/40E1-NC0I.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=912 end=364363 sample=../Audio/Twang/40E1-2WFJ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=590 end=364221 sample=../Audio/Twang/40E1-T76M.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=577 end=364227 sample=../Audio/Twang/40E1-CBQ1.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=733 end=363800 sample=../Audio/Twang/41F1-SO1N.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=748 end=363985 sample=../Audio/Twang/41F1-STXI.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=940 end=364009 sample=../Audio/Twang/41F1-OKCU.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=695 end=363803 sample=../Audio/Twang/41F1-2QMR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=767 end=363812 sample=../Audio/Twang/41F1-3RJE.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=733 end=363800 sample=../Audio/Twang/41F1-SO1N.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=748 end=363985 sample=../Audio/Twang/41F1-STXI.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=940 end=364009 sample=../Audio/Twang/41F1-OKCU.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=695 end=363803 sample=../Audio/Twang/41F1-2QMR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=767 end=363812 sample=../Audio/Twang/41F1-3RJE.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=638 end=366721 sample=../Audio/Twang/42F#1-0HYM.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=897 end=367386 sample=../Audio/Twang/42F#1-BRS6.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=841 end=366982 sample=../Audio/Twang/42F#1-UEQH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=645 end=366628 sample=../Audio/Twang/42F#1-EMTG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=577 end=366730 sample=../Audio/Twang/42F#1-DYZU.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=638 end=366721 sample=../Audio/Twang/42F#1-0HYM.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=897 end=367386 sample=../Audio/Twang/42F#1-BRS6.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=841 end=366982 sample=../Audio/Twang/42F#1-UEQH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=645 end=366628 sample=../Audio/Twang/42F#1-EMTG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=577 end=366730 sample=../Audio/Twang/42F#1-DYZU.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=901 end=372205 sample=../Audio/Twang/43G1-0XB3.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=853 end=372720 sample=../Audio/Twang/43G1-WUBN.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=574 sample=../Audio/Twang/43G1-C9PR.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=878 end=370362 sample=../Audio/Twang/43G1-SZJE.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=970 end=371701 sample=../Audio/Twang/43G1-SNY3.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=901 end=372205 sample=../Audio/Twang/43G1-0XB3.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=853 end=372720 sample=../Audio/Twang/43G1-WUBN.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=574 sample=../Audio/Twang/43G1-C9PR.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=878 end=370362 sample=../Audio/Twang/43G1-SZJE.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=970 end=371701 sample=../Audio/Twang/43G1-SNY3.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=779 sample=../Audio/Twang/44G#1-F745.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=819 sample=../Audio/Twang/44G#1-OODW.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=489 end=366412 sample=../Audio/Twang/44G#1-OQEP.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=440 sample=../Audio/Twang/44G#1-GHII.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=912 end=366807 sample=../Audio/Twang/44G#1-V5K1.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=779 sample=../Audio/Twang/44G#1-F745.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=819 sample=../Audio/Twang/44G#1-OODW.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=489 end=366412 sample=../Audio/Twang/44G#1-OQEP.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=440 sample=../Audio/Twang/44G#1-GHII.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=912 end=366807 sample=../Audio/Twang/44G#1-V5K1.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=605 end=362018 sample=../Audio/Twang/45A1-QCVI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=581 end=361769 sample=../Audio/Twang/45A1-C70J.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=907 end=362243 sample=../Audio/Twang/45A1-46JC.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=903 end=362234 sample=../Audio/Twang/45A1-AKX3.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=656 sample=../Audio/Twang/45A1-8PFK.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=605 end=362018 sample=../Audio/Twang/45A1-QCVI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=581 end=361769 sample=../Audio/Twang/45A1-C70J.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=907 end=362243 sample=../Audio/Twang/45A1-46JC.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=903 end=362234 sample=../Audio/Twang/45A1-AKX3.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=656 sample=../Audio/Twang/45A1-8PFK.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=515 sample=../Audio/Twang/46A#1-CID4.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=876 end=364596 sample=../Audio/Twang/46A#1-PZ0L.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=621 sample=../Audio/Twang/46A#1-W7V1.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=785 end=364384 sample=../Audio/Twang/46A#1-6QY0.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=695 end=364194 sample=../Audio/Twang/46A#1-U9YM.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=515 sample=../Audio/Twang/46A#1-CID4.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=876 end=364596 sample=../Audio/Twang/46A#1-PZ0L.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=621 sample=../Audio/Twang/46A#1-W7V1.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=785 end=364384 sample=../Audio/Twang/46A#1-6QY0.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=695 end=364194 sample=../Audio/Twang/46A#1-U9YM.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=779 sample=../Audio/Twang/47B1-SWX1.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=828 end=363724 sample=../Audio/Twang/47B1-B81D.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=921 end=364128 sample=../Audio/Twang/47B1-OKIU.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=577 end=363803 sample=../Audio/Twang/47B1-KXKU.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=838 end=363648 sample=../Audio/Twang/47B1-XC28.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=779 sample=../Audio/Twang/47B1-SWX1.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=828 end=363724 sample=../Audio/Twang/47B1-B81D.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=921 end=364128 sample=../Audio/Twang/47B1-OKIU.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=577 end=363803 sample=../Audio/Twang/47B1-KXKU.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=838 end=363648 sample=../Audio/Twang/47B1-XC28.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=467 end=366403 sample=../Audio/Twang/48C2-5II7.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=884 end=366732 sample=../Audio/Twang/48C2-KK1Q.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=900 end=367019 sample=../Audio/Twang/48C2-U56K.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=655 end=366792 sample=../Audio/Twang/48C2-7A9T.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=593 end=366695 sample=../Audio/Twang/48C2-YSZX.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=467 end=366403 sample=../Audio/Twang/48C2-5II7.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=884 end=366732 sample=../Audio/Twang/48C2-KK1Q.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=900 end=367019 sample=../Audio/Twang/48C2-U56K.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=655 end=366792 sample=../Audio/Twang/48C2-7A9T.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=593 end=366695 sample=../Audio/Twang/48C2-YSZX.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=943 end=372064 sample=../Audio/Twang/49C#2-L5S0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=786 end=371502 sample=../Audio/Twang/49C#2-VXQX.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=860 end=371570 sample=../Audio/Twang/49C#2-2HYV.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=912 end=371659 sample=../Audio/Twang/49C#2-FWK9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=535 end=372334 sample=../Audio/Twang/49C#2-97X2.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=943 end=372064 sample=../Audio/Twang/49C#2-L5S0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=786 end=371502 sample=../Audio/Twang/49C#2-VXQX.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=860 end=371570 sample=../Audio/Twang/49C#2-2HYV.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=912 end=371659 sample=../Audio/Twang/49C#2-FWK9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=535 end=372334 sample=../Audio/Twang/49C#2-97X2.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=721 sample=../Audio/Twang/50D2-W00L.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=841 end=366662 sample=../Audio/Twang/50D2-DD51.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=1016 end=366952 sample=../Audio/Twang/50D2-NW5D.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=631 end=366392 sample=../Audio/Twang/50D2-PC9V.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=458 end=366088 sample=../Audio/Twang/50D2-VRLK.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=721 sample=../Audio/Twang/50D2-W00L.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=841 end=366662 sample=../Audio/Twang/50D2-DD51.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=1016 end=366952 sample=../Audio/Twang/50D2-NW5D.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=631 end=366392 sample=../Audio/Twang/50D2-PC9V.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=458 end=366088 sample=../Audio/Twang/50D2-VRLK.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=574 end=361696 sample=../Audio/Twang/51D#2-WKWR.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=840 end=362061 sample=../Audio/Twang/51D#2-8RNR.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=916 end=362185 sample=../Audio/Twang/51D#2-AKYN.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=623 sample=../Audio/Twang/51D#2-TG85.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=977 end=362385 sample=../Audio/Twang/51D#2-9B5H.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=574 end=361696 sample=../Audio/Twang/51D#2-WKWR.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=840 end=362061 sample=../Audio/Twang/51D#2-8RNR.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=916 end=362185 sample=../Audio/Twang/51D#2-AKYN.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=623 sample=../Audio/Twang/51D#2-TG85.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=977 end=362385 sample=../Audio/Twang/51D#2-9B5H.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=999 end=364480 sample=../Audio/Twang/52E2-2TVG.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=818 end=364299 sample=../Audio/Twang/52E2-E9FC.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=826 end=364316 sample=../Audio/Twang/52E2-F44K.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=549 end=364051 sample=../Audio/Twang/52E2-BXYR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=814 end=364349 sample=../Audio/Twang/52E2-C78H.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=999 end=364480 sample=../Audio/Twang/52E2-2TVG.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=818 end=364299 sample=../Audio/Twang/52E2-E9FC.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=826 end=364316 sample=../Audio/Twang/52E2-F44K.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=549 end=364051 sample=../Audio/Twang/52E2-BXYR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=814 end=364349 sample=../Audio/Twang/52E2-C78H.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=671 end=363663 sample=../Audio/Twang/53F2-UMDK.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=892 end=363776 sample=../Audio/Twang/53F2-98WX.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=833 end=363386 sample=../Audio/Twang/53F2-BJMK.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=743 end=363967 sample=../Audio/Twang/53F2-533V.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=974 end=363593 sample=../Audio/Twang/53F2-79KE.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=671 end=363663 sample=../Audio/Twang/53F2-UMDK.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=892 end=363776 sample=../Audio/Twang/53F2-98WX.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=833 end=363386 sample=../Audio/Twang/53F2-BJMK.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=743 end=363967 sample=../Audio/Twang/53F2-533V.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=974 end=363593 sample=../Audio/Twang/53F2-79KE.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=869 end=368788 sample=../Audio/Twang/54F#2-AM2V.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=960 end=367019 sample=../Audio/Twang/54F#2-BEZ7.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=769 end=366630 sample=../Audio/Twang/54F#2-1BB6.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=855 end=367008 sample=../Audio/Twang/54F#2-8YSR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=487 end=366521 sample=../Audio/Twang/54F#2-Z0EM.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=869 end=368788 sample=../Audio/Twang/54F#2-AM2V.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=960 end=367019 sample=../Audio/Twang/54F#2-BEZ7.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=769 end=366630 sample=../Audio/Twang/54F#2-1BB6.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=855 end=367008 sample=../Audio/Twang/54F#2-8YSR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=487 end=366521 sample=../Audio/Twang/54F#2-Z0EM.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=815 end=371967 sample=../Audio/Twang/55G2-982O.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=729 sample=../Audio/Twang/55G2-9FER.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=843 end=371953 sample=../Audio/Twang/55G2-V8NX.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=457 end=371210 sample=../Audio/Twang/55G2-GN1V.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=505 end=371574 sample=../Audio/Twang/55G2-BVFL.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=815 end=371967 sample=../Audio/Twang/55G2-982O.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=729 sample=../Audio/Twang/55G2-9FER.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=843 end=371953 sample=../Audio/Twang/55G2-V8NX.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=457 end=371210 sample=../Audio/Twang/55G2-GN1V.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=505 end=371574 sample=../Audio/Twang/55G2-BVFL.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=460 end=365873 sample=../Audio/Twang/56G#2-A6KW.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=546 end=365730 sample=../Audio/Twang/56G#2-BYT6.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=896 end=366615 sample=../Audio/Twang/56G#2-CUAA.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=860 end=366619 sample=../Audio/Twang/56G#2-GP6N.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=891 end=366829 sample=../Audio/Twang/56G#2-CELX.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=460 end=365873 sample=../Audio/Twang/56G#2-A6KW.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=546 end=365730 sample=../Audio/Twang/56G#2-BYT6.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=896 end=366615 sample=../Audio/Twang/56G#2-CUAA.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=860 end=366619 sample=../Audio/Twang/56G#2-GP6N.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=891 end=366829 sample=../Audio/Twang/56G#2-CELX.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=698 end=361857 sample=../Audio/Twang/57A2-3PVV.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=876 end=362161 sample=../Audio/Twang/57A2-3M73.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=890 end=362012 sample=../Audio/Twang/57A2-3NSH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=1002 end=362242 sample=../Audio/Twang/57A2-Y68A.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=575 end=361795 sample=../Audio/Twang/57A2-49X3.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=698 end=361857 sample=../Audio/Twang/57A2-3PVV.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=876 end=362161 sample=../Audio/Twang/57A2-3M73.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=890 end=362012 sample=../Audio/Twang/57A2-3NSH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=1002 end=362242 sample=../Audio/Twang/57A2-Y68A.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=575 end=361795 sample=../Audio/Twang/57A2-49X3.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=734 sample=../Audio/Twang/58A#2-UMQP.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=578 end=363968 sample=../Audio/Twang/58A#2-QFMX.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=839 end=364209 sample=../Audio/Twang/58A#2-Y75Z.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=505 end=363845 sample=../Audio/Twang/58A#2-5SGR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=883 sample=../Audio/Twang/58A#2-GB09.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=734 sample=../Audio/Twang/58A#2-UMQP.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=578 end=363968 sample=../Audio/Twang/58A#2-QFMX.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=839 end=364209 sample=../Audio/Twang/58A#2-Y75Z.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=505 end=363845 sample=../Audio/Twang/58A#2-5SGR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=883 sample=../Audio/Twang/58A#2-GB09.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=808 end=363284 sample=../Audio/Twang/59B2-7TN0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=596 end=363240 sample=../Audio/Twang/59B2-DIFG.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=727 end=363859 sample=../Audio/Twang/59B2-MQH8.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=657 end=363108 sample=../Audio/Twang/59B2-QW5N.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=577 end=363283 sample=../Audio/Twang/59B2-GOMA.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=808 end=363284 sample=../Audio/Twang/59B2-7TN0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=596 end=363240 sample=../Audio/Twang/59B2-DIFG.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=727 end=363859 sample=../Audio/Twang/59B2-MQH8.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=657 end=363108 sample=../Audio/Twang/59B2-QW5N.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=577 end=363283 sample=../Audio/Twang/59B2-GOMA.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=855 end=366766 sample=../Audio/Twang/60C3-ESQ8.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=941 end=366850 sample=../Audio/Twang/60C3-FOON.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=631 end=366774 sample=../Audio/Twang/60C3-3VST.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=863 end=366596 sample=../Audio/Twang/60C3-KG5A.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=908 end=367516 sample=../Audio/Twang/60C3-OEHO.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=855 end=366766 sample=../Audio/Twang/60C3-ESQ8.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=941 end=366850 sample=../Audio/Twang/60C3-FOON.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=631 end=366774 sample=../Audio/Twang/60C3-3VST.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=863 end=366596 sample=../Audio/Twang/60C3-KG5A.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=908 end=367516 sample=../Audio/Twang/60C3-OEHO.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=526 end=371445 sample=../Audio/Twang/61C#3-J0K7.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=743 end=371489 sample=../Audio/Twang/61C#3-4Y5L.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=843 end=371649 sample=../Audio/Twang/61C#3-4QBZ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=904 sample=../Audio/Twang/61C#3-QCW1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=416 end=371144 sample=../Audio/Twang/61C#3-1R0Z.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=526 end=371445 sample=../Audio/Twang/61C#3-J0K7.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=743 end=371489 sample=../Audio/Twang/61C#3-4Y5L.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=843 end=371649 sample=../Audio/Twang/61C#3-4QBZ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=904 sample=../Audio/Twang/61C#3-QCW1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=416 end=371144 sample=../Audio/Twang/61C#3-1R0Z.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=519 end=366351 sample=../Audio/Twang/62D3-1PRW.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=990 end=366796 sample=../Audio/Twang/62D3-YFQ6.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=954 end=365836 sample=../Audio/Twang/62D3-ZCJZ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=976 end=365845 sample=../Audio/Twang/62D3-DBAK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=879 end=366657 sample=../Audio/Twang/62D3-M90R.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=519 end=366351 sample=../Audio/Twang/62D3-1PRW.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=990 end=366796 sample=../Audio/Twang/62D3-YFQ6.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=954 end=365836 sample=../Audio/Twang/62D3-ZCJZ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=976 end=365845 sample=../Audio/Twang/62D3-DBAK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=879 end=366657 sample=../Audio/Twang/62D3-M90R.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=452 sample=../Audio/Twang/63D#3-BZF6.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=855 end=362153 sample=../Audio/Twang/63D#3-RRMQ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=599 end=361784 sample=../Audio/Twang/63D#3-RNE6.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=847 end=362037 sample=../Audio/Twang/63D#3-IL40.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=999 end=362295 sample=../Audio/Twang/63D#3-W91W.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=452 sample=../Audio/Twang/63D#3-BZF6.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=855 end=362153 sample=../Audio/Twang/63D#3-RRMQ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=599 end=361784 sample=../Audio/Twang/63D#3-RNE6.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=847 end=362037 sample=../Audio/Twang/63D#3-IL40.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=999 end=362295 sample=../Audio/Twang/63D#3-W91W.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=766 end=364269 sample=../Audio/Twang/64E3-G0YQ.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=825 end=364160 sample=../Audio/Twang/64E3-QIGS.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=481 sample=../Audio/Twang/64E3-VU7X.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=949 end=364418 sample=../Audio/Twang/64E3-26D8.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=926 end=364494 sample=../Audio/Twang/64E3-9JW8.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=766 end=364269 sample=../Audio/Twang/64E3-G0YQ.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=825 end=364160 sample=../Audio/Twang/64E3-QIGS.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=481 sample=../Audio/Twang/64E3-VU7X.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=949 end=364418 sample=../Audio/Twang/64E3-26D8.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=926 end=364494 sample=../Audio/Twang/64E3-9JW8.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=617 end=363963 sample=../Audio/Twang/65F3-LEQE.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=697 end=363362 sample=../Audio/Twang/65F3-Z5CL.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=428 end=362923 sample=../Audio/Twang/65F3-6KH3.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=639 end=363086 sample=../Audio/Twang/65F3-NQHP.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=1028 sample=../Audio/Twang/65F3-KOQ6.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=617 end=363963 sample=../Audio/Twang/65F3-LEQE.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=697 end=363362 sample=../Audio/Twang/65F3-Z5CL.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=428 end=362923 sample=../Audio/Twang/65F3-6KH3.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=639 end=363086 sample=../Audio/Twang/65F3-NQHP.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=1028 sample=../Audio/Twang/65F3-KOQ6.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=578 end=366474 sample=../Audio/Twang/66F#3-ZHU5.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=657 end=366341 sample=../Audio/Twang/66F#3-LQSM.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=523 end=365966 sample=../Audio/Twang/66F#3-Z0FS.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=766 end=366633 sample=../Audio/Twang/66F#3-0EY5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=818 end=366769 sample=../Audio/Twang/66F#3-MHLN.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=578 end=366474 sample=../Audio/Twang/66F#3-ZHU5.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=657 end=366341 sample=../Audio/Twang/66F#3-LQSM.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=523 end=365966 sample=../Audio/Twang/66F#3-Z0FS.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=766 end=366633 sample=../Audio/Twang/66F#3-0EY5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=818 end=366769 sample=../Audio/Twang/66F#3-MHLN.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=755 end=371466 sample=../Audio/Twang/67G3-PS6B.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=893 end=371609 sample=../Audio/Twang/67G3-QZCL.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=884 end=371715 sample=../Audio/Twang/67G3-2FHZ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=633 end=371351 sample=../Audio/Twang/67G3-GYHB.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=875 end=371686 sample=../Audio/Twang/67G3-0D0G.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=755 end=371466 sample=../Audio/Twang/67G3-PS6B.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=893 end=371609 sample=../Audio/Twang/67G3-QZCL.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=884 end=371715 sample=../Audio/Twang/67G3-2FHZ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=633 end=371351 sample=../Audio/Twang/67G3-GYHB.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=875 end=371686 sample=../Audio/Twang/67G3-0D0G.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=852 end=366367 sample=../Audio/Twang/68G#3-PT7S.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=847 end=365704 sample=../Audio/Twang/68G#3-IT7W.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=873 sample=../Audio/Twang/68G#3-XGY6.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=944 sample=../Audio/Twang/68G#3-V8R1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=459 end=366100 sample=../Audio/Twang/68G#3-M03B.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=852 end=366367 sample=../Audio/Twang/68G#3-PT7S.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=847 end=365704 sample=../Audio/Twang/68G#3-IT7W.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=873 sample=../Audio/Twang/68G#3-XGY6.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=944 sample=../Audio/Twang/68G#3-V8R1.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=459 end=366100 sample=../Audio/Twang/68G#3-M03B.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=783 end=362164 sample=../Audio/Twang/69A3-M1VI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=722 end=361895 sample=../Audio/Twang/69A3-0NBH.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=981 end=362011 sample=../Audio/Twang/69A3-0OAB.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=987 end=362257 sample=../Audio/Twang/69A3-MZE8.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=911 end=362048 sample=../Audio/Twang/69A3-60GW.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=783 end=362164 sample=../Audio/Twang/69A3-M1VI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=722 end=361895 sample=../Audio/Twang/69A3-0NBH.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=981 end=362011 sample=../Audio/Twang/69A3-0OAB.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=987 end=362257 sample=../Audio/Twang/69A3-MZE8.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=911 end=362048 sample=../Audio/Twang/69A3-60GW.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=884 end=364348 sample=../Audio/Twang/70A#3-TUT3.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=604 end=364109 sample=../Audio/Twang/70A#3-QXHA.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=1036 end=364607 sample=../Audio/Twang/70A#3-GY09.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=953 end=364496 sample=../Audio/Twang/70A#3-NZS5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=400 end=363850 sample=../Audio/Twang/70A#3-FKH3.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=884 end=364348 sample=../Audio/Twang/70A#3-TUT3.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=604 end=364109 sample=../Audio/Twang/70A#3-QXHA.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=1036 end=364607 sample=../Audio/Twang/70A#3-GY09.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=953 end=364496 sample=../Audio/Twang/70A#3-NZS5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=400 end=363850 sample=../Audio/Twang/70A#3-FKH3.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=889 end=363434 sample=../Audio/Twang/71B3-0AH7.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=584 end=363000 sample=../Audio/Twang/71B3-JCI8.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=820 end=363424 sample=../Audio/Twang/71B3-L0LH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=647 end=363056 sample=../Audio/Twang/71B3-UQQH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=681 end=363331 sample=../Audio/Twang/71B3-WK71.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=889 end=363434 sample=../Audio/Twang/71B3-0AH7.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=584 end=363000 sample=../Audio/Twang/71B3-JCI8.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=820 end=363424 sample=../Audio/Twang/71B3-L0LH.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=647 end=363056 sample=../Audio/Twang/71B3-UQQH.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=681 end=363331 sample=../Audio/Twang/71B3-WK71.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=1001 end=365573 sample=../Audio/Twang/72C4-BZU0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=531 end=366453 sample=../Audio/Twang/72C4-8PIS.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=971 end=366943 sample=../Audio/Twang/72C4-8EX0.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=611 end=366475 sample=../Audio/Twang/72C4-F9SG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=737 end=366731 sample=../Audio/Twang/72C4-0KK2.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=1001 end=365573 sample=../Audio/Twang/72C4-BZU0.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=531 end=366453 sample=../Audio/Twang/72C4-8PIS.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=971 end=366943 sample=../Audio/Twang/72C4-8EX0.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=611 end=366475 sample=../Audio/Twang/72C4-F9SG.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=737 end=366731 sample=../Audio/Twang/72C4-0KK2.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=629 end=371626 sample=../Audio/Twang/73C#4-L8FG.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=968 end=371894 sample=../Audio/Twang/73C#4-PBVZ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=893 end=371794 sample=../Audio/Twang/73C#4-DFFG.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=595 end=371464 sample=../Audio/Twang/73C#4-GR0Y.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=572 end=371495 sample=../Audio/Twang/73C#4-I2W9.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=629 end=371626 sample=../Audio/Twang/73C#4-L8FG.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=968 end=371894 sample=../Audio/Twang/73C#4-PBVZ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=893 end=371794 sample=../Audio/Twang/73C#4-DFFG.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=595 end=371464 sample=../Audio/Twang/73C#4-GR0Y.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=572 end=371495 sample=../Audio/Twang/73C#4-I2W9.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=673 end=365696 sample=../Audio/Twang/74D4-MSTL.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=928 end=365842 sample=../Audio/Twang/74D4-JN45.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=723 end=366141 sample=../Audio/Twang/74D4-QXIB.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=974 end=366001 sample=../Audio/Twang/74D4-X6M5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=559 end=365642 sample=../Audio/Twang/74D4-X84S.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=673 end=365696 sample=../Audio/Twang/74D4-MSTL.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=928 end=365842 sample=../Audio/Twang/74D4-JN45.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=723 end=366141 sample=../Audio/Twang/74D4-QXIB.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=974 end=366001 sample=../Audio/Twang/74D4-X6M5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=559 end=365642 sample=../Audio/Twang/74D4-X84S.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=618 end=361874 sample=../Audio/Twang/75D#4-8WID.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=817 sample=../Audio/Twang/75D#4-6EEQ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=777 end=362167 sample=../Audio/Twang/75D#4-YZQE.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=645 end=362201 sample=../Audio/Twang/75D#4-T6ES.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=831 end=362262 sample=../Audio/Twang/75D#4-ATIF.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=618 end=361874 sample=../Audio/Twang/75D#4-8WID.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=817 sample=../Audio/Twang/75D#4-6EEQ.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=777 end=362167 sample=../Audio/Twang/75D#4-YZQE.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=645 end=362201 sample=../Audio/Twang/75D#4-T6ES.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=831 end=362262 sample=../Audio/Twang/75D#4-ATIF.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=643 end=364337 sample=../Audio/Twang/76E4-RP1M.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=617 end=364169 sample=../Audio/Twang/76E4-J35G.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=1041 end=364191 sample=../Audio/Twang/76E4-7Y6I.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=702 end=364501 sample=../Audio/Twang/76E4-8BEA.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=1014 end=364314 sample=../Audio/Twang/76E4-O7T8.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=643 end=364337 sample=../Audio/Twang/76E4-RP1M.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=617 end=364169 sample=../Audio/Twang/76E4-J35G.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=1041 end=364191 sample=../Audio/Twang/76E4-7Y6I.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=702 end=364501 sample=../Audio/Twang/76E4-8BEA.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=1014 end=364314 sample=../Audio/Twang/76E4-O7T8.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=682 end=363038 sample=../Audio/Twang/77F4-31HI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=732 end=363420 sample=../Audio/Twang/77F4-1FCP.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=590 end=363071 sample=../Audio/Twang/77F4-OCN2.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=959 end=363625 sample=../Audio/Twang/77F4-N8MU.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=486 end=363228 sample=../Audio/Twang/77F4-4GGJ.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=682 end=363038 sample=../Audio/Twang/77F4-31HI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=732 end=363420 sample=../Audio/Twang/77F4-1FCP.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=590 end=363071 sample=../Audio/Twang/77F4-OCN2.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=959 end=363625 sample=../Audio/Twang/77F4-N8MU.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=486 end=363228 sample=../Audio/Twang/77F4-4GGJ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=871 end=366367 sample=../Audio/Twang/78F#4-SCNI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=574 end=364590 sample=../Audio/Twang/78F#4-XEOG.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=863 end=366025 sample=../Audio/Twang/78F#4-P8MJ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=753 end=366932 sample=../Audio/Twang/78F#4-OPNA.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=891 end=367048 sample=../Audio/Twang/78F#4-UT33.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=871 end=366367 sample=../Audio/Twang/78F#4-SCNI.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=574 end=364590 sample=../Audio/Twang/78F#4-XEOG.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=863 end=366025 sample=../Audio/Twang/78F#4-P8MJ.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=753 end=366932 sample=../Audio/Twang/78F#4-OPNA.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=891 end=367048 sample=../Audio/Twang/78F#4-UT33.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=603 end=371703 sample=../Audio/Twang/79G4-QKUK.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=782 end=371832 sample=../Audio/Twang/79G4-UFYP.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=585 sample=../Audio/Twang/79G4-EY8D.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=800 end=371856 sample=../Audio/Twang/79G4-7FEY.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=581 sample=../Audio/Twang/79G4-OXGT.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=603 end=371703 sample=../Audio/Twang/79G4-QKUK.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=782 end=371832 sample=../Audio/Twang/79G4-UFYP.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=585 sample=../Audio/Twang/79G4-EY8D.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=800 end=371856 sample=../Audio/Twang/79G4-7FEY.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=581 sample=../Audio/Twang/79G4-OXGT.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=483 end=365653 sample=../Audio/Twang/80G#4-JC4S.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=649 end=365872 sample=../Audio/Twang/80G#4-S20D.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=575 end=365503 sample=../Audio/Twang/80G#4-BJC9.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=927 end=363927 sample=../Audio/Twang/80G#4-9SZ4.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=920 sample=../Audio/Twang/80G#4-3MR5.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=483 end=365653 sample=../Audio/Twang/80G#4-JC4S.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=649 end=365872 sample=../Audio/Twang/80G#4-S20D.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=575 end=365503 sample=../Audio/Twang/80G#4-BJC9.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=927 end=363927 sample=../Audio/Twang/80G#4-9SZ4.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=920 sample=../Audio/Twang/80G#4-3MR5.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=534 end=362047 sample=../Audio/Twang/81A4-GD9J.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=1018 end=362507 sample=../Audio/Twang/81A4-PH2G.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=937 end=362307 sample=../Audio/Twang/81A4-LOQI.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=630 end=361012 sample=../Audio/Twang/81A4-XFWW.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=810 end=362237 sample=../Audio/Twang/81A4-UWRV.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=534 end=362047 sample=../Audio/Twang/81A4-GD9J.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=1018 end=362507 sample=../Audio/Twang/81A4-PH2G.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=937 end=362307 sample=../Audio/Twang/81A4-LOQI.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=630 end=361012 sample=../Audio/Twang/81A4-XFWW.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=810 end=362237 sample=../Audio/Twang/81A4-UWRV.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=823 end=364450 sample=../Audio/Twang/82A#4-GMMR.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=834 end=363264 sample=../Audio/Twang/82A#4-I1TD.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=724 end=364340 sample=../Audio/Twang/82A#4-P6YT.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=759 end=364471 sample=../Audio/Twang/82A#4-4Z2F.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=674 end=364193 sample=../Audio/Twang/82A#4-HC4A.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=823 end=364450 sample=../Audio/Twang/82A#4-GMMR.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=834 end=363264 sample=../Audio/Twang/82A#4-I1TD.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=724 end=364340 sample=../Audio/Twang/82A#4-P6YT.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=759 end=364471 sample=../Audio/Twang/82A#4-4Z2F.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=674 end=364193 sample=../Audio/Twang/82A#4-HC4A.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=934 end=363755 sample=../Audio/Twang/83B4-AYOU.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=866 sample=../Audio/Twang/83B4-V1K3.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=489 sample=../Audio/Twang/83B4-V5I0.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=748 end=363490 sample=../Audio/Twang/83B4-DLJ6.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=991 end=363761 sample=../Audio/Twang/83B4-OLCW.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=934 end=363755 sample=../Audio/Twang/83B4-AYOU.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=866 sample=../Audio/Twang/83B4-V1K3.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=489 sample=../Audio/Twang/83B4-V5I0.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=748 end=363490 sample=../Audio/Twang/83B4-DLJ6.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=991 end=363761 sample=../Audio/Twang/83B4-OLCW.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 offset=913 end=366130 sample=../Audio/Twang/84C5-23WY.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 offset=921 sample=../Audio/Twang/84C5-NWWK.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 offset=673 end=366348 sample=../Audio/Twang/84C5-SNQA.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 offset=853 end=364698 sample=../Audio/Twang/84C5-5QD9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=759 end=365724 sample=../Audio/Twang/84C5-M8U9.wav
+	<region> lovel=001 hivel=025 amp_velcurve_025=1 tune=16 offset=913 end=366130 sample=../Audio/Twang/84C5-23WY.wav
+	<region> lovel=026 hivel=050 amp_velcurve_050=1 tune=16 offset=921 sample=../Audio/Twang/84C5-NWWK.wav
+	<region> lovel=051 hivel=075 amp_velcurve_075=1 tune=16 offset=673 end=366348 sample=../Audio/Twang/84C5-SNQA.wav
+	<region> lovel=076 hivel=090 amp_velcurve_090=1 tune=16 offset=853 end=364698 sample=../Audio/Twang/84C5-5QD9.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=16 offset=759 end=365724 sample=../Audio/Twang/84C5-M8U9.wav

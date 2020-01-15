@@ -1,0 +1,246 @@
+// this file was generated from PWMPad Stack.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=452579 loop_mode=loop_sustain loop_start=183491 loop_end=320742 sample=../Audio/PWMlead/24C0-P6TR.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=452579 loop_mode=loop_sustain loop_start=183491 loop_end=320742 sample=../Audio/PWMlead/24C0-P6TR.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=452579 loop_mode=loop_sustain loop_start=183491 loop_end=320742 sample=../Audio/PWMlead/24C0-P6TR.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=999 loop_mode=loop_sustain loop_start=191960 loop_end=317911 sample=../Audio/PWMlead/25C#0-8JXG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=999 loop_mode=loop_sustain loop_start=191960 loop_end=317911 sample=../Audio/PWMlead/25C#0-8JXG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=999 loop_mode=loop_sustain loop_start=191960 loop_end=317911 sample=../Audio/PWMlead/25C#0-8JXG.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=455123 loop_mode=loop_sustain loop_start=52518 loop_end=185602 sample=../Audio/PWMlead/26D0-3SX1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=455123 loop_mode=loop_sustain loop_start=52518 loop_end=185602 sample=../Audio/PWMlead/26D0-3SX1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=455123 loop_mode=loop_sustain loop_start=52518 loop_end=185602 sample=../Audio/PWMlead/26D0-3SX1.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=949 end=460131 loop_mode=loop_sustain loop_start=47541 loop_end=311324 sample=../Audio/PWMlead/27D#0-MFQY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=949 end=460131 loop_mode=loop_sustain loop_start=47541 loop_end=311324 sample=../Audio/PWMlead/27D#0-MFQY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=949 end=460131 loop_mode=loop_sustain loop_start=47541 loop_end=311324 sample=../Audio/PWMlead/27D#0-MFQY.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=902 end=453315 loop_mode=loop_sustain loop_start=210028 loop_end=331718 sample=../Audio/PWMlead/28E0-2890.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=902 end=453315 loop_mode=loop_sustain loop_start=210028 loop_end=331718 sample=../Audio/PWMlead/28E0-2890.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=902 end=453315 loop_mode=loop_sustain loop_start=210028 loop_end=331718 sample=../Audio/PWMlead/28E0-2890.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=449463 loop_mode=loop_sustain loop_start=173949 loop_end=310092 sample=../Audio/PWMlead/29F0-E6OU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=449463 loop_mode=loop_sustain loop_start=173949 loop_end=310092 sample=../Audio/PWMlead/29F0-E6OU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=449463 loop_mode=loop_sustain loop_start=173949 loop_end=310092 sample=../Audio/PWMlead/29F0-E6OU.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 loop_mode=loop_sustain loop_start=116390 loop_end=356004 sample=../Audio/PWMlead/30F#0-082H.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 loop_mode=loop_sustain loop_start=116390 loop_end=356004 sample=../Audio/PWMlead/30F#0-082H.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 loop_mode=loop_sustain loop_start=116390 loop_end=356004 sample=../Audio/PWMlead/30F#0-082H.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=451237 loop_mode=loop_sustain loop_start=274076 loop_end=363143 sample=../Audio/PWMlead/31G0-SWNA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=451237 loop_mode=loop_sustain loop_start=274076 loop_end=363143 sample=../Audio/PWMlead/31G0-SWNA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=451237 loop_mode=loop_sustain loop_start=274076 loop_end=363143 sample=../Audio/PWMlead/31G0-SWNA.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=454992 loop_mode=loop_sustain loop_start=91566 loop_end=180544 sample=../Audio/PWMlead/32G#0-X3YM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=454992 loop_mode=loop_sustain loop_start=91566 loop_end=180544 sample=../Audio/PWMlead/32G#0-X3YM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=454992 loop_mode=loop_sustain loop_start=91566 loop_end=180544 sample=../Audio/PWMlead/32G#0-X3YM.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=458231 loop_mode=loop_sustain loop_start=219530 loop_end=361870 sample=../Audio/PWMlead/33A0-K4KW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=458231 loop_mode=loop_sustain loop_start=219530 loop_end=361870 sample=../Audio/PWMlead/33A0-K4KW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=458231 loop_mode=loop_sustain loop_start=219530 loop_end=361870 sample=../Audio/PWMlead/33A0-K4KW.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=803 end=453447 loop_mode=loop_sustain loop_start=23743 loop_end=364117 sample=../Audio/PWMlead/34A#0-KXX9.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=803 end=453447 loop_mode=loop_sustain loop_start=23743 loop_end=364117 sample=../Audio/PWMlead/34A#0-KXX9.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=803 end=453447 loop_mode=loop_sustain loop_start=23743 loop_end=364117 sample=../Audio/PWMlead/34A#0-KXX9.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1087 end=449894 loop_mode=loop_sustain loop_start=178201 loop_end=340811 sample=../Audio/PWMlead/35B0-W9GP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1087 end=449894 loop_mode=loop_sustain loop_start=178201 loop_end=340811 sample=../Audio/PWMlead/35B0-W9GP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1087 end=449894 loop_mode=loop_sustain loop_start=178201 loop_end=340811 sample=../Audio/PWMlead/35B0-W9GP.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=451139 loop_mode=loop_sustain loop_start=124491 loop_end=224681 sample=../Audio/PWMlead/36C1-A57I.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=451139 loop_mode=loop_sustain loop_start=124491 loop_end=224681 sample=../Audio/PWMlead/36C1-A57I.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=451139 loop_mode=loop_sustain loop_start=124491 loop_end=224681 sample=../Audio/PWMlead/36C1-A57I.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=465 loop_mode=loop_sustain loop_start=88465 loop_end=307698 sample=../Audio/PWMlead/37C#1-DK1E.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=465 loop_mode=loop_sustain loop_start=88465 loop_end=307698 sample=../Audio/PWMlead/37C#1-DK1E.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=465 loop_mode=loop_sustain loop_start=88465 loop_end=307698 sample=../Audio/PWMlead/37C#1-DK1E.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=802 end=454813 loop_mode=loop_sustain loop_start=123970 loop_end=256934 sample=../Audio/PWMlead/38D1-KIBA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=802 end=454813 loop_mode=loop_sustain loop_start=123970 loop_end=256934 sample=../Audio/PWMlead/38D1-KIBA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=802 end=454813 loop_mode=loop_sustain loop_start=123970 loop_end=256934 sample=../Audio/PWMlead/38D1-KIBA.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 end=457640 loop_mode=loop_sustain loop_start=259462 loop_end=356642 sample=../Audio/PWMlead/39D#1-W2AU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 end=457640 loop_mode=loop_sustain loop_start=259462 loop_end=356642 sample=../Audio/PWMlead/39D#1-W2AU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 end=457640 loop_mode=loop_sustain loop_start=259462 loop_end=356642 sample=../Audio/PWMlead/39D#1-W2AU.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 end=452610 loop_mode=loop_sustain loop_start=155377 loop_end=277102 sample=../Audio/PWMlead/40E1-DDMG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 end=452610 loop_mode=loop_sustain loop_start=155377 loop_end=277102 sample=../Audio/PWMlead/40E1-DDMG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 end=452610 loop_mode=loop_sustain loop_start=155377 loop_end=277102 sample=../Audio/PWMlead/40E1-DDMG.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=928 end=448909 loop_mode=loop_sustain loop_start=33122 loop_end=196927 sample=../Audio/PWMlead/41F1-KMTM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=928 end=448909 loop_mode=loop_sustain loop_start=33122 loop_end=196927 sample=../Audio/PWMlead/41F1-KMTM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=928 end=448909 loop_mode=loop_sustain loop_start=33122 loop_end=196927 sample=../Audio/PWMlead/41F1-KMTM.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=451108 loop_mode=loop_sustain loop_start=104160 loop_end=202491 sample=../Audio/PWMlead/42F#1-B1FT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=451108 loop_mode=loop_sustain loop_start=104160 loop_end=202491 sample=../Audio/PWMlead/42F#1-B1FT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=451108 loop_mode=loop_sustain loop_start=104160 loop_end=202491 sample=../Audio/PWMlead/42F#1-B1FT.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=450755 loop_mode=loop_sustain loop_start=98303 loop_end=283311 sample=../Audio/PWMlead/43G1-ZI56.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=450755 loop_mode=loop_sustain loop_start=98303 loop_end=283311 sample=../Audio/PWMlead/43G1-ZI56.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=450755 loop_mode=loop_sustain loop_start=98303 loop_end=283311 sample=../Audio/PWMlead/43G1-ZI56.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=774 end=453506 loop_mode=loop_sustain loop_start=147393 loop_end=322348 sample=../Audio/PWMlead/44G#1-SWED.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=774 end=453506 loop_mode=loop_sustain loop_start=147393 loop_end=322348 sample=../Audio/PWMlead/44G#1-SWED.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=774 end=453506 loop_mode=loop_sustain loop_start=147393 loop_end=322348 sample=../Audio/PWMlead/44G#1-SWED.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=839 end=459114 loop_mode=loop_sustain loop_start=26255 loop_end=365172 sample=../Audio/PWMlead/45A1-G63Y.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=839 end=459114 loop_mode=loop_sustain loop_start=26255 loop_end=365172 sample=../Audio/PWMlead/45A1-G63Y.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=839 end=459114 loop_mode=loop_sustain loop_start=26255 loop_end=365172 sample=../Audio/PWMlead/45A1-G63Y.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=454385 loop_mode=loop_sustain loop_start=123366 loop_end=350645 sample=../Audio/PWMlead/46A#1-UBAG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=454385 loop_mode=loop_sustain loop_start=123366 loop_end=350645 sample=../Audio/PWMlead/46A#1-UBAG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=454385 loop_mode=loop_sustain loop_start=123366 loop_end=350645 sample=../Audio/PWMlead/46A#1-UBAG.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=708 end=450127 loop_mode=loop_sustain loop_start=70580 loop_end=342984 sample=../Audio/PWMlead/47B1-5JSD.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=708 end=450127 loop_mode=loop_sustain loop_start=70580 loop_end=342984 sample=../Audio/PWMlead/47B1-5JSD.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=708 end=450127 loop_mode=loop_sustain loop_start=70580 loop_end=342984 sample=../Audio/PWMlead/47B1-5JSD.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=450910 loop_mode=loop_sustain loop_start=137984 loop_end=359116 sample=../Audio/PWMlead/48C2-TEJ3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=450910 loop_mode=loop_sustain loop_start=137984 loop_end=359116 sample=../Audio/PWMlead/48C2-TEJ3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=450910 loop_mode=loop_sustain loop_start=137984 loop_end=359116 sample=../Audio/PWMlead/48C2-TEJ3.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=957 end=451987 loop_mode=loop_sustain loop_start=109018 loop_end=345655 sample=../Audio/PWMlead/49C#2-N2OI.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=957 end=451987 loop_mode=loop_sustain loop_start=109018 loop_end=345655 sample=../Audio/PWMlead/49C#2-N2OI.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=957 end=451987 loop_mode=loop_sustain loop_start=109018 loop_end=345655 sample=../Audio/PWMlead/49C#2-N2OI.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=943 end=453470 loop_mode=loop_sustain loop_start=69033 loop_end=194150 sample=../Audio/PWMlead/50D2-6Y3T.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=943 end=453470 loop_mode=loop_sustain loop_start=69033 loop_end=194150 sample=../Audio/PWMlead/50D2-6Y3T.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=943 end=453470 loop_mode=loop_sustain loop_start=69033 loop_end=194150 sample=../Audio/PWMlead/50D2-6Y3T.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=934 end=457832 loop_mode=loop_sustain loop_start=53785 loop_end=134845 sample=../Audio/PWMlead/51D#2-SRXS.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=934 end=457832 loop_mode=loop_sustain loop_start=53785 loop_end=134845 sample=../Audio/PWMlead/51D#2-SRXS.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=934 end=457832 loop_mode=loop_sustain loop_start=53785 loop_end=134845 sample=../Audio/PWMlead/51D#2-SRXS.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=452879 loop_mode=loop_sustain loop_start=83421 loop_end=202178 sample=../Audio/PWMlead/52E2-LVYC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=452879 loop_mode=loop_sustain loop_start=83421 loop_end=202178 sample=../Audio/PWMlead/52E2-LVYC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=452879 loop_mode=loop_sustain loop_start=83421 loop_end=202178 sample=../Audio/PWMlead/52E2-LVYC.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 end=450714 loop_mode=loop_sustain loop_start=61492 loop_end=265361 sample=../Audio/PWMlead/53F2-VL5N.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 end=450714 loop_mode=loop_sustain loop_start=61492 loop_end=265361 sample=../Audio/PWMlead/53F2-VL5N.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 end=450714 loop_mode=loop_sustain loop_start=61492 loop_end=265361 sample=../Audio/PWMlead/53F2-VL5N.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1038 end=451252 loop_mode=loop_sustain loop_start=75699 loop_end=152439 sample=../Audio/PWMlead/54F#2-EF3S.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1038 end=451252 loop_mode=loop_sustain loop_start=75699 loop_end=152439 sample=../Audio/PWMlead/54F#2-EF3S.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1038 end=451252 loop_mode=loop_sustain loop_start=75699 loop_end=152439 sample=../Audio/PWMlead/54F#2-EF3S.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1020 end=451601 loop_mode=loop_sustain loop_start=60683 loop_end=199903 sample=../Audio/PWMlead/55G2-CW87.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1020 end=451601 loop_mode=loop_sustain loop_start=60683 loop_end=199903 sample=../Audio/PWMlead/55G2-CW87.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1020 end=451601 loop_mode=loop_sustain loop_start=60683 loop_end=199903 sample=../Audio/PWMlead/55G2-CW87.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=453284 loop_mode=loop_sustain loop_start=92533 loop_end=195034 sample=../Audio/PWMlead/56G#2-J7WU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=453284 loop_mode=loop_sustain loop_start=92533 loop_end=195034 sample=../Audio/PWMlead/56G#2-J7WU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=453284 loop_mode=loop_sustain loop_start=92533 loop_end=195034 sample=../Audio/PWMlead/56G#2-J7WU.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 end=456852 loop_mode=loop_sustain loop_start=159165 loop_end=270763 sample=../Audio/PWMlead/57A2-RJYU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 end=456852 loop_mode=loop_sustain loop_start=159165 loop_end=270763 sample=../Audio/PWMlead/57A2-RJYU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 end=456852 loop_mode=loop_sustain loop_start=159165 loop_end=270763 sample=../Audio/PWMlead/57A2-RJYU.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 end=453642 loop_mode=loop_sustain loop_start=88522 loop_end=166365 sample=../Audio/PWMlead/58A#2-2O85.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 end=453642 loop_mode=loop_sustain loop_start=88522 loop_end=166365 sample=../Audio/PWMlead/58A#2-2O85.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 end=453642 loop_mode=loop_sustain loop_start=88522 loop_end=166365 sample=../Audio/PWMlead/58A#2-2O85.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=449203 loop_mode=loop_sustain loop_start=159843 loop_end=307361 sample=../Audio/PWMlead/59B2-3LRP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=449203 loop_mode=loop_sustain loop_start=159843 loop_end=307361 sample=../Audio/PWMlead/59B2-3LRP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=449203 loop_mode=loop_sustain loop_start=159843 loop_end=307361 sample=../Audio/PWMlead/59B2-3LRP.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 end=451050 loop_mode=loop_sustain loop_start=167169 loop_end=240905 sample=../Audio/PWMlead/60C3-T30S.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 end=451050 loop_mode=loop_sustain loop_start=167169 loop_end=240905 sample=../Audio/PWMlead/60C3-T30S.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 end=451050 loop_mode=loop_sustain loop_start=167169 loop_end=240905 sample=../Audio/PWMlead/60C3-T30S.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=882 end=451588 loop_mode=loop_sustain loop_start=157162 loop_end=365173 sample=../Audio/PWMlead/61C#3-Y9HQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=882 end=451588 loop_mode=loop_sustain loop_start=157162 loop_end=365173 sample=../Audio/PWMlead/61C#3-Y9HQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=882 end=451588 loop_mode=loop_sustain loop_start=157162 loop_end=365173 sample=../Audio/PWMlead/61C#3-Y9HQ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 end=453746 loop_mode=loop_sustain loop_start=222743 loop_end=361098 sample=../Audio/PWMlead/62D3-0957.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 end=453746 loop_mode=loop_sustain loop_start=222743 loop_end=361098 sample=../Audio/PWMlead/62D3-0957.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 end=453746 loop_mode=loop_sustain loop_start=222743 loop_end=361098 sample=../Audio/PWMlead/62D3-0957.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 loop_mode=loop_sustain loop_start=118141 loop_end=359877 sample=../Audio/PWMlead/63D#3-FBJ7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 loop_mode=loop_sustain loop_start=118141 loop_end=359877 sample=../Audio/PWMlead/63D#3-FBJ7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 loop_mode=loop_sustain loop_start=118141 loop_end=359877 sample=../Audio/PWMlead/63D#3-FBJ7.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=470 end=452365 loop_mode=loop_sustain loop_start=185440 loop_end=304224 sample=../Audio/PWMlead/64E3-BTCK.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=470 end=452365 loop_mode=loop_sustain loop_start=185440 loop_end=304224 sample=../Audio/PWMlead/64E3-BTCK.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=470 end=452365 loop_mode=loop_sustain loop_start=185440 loop_end=304224 sample=../Audio/PWMlead/64E3-BTCK.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=825 end=448988 loop_mode=loop_sustain loop_start=44090 loop_end=122940 sample=../Audio/PWMlead/65F3-RMEC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=825 end=448988 loop_mode=loop_sustain loop_start=44090 loop_end=122940 sample=../Audio/PWMlead/65F3-RMEC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=825 end=448988 loop_mode=loop_sustain loop_start=44090 loop_end=122940 sample=../Audio/PWMlead/65F3-RMEC.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=451866 loop_mode=loop_sustain loop_start=130404 loop_end=363908 sample=../Audio/PWMlead/66F#3-TOMX.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=451866 loop_mode=loop_sustain loop_start=130404 loop_end=363908 sample=../Audio/PWMlead/66F#3-TOMX.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=451866 loop_mode=loop_sustain loop_start=130404 loop_end=363908 sample=../Audio/PWMlead/66F#3-TOMX.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=451713 loop_mode=loop_sustain loop_start=105263 loop_end=336657 sample=../Audio/PWMlead/67G3-E5G3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=451713 loop_mode=loop_sustain loop_start=105263 loop_end=336657 sample=../Audio/PWMlead/67G3-E5G3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=451713 loop_mode=loop_sustain loop_start=105263 loop_end=336657 sample=../Audio/PWMlead/67G3-E5G3.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=453403 loop_mode=loop_sustain loop_start=277540 loop_end=360421 sample=../Audio/PWMlead/68G#3-AH15.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=453403 loop_mode=loop_sustain loop_start=277540 loop_end=360421 sample=../Audio/PWMlead/68G#3-AH15.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=453403 loop_mode=loop_sustain loop_start=277540 loop_end=360421 sample=../Audio/PWMlead/68G#3-AH15.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=458335 loop_mode=loop_sustain loop_start=45343 loop_end=152884 sample=../Audio/PWMlead/69A3-KP7F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=458335 loop_mode=loop_sustain loop_start=45343 loop_end=152884 sample=../Audio/PWMlead/69A3-KP7F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=458335 loop_mode=loop_sustain loop_start=45343 loop_end=152884 sample=../Audio/PWMlead/69A3-KP7F.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=453531 loop_mode=loop_sustain loop_start=76232 loop_end=211440 sample=../Audio/PWMlead/70A#3-UKYZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=453531 loop_mode=loop_sustain loop_start=76232 loop_end=211440 sample=../Audio/PWMlead/70A#3-UKYZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=453531 loop_mode=loop_sustain loop_start=76232 loop_end=211440 sample=../Audio/PWMlead/70A#3-UKYZ.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 loop_mode=loop_sustain loop_start=132750 loop_end=209657 sample=../Audio/PWMlead/71B3-RPLG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 loop_mode=loop_sustain loop_start=132750 loop_end=209657 sample=../Audio/PWMlead/71B3-RPLG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 loop_mode=loop_sustain loop_start=132750 loop_end=209657 sample=../Audio/PWMlead/71B3-RPLG.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=743 end=450968 loop_mode=loop_sustain loop_start=118448 loop_end=199311 sample=../Audio/PWMlead/72C4-EQSQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=743 end=450968 loop_mode=loop_sustain loop_start=118448 loop_end=199311 sample=../Audio/PWMlead/72C4-EQSQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=743 end=450968 loop_mode=loop_sustain loop_start=118448 loop_end=199311 sample=../Audio/PWMlead/72C4-EQSQ.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 end=450358 loop_mode=loop_sustain loop_start=141629 loop_end=354643 sample=../Audio/PWMlead/73C#4-ITH7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 end=450358 loop_mode=loop_sustain loop_start=141629 loop_end=354643 sample=../Audio/PWMlead/73C#4-ITH7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 end=450358 loop_mode=loop_sustain loop_start=141629 loop_end=354643 sample=../Audio/PWMlead/73C#4-ITH7.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1081 end=453777 loop_mode=loop_sustain loop_start=60237 loop_end=342839 sample=../Audio/PWMlead/74D4-49ID.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1081 end=453777 loop_mode=loop_sustain loop_start=60237 loop_end=342839 sample=../Audio/PWMlead/74D4-49ID.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1081 end=453777 loop_mode=loop_sustain loop_start=60237 loop_end=342839 sample=../Audio/PWMlead/74D4-49ID.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=866 end=457390 loop_mode=loop_sustain loop_start=196912 loop_end=338247 sample=../Audio/PWMlead/75D#4-0VWO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=866 end=457390 loop_mode=loop_sustain loop_start=196912 loop_end=338247 sample=../Audio/PWMlead/75D#4-0VWO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=866 end=457390 loop_mode=loop_sustain loop_start=196912 loop_end=338247 sample=../Audio/PWMlead/75D#4-0VWO.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=452539 loop_mode=loop_sustain loop_start=255637 loop_end=331499 sample=../Audio/PWMlead/76E4-SJHO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=452539 loop_mode=loop_sustain loop_start=255637 loop_end=331499 sample=../Audio/PWMlead/76E4-SJHO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=452539 loop_mode=loop_sustain loop_start=255637 loop_end=331499 sample=../Audio/PWMlead/76E4-SJHO.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=449704 loop_mode=loop_sustain loop_start=185770 loop_end=298451 sample=../Audio/PWMlead/77F4-1GH0.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=449704 loop_mode=loop_sustain loop_start=185770 loop_end=298451 sample=../Audio/PWMlead/77F4-1GH0.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=449704 loop_mode=loop_sustain loop_start=185770 loop_end=298451 sample=../Audio/PWMlead/77F4-1GH0.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=451471 loop_mode=loop_sustain loop_start=175592 loop_end=362993 sample=../Audio/PWMlead/78F#4-4RMY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=451471 loop_mode=loop_sustain loop_start=175592 loop_end=362993 sample=../Audio/PWMlead/78F#4-4RMY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=451471 loop_mode=loop_sustain loop_start=175592 loop_end=362993 sample=../Audio/PWMlead/78F#4-4RMY.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 loop_mode=loop_sustain loop_start=179578 loop_end=287099 sample=../Audio/PWMlead/79G4-O6N7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 loop_mode=loop_sustain loop_start=179578 loop_end=287099 sample=../Audio/PWMlead/79G4-O6N7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=924 loop_mode=loop_sustain loop_start=179578 loop_end=287099 sample=../Audio/PWMlead/79G4-O6N7.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=834 end=453126 loop_mode=loop_sustain loop_start=259379 loop_end=352560 sample=../Audio/PWMlead/80G#4-QV44.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=834 end=453126 loop_mode=loop_sustain loop_start=259379 loop_end=352560 sample=../Audio/PWMlead/80G#4-QV44.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=834 end=453126 loop_mode=loop_sustain loop_start=259379 loop_end=352560 sample=../Audio/PWMlead/80G#4-QV44.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=457189 loop_mode=loop_sustain loop_start=98125 loop_end=351084 sample=../Audio/PWMlead/81A4-CLQL.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=457189 loop_mode=loop_sustain loop_start=98125 loop_end=351084 sample=../Audio/PWMlead/81A4-CLQL.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=457189 loop_mode=loop_sustain loop_start=98125 loop_end=351084 sample=../Audio/PWMlead/81A4-CLQL.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=452592 loop_mode=loop_sustain loop_start=168055 loop_end=348274 sample=../Audio/PWMlead/82A#4-1QTV.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=452592 loop_mode=loop_sustain loop_start=168055 loop_end=348274 sample=../Audio/PWMlead/82A#4-1QTV.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=452592 loop_mode=loop_sustain loop_start=168055 loop_end=348274 sample=../Audio/PWMlead/82A#4-1QTV.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=449132 loop_mode=loop_sustain loop_start=70078 loop_end=322009 sample=../Audio/PWMlead/83B4-82E1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=449132 loop_mode=loop_sustain loop_start=70078 loop_end=322009 sample=../Audio/PWMlead/83B4-82E1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=449132 loop_mode=loop_sustain loop_start=70078 loop_end=322009 sample=../Audio/PWMlead/83B4-82E1.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=628 loop_mode=loop_sustain loop_start=145299 loop_end=249757 sample=../Audio/PWMlead/84C5-MSC9.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=628 loop_mode=loop_sustain loop_start=145299 loop_end=249757 sample=../Audio/PWMlead/84C5-MSC9.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=628 loop_mode=loop_sustain loop_start=145299 loop_end=249757 sample=../Audio/PWMlead/84C5-MSC9.wav

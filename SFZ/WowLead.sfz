@@ -1,0 +1,124 @@
+// this file was generated from WowLead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=831 end=356187 loop_mode=loop_sustain loop_start=186658 loop_end=267550 sample=../Audio/WowLead/24C0-ZFGQ.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=965 end=354276 loop_mode=loop_sustain loop_start=133914 loop_end=239389 sample=../Audio/WowLead/25C#0-U4TC.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=723 end=356345 loop_mode=loop_sustain loop_start=77116 loop_end=230713 sample=../Audio/WowLead/26D0-RYA0.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=561 loop_mode=loop_sustain loop_start=161279 loop_end=224651 sample=../Audio/WowLead/27D#0-35JE.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=1017 end=356096 loop_mode=loop_sustain loop_start=113205 loop_end=281187 sample=../Audio/WowLead/28E0-5RXC.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=763 end=355897 loop_mode=loop_sustain loop_start=94709 loop_end=159205 sample=../Audio/WowLead/29F0-TF50.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=899 end=355404 loop_mode=loop_sustain loop_start=85807 loop_end=261863 sample=../Audio/WowLead/30F#0-TU6E.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=758 end=355678 loop_mode=loop_sustain loop_start=124607 loop_end=253880 sample=../Audio/WowLead/31G0-ZVGJ.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=490 end=356064 loop_mode=loop_sustain loop_start=34638 loop_end=281417 sample=../Audio/WowLead/32G#0-N7RE.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=475 end=355577 loop_mode=loop_sustain loop_start=154371 loop_end=289540 sample=../Audio/WowLead/33A0-L8CE.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=953 end=355688 loop_mode=loop_sustain loop_start=183858 loop_end=290355 sample=../Audio/WowLead/34A#0-DA21.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=697 end=355839 loop_mode=loop_sustain loop_start=45015 loop_end=136150 sample=../Audio/WowLead/35B0-8IK8.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=939 end=355368 loop_mode=loop_sustain loop_start=81184 loop_end=212959 sample=../Audio/WowLead/36C1-J6DQ.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=865 end=355961 loop_mode=loop_sustain loop_start=31345 loop_end=274413 sample=../Audio/WowLead/37C#1-1D24.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=631 end=355705 loop_mode=loop_sustain loop_start=125951 loop_end=257193 sample=../Audio/WowLead/38D1-Y2QC.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=667 end=355690 loop_mode=loop_sustain loop_start=150702 loop_end=270515 sample=../Audio/WowLead/39D#1-HSE4.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=945 end=355098 loop_mode=loop_sustain loop_start=140289 loop_end=251960 sample=../Audio/WowLead/40E1-FR8L.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=894 end=355944 loop_mode=loop_sustain loop_start=85543 loop_end=208414 sample=../Audio/WowLead/41F1-OUKW.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=586 end=355810 loop_mode=loop_sustain loop_start=192957 loop_end=265172 sample=../Audio/WowLead/42F#1-2O98.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=816 end=355836 loop_mode=loop_sustain loop_start=82126 loop_end=167443 sample=../Audio/WowLead/43G1-Z0D7.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=584 end=355583 loop_mode=loop_sustain loop_start=103416 loop_end=234664 sample=../Audio/WowLead/44G#1-V4CL.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=541 end=356073 loop_mode=loop_sustain loop_start=124596 loop_end=230078 sample=../Audio/WowLead/45A1-YLZ9.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=454 end=354932 loop_mode=loop_sustain loop_start=87858 loop_end=260367 sample=../Audio/WowLead/46A#1-29SS.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=719 end=355653 loop_mode=loop_sustain loop_start=33674 loop_end=124805 sample=../Audio/WowLead/47B1-8YZ1.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=535 end=355968 loop_mode=loop_sustain loop_start=169447 loop_end=281028 sample=../Audio/WowLead/48C2-A1GT.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=699 loop_mode=loop_sustain loop_start=170901 loop_end=248375 sample=../Audio/WowLead/49C#2-IM95.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=740 end=355694 loop_mode=loop_sustain loop_start=74533 loop_end=268138 sample=../Audio/WowLead/50D2-RXTY.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=654 end=355921 loop_mode=loop_sustain loop_start=148169 loop_end=281301 sample=../Audio/WowLead/51D#2-BTK0.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=909 loop_mode=loop_sustain loop_start=93313 loop_end=286884 sample=../Audio/WowLead/52E2-OE7B.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=817 end=354759 loop_mode=loop_sustain loop_start=202460 loop_end=261881 sample=../Audio/WowLead/53F2-19CJ.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=1036 end=356092 loop_mode=loop_sustain loop_start=54986 loop_end=282088 sample=../Audio/WowLead/54F#2-PV6T.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=552 end=355516 loop_mode=loop_sustain loop_start=76631 loop_end=271039 sample=../Audio/WowLead/55G2-QHKL.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=526 loop_mode=loop_sustain loop_start=102790 loop_end=290336 sample=../Audio/WowLead/56G#2-D99D.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=604 loop_mode=loop_sustain loop_start=35304 loop_end=97434 sample=../Audio/WowLead/57A2-L4UB.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=917 loop_mode=loop_sustain loop_start=149093 loop_end=215139 sample=../Audio/WowLead/58A#2-C6Y4.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=497 end=354783 loop_mode=loop_sustain loop_start=72767 loop_end=287371 sample=../Audio/WowLead/59B2-XWOR.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=915 end=356081 loop_mode=loop_sustain loop_start=47468 loop_end=108916 sample=../Audio/WowLead/60C3-KQO5.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=997 end=355825 loop_mode=loop_sustain loop_start=201187 loop_end=277713 sample=../Audio/WowLead/61C#3-BAXI.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=923 end=355451 loop_mode=loop_sustain loop_start=28046 loop_end=86702 sample=../Audio/WowLead/62D3-0UBH.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=771 end=355702 loop_mode=loop_sustain loop_start=195765 loop_end=280437 sample=../Audio/WowLead/63D#3-LQS5.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=625 end=355432 loop_mode=loop_sustain loop_start=27584 loop_end=285916 sample=../Audio/WowLead/64E3-9YQW.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=853 end=355993 loop_mode=loop_sustain loop_start=196501 loop_end=286799 sample=../Audio/WowLead/65F3-3SWB.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=682 loop_mode=loop_sustain loop_start=215328 loop_end=277061 sample=../Audio/WowLead/66F#3-1828.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=967 end=355425 loop_mode=loop_sustain loop_start=116690 loop_end=281617 sample=../Audio/WowLead/67G3-ZVUQ.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=973 loop_mode=loop_sustain loop_start=172795 loop_end=237313 sample=../Audio/WowLead/68G#3-YSG4.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=1008 end=355709 loop_mode=loop_sustain loop_start=87009 loop_end=159497 sample=../Audio/WowLead/69A3-SYJ2.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=986 end=355101 loop_mode=loop_sustain loop_start=155984 loop_end=280545 sample=../Audio/WowLead/70A#3-XEGC.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=671 end=355190 loop_mode=loop_sustain loop_start=78206 loop_end=289377 sample=../Audio/WowLead/71B3-Q0UF.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=915 loop_mode=loop_sustain loop_start=76340 loop_end=139431 sample=../Audio/WowLead/72C4-WHVQ.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=468 end=355419 loop_mode=loop_sustain loop_start=114069 loop_end=175507 sample=../Audio/WowLead/73C#4-QAGB.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=568 end=354798 loop_mode=loop_sustain loop_start=211092 loop_end=289194 sample=../Audio/WowLead/74D4-XLRK.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=1033 end=355715 loop_mode=loop_sustain loop_start=190547 loop_end=289569 sample=../Audio/WowLead/75D#4-NW2R.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=865 end=355813 loop_mode=loop_sustain loop_start=137385 loop_end=286156 sample=../Audio/WowLead/76E4-E2LW.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=756 end=354358 loop_mode=loop_sustain loop_start=74171 loop_end=134064 sample=../Audio/WowLead/77F4-6NLO.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=696 end=355035 loop_mode=loop_sustain loop_start=123201 loop_end=286450 sample=../Audio/WowLead/78F#4-ZMRK.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=535 end=353663 loop_mode=loop_sustain loop_start=177562 loop_end=241966 sample=../Audio/WowLead/79G4-B67I.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=535 end=353874 loop_mode=loop_sustain loop_start=166348 loop_end=230958 sample=../Audio/WowLead/80G#4-RVCM.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=965 end=354524 loop_mode=loop_sustain loop_start=156323 loop_end=220788 sample=../Audio/WowLead/81A4-3VXU.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=526 end=354027 loop_mode=loop_sustain loop_start=97742 loop_end=156901 sample=../Audio/WowLead/82A#4-JWDG.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=545 end=353564 loop_mode=loop_sustain loop_start=31181 loop_end=288422 sample=../Audio/WowLead/83B4-MBJ7.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 offset=929 end=354003 loop_mode=loop_sustain loop_start=31039 loop_end=264640 sample=../Audio/WowLead/84C5-7DB8.wav

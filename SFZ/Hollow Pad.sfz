@@ -1,0 +1,246 @@
+// this file was generated from Hollow Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=4 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=971 end=539548 sample=../Audio/Hollows/Hollows.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1046 end=539616 sample=../Audio/Hollows/Hollows_0001.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=982 end=539522 sample=../Audio/Hollows/Hollows_0002.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=676 sample=../Audio/Hollows/Hollows_0003.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1022 sample=../Audio/Hollows/Hollows_0004.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=843 end=539105 sample=../Audio/Hollows/Hollows_0005.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=885 end=505701 sample=../Audio/Hollows/Hollows_0006.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=622 end=504126 sample=../Audio/Hollows/Hollows_0007.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=949 end=506377 sample=../Audio/Hollows/Hollows_0008.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=767 end=517666 sample=../Audio/Hollows/Hollows_0009.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1048 end=517974 sample=../Audio/Hollows/Hollows_0010.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=809 end=518130 sample=../Audio/Hollows/Hollows_0011.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=832 end=518560 sample=../Audio/Hollows/Hollows_0012.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=888 end=519321 sample=../Audio/Hollows/Hollows_0013.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1135 end=518637 sample=../Audio/Hollows/Hollows_0014.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=887 end=539210 sample=../Audio/Hollows/Hollows_0015.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=858 end=539864 sample=../Audio/Hollows/Hollows_0016.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1087 end=539345 sample=../Audio/Hollows/Hollows_0017.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1023 end=539212 sample=../Audio/Hollows/Hollows_0018.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=917 sample=../Audio/Hollows/Hollows_0019.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=940 end=538761 sample=../Audio/Hollows/Hollows_0020.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=786 end=506255 sample=../Audio/Hollows/Hollows_0021.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=952 end=505634 sample=../Audio/Hollows/Hollows_0022.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=972 end=506619 sample=../Audio/Hollows/Hollows_0023.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=972 end=518108 sample=../Audio/Hollows/Hollows_0024.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=837 sample=../Audio/Hollows/Hollows_0025.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=857 end=520058 sample=../Audio/Hollows/Hollows_0026.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=967 end=518118 sample=../Audio/Hollows/Hollows_0027.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=892 end=519026 sample=../Audio/Hollows/Hollows_0028.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=808 end=518872 sample=../Audio/Hollows/Hollows_0029.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=643 end=540093 sample=../Audio/Hollows/Hollows_0030.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=716 end=539683 sample=../Audio/Hollows/Hollows_0031.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=929 end=538752 sample=../Audio/Hollows/Hollows_0032.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=877 end=539070 sample=../Audio/Hollows/Hollows_0033.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1178 end=539681 sample=../Audio/Hollows/Hollows_0034.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=938 end=540215 sample=../Audio/Hollows/Hollows_0035.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1078 end=504818 sample=../Audio/Hollows/Hollows_0036.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1098 end=505456 sample=../Audio/Hollows/Hollows_0037.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=924 end=506240 sample=../Audio/Hollows/Hollows_0038.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1218 end=518030 sample=../Audio/Hollows/Hollows_0039.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=878 end=518732 sample=../Audio/Hollows/Hollows_0040.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1059 end=518638 sample=../Audio/Hollows/Hollows_0041.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=828 end=518373 sample=../Audio/Hollows/Hollows_0042.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=707 sample=../Audio/Hollows/Hollows_0043.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=727 end=519275 sample=../Audio/Hollows/Hollows_0044.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=943 end=539198 sample=../Audio/Hollows/Hollows_0045.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=647 end=539598 sample=../Audio/Hollows/Hollows_0046.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=753 end=540060 sample=../Audio/Hollows/Hollows_0047.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=901 end=539152 sample=../Audio/Hollows/Hollows_0048.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=988 end=539666 sample=../Audio/Hollows/Hollows_0049.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=701 end=538880 sample=../Audio/Hollows/Hollows_0050.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=766 end=505867 sample=../Audio/Hollows/Hollows_0051.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1158 end=505175 sample=../Audio/Hollows/Hollows_0052.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=927 end=505791 sample=../Audio/Hollows/Hollows_0053.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1167 end=517888 sample=../Audio/Hollows/Hollows_0054.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1025 end=517494 sample=../Audio/Hollows/Hollows_0055.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=801 end=519047 sample=../Audio/Hollows/Hollows_0056.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=834 end=518272 sample=../Audio/Hollows/Hollows_0057.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=914 end=517529 sample=../Audio/Hollows/Hollows_0058.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=825 end=519998 sample=../Audio/Hollows/Hollows_0059.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1138 end=539445 sample=../Audio/Hollows/Hollows_0060.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1055 end=539934 sample=../Audio/Hollows/Hollows_0061.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=972 end=540180 sample=../Audio/Hollows/Hollows_0062.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=655 end=538949 sample=../Audio/Hollows/Hollows_0063.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=773 end=539628 sample=../Audio/Hollows/Hollows_0064.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=789 end=540096 sample=../Audio/Hollows/Hollows_0065.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=730 end=506641 sample=../Audio/Hollows/Hollows_0066.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1089 end=505393 sample=../Audio/Hollows/Hollows_0067.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=815 end=505691 sample=../Audio/Hollows/Hollows_0068.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1028 end=516608 sample=../Audio/Hollows/Hollows_0069.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=727 end=517002 sample=../Audio/Hollows/Hollows_0070.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=849 end=517294 sample=../Audio/Hollows/Hollows_0071.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=762 end=517773 sample=../Audio/Hollows/Hollows_0072.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=803 sample=../Audio/Hollows/Hollows_0073.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=692 end=519680 sample=../Audio/Hollows/Hollows_0074.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1073 end=539920 sample=../Audio/Hollows/Hollows_0075.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=745 end=539649 sample=../Audio/Hollows/Hollows_0076.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1063 end=540664 sample=../Audio/Hollows/Hollows_0077.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=841 end=539157 sample=../Audio/Hollows/Hollows_0078.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=814 end=539726 sample=../Audio/Hollows/Hollows_0079.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1049 sample=../Audio/Hollows/Hollows_0080.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1171 end=504885 sample=../Audio/Hollows/Hollows_0081.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=952 end=505500 sample=../Audio/Hollows/Hollows_0082.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=879 end=505751 sample=../Audio/Hollows/Hollows_0083.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=963 end=517760 sample=../Audio/Hollows/Hollows_0084.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=885 end=517305 sample=../Audio/Hollows/Hollows_0085.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=735 sample=../Audio/Hollows/Hollows_0086.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=983 end=517760 sample=../Audio/Hollows/Hollows_0087.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=707 end=516737 sample=../Audio/Hollows/Hollows_0088.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1118 end=519746 sample=../Audio/Hollows/Hollows_0089.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=751 end=539300 sample=../Audio/Hollows/Hollows_0090.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=854 end=539984 sample=../Audio/Hollows/Hollows_0091.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1089 end=540059 sample=../Audio/Hollows/Hollows_0092.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=593 end=539026 sample=../Audio/Hollows/Hollows_0093.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=943 end=538410 sample=../Audio/Hollows/Hollows_0094.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=835 end=540162 sample=../Audio/Hollows/Hollows_0095.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=725 end=503988 sample=../Audio/Hollows/Hollows_0096.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=919 sample=../Audio/Hollows/Hollows_0097.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=849 end=504709 sample=../Audio/Hollows/Hollows_0098.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=951 end=517918 sample=../Audio/Hollows/Hollows_0099.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=888 end=517911 sample=../Audio/Hollows/Hollows_0100.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=710 end=515714 sample=../Audio/Hollows/Hollows_0101.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=805 end=515990 sample=../Audio/Hollows/Hollows_0102.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=726 end=518334 sample=../Audio/Hollows/Hollows_0103.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=948 sample=../Audio/Hollows/Hollows_0104.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=867 end=538910 sample=../Audio/Hollows/Hollows_0105.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1166 end=539815 sample=../Audio/Hollows/Hollows_0106.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=816 end=539580 sample=../Audio/Hollows/Hollows_0107.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=807 end=539162 sample=../Audio/Hollows/Hollows_0108.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=922 end=540422 sample=../Audio/Hollows/Hollows_0109.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=902 sample=../Audio/Hollows/Hollows_0110.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1067 end=505635 sample=../Audio/Hollows/Hollows_0111.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=975 end=505729 sample=../Audio/Hollows/Hollows_0112.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1108 end=505862 sample=../Audio/Hollows/Hollows_0113.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=922 end=516737 sample=../Audio/Hollows/Hollows_0114.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=720 end=516521 sample=../Audio/Hollows/Hollows_0115.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1153 end=516389 sample=../Audio/Hollows/Hollows_0116.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=785 end=517889 sample=../Audio/Hollows/Hollows_0117.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1185 end=517377 sample=../Audio/Hollows/Hollows_0118.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=997 end=517013 sample=../Audio/Hollows/Hollows_0119.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1067 end=539545 sample=../Audio/Hollows/Hollows_0120.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1044 end=540204 sample=../Audio/Hollows/Hollows_0121.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=867 end=540428 sample=../Audio/Hollows/Hollows_0122.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=714 end=538887 sample=../Audio/Hollows/Hollows_0123.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=721 end=539264 sample=../Audio/Hollows/Hollows_0124.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=996 end=539024 sample=../Audio/Hollows/Hollows_0125.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=853 end=504843 sample=../Audio/Hollows/Hollows_0126.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=693 end=505088 sample=../Audio/Hollows/Hollows_0127.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=620 end=504832 sample=../Audio/Hollows/Hollows_0128.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=690 end=515855 sample=../Audio/Hollows/Hollows_0129.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=776 end=516008 sample=../Audio/Hollows/Hollows_0130.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=770 end=515584 sample=../Audio/Hollows/Hollows_0131.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1098 end=518016 sample=../Audio/Hollows/Hollows_0132.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1037 end=516113 sample=../Audio/Hollows/Hollows_0133.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1005 end=516368 sample=../Audio/Hollows/Hollows_0134.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=927 end=539779 sample=../Audio/Hollows/Hollows_0135.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=685 end=540214 sample=../Audio/Hollows/Hollows_0136.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1074 end=538661 sample=../Audio/Hollows/Hollows_0137.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1068 end=539916 sample=../Audio/Hollows/Hollows_0138.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=889 end=539543 sample=../Audio/Hollows/Hollows_0139.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=731 end=539560 sample=../Audio/Hollows/Hollows_0140.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1091 sample=../Audio/Hollows/Hollows_0141.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=800 sample=../Audio/Hollows/Hollows_0142.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=905 end=504321 sample=../Audio/Hollows/Hollows_0143.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1135 sample=../Audio/Hollows/Hollows_0144.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=997 end=516352 sample=../Audio/Hollows/Hollows_0145.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=739 end=515104 sample=../Audio/Hollows/Hollows_0146.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=712 end=516868 sample=../Audio/Hollows/Hollows_0147.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=802 sample=../Audio/Hollows/Hollows_0148.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=717 end=518400 sample=../Audio/Hollows/Hollows_0149.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1155 sample=../Audio/Hollows/Hollows_0150.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1188 end=539779 sample=../Audio/Hollows/Hollows_0151.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=734 end=538659 sample=../Audio/Hollows/Hollows_0152.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1035 end=538244 sample=../Audio/Hollows/Hollows_0153.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=687 end=539173 sample=../Audio/Hollows/Hollows_0154.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=717 end=539669 sample=../Audio/Hollows/Hollows_0155.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=742 sample=../Audio/Hollows/Hollows_0156.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=940 end=503963 sample=../Audio/Hollows/Hollows_0157.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=968 sample=../Audio/Hollows/Hollows_0158.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1082 end=515462 sample=../Audio/Hollows/Hollows_0159.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=954 sample=../Audio/Hollows/Hollows_0160.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1162 end=514833 sample=../Audio/Hollows/Hollows_0161.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=695 end=517155 sample=../Audio/Hollows/Hollows_0162.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=859 end=515073 sample=../Audio/Hollows/Hollows_0163.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=842 end=517142 sample=../Audio/Hollows/Hollows_0164.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=711 end=538320 sample=../Audio/Hollows/Hollows_0165.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=789 end=540062 sample=../Audio/Hollows/Hollows_0166.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=924 end=540549 sample=../Audio/Hollows/Hollows_0167.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1073 end=539776 sample=../Audio/Hollows/Hollows_0168.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=711 end=539795 sample=../Audio/Hollows/Hollows_0169.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1035 end=539660 sample=../Audio/Hollows/Hollows_0170.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1149 end=504095 sample=../Audio/Hollows/Hollows_0171.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=653 end=504608 sample=../Audio/Hollows/Hollows_0172.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=606 end=504744 sample=../Audio/Hollows/Hollows_0173.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1102 sample=../Audio/Hollows/Hollows_0174.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=1067 end=516111 sample=../Audio/Hollows/Hollows_0175.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=824 end=514312 sample=../Audio/Hollows/Hollows_0176.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1134 end=516507 sample=../Audio/Hollows/Hollows_0177.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=978 end=517649 sample=../Audio/Hollows/Hollows_0178.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=836 end=514823 sample=../Audio/Hollows/Hollows_0179.aif
+<group>lokey=84 hikey=116 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=883 end=539668 sample=../Audio/Hollows/Hollows_0180.aif
+	<region> lovel=043 hivel=084 amp_velcurve_084=1 offset=824 end=540223 sample=../Audio/Hollows/Hollows_0181.aif
+	<region> lovel=085 hivel=127 amp_velcurve_127=1 offset=1041 sample=../Audio/Hollows/Hollows_0182.aif

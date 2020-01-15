@@ -1,0 +1,794 @@
+// this file was generated from Limiting Factor.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=21 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=685 end=609098 sample=../Audio/Limiting Factor/21A-1-03OT.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=562 end=658201 sample=../Audio/Limiting Factor/21A-1-BIQS.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=845 sample=../Audio/Limiting Factor/21A-1-ECRO.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=649 end=587936 sample=../Audio/Limiting Factor/21A-1-XQNF.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=514 end=576518 sample=../Audio/Limiting Factor/21A-1-RAI2.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=895 end=524047 sample=../Audio/Limiting Factor/21A-1-MT0C.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=773 end=586785 sample=../Audio/Limiting Factor/21A-1-U4G8.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=582 end=625624 sample=../Audio/Limiting Factor/21A-1-VQ82.wav
+<group> key=22 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=633 end=459653 sample=../Audio/Limiting Factor/22A#-1-RVFQ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=490 end=511892 sample=../Audio/Limiting Factor/22A#-1-XZ2V.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=760 sample=../Audio/Limiting Factor/22A#-1-IR7Z.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=792 end=464548 sample=../Audio/Limiting Factor/22A#-1-YVXS.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=530 end=523652 sample=../Audio/Limiting Factor/22A#-1-JO3R.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=359 end=516100 sample=../Audio/Limiting Factor/22A#-1-6QJ2.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=887 end=469131 sample=../Audio/Limiting Factor/22A#-1-ZCL7.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=745 end=475582 sample=../Audio/Limiting Factor/22A#-1-T9L5.wav
+<group> key=23 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=940 end=366735 sample=../Audio/Limiting Factor/23B-1-VZSQ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=476 sample=../Audio/Limiting Factor/23B-1-WWBP.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=675 end=360991 sample=../Audio/Limiting Factor/23B-1-ZEOJ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=878 end=388097 sample=../Audio/Limiting Factor/23B-1-415L.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=676 end=382341 sample=../Audio/Limiting Factor/23B-1-JHV6.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=603 sample=../Audio/Limiting Factor/23B-1-IG37.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=615 end=410242 sample=../Audio/Limiting Factor/23B-1-4KOU.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=781 end=382208 sample=../Audio/Limiting Factor/23B-1-MP71.wav
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=790 end=165299 sample=../Audio/Limiting Factor/24C0-7W6I.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=626 end=18321 sample=../Audio/Limiting Factor/24C0-S8K1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=924 end=151568 sample=../Audio/Limiting Factor/24C0-JPUD.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=588 end=150144 sample=../Audio/Limiting Factor/24C0-2UR6.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=724 sample=../Audio/Limiting Factor/24C0-O22W.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=807 sample=../Audio/Limiting Factor/24C0-UEBI.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=902 end=18786 sample=../Audio/Limiting Factor/24C0-HJAJ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=724 end=17486 sample=../Audio/Limiting Factor/24C0-S1FO.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=953 sample=../Audio/Limiting Factor/25C#0-8D9X.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=379 end=21585 sample=../Audio/Limiting Factor/25C#0-06QS.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=485 end=21992 sample=../Audio/Limiting Factor/25C#0-2RQ6.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=959 sample=../Audio/Limiting Factor/25C#0-HRE0.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=894 sample=../Audio/Limiting Factor/25C#0-LZ3S.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=651 sample=../Audio/Limiting Factor/25C#0-XSJ6.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=832 end=22346 sample=../Audio/Limiting Factor/25C#0-K6XJ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=827 sample=../Audio/Limiting Factor/25C#0-P4DX.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=987 sample=../Audio/Limiting Factor/26D0-CTEW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=542 end=20697 sample=../Audio/Limiting Factor/26D0-X3BB.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=620 end=21150 sample=../Audio/Limiting Factor/26D0-TY5X.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=864 end=21704 sample=../Audio/Limiting Factor/26D0-2N0V.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=524 sample=../Audio/Limiting Factor/26D0-KXXH.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=747 end=20751 sample=../Audio/Limiting Factor/26D0-PN61.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=501 end=20985 sample=../Audio/Limiting Factor/26D0-WMVL.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=985 end=22092 sample=../Audio/Limiting Factor/26D0-CVWU.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=461 end=26350 sample=../Audio/Limiting Factor/27D#0-H5WB.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=845 end=27009 sample=../Audio/Limiting Factor/27D#0-MZQ3.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=814 end=28172 sample=../Audio/Limiting Factor/27D#0-1ANO.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=609 end=28080 sample=../Audio/Limiting Factor/27D#0-L6C3.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=581 end=28201 sample=../Audio/Limiting Factor/27D#0-EY7L.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=619 end=27935 sample=../Audio/Limiting Factor/27D#0-HK2A.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=642 end=28194 sample=../Audio/Limiting Factor/27D#0-KESG.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=641 end=28142 sample=../Audio/Limiting Factor/27D#0-GZMP.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=951 end=38946 sample=../Audio/Limiting Factor/28E0-6QHT.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=641 end=38783 sample=../Audio/Limiting Factor/28E0-O2N9.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=742 end=37995 sample=../Audio/Limiting Factor/28E0-5PMB.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=496 end=37210 sample=../Audio/Limiting Factor/28E0-BOHG.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=839 end=36870 sample=../Audio/Limiting Factor/28E0-L801.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=412 end=36425 sample=../Audio/Limiting Factor/28E0-4Y75.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=635 end=38320 sample=../Audio/Limiting Factor/28E0-MSBL.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=491 sample=../Audio/Limiting Factor/28E0-ENF2.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=703 end=24320 sample=../Audio/Limiting Factor/29F0-HEUC.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=741 end=25650 sample=../Audio/Limiting Factor/29F0-EPO3.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=449 sample=../Audio/Limiting Factor/29F0-JHSE.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=703 end=26628 sample=../Audio/Limiting Factor/29F0-5FNP.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=908 end=27553 sample=../Audio/Limiting Factor/29F0-V8Q4.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=688 end=26865 sample=../Audio/Limiting Factor/29F0-PWN6.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=815 end=28235 sample=../Audio/Limiting Factor/29F0-APPY.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=557 end=27562 sample=../Audio/Limiting Factor/29F0-QJ1K.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=710 end=17411 sample=../Audio/Limiting Factor/30F#0-APOV.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=827 end=17402 sample=../Audio/Limiting Factor/30F#0-TTRL.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=686 sample=../Audio/Limiting Factor/30F#0-WVFR.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=629 end=18074 sample=../Audio/Limiting Factor/30F#0-Q3VN.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=634 end=18367 sample=../Audio/Limiting Factor/30F#0-D4YV.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=511 sample=../Audio/Limiting Factor/30F#0-YYKB.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=733 end=18315 sample=../Audio/Limiting Factor/30F#0-XV5V.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=850 end=18438 sample=../Audio/Limiting Factor/30F#0-RYN5.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=963 end=22547 sample=../Audio/Limiting Factor/31G0-K8E0.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=596 end=21792 sample=../Audio/Limiting Factor/31G0-IKQ6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=506 end=21963 sample=../Audio/Limiting Factor/31G0-9LGZ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=794 sample=../Audio/Limiting Factor/31G0-OM8O.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=487 end=22048 sample=../Audio/Limiting Factor/31G0-UJNC.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=885 sample=../Audio/Limiting Factor/31G0-TOMY.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=495 end=22124 sample=../Audio/Limiting Factor/31G0-TDZF.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=528 end=22917 sample=../Audio/Limiting Factor/31G0-5308.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=673 end=20516 sample=../Audio/Limiting Factor/32G#0-P0IT.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=578 end=21679 sample=../Audio/Limiting Factor/32G#0-12UI.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=1004 end=21352 sample=../Audio/Limiting Factor/32G#0-15W2.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=883 sample=../Audio/Limiting Factor/32G#0-XTN7.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=532 end=20532 sample=../Audio/Limiting Factor/32G#0-DZO6.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=941 end=21907 sample=../Audio/Limiting Factor/32G#0-QRN4.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=917 sample=../Audio/Limiting Factor/32G#0-BGE7.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=851 end=20887 sample=../Audio/Limiting Factor/32G#0-KJHJ.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=751 end=24845 sample=../Audio/Limiting Factor/33A0-8IBL.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=693 end=26088 sample=../Audio/Limiting Factor/33A0-F7M5.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=889 end=28339 sample=../Audio/Limiting Factor/33A0-A00I.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=502 end=27601 sample=../Audio/Limiting Factor/33A0-0ZKE.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=856 end=28099 sample=../Audio/Limiting Factor/33A0-27WK.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=850 end=29288 sample=../Audio/Limiting Factor/33A0-1OS4.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=563 end=27937 sample=../Audio/Limiting Factor/33A0-43S8.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=453 end=27933 sample=../Audio/Limiting Factor/33A0-Z7IA.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=853 sample=../Audio/Limiting Factor/34A#0-GCCM.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=622 sample=../Audio/Limiting Factor/34A#0-KQHL.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=593 end=38013 sample=../Audio/Limiting Factor/34A#0-OVHQ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=508 end=37680 sample=../Audio/Limiting Factor/34A#0-SJUQ.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=397 end=38142 sample=../Audio/Limiting Factor/34A#0-KN1I.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=889 end=38029 sample=../Audio/Limiting Factor/34A#0-I0VS.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=669 end=38498 sample=../Audio/Limiting Factor/34A#0-OBTL.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=773 end=37979 sample=../Audio/Limiting Factor/34A#0-D6JT.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=740 end=24321 sample=../Audio/Limiting Factor/35B0-89CQ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=582 end=25228 sample=../Audio/Limiting Factor/35B0-8IL8.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=777 end=27802 sample=../Audio/Limiting Factor/35B0-2AVT.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=527 sample=../Audio/Limiting Factor/35B0-RR31.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=682 end=26745 sample=../Audio/Limiting Factor/35B0-487M.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=760 sample=../Audio/Limiting Factor/35B0-4E3G.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=821 end=52995 sample=../Audio/Limiting Factor/35B0-U955.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=474 end=27727 sample=../Audio/Limiting Factor/35B0-OW0G.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=911 end=18063 sample=../Audio/Limiting Factor/36C1-2C1G.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=420 end=17850 sample=../Audio/Limiting Factor/36C1-LY7R.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=946 sample=../Audio/Limiting Factor/36C1-5FLS.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=814 sample=../Audio/Limiting Factor/36C1-JJB2.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=692 end=18336 sample=../Audio/Limiting Factor/36C1-7JEO.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=837 sample=../Audio/Limiting Factor/36C1-C0GM.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=878 end=18702 sample=../Audio/Limiting Factor/36C1-SP33.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=514 sample=../Audio/Limiting Factor/36C1-DIQG.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=627 end=20869 sample=../Audio/Limiting Factor/37C#1-XZDB.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=763 end=21856 sample=../Audio/Limiting Factor/37C#1-AM5S.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=811 sample=../Audio/Limiting Factor/37C#1-5YCF.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=735 end=21970 sample=../Audio/Limiting Factor/37C#1-WCE6.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=445 end=64647 sample=../Audio/Limiting Factor/37C#1-M4N8.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=883 sample=../Audio/Limiting Factor/37C#1-G4A3.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=878 end=23234 sample=../Audio/Limiting Factor/37C#1-UGWJ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=808 end=22973 sample=../Audio/Limiting Factor/37C#1-UA0F.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=590 end=19662 sample=../Audio/Limiting Factor/38D1-E7WY.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=686 end=20316 sample=../Audio/Limiting Factor/38D1-4QXT.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=914 end=20629 sample=../Audio/Limiting Factor/38D1-1409.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=803 end=20769 sample=../Audio/Limiting Factor/38D1-TC2J.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=412 end=21634 sample=../Audio/Limiting Factor/38D1-6PQ8.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=567 sample=../Audio/Limiting Factor/38D1-PDRA.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=526 sample=../Audio/Limiting Factor/38D1-NT7A.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=943 end=22075 sample=../Audio/Limiting Factor/38D1-DT4C.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=907 end=23138 sample=../Audio/Limiting Factor/39D#1-690L.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=524 end=25262 sample=../Audio/Limiting Factor/39D#1-R5D6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=818 end=27059 sample=../Audio/Limiting Factor/39D#1-FDQY.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=436 end=27823 sample=../Audio/Limiting Factor/39D#1-Y6IX.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=706 end=27691 sample=../Audio/Limiting Factor/39D#1-V75V.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=823 end=27629 sample=../Audio/Limiting Factor/39D#1-NQE7.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=902 end=62720 sample=../Audio/Limiting Factor/39D#1-63G2.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=458 end=28247 sample=../Audio/Limiting Factor/39D#1-8BH5.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=735 end=38351 sample=../Audio/Limiting Factor/40E1-TBF2.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=472 end=115329 sample=../Audio/Limiting Factor/40E1-6RGZ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=623 end=38124 sample=../Audio/Limiting Factor/40E1-6BYW.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=731 end=37882 sample=../Audio/Limiting Factor/40E1-1RMB.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=484 end=47142 sample=../Audio/Limiting Factor/40E1-VHPG.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=646 end=46724 sample=../Audio/Limiting Factor/40E1-X9SA.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=951 end=38130 sample=../Audio/Limiting Factor/40E1-PIPV.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=663 end=38344 sample=../Audio/Limiting Factor/40E1-L9SK.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=464 end=22944 sample=../Audio/Limiting Factor/41F1-KASW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=986 end=25617 sample=../Audio/Limiting Factor/41F1-JUH9.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=574 end=108674 sample=../Audio/Limiting Factor/41F1-QGR4.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=421 end=25210 sample=../Audio/Limiting Factor/41F1-SMK3.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=538 end=25325 sample=../Audio/Limiting Factor/41F1-RJO6.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=759 end=26009 sample=../Audio/Limiting Factor/41F1-A7HU.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=849 end=27444 sample=../Audio/Limiting Factor/41F1-HPHP.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=575 end=27774 sample=../Audio/Limiting Factor/41F1-YBXQ.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=594 end=17163 sample=../Audio/Limiting Factor/42F#1-AYZC.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=595 end=35457 sample=../Audio/Limiting Factor/42F#1-NZQ0.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=678 sample=../Audio/Limiting Factor/42F#1-4LWE.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=390 end=16927 sample=../Audio/Limiting Factor/42F#1-CTCP.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=654 sample=../Audio/Limiting Factor/42F#1-ZIYZ.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=789 end=18561 sample=../Audio/Limiting Factor/42F#1-D0DF.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=620 end=18253 sample=../Audio/Limiting Factor/42F#1-P5SJ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=770 end=18507 sample=../Audio/Limiting Factor/42F#1-1QYX.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=752 end=20659 sample=../Audio/Limiting Factor/43G1-69WA.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=615 end=20630 sample=../Audio/Limiting Factor/43G1-NE42.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=915 end=23206 sample=../Audio/Limiting Factor/43G1-43FI.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=637 end=22545 sample=../Audio/Limiting Factor/43G1-L738.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=816 end=22323 sample=../Audio/Limiting Factor/43G1-W5OE.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=450 end=22051 sample=../Audio/Limiting Factor/43G1-D025.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=763 end=23220 sample=../Audio/Limiting Factor/43G1-7ES9.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=590 end=45189 sample=../Audio/Limiting Factor/43G1-POUZ.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=961 end=83853 sample=../Audio/Limiting Factor/44G#1-AE4E.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=494 end=20885 sample=../Audio/Limiting Factor/44G#1-LM4M.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=673 sample=../Audio/Limiting Factor/44G#1-BAGB.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=466 end=106627 sample=../Audio/Limiting Factor/44G#1-44Y8.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=652 end=20604 sample=../Audio/Limiting Factor/44G#1-K3IF.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=667 end=20429 sample=../Audio/Limiting Factor/44G#1-3NMM.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=756 sample=../Audio/Limiting Factor/44G#1-9C07.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=410 end=20367 sample=../Audio/Limiting Factor/44G#1-PDLJ.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=915 end=22590 sample=../Audio/Limiting Factor/45A1-JMJ2.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=654 end=24239 sample=../Audio/Limiting Factor/45A1-ABTP.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=836 end=26967 sample=../Audio/Limiting Factor/45A1-V419.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=618 end=26647 sample=../Audio/Limiting Factor/45A1-IDCC.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=969 end=28090 sample=../Audio/Limiting Factor/45A1-FL2N.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=439 sample=../Audio/Limiting Factor/45A1-7SOI.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=665 end=28620 sample=../Audio/Limiting Factor/45A1-DMT8.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=773 end=188160 sample=../Audio/Limiting Factor/45A1-VSGF.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=836 sample=../Audio/Limiting Factor/46A#1-XYMF.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=764 end=191115 sample=../Audio/Limiting Factor/46A#1-G98L.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=686 end=37863 sample=../Audio/Limiting Factor/46A#1-I4NJ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=880 end=38316 sample=../Audio/Limiting Factor/46A#1-FDX5.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=897 end=81447 sample=../Audio/Limiting Factor/46A#1-2B25.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=826 end=38090 sample=../Audio/Limiting Factor/46A#1-9XZV.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=504 end=163584 sample=../Audio/Limiting Factor/46A#1-TK3W.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=628 end=76426 sample=../Audio/Limiting Factor/46A#1-KA85.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=592 end=58379 sample=../Audio/Limiting Factor/47B1-2DHV.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=569 end=22996 sample=../Audio/Limiting Factor/47B1-U6N7.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=920 end=54022 sample=../Audio/Limiting Factor/47B1-ZIS8.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=875 end=27013 sample=../Audio/Limiting Factor/47B1-WZCA.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=928 sample=../Audio/Limiting Factor/47B1-EPA7.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=767 end=26196 sample=../Audio/Limiting Factor/47B1-L5OE.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=730 end=243087 sample=../Audio/Limiting Factor/47B1-TYKT.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=623 end=256896 sample=../Audio/Limiting Factor/47B1-1ONW.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=415 end=16112 sample=../Audio/Limiting Factor/48C2-J8FV.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=735 end=17924 sample=../Audio/Limiting Factor/48C2-Z61S.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=1021 end=18312 sample=../Audio/Limiting Factor/48C2-LVXC.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=537 end=74114 sample=../Audio/Limiting Factor/48C2-V28E.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=855 end=124548 sample=../Audio/Limiting Factor/48C2-FCS3.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=919 sample=../Audio/Limiting Factor/48C2-XFN3.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=941 end=68737 sample=../Audio/Limiting Factor/48C2-EJ24.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=545 end=209666 sample=../Audio/Limiting Factor/48C2-NJAU.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=959 end=20485 sample=../Audio/Limiting Factor/49C#2-X4OM.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=896 end=94084 sample=../Audio/Limiting Factor/49C#2-IO9O.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=859 end=73478 sample=../Audio/Limiting Factor/49C#2-KH35.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=559 end=215816 sample=../Audio/Limiting Factor/49C#2-ID0O.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=784 end=166410 sample=../Audio/Limiting Factor/49C#2-3ZSB.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=876 end=163978 sample=../Audio/Limiting Factor/49C#2-C74G.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=754 end=42642 sample=../Audio/Limiting Factor/49C#2-RDM1.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=805 end=87565 sample=../Audio/Limiting Factor/49C#2-WYDD.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=937 end=211985 sample=../Audio/Limiting Factor/50D2-KBBJ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=1058 end=176648 sample=../Audio/Limiting Factor/50D2-KSTG.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=734 end=210867 sample=../Audio/Limiting Factor/50D2-VQ4Z.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=465 end=180490 sample=../Audio/Limiting Factor/50D2-7K0Z.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=530 end=168081 sample=../Audio/Limiting Factor/50D2-W9NE.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=642 end=142484 sample=../Audio/Limiting Factor/50D2-STWV.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=501 end=178051 sample=../Audio/Limiting Factor/50D2-7B9E.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=481 end=20704 sample=../Audio/Limiting Factor/50D2-Z3BA.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=698 end=20033 sample=../Audio/Limiting Factor/51D#2-X76T.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=893 end=22163 sample=../Audio/Limiting Factor/51D#2-LKOV.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=714 end=27674 sample=../Audio/Limiting Factor/51D#2-R8XQ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=717 end=27288 sample=../Audio/Limiting Factor/51D#2-0UPS.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=849 end=28817 sample=../Audio/Limiting Factor/51D#2-VO6A.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=530 end=71431 sample=../Audio/Limiting Factor/51D#2-KW9J.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=971 end=186752 sample=../Audio/Limiting Factor/51D#2-WDIZ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=706 end=282525 sample=../Audio/Limiting Factor/51D#2-QYVF.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=895 end=162820 sample=../Audio/Limiting Factor/52E2-B9KP.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=501 end=230789 sample=../Audio/Limiting Factor/52E2-Y8KZ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=382 end=108548 sample=../Audio/Limiting Factor/52E2-K46N.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=739 end=276736 sample=../Audio/Limiting Factor/52E2-RLR0.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=470 end=121746 sample=../Audio/Limiting Factor/52E2-5421.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=740 end=157316 sample=../Audio/Limiting Factor/52E2-S5B5.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=670 sample=../Audio/Limiting Factor/52E2-MBA4.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=824 end=206985 sample=../Audio/Limiting Factor/52E2-YPSE.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=607 end=169260 sample=../Audio/Limiting Factor/53F2-CYG9.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=738 sample=../Audio/Limiting Factor/53F2-F711.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=933 end=178604 sample=../Audio/Limiting Factor/53F2-DG5P.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=475 end=133397 sample=../Audio/Limiting Factor/53F2-UAV5.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=619 end=205314 sample=../Audio/Limiting Factor/53F2-F4FE.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=568 end=158609 sample=../Audio/Limiting Factor/53F2-50AR.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=854 end=180254 sample=../Audio/Limiting Factor/53F2-N7C4.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=669 end=267520 sample=../Audio/Limiting Factor/53F2-0WHQ.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=886 end=273928 sample=../Audio/Limiting Factor/54F#2-XJMZ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=420 end=254993 sample=../Audio/Limiting Factor/54F#2-FHB1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=899 end=244100 sample=../Audio/Limiting Factor/54F#2-HO4V.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=577 end=172546 sample=../Audio/Limiting Factor/54F#2-OQTE.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=523 end=142604 sample=../Audio/Limiting Factor/54F#2-SL74.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=460 end=201476 sample=../Audio/Limiting Factor/54F#2-GRH7.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=560 end=208390 sample=../Audio/Limiting Factor/54F#2-HN6L.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=493 end=284295 sample=../Audio/Limiting Factor/54F#2-P77I.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=454 sample=../Audio/Limiting Factor/55G2-Q2BO.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=814 end=251059 sample=../Audio/Limiting Factor/55G2-3QAQ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=596 end=210444 sample=../Audio/Limiting Factor/55G2-ZB50.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=635 end=245778 sample=../Audio/Limiting Factor/55G2-4406.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=919 end=241958 sample=../Audio/Limiting Factor/55G2-BKIB.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=517 sample=../Audio/Limiting Factor/55G2-YFM1.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=799 end=30223 sample=../Audio/Limiting Factor/55G2-HYSS.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=500 end=318219 sample=../Audio/Limiting Factor/55G2-FM9G.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=963 end=325760 sample=../Audio/Limiting Factor/56G#2-1FNY.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=850 end=316032 sample=../Audio/Limiting Factor/56G#2-LZW4.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=730 end=261124 sample=../Audio/Limiting Factor/56G#2-FI9E.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=902 end=310420 sample=../Audio/Limiting Factor/56G#2-9ATS.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=793 end=248842 sample=../Audio/Limiting Factor/56G#2-5N50.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=1069 end=210051 sample=../Audio/Limiting Factor/56G#2-TY08.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=681 end=262939 sample=../Audio/Limiting Factor/56G#2-ACKM.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=437 sample=../Audio/Limiting Factor/56G#2-C8C7.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=713 end=18909 sample=../Audio/Limiting Factor/57A2-VPMJ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=853 end=21376 sample=../Audio/Limiting Factor/57A2-BESW.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=710 end=98180 sample=../Audio/Limiting Factor/57A2-S1E2.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=863 end=27151 sample=../Audio/Limiting Factor/57A2-VCT8.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=917 end=28234 sample=../Audio/Limiting Factor/57A2-K86N.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=791 end=56966 sample=../Audio/Limiting Factor/57A2-9E5Q.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=682 end=357004 sample=../Audio/Limiting Factor/57A2-TKI8.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=979 end=291328 sample=../Audio/Limiting Factor/57A2-HR0L.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=771 end=276360 sample=../Audio/Limiting Factor/58A#2-N8LY.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=829 sample=../Audio/Limiting Factor/58A#2-BWGN.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=884 end=339840 sample=../Audio/Limiting Factor/58A#2-8HR1.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=438 end=292486 sample=../Audio/Limiting Factor/58A#2-TP34.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=697 end=390025 sample=../Audio/Limiting Factor/58A#2-QXYD.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=507 end=370442 sample=../Audio/Limiting Factor/58A#2-RBJ3.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=788 end=361874 sample=../Audio/Limiting Factor/58A#2-9IFY.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=399 end=333452 sample=../Audio/Limiting Factor/58A#2-FH5U.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=662 end=300549 sample=../Audio/Limiting Factor/59B2-PW2X.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=912 sample=../Audio/Limiting Factor/59B2-HDCD.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=853 end=311683 sample=../Audio/Limiting Factor/59B2-46G6.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=650 end=284802 sample=../Audio/Limiting Factor/59B2-KXQA.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=506 end=263172 sample=../Audio/Limiting Factor/59B2-CHJC.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=741 end=283526 sample=../Audio/Limiting Factor/59B2-NZFT.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=725 sample=../Audio/Limiting Factor/59B2-VZ6K.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=571 end=320769 sample=../Audio/Limiting Factor/59B2-1LI2.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=809 end=272292 sample=../Audio/Limiting Factor/60C3-QVGU.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=472 end=294019 sample=../Audio/Limiting Factor/60C3-8YI6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=407 end=271361 sample=../Audio/Limiting Factor/60C3-ASIU.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=747 end=346501 sample=../Audio/Limiting Factor/60C3-KCFD.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=761 end=364328 sample=../Audio/Limiting Factor/60C3-7YD0.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=918 end=410906 sample=../Audio/Limiting Factor/60C3-5O2W.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=880 sample=../Audio/Limiting Factor/60C3-U19I.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=764 end=269703 sample=../Audio/Limiting Factor/60C3-368Q.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=519 end=274433 sample=../Audio/Limiting Factor/61C#3-T13L.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=873 end=316934 sample=../Audio/Limiting Factor/61C#3-6I1W.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=899 end=396161 sample=../Audio/Limiting Factor/61C#3-2XIY.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=774 end=289158 sample=../Audio/Limiting Factor/61C#3-3OEQ.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=800 sample=../Audio/Limiting Factor/61C#3-N1QY.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=747 sample=../Audio/Limiting Factor/61C#3-83HC.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=629 end=401798 sample=../Audio/Limiting Factor/61C#3-9A6Y.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=787 end=409686 sample=../Audio/Limiting Factor/61C#3-11DM.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=770 end=319877 sample=../Audio/Limiting Factor/62D3-TRSC.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=768 end=411777 sample=../Audio/Limiting Factor/62D3-YYY1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=820 end=324126 sample=../Audio/Limiting Factor/62D3-D41F.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=814 sample=../Audio/Limiting Factor/62D3-05GS.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=905 end=391427 sample=../Audio/Limiting Factor/62D3-77FO.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=686 end=324096 sample=../Audio/Limiting Factor/62D3-VZ8Z.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=765 end=342528 sample=../Audio/Limiting Factor/62D3-1LRF.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=838 end=392088 sample=../Audio/Limiting Factor/62D3-7RH2.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=530 end=235522 sample=../Audio/Limiting Factor/63D#3-4B7S.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=895 end=156160 sample=../Audio/Limiting Factor/63D#3-84XF.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=678 end=230409 sample=../Audio/Limiting Factor/63D#3-2FY4.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=652 end=218904 sample=../Audio/Limiting Factor/63D#3-RLLE.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=814 end=267649 sample=../Audio/Limiting Factor/63D#3-XVYX.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=528 end=314789 sample=../Audio/Limiting Factor/63D#3-TU7E.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=438 end=329106 sample=../Audio/Limiting Factor/63D#3-BZ5Q.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=919 end=348172 sample=../Audio/Limiting Factor/63D#3-KGLO.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=518 end=402370 sample=../Audio/Limiting Factor/64E3-RPMJ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=571 end=382987 sample=../Audio/Limiting Factor/64E3-HUZA.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=938 end=479526 sample=../Audio/Limiting Factor/64E3-9BSX.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=546 end=281227 sample=../Audio/Limiting Factor/64E3-8E8D.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=590 end=399502 sample=../Audio/Limiting Factor/64E3-G9HV.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=520 sample=../Audio/Limiting Factor/64E3-SECV.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=507 end=386730 sample=../Audio/Limiting Factor/64E3-NWS3.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=716 end=436741 sample=../Audio/Limiting Factor/64E3-ABZU.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=628 end=394250 sample=../Audio/Limiting Factor/65F3-2VKI.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=732 end=460544 sample=../Audio/Limiting Factor/65F3-AL7F.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=990 end=434310 sample=../Audio/Limiting Factor/65F3-WNK2.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=795 sample=../Audio/Limiting Factor/65F3-WP0N.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=536 end=321672 sample=../Audio/Limiting Factor/65F3-YV26.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=449 sample=../Audio/Limiting Factor/65F3-20YT.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=743 sample=../Audio/Limiting Factor/65F3-DYF4.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=898 sample=../Audio/Limiting Factor/65F3-VI9R.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=850 end=479805 sample=../Audio/Limiting Factor/66F#3-74R5.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=845 end=382984 sample=../Audio/Limiting Factor/66F#3-LXJH.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=482 sample=../Audio/Limiting Factor/66F#3-SH8G.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=811 end=424323 sample=../Audio/Limiting Factor/66F#3-PZQ0.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=851 end=418700 sample=../Audio/Limiting Factor/66F#3-HKQJ.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=844 end=473611 sample=../Audio/Limiting Factor/66F#3-7C1T.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=385 sample=../Audio/Limiting Factor/66F#3-OS5N.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=536 end=445186 sample=../Audio/Limiting Factor/66F#3-1R1X.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=422 end=435090 sample=../Audio/Limiting Factor/67G3-MLES.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=925 end=451211 sample=../Audio/Limiting Factor/67G3-AQY1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=682 end=417157 sample=../Audio/Limiting Factor/67G3-DYSW.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=797 end=453800 sample=../Audio/Limiting Factor/67G3-SFRM.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=712 end=378644 sample=../Audio/Limiting Factor/67G3-9TVC.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=424 end=427014 sample=../Audio/Limiting Factor/67G3-3ECB.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=817 end=388101 sample=../Audio/Limiting Factor/67G3-LEEK.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=638 end=435491 sample=../Audio/Limiting Factor/67G3-M7S9.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=801 end=442014 sample=../Audio/Limiting Factor/68G#3-X5CW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=614 end=467392 sample=../Audio/Limiting Factor/68G#3-ZDRK.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=788 sample=../Audio/Limiting Factor/68G#3-OF8R.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=555 end=465923 sample=../Audio/Limiting Factor/68G#3-9QY3.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=841 end=440843 sample=../Audio/Limiting Factor/68G#3-Y4T8.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=492 end=444181 sample=../Audio/Limiting Factor/68G#3-8ST8.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=562 end=507140 sample=../Audio/Limiting Factor/68G#3-51I2.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=641 end=457098 sample=../Audio/Limiting Factor/68G#3-4WUD.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=693 end=319252 sample=../Audio/Limiting Factor/69A3-KMB4.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=721 end=248325 sample=../Audio/Limiting Factor/69A3-1EK7.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=513 end=313395 sample=../Audio/Limiting Factor/69A3-NDIS.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=436 end=384513 sample=../Audio/Limiting Factor/69A3-EU8I.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=580 end=394403 sample=../Audio/Limiting Factor/69A3-2G5A.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=916 sample=../Audio/Limiting Factor/69A3-TXJO.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=674 end=430982 sample=../Audio/Limiting Factor/69A3-AVXW.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=657 end=412199 sample=../Audio/Limiting Factor/69A3-H7CU.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=425 end=506901 sample=../Audio/Limiting Factor/70A#3-MKZL.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=580 end=471555 sample=../Audio/Limiting Factor/70A#3-EU0A.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=571 end=464000 sample=../Audio/Limiting Factor/70A#3-OTYO.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=872 end=468903 sample=../Audio/Limiting Factor/70A#3-U45O.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=851 end=447531 sample=../Audio/Limiting Factor/70A#3-8YDV.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=410 end=512390 sample=../Audio/Limiting Factor/70A#3-B1WQ.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=850 end=502284 sample=../Audio/Limiting Factor/70A#3-3WCL.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=783 end=470707 sample=../Audio/Limiting Factor/70A#3-6GM0.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=872 end=451763 sample=../Audio/Limiting Factor/71B3-QGI9.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=880 end=487042 sample=../Audio/Limiting Factor/71B3-SJI7.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=478 end=461072 sample=../Audio/Limiting Factor/71B3-LG42.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=549 end=462649 sample=../Audio/Limiting Factor/71B3-M6MP.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=679 sample=../Audio/Limiting Factor/71B3-3MG9.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=760 end=497328 sample=../Audio/Limiting Factor/71B3-3OUW.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=906 end=474116 sample=../Audio/Limiting Factor/71B3-23JU.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=810 end=556339 sample=../Audio/Limiting Factor/71B3-IL6C.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=637 end=494622 sample=../Audio/Limiting Factor/72C4-WPQ2.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=669 end=508688 sample=../Audio/Limiting Factor/72C4-D06A.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=838 sample=../Audio/Limiting Factor/72C4-XY6X.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=559 sample=../Audio/Limiting Factor/72C4-3WSK.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=522 end=527509 sample=../Audio/Limiting Factor/72C4-XFHJ.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=617 end=578198 sample=../Audio/Limiting Factor/72C4-K87T.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=532 sample=../Audio/Limiting Factor/72C4-YZR4.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=819 sample=../Audio/Limiting Factor/72C4-PFKU.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=863 end=524544 sample=../Audio/Limiting Factor/73C#4-3WXH.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=972 end=548620 sample=../Audio/Limiting Factor/73C#4-W1RV.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=805 end=563458 sample=../Audio/Limiting Factor/73C#4-G5QI.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=669 end=541733 sample=../Audio/Limiting Factor/73C#4-NVKL.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=418 end=542491 sample=../Audio/Limiting Factor/73C#4-75BR.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=737 end=553731 sample=../Audio/Limiting Factor/73C#4-TJP3.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=757 end=556559 sample=../Audio/Limiting Factor/73C#4-B1D9.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=514 end=486312 sample=../Audio/Limiting Factor/73C#4-BGX9.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=427 end=558482 sample=../Audio/Limiting Factor/74D4-A79H.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=505 end=520388 sample=../Audio/Limiting Factor/74D4-U669.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=956 end=488080 sample=../Audio/Limiting Factor/74D4-KPZD.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=670 end=485529 sample=../Audio/Limiting Factor/74D4-BPU9.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=357 end=580521 sample=../Audio/Limiting Factor/74D4-FCBN.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=422 end=458651 sample=../Audio/Limiting Factor/74D4-8YD4.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=871 end=596883 sample=../Audio/Limiting Factor/74D4-A6PQ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=428 end=548675 sample=../Audio/Limiting Factor/74D4-8NM5.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=914 end=470676 sample=../Audio/Limiting Factor/75D#4-0KMA.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=391 end=439191 sample=../Audio/Limiting Factor/75D#4-EXUL.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=900 end=482816 sample=../Audio/Limiting Factor/75D#4-8YPP.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=766 sample=../Audio/Limiting Factor/75D#4-UNKL.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=864 end=361224 sample=../Audio/Limiting Factor/75D#4-MYW1.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=590 end=387210 sample=../Audio/Limiting Factor/75D#4-RJD2.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=839 end=572618 sample=../Audio/Limiting Factor/75D#4-6BIE.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=534 sample=../Audio/Limiting Factor/75D#4-XDGQ.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=579 sample=../Audio/Limiting Factor/76E4-1GVO.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=694 end=516515 sample=../Audio/Limiting Factor/76E4-5VEM.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=549 end=561838 sample=../Audio/Limiting Factor/76E4-HUUB.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=933 end=597267 sample=../Audio/Limiting Factor/76E4-0REE.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=565 end=528265 sample=../Audio/Limiting Factor/76E4-IWC6.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=635 end=526016 sample=../Audio/Limiting Factor/76E4-10WS.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=591 end=584568 sample=../Audio/Limiting Factor/76E4-IPJB.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=483 end=598694 sample=../Audio/Limiting Factor/76E4-7PK5.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=681 sample=../Audio/Limiting Factor/77F4-UZIH.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=589 end=531717 sample=../Audio/Limiting Factor/77F4-BPV2.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=604 sample=../Audio/Limiting Factor/77F4-FYDJ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=575 end=529559 sample=../Audio/Limiting Factor/77F4-MFDK.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=743 end=547990 sample=../Audio/Limiting Factor/77F4-1L9M.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=866 end=507156 sample=../Audio/Limiting Factor/77F4-R3AR.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=733 end=619224 sample=../Audio/Limiting Factor/77F4-AR4S.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=568 end=614209 sample=../Audio/Limiting Factor/77F4-I2CQ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=488 end=532014 sample=../Audio/Limiting Factor/78F#4-4Z9R.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=556 end=598405 sample=../Audio/Limiting Factor/78F#4-LSAD.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=626 end=650886 sample=../Audio/Limiting Factor/78F#4-00R9.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=608 end=617108 sample=../Audio/Limiting Factor/78F#4-LRU1.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=893 end=603276 sample=../Audio/Limiting Factor/78F#4-NVYI.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=636 end=593946 sample=../Audio/Limiting Factor/78F#4-9NZG.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=657 end=641798 sample=../Audio/Limiting Factor/78F#4-4NET.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=909 end=617893 sample=../Audio/Limiting Factor/78F#4-SLKZ.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=859 end=544148 sample=../Audio/Limiting Factor/79G4-GDLO.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=953 end=586001 sample=../Audio/Limiting Factor/79G4-3Q71.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=565 end=613291 sample=../Audio/Limiting Factor/79G4-R02S.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=462 end=603540 sample=../Audio/Limiting Factor/79G4-1BRB.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=855 end=590855 sample=../Audio/Limiting Factor/79G4-NFCO.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=746 end=602515 sample=../Audio/Limiting Factor/79G4-LY7F.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=688 end=561166 sample=../Audio/Limiting Factor/79G4-DRS6.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=577 end=613903 sample=../Audio/Limiting Factor/79G4-KHG9.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=414 end=606492 sample=../Audio/Limiting Factor/80G#4-HBK8.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=377 end=636065 sample=../Audio/Limiting Factor/80G#4-6JMX.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=594 end=600997 sample=../Audio/Limiting Factor/80G#4-TW1B.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=900 end=642905 sample=../Audio/Limiting Factor/80G#4-0TS0.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=869 sample=../Audio/Limiting Factor/80G#4-DWUO.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=452 end=608418 sample=../Audio/Limiting Factor/80G#4-TLJR.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=915 end=657721 sample=../Audio/Limiting Factor/80G#4-ZCTX.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=709 end=641035 sample=../Audio/Limiting Factor/80G#4-OWS2.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=497 sample=../Audio/Limiting Factor/81A4-W9C1.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=454 end=518401 sample=../Audio/Limiting Factor/81A4-02XU.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=451 end=541591 sample=../Audio/Limiting Factor/81A4-VAQF.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=630 end=528695 sample=../Audio/Limiting Factor/81A4-YIAJ.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=696 end=466816 sample=../Audio/Limiting Factor/81A4-SYJQ.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=584 end=558857 sample=../Audio/Limiting Factor/81A4-LUKO.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=749 end=627993 sample=../Audio/Limiting Factor/81A4-SRYK.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=518 sample=../Audio/Limiting Factor/81A4-Y2DH.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=951 end=659140 sample=../Audio/Limiting Factor/82A#4-894G.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=457 end=604900 sample=../Audio/Limiting Factor/82A#4-K9K1.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=794 end=586279 sample=../Audio/Limiting Factor/82A#4-DFR8.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=799 end=598197 sample=../Audio/Limiting Factor/82A#4-AT9U.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=883 end=632164 sample=../Audio/Limiting Factor/82A#4-6P1P.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=719 sample=../Audio/Limiting Factor/82A#4-7IGG.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=531 end=685234 sample=../Audio/Limiting Factor/82A#4-C5KB.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=803 end=578954 sample=../Audio/Limiting Factor/82A#4-5OO3.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=636 sample=../Audio/Limiting Factor/83B4-XYEE.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=511 end=648789 sample=../Audio/Limiting Factor/83B4-6TRC.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=832 end=636459 sample=../Audio/Limiting Factor/83B4-PNN0.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=551 end=537729 sample=../Audio/Limiting Factor/83B4-6RDJ.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=637 end=674858 sample=../Audio/Limiting Factor/83B4-Q0H1.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=555 end=624735 sample=../Audio/Limiting Factor/83B4-BIXD.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=720 end=653963 sample=../Audio/Limiting Factor/83B4-U6MM.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=606 sample=../Audio/Limiting Factor/83B4-CWPI.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=928 end=707623 sample=../Audio/Limiting Factor/84C5-HYLJ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=508 end=753415 sample=../Audio/Limiting Factor/84C5-K4JX.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=306 end=656674 sample=../Audio/Limiting Factor/84C5-OYV3.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=770 end=681617 sample=../Audio/Limiting Factor/84C5-59W7.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=835 end=673909 sample=../Audio/Limiting Factor/84C5-IELK.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=677 end=694929 sample=../Audio/Limiting Factor/84C5-CPXY.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=700 end=674705 sample=../Audio/Limiting Factor/84C5-Q72F.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=496 end=679583 sample=../Audio/Limiting Factor/84C5-9XPT.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=799 end=657698 sample=../Audio/Limiting Factor/85C#5-0AL1.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=616 end=732855 sample=../Audio/Limiting Factor/85C#5-REV6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=747 end=707902 sample=../Audio/Limiting Factor/85C#5-ARQ2.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=648 end=727828 sample=../Audio/Limiting Factor/85C#5-8GQV.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=692 end=691605 sample=../Audio/Limiting Factor/85C#5-DU4H.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=858 end=670856 sample=../Audio/Limiting Factor/85C#5-F9GW.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=693 end=679947 sample=../Audio/Limiting Factor/85C#5-BV9V.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=941 end=657155 sample=../Audio/Limiting Factor/85C#5-YEIY.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=912 end=702208 sample=../Audio/Limiting Factor/86D5-JOM6.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=760 end=715038 sample=../Audio/Limiting Factor/86D5-ZLGR.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=637 end=682103 sample=../Audio/Limiting Factor/86D5-0JOB.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=334 end=757405 sample=../Audio/Limiting Factor/86D5-TYAD.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=554 end=667540 sample=../Audio/Limiting Factor/86D5-BRFY.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=587 end=743316 sample=../Audio/Limiting Factor/86D5-YVPR.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=822 sample=../Audio/Limiting Factor/86D5-5RAK.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=684 end=645764 sample=../Audio/Limiting Factor/86D5-HETV.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=807 end=610054 sample=../Audio/Limiting Factor/87D#5-ZLQW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=799 end=609962 sample=../Audio/Limiting Factor/87D#5-Q6KT.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=823 end=635424 sample=../Audio/Limiting Factor/87D#5-N0NA.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=780 end=614166 sample=../Audio/Limiting Factor/87D#5-U73Q.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=538 end=635695 sample=../Audio/Limiting Factor/87D#5-DI6W.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=842 end=576220 sample=../Audio/Limiting Factor/87D#5-UM7N.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=607 end=752012 sample=../Audio/Limiting Factor/87D#5-12NE.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=381 end=705552 sample=../Audio/Limiting Factor/87D#5-7U59.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=1006 end=735634 sample=../Audio/Limiting Factor/88E5-P7ZQ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=543 end=706896 sample=../Audio/Limiting Factor/88E5-3NJG.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=614 end=734587 sample=../Audio/Limiting Factor/88E5-UNBQ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=835 end=768300 sample=../Audio/Limiting Factor/88E5-OI4W.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=378 end=710919 sample=../Audio/Limiting Factor/88E5-734X.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=785 end=708363 sample=../Audio/Limiting Factor/88E5-9200.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=516 end=727069 sample=../Audio/Limiting Factor/88E5-MHJD.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=353 sample=../Audio/Limiting Factor/88E5-7BVY.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=449 end=660656 sample=../Audio/Limiting Factor/89F5-BSEW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=372 end=713275 sample=../Audio/Limiting Factor/89F5-97DX.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=245 end=714521 sample=../Audio/Limiting Factor/89F5-FHV0.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=511 end=701224 sample=../Audio/Limiting Factor/89F5-4XQ2.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=891 end=718725 sample=../Audio/Limiting Factor/89F5-3875.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=924 end=729702 sample=../Audio/Limiting Factor/89F5-6Y2F.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=512 end=763035 sample=../Audio/Limiting Factor/89F5-3VQ0.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=526 end=781729 sample=../Audio/Limiting Factor/89F5-MINJ.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=943 end=714369 sample=../Audio/Limiting Factor/90F#5-YIG3.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=566 end=760774 sample=../Audio/Limiting Factor/90F#5-GKQM.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=725 end=778390 sample=../Audio/Limiting Factor/90F#5-5LOG.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=680 end=753929 sample=../Audio/Limiting Factor/90F#5-HZ8T.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=774 end=713247 sample=../Audio/Limiting Factor/90F#5-HRRE.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=684 end=727263 sample=../Audio/Limiting Factor/90F#5-308D.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=390 end=769676 sample=../Audio/Limiting Factor/90F#5-YYUJ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=613 end=748432 sample=../Audio/Limiting Factor/90F#5-Q104.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=560 end=753860 sample=../Audio/Limiting Factor/91G5-3JG1.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=834 end=759615 sample=../Audio/Limiting Factor/91G5-92Z2.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=858 end=754513 sample=../Audio/Limiting Factor/91G5-H7T2.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=369 end=773563 sample=../Audio/Limiting Factor/91G5-EX5C.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=957 sample=../Audio/Limiting Factor/91G5-JN0P.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=106 end=772231 sample=../Audio/Limiting Factor/91G5-WFD4.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=490 sample=../Audio/Limiting Factor/91G5-3O2G.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=371 end=750739 sample=../Audio/Limiting Factor/91G5-EU7W.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=608 end=826124 sample=../Audio/Limiting Factor/92G#5-XPD0.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=677 end=746217 sample=../Audio/Limiting Factor/92G#5-PS4D.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=979 end=780699 sample=../Audio/Limiting Factor/92G#5-ESYG.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=591 sample=../Audio/Limiting Factor/92G#5-P9MX.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=834 end=820531 sample=../Audio/Limiting Factor/92G#5-W4KH.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=768 end=828755 sample=../Audio/Limiting Factor/92G#5-8EU8.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=691 end=790811 sample=../Audio/Limiting Factor/92G#5-X4FL.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=27 end=797984 sample=../Audio/Limiting Factor/92G#5-H1HI.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=74 end=712330 sample=../Audio/Limiting Factor/93A5-MPK6.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=659 end=760081 sample=../Audio/Limiting Factor/93A5-2STW.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=734 end=724740 sample=../Audio/Limiting Factor/93A5-Y8TI.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=816 end=731692 sample=../Audio/Limiting Factor/93A5-8VWF.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=448 sample=../Audio/Limiting Factor/93A5-HL7Y.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=624 end=798518 sample=../Audio/Limiting Factor/93A5-KAJT.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=730 end=780120 sample=../Audio/Limiting Factor/93A5-47PK.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=66 end=757651 sample=../Audio/Limiting Factor/93A5-BTZ0.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=803 end=850459 sample=../Audio/Limiting Factor/94A#5-U4P5.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=508 end=776358 sample=../Audio/Limiting Factor/94A#5-9HY6.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=377 end=812814 sample=../Audio/Limiting Factor/94A#5-61Z9.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=944 end=823337 sample=../Audio/Limiting Factor/94A#5-CRI0.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=137 end=818465 sample=../Audio/Limiting Factor/94A#5-9KA7.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=445 end=811972 sample=../Audio/Limiting Factor/94A#5-6Y6C.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=464 end=815397 sample=../Audio/Limiting Factor/94A#5-IGA1.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=249 end=859487 sample=../Audio/Limiting Factor/94A#5-TUQB.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=601 end=863526 sample=../Audio/Limiting Factor/95B5-L8MU.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=840 end=835741 sample=../Audio/Limiting Factor/95B5-CDTK.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=88 sample=../Audio/Limiting Factor/95B5-VR1P.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=861 end=827673 sample=../Audio/Limiting Factor/95B5-AN9V.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=790 sample=../Audio/Limiting Factor/95B5-IHUG.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=236 end=877974 sample=../Audio/Limiting Factor/95B5-R6ZA.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=462 end=878926 sample=../Audio/Limiting Factor/95B5-2XEO.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=545 end=861328 sample=../Audio/Limiting Factor/95B5-R3SJ.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=698 sample=../Audio/Limiting Factor/96C6-OS7X.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=236 end=834335 sample=../Audio/Limiting Factor/96C6-VJEI.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=527 end=858469 sample=../Audio/Limiting Factor/96C6-13UR.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=485 end=850721 sample=../Audio/Limiting Factor/96C6-ON5W.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=427 end=814848 sample=../Audio/Limiting Factor/96C6-1UCR.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=623 sample=../Audio/Limiting Factor/96C6-JM2E.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=528 end=834870 sample=../Audio/Limiting Factor/96C6-SCWT.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=723 sample=../Audio/Limiting Factor/96C6-5KDZ.wav
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=567 end=879364 sample=../Audio/Limiting Factor/97C#6-HHOQ.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=556 end=854290 sample=../Audio/Limiting Factor/97C#6-YPCV.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=367 end=879879 sample=../Audio/Limiting Factor/97C#6-C7TS.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=548 sample=../Audio/Limiting Factor/97C#6-MPR9.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=638 sample=../Audio/Limiting Factor/97C#6-LI68.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=571 end=813339 sample=../Audio/Limiting Factor/97C#6-2PGA.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=857 end=857372 sample=../Audio/Limiting Factor/97C#6-UV7A.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=582 end=902436 sample=../Audio/Limiting Factor/97C#6-X7JM.wav
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=375 end=838533 sample=../Audio/Limiting Factor/98D6-GFEE.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=136 end=858450 sample=../Audio/Limiting Factor/98D6-ST3N.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=493 end=908961 sample=../Audio/Limiting Factor/98D6-AZQC.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=969 end=944450 sample=../Audio/Limiting Factor/98D6-NQ2X.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=1033 end=883006 sample=../Audio/Limiting Factor/98D6-E068.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=607 end=863022 sample=../Audio/Limiting Factor/98D6-N7RR.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=728 end=924461 sample=../Audio/Limiting Factor/98D6-RZ17.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=402 end=835296 sample=../Audio/Limiting Factor/98D6-XTQW.wav
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=581 end=833221 sample=../Audio/Limiting Factor/99D#6-4BWN.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=255 end=843315 sample=../Audio/Limiting Factor/99D#6-W76Q.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=840 sample=../Audio/Limiting Factor/99D#6-XHAR.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=286 sample=../Audio/Limiting Factor/99D#6-UJY2.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=213 end=833972 sample=../Audio/Limiting Factor/99D#6-R756.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=963 end=881953 sample=../Audio/Limiting Factor/99D#6-NI0N.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=359 end=829281 sample=../Audio/Limiting Factor/99D#6-CPM3.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=842 end=893198 sample=../Audio/Limiting Factor/99D#6-ABUL.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=791 end=862980 sample=../Audio/Limiting Factor/100E6-4ASW.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=655 end=881003 sample=../Audio/Limiting Factor/100E6-0PCY.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=695 end=880408 sample=../Audio/Limiting Factor/100E6-F2NZ.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=205 end=962861 sample=../Audio/Limiting Factor/100E6-11TX.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=99 end=861501 sample=../Audio/Limiting Factor/100E6-89B3.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=554 sample=../Audio/Limiting Factor/100E6-A2LR.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=628 sample=../Audio/Limiting Factor/100E6-TZOX.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=500 end=855835 sample=../Audio/Limiting Factor/100E6-XJV8.wav
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=522 end=938384 sample=../Audio/Limiting Factor/101F6-PDYV.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=603 end=897828 sample=../Audio/Limiting Factor/101F6-BTUY.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=372 end=879516 sample=../Audio/Limiting Factor/101F6-619G.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=117 sample=../Audio/Limiting Factor/101F6-OTCF.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=352 end=861048 sample=../Audio/Limiting Factor/101F6-J38L.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=879 end=950616 sample=../Audio/Limiting Factor/101F6-T99X.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=240 end=895247 sample=../Audio/Limiting Factor/101F6-BX3K.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=421 end=943374 sample=../Audio/Limiting Factor/101F6-32EG.wav
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=122 end=880900 sample=../Audio/Limiting Factor/102F#6-AO7J.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=148 sample=../Audio/Limiting Factor/102F#6-ADXE.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=917 end=972063 sample=../Audio/Limiting Factor/102F#6-ZGU4.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=449 sample=../Audio/Limiting Factor/102F#6-AO9S.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=118 sample=../Audio/Limiting Factor/102F#6-CJUP.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=189 sample=../Audio/Limiting Factor/102F#6-HE9S.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=114 end=944414 sample=../Audio/Limiting Factor/102F#6-NOI5.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=127 end=974200 sample=../Audio/Limiting Factor/102F#6-K7UF.wav
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=369 end=930105 sample=../Audio/Limiting Factor/103G6-6P1M.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=126 end=908440 sample=../Audio/Limiting Factor/103G6-DMZ0.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=333 end=900936 sample=../Audio/Limiting Factor/103G6-2XEA.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=368 end=898343 sample=../Audio/Limiting Factor/103G6-4DOU.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=685 end=978576 sample=../Audio/Limiting Factor/103G6-MZVF.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=612 sample=../Audio/Limiting Factor/103G6-597O.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=107 sample=../Audio/Limiting Factor/103G6-91T5.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=221 end=938886 sample=../Audio/Limiting Factor/103G6-3DL4.wav
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=314 end=929565 sample=../Audio/Limiting Factor/104G#6-WG7S.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=588 end=923931 sample=../Audio/Limiting Factor/104G#6-NGQO.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=231 end=996106 sample=../Audio/Limiting Factor/104G#6-AGGX.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=759 end=949520 sample=../Audio/Limiting Factor/104G#6-GP05.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=201 end=918337 sample=../Audio/Limiting Factor/104G#6-A6LN.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=351 end=907905 sample=../Audio/Limiting Factor/104G#6-22BA.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=654 end=905902 sample=../Audio/Limiting Factor/104G#6-VHH9.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=77 end=973079 sample=../Audio/Limiting Factor/104G#6-VNTF.wav
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=490 end=839498 sample=../Audio/Limiting Factor/105A6-D8DL.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=664 end=803588 sample=../Audio/Limiting Factor/105A6-C8U8.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=848 end=830255 sample=../Audio/Limiting Factor/105A6-YXVP.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=79 sample=../Audio/Limiting Factor/105A6-2T34.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=935 end=813342 sample=../Audio/Limiting Factor/105A6-R45Z.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=721 end=857371 sample=../Audio/Limiting Factor/105A6-QAVZ.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=642 end=933642 sample=../Audio/Limiting Factor/105A6-M1ZF.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=504 end=895809 sample=../Audio/Limiting Factor/105A6-G3CZ.wav
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=395 end=835093 sample=../Audio/Limiting Factor/106A#6-3SBL.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=468 end=815562 sample=../Audio/Limiting Factor/106A#6-Y9DZ.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=342 end=849629 sample=../Audio/Limiting Factor/106A#6-LE8X.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=447 sample=../Audio/Limiting Factor/106A#6-8VYP.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=427 sample=../Audio/Limiting Factor/106A#6-R41M.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=553 end=827567 sample=../Audio/Limiting Factor/106A#6-6XJ5.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=382 end=842437 sample=../Audio/Limiting Factor/106A#6-WQM6.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=814 end=829196 sample=../Audio/Limiting Factor/106A#6-PU8T.wav
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=682 end=726677 sample=../Audio/Limiting Factor/107B6-REL0.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=616 end=772511 sample=../Audio/Limiting Factor/107B6-UF6Q.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=515 end=725781 sample=../Audio/Limiting Factor/107B6-P7FI.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=344 end=795495 sample=../Audio/Limiting Factor/107B6-8JEX.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=912 end=775494 sample=../Audio/Limiting Factor/107B6-INCG.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=549 end=794807 sample=../Audio/Limiting Factor/107B6-VNVB.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=438 end=851073 sample=../Audio/Limiting Factor/107B6-6H24.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=860 end=790274 sample=../Audio/Limiting Factor/107B6-0U0M.wav
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=015 amp_velcurve_015=1 offset=809 end=763022 sample=../Audio/Limiting Factor/108C7-ZDQ5.wav
+	<region> lovel=016 hivel=030 amp_velcurve_030=1 offset=215 end=721025 sample=../Audio/Limiting Factor/108C7-8IHM.wav
+	<region> lovel=031 hivel=045 amp_velcurve_045=1 offset=865 end=755496 sample=../Audio/Limiting Factor/108C7-XEDS.wav
+	<region> lovel=046 hivel=060 amp_velcurve_060=1 offset=1049 end=776322 sample=../Audio/Limiting Factor/108C7-BFFA.wav
+	<region> lovel=061 hivel=075 amp_velcurve_075=1 offset=677 sample=../Audio/Limiting Factor/108C7-EOSM.wav
+	<region> lovel=076 hivel=095 amp_velcurve_095=1 offset=740 end=740655 sample=../Audio/Limiting Factor/108C7-C9OA.wav
+	<region> lovel=096 hivel=110 amp_velcurve_110=1 offset=733 end=781469 sample=../Audio/Limiting Factor/108C7-B1YG.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=839 end=747654 sample=../Audio/Limiting Factor/108C7-LJ3M.wav

@@ -1,0 +1,185 @@
+// this file was generated from MoonBeamz Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=249940 loop_end=400532 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-WG2B.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=249940 loop_end=400532 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-WG2B.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=271588 loop_end=392401 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-YRQQ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=271588 loop_end=392401 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-YRQQ.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=256255 loop_end=293090 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-BCHQ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=256255 loop_end=293090 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-BCHQ.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=228007 loop_end=397037 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-6OM1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=228007 loop_end=397037 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-6OM1.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=272746 loop_end=309780 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-NJV1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=272746 loop_end=309780 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-NJV1.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=285270 loop_end=323169 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-WNAT.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=285270 loop_end=323169 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-WNAT.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352102 loop_end=402010 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-04VF.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=352102 loop_end=402010 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-04VF.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=264912 loop_end=400054 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-7III.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=264912 loop_end=400054 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-7III.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=326836 loop_end=391363 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZWZ6.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=326836 loop_end=391363 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZWZ6.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=354816 loop_end=401541 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-1BAP.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=354816 loop_end=401541 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-1BAP.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=312838 loop_end=400185 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-54ZL.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=312838 loop_end=400185 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-54ZL.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=237457 loop_end=274108 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-XOIB.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=237457 loop_end=274108 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-XOIB.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=249025 loop_end=285624 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-KVVH.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=249025 loop_end=285624 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-KVVH.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=243021 loop_end=281286 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-NUFR.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=243021 loop_end=281286 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-NUFR.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=246559 loop_end=400125 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZP8C.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=246559 loop_end=400125 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZP8C.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330528 loop_end=369122 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-OYU7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=330528 loop_end=369122 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-OYU7.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=231715 loop_end=305083 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-46YR.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=231715 loop_end=305083 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-46YR.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=270788 loop_end=320123 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-Q3CX.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=270788 loop_end=320123 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-Q3CX.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=309283 loop_end=399038 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-MLZN.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=309283 loop_end=399038 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-MLZN.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=239634 loop_end=393649 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-690R.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=239634 loop_end=393649 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-690R.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=327663 loop_end=366617 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-J5Q8.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=327663 loop_end=366617 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-J5Q8.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=339690 loop_end=400547 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-9LYS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=339690 loop_end=400547 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-9LYS.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=360764 loop_end=397697 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-XZ4E.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=360764 loop_end=397697 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-XZ4E.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=244442 loop_end=283510 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZNQI.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=244442 loop_end=283510 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZNQI.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=290451 loop_end=397136 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-P8W0.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=290451 loop_end=397136 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-P8W0.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=228255 loop_end=266199 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-5H4N.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=228255 loop_end=266199 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-5H4N.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=245662 loop_end=366983 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-X6YC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=245662 loop_end=366983 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-X6YC.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352573 loop_end=402026 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-WA3C.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=352573 loop_end=402026 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-WA3C.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286853 loop_end=363282 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-V0VM.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=286853 loop_end=363282 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-V0VM.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=308660 loop_end=355952 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ER16.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=308660 loop_end=355952 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ER16.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=237376 loop_end=401531 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-3Z16.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=237376 loop_end=401531 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-3Z16.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=295742 loop_end=344053 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-KGA0.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=295742 loop_end=344053 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-KGA0.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=340732 loop_end=378397 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-MPJ2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=340732 loop_end=378397 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-MPJ2.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286107 loop_end=401981 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-D6NI.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=286107 loop_end=401981 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-D6NI.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=290636 loop_end=396102 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-HISI.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=290636 loop_end=396102 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-HISI.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=262181 loop_end=299815 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-D6E9.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=262181 loop_end=299815 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-D6E9.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286235 loop_end=394750 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-PZ5E.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=286235 loop_end=394750 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-PZ5E.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=279573 loop_end=316221 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-LHIL.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=279573 loop_end=316221 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-LHIL.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=282566 loop_end=398485 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-O2E2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=282566 loop_end=398485 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-O2E2.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=284012 loop_end=391617 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-N273.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=284012 loop_end=391617 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-N273.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=274213 loop_end=312163 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-TDLK.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=274213 loop_end=312163 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-TDLK.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=334625 loop_end=395026 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-82SC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=334625 loop_end=395026 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-82SC.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=235272 loop_end=272104 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZBCP.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=235272 loop_end=272104 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-ZBCP.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=281290 loop_end=397144 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-VXT4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=281290 loop_end=397144 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-VXT4.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=318021 loop_end=365145 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-E87J.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=318021 loop_end=365145 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-E87J.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=303192 loop_end=341209 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-YQ52.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=303192 loop_end=341209 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-YQ52.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=339712 loop_end=400265 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-EWCT.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=339712 loop_end=400265 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-EWCT.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=232767 loop_end=269245 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-311R.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=232767 loop_end=269245 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-311R.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=239940 loop_end=329444 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-FBZN.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=239940 loop_end=329444 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-FBZN.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=274120 loop_end=381334 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-1Q0L.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=274120 loop_end=381334 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-1Q0L.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349296 loop_end=387239 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-C7E2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=349296 loop_end=387239 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-C7E2.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=288319 loop_end=336461 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-2CP4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=288319 loop_end=336461 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-2CP4.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=341703 loop_end=378519 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-SP8T.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=341703 loop_end=378519 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-SP8T.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=280418 loop_end=394934 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-JMLJ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=280418 loop_end=394934 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-JMLJ.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=346701 loop_end=393869 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-X1XT.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=346701 loop_end=393869 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-X1XT.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=337903 loop_end=375674 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-FIQI.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=337903 loop_end=375674 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-FIQI.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=268882 loop_end=388746 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-A2NC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=268882 loop_end=388746 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-A2NC.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260133 loop_end=296958 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-E2WO.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=260133 loop_end=296958 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-E2WO.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=281281 loop_end=395945 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-MI3J.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=281281 loop_end=395945 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-MI3J.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260803 loop_end=391615 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-CHXE.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=260803 loop_end=391615 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-CHXE.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=240219 loop_end=278298 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-GLT0.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=240219 loop_end=278298 sample=../Audio/MoonBeamz/(2013714 21215)/MoonBeamz-GLT0.aif

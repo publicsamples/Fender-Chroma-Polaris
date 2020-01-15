@@ -1,0 +1,124 @@
+// this file was generated from Rawness.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1016 end=331534 sample=../Audio/Rawness/Rawness2424.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=792 end=336266 sample=../Audio/Rawness/Rawness2525.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 end=329728 sample=../Audio/Rawness/Rawness2626.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=807 end=319026 sample=../Audio/Rawness/Rawness2727.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=764 end=310666 sample=../Audio/Rawness/Rawness2828.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=310602 sample=../Audio/Rawness/Rawness2929.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=311279 sample=../Audio/Rawness/Rawness3030.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 sample=../Audio/Rawness/Rawness3131.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=634 sample=../Audio/Rawness/Rawness3232.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=813 sample=../Audio/Rawness/Rawness3333.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=310954 sample=../Audio/Rawness/Rawness3434.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=319762 sample=../Audio/Rawness/Rawness3535.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=826 sample=../Audio/Rawness/Rawness3636.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1011 end=310758 sample=../Audio/Rawness/Rawness3737.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=643 end=319380 sample=../Audio/Rawness/Rawness3838.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1064 end=311159 sample=../Audio/Rawness/Rawness3939.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=918 end=310997 sample=../Audio/Rawness/Rawness4040.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=581 end=313971 sample=../Audio/Rawness/Rawness4141.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1096 end=310787 sample=../Audio/Rawness/Rawness4242.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=739 end=311011 sample=../Audio/Rawness/Rawness4343.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=633 sample=../Audio/Rawness/Rawness4444.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1019 sample=../Audio/Rawness/Rawness4545.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1112 end=311191 sample=../Audio/Rawness/Rawness4646.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1203 end=310944 sample=../Audio/Rawness/Rawness4747.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1064 sample=../Audio/Rawness/Rawness4848.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 end=310800 sample=../Audio/Rawness/Rawness4949.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=327552 sample=../Audio/Rawness/Rawness5050.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=952 end=311506 sample=../Audio/Rawness/Rawness5151.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=764 end=318877 sample=../Audio/Rawness/Rawness5252.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=873 sample=../Audio/Rawness/Rawness5353.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=986 sample=../Audio/Rawness/Rawness5454.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=633 end=310713 sample=../Audio/Rawness/Rawness5555.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=712 end=330620 sample=../Audio/Rawness/Rawness5656.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=322188 sample=../Audio/Rawness/Rawness5757.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=978 end=324129 sample=../Audio/Rawness/Rawness5858.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=313902 sample=../Audio/Rawness/Rawness5959.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=830 sample=../Audio/Rawness/Rawness6060.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 end=311252 sample=../Audio/Rawness/Rawness6161.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1048 end=323846 sample=../Audio/Rawness/Rawness6262.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=986 sample=../Audio/Rawness/Rawness6363.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=312982 sample=../Audio/Rawness/Rawness6464.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=709 end=333314 sample=../Audio/Rawness/Rawness6565.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=831 end=317185 sample=../Audio/Rawness/Rawness6666.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=601 end=319112 sample=../Audio/Rawness/Rawness6767.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=909 end=312807 sample=../Audio/Rawness/Rawness6868.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=806 end=322374 sample=../Audio/Rawness/Rawness6969.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=759 end=330571 sample=../Audio/Rawness/Rawness7070.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=329345 sample=../Audio/Rawness/Rawness7171.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 end=316727 sample=../Audio/Rawness/Rawness7272.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=327680 sample=../Audio/Rawness/Rawness7373.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 sample=../Audio/Rawness/Rawness7474.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1041 end=330665 sample=../Audio/Rawness/Rawness7575.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 sample=../Audio/Rawness/Rawness7676.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=709 end=335905 sample=../Audio/Rawness/Rawness7777.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1029 end=333261 sample=../Audio/Rawness/Rawness7878.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=335542 sample=../Audio/Rawness/Rawness7979.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=797 sample=../Audio/Rawness/Rawness8080.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1154 end=329506 sample=../Audio/Rawness/Rawness8181.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1060 end=335778 sample=../Audio/Rawness/Rawness8282.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 sample=../Audio/Rawness/Rawness8383.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1088 end=334567 sample=../Audio/Rawness/Rawness8484.aif

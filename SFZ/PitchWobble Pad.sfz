@@ -1,0 +1,191 @@
+// this file was generated from PitchWobble Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=713 end=451726 loop_mode=loop_sustain loop_start=85672 loop_end=315053 sample=../Audio/PitchWobble/24C0-HC6S.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=828 loop_mode=loop_sustain loop_start=9761 loop_end=120349 sample=../Audio/PitchWobble/24C0-9YZM.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=793 loop_mode=loop_sustain loop_start=3670 loop_end=114252 sample=../Audio/PitchWobble/24C0-68VQ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=879 loop_mode=loop_sustain loop_start=18980 loop_end=278047 sample=../Audio/PitchWobble/24C0-YJE1.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=713 end=451726 loop_mode=loop_sustain loop_start=85672 loop_end=315053 sample=../Audio/PitchWobble/24C0-HC6S.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=828 loop_mode=loop_sustain loop_start=9761 loop_end=120349 sample=../Audio/PitchWobble/24C0-9YZM.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=793 loop_mode=loop_sustain loop_start=3670 loop_end=114252 sample=../Audio/PitchWobble/24C0-68VQ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=879 loop_mode=loop_sustain loop_start=18980 loop_end=278047 sample=../Audio/PitchWobble/24C0-YJE1.wav
+<group>lokey=25 hikey=27 pitch_keycenter=27 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=595 end=445405 loop_mode=loop_sustain loop_start=896 loop_end=73567 sample=../Audio/PitchWobble/27D#0-KE7B.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=861 end=452536 loop_mode=loop_sustain loop_start=84361 loop_end=177548 sample=../Audio/PitchWobble/27D#0-IR45.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=786 end=446360 loop_mode=loop_sustain loop_start=67956 loop_end=161129 sample=../Audio/PitchWobble/27D#0-TBIQ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=567 end=450665 loop_mode=loop_sustain loop_start=96533 loop_end=189723 sample=../Audio/PitchWobble/27D#0-MUJ8.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=595 end=445405 loop_mode=loop_sustain loop_start=896 loop_end=73567 sample=../Audio/PitchWobble/27D#0-KE7B.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=861 end=452536 loop_mode=loop_sustain loop_start=84361 loop_end=177548 sample=../Audio/PitchWobble/27D#0-IR45.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=786 end=446360 loop_mode=loop_sustain loop_start=67956 loop_end=161129 sample=../Audio/PitchWobble/27D#0-TBIQ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=567 end=450665 loop_mode=loop_sustain loop_start=96533 loop_end=189723 sample=../Audio/PitchWobble/27D#0-MUJ8.wav
+<group>lokey=28 hikey=30 pitch_keycenter=30 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=535 end=444150 loop_mode=loop_sustain loop_start=21718 loop_end=94072 sample=../Audio/PitchWobble/30F#0-HKUD.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=571 end=445241 loop_mode=loop_sustain loop_start=30307 loop_end=127441 sample=../Audio/PitchWobble/30F#0-YYD0.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=924 loop_mode=loop_sustain loop_start=31438 loop_end=126663 sample=../Audio/PitchWobble/30F#0-18D5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=560 end=446662 loop_mode=loop_sustain loop_start=11639 loop_end=120183 sample=../Audio/PitchWobble/30F#0-UB5N.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=535 end=444150 loop_mode=loop_sustain loop_start=21718 loop_end=94072 sample=../Audio/PitchWobble/30F#0-HKUD.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=571 end=445241 loop_mode=loop_sustain loop_start=30307 loop_end=127441 sample=../Audio/PitchWobble/30F#0-YYD0.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=924 loop_mode=loop_sustain loop_start=31438 loop_end=126663 sample=../Audio/PitchWobble/30F#0-18D5.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=560 end=446662 loop_mode=loop_sustain loop_start=11639 loop_end=120183 sample=../Audio/PitchWobble/30F#0-UB5N.wav
+<group>lokey=31 hikey=33 pitch_keycenter=33 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=603 end=445529 loop_mode=loop_sustain loop_start=212383 loop_end=331156 sample=../Audio/PitchWobble/33A0-KBHI.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=680 end=445544 loop_mode=loop_sustain loop_start=10737 loop_end=118246 sample=../Audio/PitchWobble/33A0-XKAT.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=753 end=446063 loop_mode=loop_sustain loop_start=3123 loop_end=110636 sample=../Audio/PitchWobble/33A0-OEDS.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=946 end=444605 loop_mode=loop_sustain loop_start=211959 loop_end=330743 sample=../Audio/PitchWobble/33A0-35F0.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=603 end=445529 loop_mode=loop_sustain loop_start=212383 loop_end=331156 sample=../Audio/PitchWobble/33A0-KBHI.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=680 end=445544 loop_mode=loop_sustain loop_start=10737 loop_end=118246 sample=../Audio/PitchWobble/33A0-XKAT.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=753 end=446063 loop_mode=loop_sustain loop_start=3123 loop_end=110636 sample=../Audio/PitchWobble/33A0-OEDS.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=946 end=444605 loop_mode=loop_sustain loop_start=211959 loop_end=330743 sample=../Audio/PitchWobble/33A0-35F0.wav
+<group>lokey=34 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=728 end=445560 loop_mode=loop_sustain loop_start=59749 loop_end=153950 sample=../Audio/PitchWobble/36C1-E89E.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=526 end=448704 loop_mode=loop_sustain loop_start=29672 loop_end=125206 sample=../Audio/PitchWobble/36C1-LNQ2.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=964 end=445652 loop_mode=loop_sustain loop_start=28255 loop_end=123788 sample=../Audio/PitchWobble/36C1-GEKN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=534 end=443873 loop_mode=loop_sustain loop_start=28884 loop_end=121735 sample=../Audio/PitchWobble/36C1-NBBI.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=728 end=445560 loop_mode=loop_sustain loop_start=59749 loop_end=153950 sample=../Audio/PitchWobble/36C1-E89E.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=526 end=448704 loop_mode=loop_sustain loop_start=29672 loop_end=125206 sample=../Audio/PitchWobble/36C1-LNQ2.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=964 end=445652 loop_mode=loop_sustain loop_start=28255 loop_end=123788 sample=../Audio/PitchWobble/36C1-GEKN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=534 end=443873 loop_mode=loop_sustain loop_start=28884 loop_end=121735 sample=../Audio/PitchWobble/36C1-NBBI.wav
+<group>lokey=37 hikey=39 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=869 end=445269 loop_mode=loop_sustain loop_start=1888 loop_end=74400 sample=../Audio/PitchWobble/39D#1-SVWS.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=719 end=445429 loop_mode=loop_sustain loop_start=9599 loop_end=94587 sample=../Audio/PitchWobble/39D#1-7N2Q.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=643 end=444029 loop_mode=loop_sustain loop_start=2566 loop_end=87557 sample=../Audio/PitchWobble/39D#1-CT41.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=797 end=445411 loop_mode=loop_sustain loop_start=10815 loop_end=95800 sample=../Audio/PitchWobble/39D#1-EG06.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=869 end=445269 loop_mode=loop_sustain loop_start=1888 loop_end=74400 sample=../Audio/PitchWobble/39D#1-SVWS.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=719 end=445429 loop_mode=loop_sustain loop_start=9599 loop_end=94587 sample=../Audio/PitchWobble/39D#1-7N2Q.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=643 end=444029 loop_mode=loop_sustain loop_start=2566 loop_end=87557 sample=../Audio/PitchWobble/39D#1-CT41.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=797 end=445411 loop_mode=loop_sustain loop_start=10815 loop_end=95800 sample=../Audio/PitchWobble/39D#1-EG06.wav
+<group>lokey=40 hikey=42 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=495 end=445164 loop_mode=loop_sustain loop_start=967 loop_end=74258 sample=../Audio/PitchWobble/42F#1-7CF4.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=626 end=444824 loop_mode=loop_sustain loop_start=5034 loop_end=100182 sample=../Audio/PitchWobble/42F#1-KEED.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=737 end=445046 loop_mode=loop_sustain loop_start=10513 loop_end=91389 sample=../Audio/PitchWobble/42F#1-3X8S.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=534 end=444010 loop_mode=loop_sustain loop_start=3359 loop_end=85181 sample=../Audio/PitchWobble/42F#1-BWVV.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=495 end=445164 loop_mode=loop_sustain loop_start=967 loop_end=74258 sample=../Audio/PitchWobble/42F#1-7CF4.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=626 end=444824 loop_mode=loop_sustain loop_start=5034 loop_end=100182 sample=../Audio/PitchWobble/42F#1-KEED.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=737 end=445046 loop_mode=loop_sustain loop_start=10513 loop_end=91389 sample=../Audio/PitchWobble/42F#1-3X8S.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=534 end=444010 loop_mode=loop_sustain loop_start=3359 loop_end=85181 sample=../Audio/PitchWobble/42F#1-BWVV.wav
+<group>lokey=43 hikey=45 pitch_keycenter=45 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=426 end=444922 loop_mode=loop_sustain loop_start=1136 loop_end=74813 sample=../Audio/PitchWobble/45A1-WDHU.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=561 end=444661 loop_mode=loop_sustain loop_start=24512 loop_end=104575 sample=../Audio/PitchWobble/45A1-XF4B.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=778 end=445027 loop_mode=loop_sustain loop_start=271436 loop_end=363597 sample=../Audio/PitchWobble/45A1-JYBO.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=909 end=445264 loop_mode=loop_sustain loop_start=1353 loop_end=77393 sample=../Audio/PitchWobble/45A1-LPKN.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=426 end=444922 loop_mode=loop_sustain loop_start=1136 loop_end=74813 sample=../Audio/PitchWobble/45A1-WDHU.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=561 end=444661 loop_mode=loop_sustain loop_start=24512 loop_end=104575 sample=../Audio/PitchWobble/45A1-XF4B.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=778 end=445027 loop_mode=loop_sustain loop_start=271436 loop_end=363597 sample=../Audio/PitchWobble/45A1-JYBO.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=909 end=445264 loop_mode=loop_sustain loop_start=1353 loop_end=77393 sample=../Audio/PitchWobble/45A1-LPKN.wav
+<group>lokey=46 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=895 end=444413 loop_mode=loop_sustain loop_start=5718 loop_end=84422 sample=../Audio/PitchWobble/48C2-YAKK.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=595 loop_mode=loop_sustain loop_start=4206 loop_end=91644 sample=../Audio/PitchWobble/48C2-8X1U.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=505 loop_mode=loop_sustain loop_start=9205 loop_end=85874 sample=../Audio/PitchWobble/48C2-TP7U.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=666 end=444793 loop_mode=loop_sustain loop_start=225297 loop_end=349087 sample=../Audio/PitchWobble/48C2-C17Z.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=895 end=444413 loop_mode=loop_sustain loop_start=5718 loop_end=84422 sample=../Audio/PitchWobble/48C2-YAKK.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=595 loop_mode=loop_sustain loop_start=4206 loop_end=91644 sample=../Audio/PitchWobble/48C2-8X1U.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=505 loop_mode=loop_sustain loop_start=9205 loop_end=85874 sample=../Audio/PitchWobble/48C2-TP7U.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=666 end=444793 loop_mode=loop_sustain loop_start=225297 loop_end=349087 sample=../Audio/PitchWobble/48C2-C17Z.wav
+<group>lokey=49 hikey=51 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=909 end=443669 loop_mode=loop_sustain loop_start=216621 loop_end=340627 sample=../Audio/PitchWobble/51D#2-VEVB.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=795 loop_mode=loop_sustain loop_start=236722 loop_end=356199 sample=../Audio/PitchWobble/51D#2-BS8P.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=679 end=444534 loop_mode=loop_sustain loop_start=231973 loop_end=350876 sample=../Audio/PitchWobble/51D#2-BWWR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=797 end=446292 loop_mode=loop_sustain loop_start=2757 loop_end=79117 sample=../Audio/PitchWobble/51D#2-18A2.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=909 end=443669 loop_mode=loop_sustain loop_start=216621 loop_end=340627 sample=../Audio/PitchWobble/51D#2-VEVB.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=795 loop_mode=loop_sustain loop_start=236722 loop_end=356199 sample=../Audio/PitchWobble/51D#2-BS8P.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=679 end=444534 loop_mode=loop_sustain loop_start=231973 loop_end=350876 sample=../Audio/PitchWobble/51D#2-BWWR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=797 end=446292 loop_mode=loop_sustain loop_start=2757 loop_end=79117 sample=../Audio/PitchWobble/51D#2-18A2.wav
+<group>lokey=52 hikey=54 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=698 loop_mode=loop_sustain loop_start=235904 loop_end=359952 sample=../Audio/PitchWobble/54F#2-Q3W1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=565 end=445299 loop_mode=loop_sustain loop_start=236565 loop_end=355841 sample=../Audio/PitchWobble/54F#2-IJ9N.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=969 end=444136 loop_mode=loop_sustain loop_start=237598 loop_end=356410 sample=../Audio/PitchWobble/54F#2-VSIQ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=824 end=443498 loop_mode=loop_sustain loop_start=236411 loop_end=355219 sample=../Audio/PitchWobble/54F#2-VZ8T.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=698 loop_mode=loop_sustain loop_start=235904 loop_end=359952 sample=../Audio/PitchWobble/54F#2-Q3W1.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=565 end=445299 loop_mode=loop_sustain loop_start=236565 loop_end=355841 sample=../Audio/PitchWobble/54F#2-IJ9N.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=969 end=444136 loop_mode=loop_sustain loop_start=237598 loop_end=356410 sample=../Audio/PitchWobble/54F#2-VSIQ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=824 end=443498 loop_mode=loop_sustain loop_start=236411 loop_end=355219 sample=../Audio/PitchWobble/54F#2-VZ8T.wav
+<group>lokey=55 hikey=57 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=550 end=444537 loop_mode=loop_sustain loop_start=748 loop_end=74342 sample=../Audio/PitchWobble/57A2-3DTX.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=899 end=442899 loop_mode=loop_sustain loop_start=247352 loop_end=352962 sample=../Audio/PitchWobble/57A2-OP7S.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=722 end=443828 loop_mode=loop_sustain loop_start=242850 loop_end=348077 sample=../Audio/PitchWobble/57A2-D85A.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=657 end=445051 loop_mode=loop_sustain loop_start=258274 loop_end=364305 sample=../Audio/PitchWobble/57A2-87H5.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=550 end=444537 loop_mode=loop_sustain loop_start=748 loop_end=74342 sample=../Audio/PitchWobble/57A2-3DTX.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=899 end=442899 loop_mode=loop_sustain loop_start=247352 loop_end=352962 sample=../Audio/PitchWobble/57A2-OP7S.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=722 end=443828 loop_mode=loop_sustain loop_start=242850 loop_end=348077 sample=../Audio/PitchWobble/57A2-D85A.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=657 end=445051 loop_mode=loop_sustain loop_start=258274 loop_end=364305 sample=../Audio/PitchWobble/57A2-87H5.wav
+<group>lokey=58 hikey=60 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=944 loop_mode=loop_sustain loop_start=12093 loop_end=84667 sample=../Audio/PitchWobble/60C3-6FTZ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=482 end=444787 loop_mode=loop_sustain loop_start=245535 loop_end=331646 sample=../Audio/PitchWobble/60C3-YCGH.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=904 end=444461 loop_mode=loop_sustain loop_start=278191 loop_end=364293 sample=../Audio/PitchWobble/60C3-RYQF.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=817 end=443954 loop_mode=loop_sustain loop_start=248758 loop_end=334860 sample=../Audio/PitchWobble/60C3-94R7.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=944 loop_mode=loop_sustain loop_start=12093 loop_end=84667 sample=../Audio/PitchWobble/60C3-6FTZ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=482 end=444787 loop_mode=loop_sustain loop_start=245535 loop_end=331646 sample=../Audio/PitchWobble/60C3-YCGH.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=904 end=444461 loop_mode=loop_sustain loop_start=278191 loop_end=364293 sample=../Audio/PitchWobble/60C3-RYQF.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=817 end=443954 loop_mode=loop_sustain loop_start=248758 loop_end=334860 sample=../Audio/PitchWobble/60C3-94R7.wav
+<group>lokey=61 hikey=63 pitch_keycenter=63 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=623 loop_mode=loop_sustain loop_start=12240 loop_end=88270 sample=../Audio/PitchWobble/63D#3-G5BM.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=695 end=444912 loop_mode=loop_sustain loop_start=11765 loop_end=86376 sample=../Audio/PitchWobble/63D#3-0OYS.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=622 end=445027 loop_mode=loop_sustain loop_start=249777 loop_end=361434 sample=../Audio/PitchWobble/63D#3-G4ZZ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=741 loop_mode=loop_sustain loop_start=244967 loop_end=356907 sample=../Audio/PitchWobble/63D#3-3GLA.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=623 loop_mode=loop_sustain loop_start=12240 loop_end=88270 sample=../Audio/PitchWobble/63D#3-G5BM.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=695 end=444912 loop_mode=loop_sustain loop_start=11765 loop_end=86376 sample=../Audio/PitchWobble/63D#3-0OYS.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=622 end=445027 loop_mode=loop_sustain loop_start=249777 loop_end=361434 sample=../Audio/PitchWobble/63D#3-G4ZZ.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=741 loop_mode=loop_sustain loop_start=244967 loop_end=356907 sample=../Audio/PitchWobble/63D#3-3GLA.wav
+<group>lokey=64 hikey=66 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=896 end=444012 loop_mode=loop_sustain loop_start=3064 loop_end=77227 sample=../Audio/PitchWobble/66F#3-M6CD.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=917 end=445043 loop_mode=loop_sustain loop_start=9593 loop_end=83989 sample=../Audio/PitchWobble/66F#3-X01Y.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=879 end=444998 loop_mode=loop_sustain loop_start=2801 loop_end=75767 sample=../Audio/PitchWobble/66F#3-DWUK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=872 end=445086 loop_mode=loop_sustain loop_start=1177 loop_end=73908 sample=../Audio/PitchWobble/66F#3-PNQ2.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=896 end=444012 loop_mode=loop_sustain loop_start=3064 loop_end=77227 sample=../Audio/PitchWobble/66F#3-M6CD.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=917 end=445043 loop_mode=loop_sustain loop_start=9593 loop_end=83989 sample=../Audio/PitchWobble/66F#3-X01Y.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=879 end=444998 loop_mode=loop_sustain loop_start=2801 loop_end=75767 sample=../Audio/PitchWobble/66F#3-DWUK.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=872 end=445086 loop_mode=loop_sustain loop_start=1177 loop_end=73908 sample=../Audio/PitchWobble/66F#3-PNQ2.wav
+<group>lokey=67 hikey=69 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=922 end=443509 loop_mode=loop_sustain loop_start=224030 loop_end=348377 sample=../Audio/PitchWobble/69A3-V48Z.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=825 end=444149 loop_mode=loop_sustain loop_start=238512 loop_end=362464 sample=../Audio/PitchWobble/69A3-5BKU.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=621 loop_mode=loop_sustain loop_start=219166 loop_end=343096 sample=../Audio/PitchWobble/69A3-0L59.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=846 end=445113 loop_mode=loop_sustain loop_start=218919 loop_end=343270 sample=../Audio/PitchWobble/69A3-NPYQ.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=922 end=443509 loop_mode=loop_sustain loop_start=224030 loop_end=348377 sample=../Audio/PitchWobble/69A3-V48Z.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=825 end=444149 loop_mode=loop_sustain loop_start=238512 loop_end=362464 sample=../Audio/PitchWobble/69A3-5BKU.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=621 loop_mode=loop_sustain loop_start=219166 loop_end=343096 sample=../Audio/PitchWobble/69A3-0L59.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=846 end=445113 loop_mode=loop_sustain loop_start=218919 loop_end=343270 sample=../Audio/PitchWobble/69A3-NPYQ.wav
+<group>lokey=70 hikey=72 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=613 end=443009 loop_mode=loop_sustain loop_start=245226 loop_end=364000 sample=../Audio/PitchWobble/72C4-FQX3.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=602 end=444943 loop_mode=loop_sustain loop_start=228560 loop_end=347675 sample=../Audio/PitchWobble/72C4-BWI4.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=892 end=448210 loop_mode=loop_sustain loop_start=239525 loop_end=358457 sample=../Audio/PitchWobble/72C4-C81M.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=445 end=444982 loop_mode=loop_sustain loop_start=225515 loop_end=349327 sample=../Audio/PitchWobble/72C4-8WCP.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=613 end=443009 loop_mode=loop_sustain loop_start=245226 loop_end=364000 sample=../Audio/PitchWobble/72C4-FQX3.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=602 end=444943 loop_mode=loop_sustain loop_start=228560 loop_end=347675 sample=../Audio/PitchWobble/72C4-BWI4.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=892 end=448210 loop_mode=loop_sustain loop_start=239525 loop_end=358457 sample=../Audio/PitchWobble/72C4-C81M.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=445 end=444982 loop_mode=loop_sustain loop_start=225515 loop_end=349327 sample=../Audio/PitchWobble/72C4-8WCP.wav
+<group>lokey=73 hikey=75 pitch_keycenter=75 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=812 end=443637 loop_mode=loop_sustain loop_start=4935 loop_end=79866 sample=../Audio/PitchWobble/75D#4-ZM3K.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=859 end=445128 loop_mode=loop_sustain loop_start=5947 loop_end=78614 sample=../Audio/PitchWobble/75D#4-XG0V.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=563 end=444920 loop_mode=loop_sustain loop_start=238841 loop_end=344312 sample=../Audio/PitchWobble/75D#4-J8YC.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=770 end=445091 loop_mode=loop_sustain loop_start=238154 loop_end=343635 sample=../Audio/PitchWobble/75D#4-MVOQ.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=812 end=443637 loop_mode=loop_sustain loop_start=4935 loop_end=79866 sample=../Audio/PitchWobble/75D#4-ZM3K.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=859 end=445128 loop_mode=loop_sustain loop_start=5947 loop_end=78614 sample=../Audio/PitchWobble/75D#4-XG0V.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=563 end=444920 loop_mode=loop_sustain loop_start=238841 loop_end=344312 sample=../Audio/PitchWobble/75D#4-J8YC.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=770 end=445091 loop_mode=loop_sustain loop_start=238154 loop_end=343635 sample=../Audio/PitchWobble/75D#4-MVOQ.wav
+<group>lokey=76 hikey=78 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=711 end=442159 loop_mode=loop_sustain loop_start=7243 loop_end=84406 sample=../Audio/PitchWobble/78F#4-FUGH.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=644 end=445079 loop_mode=loop_sustain loop_start=235784 loop_end=321878 sample=../Audio/PitchWobble/78F#4-TBDI.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=1030 loop_mode=loop_sustain loop_start=1983 loop_end=86626 sample=../Audio/PitchWobble/78F#4-Z4IN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=471 end=443664 loop_mode=loop_sustain loop_start=773 loop_end=76021 sample=../Audio/PitchWobble/78F#4-3Y36.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=711 end=442159 loop_mode=loop_sustain loop_start=7243 loop_end=84406 sample=../Audio/PitchWobble/78F#4-FUGH.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=644 end=445079 loop_mode=loop_sustain loop_start=235784 loop_end=321878 sample=../Audio/PitchWobble/78F#4-TBDI.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=1030 loop_mode=loop_sustain loop_start=1983 loop_end=86626 sample=../Audio/PitchWobble/78F#4-Z4IN.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=471 end=443664 loop_mode=loop_sustain loop_start=773 loop_end=76021 sample=../Audio/PitchWobble/78F#4-3Y36.wav
+<group>lokey=79 hikey=81 pitch_keycenter=81 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=643 end=441938 loop_mode=loop_sustain loop_start=2743 loop_end=77767 sample=../Audio/PitchWobble/81A4-G0WQ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=906 end=445056 loop_mode=loop_sustain loop_start=5023 loop_end=80436 sample=../Audio/PitchWobble/81A4-XG98.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=771 end=444976 loop_mode=loop_sustain loop_start=232142 loop_end=363241 sample=../Audio/PitchWobble/81A4-NGMR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=411 end=443633 loop_mode=loop_sustain loop_start=784 loop_end=75695 sample=../Audio/PitchWobble/81A4-GKBW.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=643 end=441938 loop_mode=loop_sustain loop_start=2743 loop_end=77767 sample=../Audio/PitchWobble/81A4-G0WQ.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=906 end=445056 loop_mode=loop_sustain loop_start=5023 loop_end=80436 sample=../Audio/PitchWobble/81A4-XG98.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=771 end=444976 loop_mode=loop_sustain loop_start=232142 loop_end=363241 sample=../Audio/PitchWobble/81A4-NGMR.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 offset=411 end=443633 loop_mode=loop_sustain loop_start=784 loop_end=75695 sample=../Audio/PitchWobble/81A4-GKBW.wav
+<group>lokey=82 hikey=84 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 offset=921 end=443290 loop_mode=loop_sustain loop_start=5279 loop_end=83163 sample=../Audio/PitchWobble/84C5-YXKW.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 offset=855 end=444672 loop_mode=loop_sustain loop_start=3931 loop_end=82653 sample=../Audio/PitchWobble/84C5-TS1L.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=990 end=445261 loop_mode=loop_sustain loop_start=3989 loop_end=78754 sample=../Audio/PitchWobble/84C5-NAX0.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=18 offset=548 loop_mode=loop_sustain loop_start=1430 loop_end=73665 sample=../Audio/PitchWobble/84C5-P6LC.wav
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 tune=18 offset=921 end=443290 loop_mode=loop_sustain loop_start=5279 loop_end=83163 sample=../Audio/PitchWobble/84C5-YXKW.wav
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 tune=18 offset=855 end=444672 loop_mode=loop_sustain loop_start=3931 loop_end=82653 sample=../Audio/PitchWobble/84C5-TS1L.wav
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 offset=990 end=445261 loop_mode=loop_sustain loop_start=3989 loop_end=78754 sample=../Audio/PitchWobble/84C5-NAX0.wav
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 tune=20 offset=548 loop_mode=loop_sustain loop_start=1430 loop_end=73665 sample=../Audio/PitchWobble/84C5-P6LC.wav

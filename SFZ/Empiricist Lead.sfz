@@ -1,0 +1,124 @@
+// this file was generated from Empiricist Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1986 end=560689 loop_mode=loop_sustain loop_start=96115 loop_end=339828 sample=../Audio/Empiricist/24C0-M2WX.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2018 end=578195 loop_mode=loop_sustain loop_start=152143 loop_end=230945 sample=../Audio/Empiricist/25C#0-WKDX.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2580 loop_mode=loop_sustain loop_start=119935 loop_end=202852 sample=../Audio/Empiricist/26D0-6AD7.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2018 end=586032 loop_mode=loop_sustain loop_start=190355 loop_end=339874 sample=../Audio/Empiricist/27D#0-XJGU.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2435 end=555052 loop_mode=loop_sustain loop_start=108374 loop_end=347007 sample=../Audio/Empiricist/28E0-NE03.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1081 end=645874 loop_mode=loop_sustain loop_start=83947 loop_end=299016 sample=../Audio/Empiricist/29F0-JK3E.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2036 end=562522 loop_mode=loop_sustain loop_start=62089 loop_end=142956 sample=../Audio/Empiricist/30F#0-YWCN.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2342 end=581422 loop_mode=loop_sustain loop_start=178777 loop_end=289278 sample=../Audio/Empiricist/31G0-3ITT.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2315 loop_mode=loop_sustain loop_start=54800 loop_end=328164 sample=../Audio/Empiricist/32G#0-FXOF.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2573 end=591424 loop_mode=loop_sustain loop_start=92565 loop_end=363956 sample=../Audio/Empiricist/33A0-OFHJ.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2451 end=554284 loop_mode=loop_sustain loop_start=91725 loop_end=199108 sample=../Audio/Empiricist/34A#0-PT4D.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1268 end=646204 loop_mode=loop_sustain loop_start=94657 loop_end=174573 sample=../Audio/Empiricist/35B0-QEGN.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1998 end=562654 loop_mode=loop_sustain loop_start=56734 loop_end=140121 sample=../Audio/Empiricist/36C1-JVW0.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1359 loop_mode=loop_sustain loop_start=198676 loop_end=286949 sample=../Audio/Empiricist/37C#1-BQAC.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2565 end=538689 loop_mode=loop_sustain loop_start=67513 loop_end=157492 sample=../Audio/Empiricist/38D1-5EW8.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1838 end=585752 loop_mode=loop_sustain loop_start=185537 loop_end=353646 sample=../Audio/Empiricist/39D#1-RT44.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2698 end=554489 loop_mode=loop_sustain loop_start=65949 loop_end=163752 sample=../Audio/Empiricist/40E1-F6UB.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1340 end=645622 loop_mode=loop_sustain loop_start=234048 loop_end=313701 sample=../Audio/Empiricist/41F1-4QGP.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1797 loop_mode=loop_sustain loop_start=243458 loop_end=361375 sample=../Audio/Empiricist/42F#1-TMB8.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2051 end=580289 loop_mode=loop_sustain loop_start=40868 loop_end=121711 sample=../Audio/Empiricist/43G1-V4GV.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2118 loop_mode=loop_sustain loop_start=47494 loop_end=133966 sample=../Audio/Empiricist/44G#1-0YWJ.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2070 end=584772 loop_mode=loop_sustain loop_start=240537 loop_end=366601 sample=../Audio/Empiricist/45A1-6K6I.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1595 end=553655 loop_mode=loop_sustain loop_start=184602 loop_end=359862 sample=../Audio/Empiricist/46A#1-2YG0.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1518 end=644478 loop_mode=loop_sustain loop_start=233560 loop_end=353959 sample=../Audio/Empiricist/47B1-HH3B.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1629 loop_mode=loop_sustain loop_start=246135 loop_end=352664 sample=../Audio/Empiricist/48C2-CSPP.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2492 end=579666 loop_mode=loop_sustain loop_start=177419 loop_end=322891 sample=../Audio/Empiricist/49C#2-RB5Q.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2734 loop_mode=loop_sustain loop_start=238599 loop_end=361744 sample=../Audio/Empiricist/50D2-KBVQ.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1850 end=586030 loop_mode=loop_sustain loop_start=270962 loop_end=365021 sample=../Audio/Empiricist/51D#2-I05X.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2145 end=554022 loop_mode=loop_sustain loop_start=237470 loop_end=335625 sample=../Audio/Empiricist/52E2-BNM0.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1404 end=644284 loop_mode=loop_sustain loop_start=251754 loop_end=351917 sample=../Audio/Empiricist/53F2-Q3MU.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2095 end=562343 loop_mode=loop_sustain loop_start=229339 loop_end=304047 sample=../Audio/Empiricist/54F#2-ZN85.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1511 end=581096 loop_mode=loop_sustain loop_start=251328 loop_end=340212 sample=../Audio/Empiricist/55G2-CBLA.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2535 end=538546 loop_mode=loop_sustain loop_start=243864 loop_end=356485 sample=../Audio/Empiricist/56G#2-Q67O.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2364 end=583876 loop_mode=loop_sustain loop_start=232130 loop_end=326608 sample=../Audio/Empiricist/57A2-JNCD.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2467 end=554534 loop_mode=loop_sustain loop_start=249635 loop_end=347800 sample=../Audio/Empiricist/58A#2-LV5V.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1181 end=643821 loop_mode=loop_sustain loop_start=227241 loop_end=327766 sample=../Audio/Empiricist/59B2-6KFY.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2153 end=561706 loop_mode=loop_sustain loop_start=259232 loop_end=333977 sample=../Audio/Empiricist/60C3-UCIW.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2345 end=581802 loop_mode=loop_sustain loop_start=245884 loop_end=334888 sample=../Audio/Empiricist/61C#3-P4RD.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2417 end=538687 loop_mode=loop_sustain loop_start=233647 loop_end=356693 sample=../Audio/Empiricist/62D3-05HE.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1866 end=585519 loop_mode=loop_sustain loop_start=253685 loop_end=347688 sample=../Audio/Empiricist/63D#3-ILVV.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2345 end=554256 loop_mode=loop_sustain loop_start=252156 loop_end=350411 sample=../Audio/Empiricist/64E3-SLGJ.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1193 end=643927 loop_mode=loop_sustain loop_start=230873 loop_end=331593 sample=../Audio/Empiricist/65F3-6SXH.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2321 end=562317 loop_mode=loop_sustain loop_start=287100 loop_end=361794 sample=../Audio/Empiricist/66F#3-603W.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2375 end=579572 loop_mode=loop_sustain loop_start=241991 loop_end=330087 sample=../Audio/Empiricist/67G3-N9R1.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2598 end=539591 loop_mode=loop_sustain loop_start=242698 loop_end=365735 sample=../Audio/Empiricist/68G#3-WXLS.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2418 end=588880 loop_mode=loop_sustain loop_start=228903 loop_end=323137 sample=../Audio/Empiricist/69A3-9IH3.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1847 end=555001 loop_mode=loop_sustain loop_start=248351 loop_end=346330 sample=../Audio/Empiricist/70A#3-357T.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1011 end=643199 loop_mode=loop_sustain loop_start=251656 loop_end=351970 sample=../Audio/Empiricist/71B3-MMA0.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2739 end=562471 loop_mode=loop_sustain loop_start=268857 loop_end=364971 sample=../Audio/Empiricist/72C4-KEV5.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2263 end=578317 loop_mode=loop_sustain loop_start=234203 loop_end=345763 sample=../Audio/Empiricist/73C#4-SY9D.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2289 end=538031 loop_mode=loop_sustain loop_start=230427 loop_end=322601 sample=../Audio/Empiricist/74D4-DNAJ.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1816 end=587896 loop_mode=loop_sustain loop_start=218969 loop_end=365954 sample=../Audio/Empiricist/75D#4-ZC25.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1993 end=554015 loop_mode=loop_sustain loop_start=236573 loop_end=323794 sample=../Audio/Empiricist/76E4-9KKV.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1252 end=643645 loop_mode=loop_sustain loop_start=226438 loop_end=336881 sample=../Audio/Empiricist/77F4-9QJO.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2220 end=562146 loop_mode=loop_sustain loop_start=277920 loop_end=352799 sample=../Audio/Empiricist/78F#4-MC64.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1754 end=578837 loop_mode=loop_sustain loop_start=252350 loop_end=363952 sample=../Audio/Empiricist/79G4-1EF7.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2332 end=538121 loop_mode=loop_sustain loop_start=228109 loop_end=310175 sample=../Audio/Empiricist/80G#4-9ZTS.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2153 end=583746 loop_mode=loop_sustain loop_start=215950 loop_end=309941 sample=../Audio/Empiricist/81A4-7WSC.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2183 loop_mode=loop_sustain loop_start=246053 loop_end=333152 sample=../Audio/Empiricist/82A#4-NEUZ.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1189 end=644005 loop_mode=loop_sustain loop_start=247903 loop_end=358662 sample=../Audio/Empiricist/83B4-N9TK.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2394 end=562318 loop_mode=loop_sustain loop_start=215492 loop_end=364985 sample=../Audio/Empiricist/84C5-OZ5U.wav
