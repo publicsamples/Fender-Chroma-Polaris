@@ -7,8 +7,7 @@ CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control
 -   **Approx Size:** 7.7GB
 -   **Info:** [rhodeschroma.com](http://www.rhodeschroma.com/?id=polaris/)
 
-**Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
-
+Audio files: http://www.mediafire.com/folder/ywluxpkdc7t0j6q,eu7aam22ycqx8vq/shared
 
 # Loading
 
