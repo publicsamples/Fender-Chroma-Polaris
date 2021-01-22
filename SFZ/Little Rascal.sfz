@@ -1,185 +1,185 @@
 // this file was generated from Little Rascal.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=499 sample=../Audio/Little Rascal/24C0-1C92.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=777 end=17733 sample=../Audio/Little Rascal/24C0-ARD2.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=729 sample=../Audio/Little Rascal/25C#0-D4A8.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=703 end=21045 sample=../Audio/Little Rascal/25C#0-4R8U.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=530 sample=../Audio/Little Rascal/26D0-12H3.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=741 end=17753 sample=../Audio/Little Rascal/26D0-Q2L8.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=523 sample=../Audio/Little Rascal/27D#0-5N7T.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=998 sample=../Audio/Little Rascal/27D#0-7ZJ5.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=594 end=19413 sample=../Audio/Little Rascal/28E0-VKT7.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=608 sample=../Audio/Little Rascal/28E0-2VLZ.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=594 end=15423 sample=../Audio/Little Rascal/29F0-C38C.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=663 end=19433 sample=../Audio/Little Rascal/29F0-MSSC.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=959 sample=../Audio/Little Rascal/30F#0-TXVP.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=928 end=18667 sample=../Audio/Little Rascal/30F#0-LHZP.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=556 sample=../Audio/Little Rascal/31G0-CYNX.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=420 end=19413 sample=../Audio/Little Rascal/31G0-GRV1.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=949 end=19198 sample=../Audio/Little Rascal/32G#0-P5S3.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=582 sample=../Audio/Little Rascal/32G#0-6HJ7.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=790 sample=../Audio/Little Rascal/33A0-E0Y0.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=807 sample=../Audio/Little Rascal/33A0-131T.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=593 sample=../Audio/Little Rascal/34A#0-JB0E.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=623 sample=../Audio/Little Rascal/34A#0-4TMZ.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=817 end=19235 sample=../Audio/Little Rascal/35B0-48HS.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=897 sample=../Audio/Little Rascal/35B0-HDV8.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=810 sample=../Audio/Little Rascal/36C1-YOBM.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=564 sample=../Audio/Little Rascal/36C1-SYIC.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=504 end=19119 sample=../Audio/Little Rascal/37C#1-XW3C.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=490 end=20391 sample=../Audio/Little Rascal/37C#1-ZFFR.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=778 sample=../Audio/Little Rascal/38D1-91P3.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=549 sample=../Audio/Little Rascal/38D1-DN8O.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=641 sample=../Audio/Little Rascal/39D#1-7SA7.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=948 sample=../Audio/Little Rascal/39D#1-FMM3.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=529 sample=../Audio/Little Rascal/40E1-5N7Q.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=539 end=19444 sample=../Audio/Little Rascal/40E1-BRO8.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=583 end=46586 sample=../Audio/Little Rascal/41F1-FJ88.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=789 end=18663 sample=../Audio/Little Rascal/41F1-0O1L.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=532 end=46720 sample=../Audio/Little Rascal/42F#1-W4GE.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=619 end=46454 sample=../Audio/Little Rascal/42F#1-VDFQ.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=938 end=21035 sample=../Audio/Little Rascal/43G1-R95D.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=825 end=46844 sample=../Audio/Little Rascal/43G1-XXDW.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=897 end=18495 sample=../Audio/Little Rascal/44G#1-E13P.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=547 sample=../Audio/Little Rascal/44G#1-58EZ.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=974 end=18205 sample=../Audio/Little Rascal/45A1-C5HO.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=416 end=45913 sample=../Audio/Little Rascal/45A1-0DUK.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=596 sample=../Audio/Little Rascal/46A#1-ZCRY.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=438 end=18836 sample=../Audio/Little Rascal/46A#1-0DNG.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=594 end=46809 sample=../Audio/Little Rascal/47B1-EXXK.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=844 end=48168 sample=../Audio/Little Rascal/47B1-35TJ.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=811 sample=../Audio/Little Rascal/48C2-D7GQ.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=899 end=46976 sample=../Audio/Little Rascal/48C2-HZKN.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=717 end=46964 sample=../Audio/Little Rascal/49C#2-2VKT.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=610 end=46100 sample=../Audio/Little Rascal/49C#2-J9D0.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=543 end=46083 sample=../Audio/Little Rascal/50D2-8TTT.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=671 end=46710 sample=../Audio/Little Rascal/50D2-VETG.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=434 end=18370 sample=../Audio/Little Rascal/51D#2-72T6.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=713 end=19690 sample=../Audio/Little Rascal/51D#2-R70Q.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=669 end=18959 sample=../Audio/Little Rascal/52E2-GH7K.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=649 sample=../Audio/Little Rascal/52E2-N6BE.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=910 end=47118 sample=../Audio/Little Rascal/53F2-ZG49.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=646 end=46821 sample=../Audio/Little Rascal/53F2-DVVP.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=891 end=46206 sample=../Audio/Little Rascal/54F#2-DEL8.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=656 end=46315 sample=../Audio/Little Rascal/54F#2-6T1Y.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=485 end=46434 sample=../Audio/Little Rascal/55G2-4GV4.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=652 end=46670 sample=../Audio/Little Rascal/55G2-SALL.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=763 end=46959 sample=../Audio/Little Rascal/56G#2-A6X4.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=608 end=46820 sample=../Audio/Little Rascal/56G#2-35ZL.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=905 end=46989 sample=../Audio/Little Rascal/57A2-9TSZ.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=485 end=46723 sample=../Audio/Little Rascal/57A2-AW23.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=934 sample=../Audio/Little Rascal/58A#2-KCO6.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=623 end=46948 sample=../Audio/Little Rascal/58A#2-R1LJ.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=927 end=47031 sample=../Audio/Little Rascal/59B2-HZ4K.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=433 end=46428 sample=../Audio/Little Rascal/59B2-JDGO.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=597 sample=../Audio/Little Rascal/60C3-HQG6.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=526 end=45641 sample=../Audio/Little Rascal/60C3-5LFG.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=949 end=46977 sample=../Audio/Little Rascal/61C#3-4KA4.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=762 end=46962 sample=../Audio/Little Rascal/61C#3-L9CR.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=822 sample=../Audio/Little Rascal/62D3-LZ53.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=901 end=47066 sample=../Audio/Little Rascal/62D3-LCV1.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=908 end=22841 sample=../Audio/Little Rascal/63D#3-YXRC.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=718 end=45776 sample=../Audio/Little Rascal/63D#3-9V3J.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=592 end=35896 sample=../Audio/Little Rascal/64E3-MECY.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=843 end=20671 sample=../Audio/Little Rascal/64E3-EZXP.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=630 end=46220 sample=../Audio/Little Rascal/65F3-1KKA.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=583 end=46745 sample=../Audio/Little Rascal/65F3-XCPZ.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=784 end=45826 sample=../Audio/Little Rascal/66F#3-9VGT.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=722 sample=../Audio/Little Rascal/66F#3-KM1K.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=948 end=47080 sample=../Audio/Little Rascal/67G3-V2SQ.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=897 end=47217 sample=../Audio/Little Rascal/67G3-EV5R.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=749 end=46994 sample=../Audio/Little Rascal/68G#3-O4G6.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=561 end=46475 sample=../Audio/Little Rascal/68G#3-M0TO.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1020 end=47211 sample=../Audio/Little Rascal/69A3-BDQR.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=547 end=46974 sample=../Audio/Little Rascal/69A3-RTS9.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=814 end=32549 sample=../Audio/Little Rascal/70A#3-TKTF.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=842 end=46793 sample=../Audio/Little Rascal/70A#3-4NRO.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=744 end=46292 sample=../Audio/Little Rascal/71B3-TUDR.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=825 end=47033 sample=../Audio/Little Rascal/71B3-W1R8.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=747 end=46064 sample=../Audio/Little Rascal/72C4-ONY8.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=622 end=46712 sample=../Audio/Little Rascal/72C4-8MZV.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=512 end=46902 sample=../Audio/Little Rascal/73C#4-Z5VG.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=879 end=46925 sample=../Audio/Little Rascal/73C#4-RK3G.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=829 end=46338 sample=../Audio/Little Rascal/74D4-P2EI.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=747 end=46619 sample=../Audio/Little Rascal/74D4-0ALJ.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=756 end=46261 sample=../Audio/Little Rascal/75D#4-UOYN.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=862 sample=../Audio/Little Rascal/75D#4-O4QN.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=861 end=47030 sample=../Audio/Little Rascal/76E4-YM82.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=792 sample=../Audio/Little Rascal/76E4-01AI.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=690 end=46970 sample=../Audio/Little Rascal/77F4-U5S0.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=886 end=46851 sample=../Audio/Little Rascal/77F4-S80G.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=925 end=47464 sample=../Audio/Little Rascal/78F#4-KDTF.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=556 end=46848 sample=../Audio/Little Rascal/78F#4-M255.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=889 sample=../Audio/Little Rascal/79G4-WHIU.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=781 end=46445 sample=../Audio/Little Rascal/79G4-M13F.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=583 end=47029 sample=../Audio/Little Rascal/80G#4-MUMH.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=553 end=47086 sample=../Audio/Little Rascal/80G#4-OMG3.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=867 end=47131 sample=../Audio/Little Rascal/81A4-DZ2R.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=764 end=57754 sample=../Audio/Little Rascal/81A4-5EII.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=832 end=46543 sample=../Audio/Little Rascal/82A#4-AY0N.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=607 end=47053 sample=../Audio/Little Rascal/82A#4-561F.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=479 end=46317 sample=../Audio/Little Rascal/83B4-Q7N5.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=769 end=47336 sample=../Audio/Little Rascal/83B4-BSAL.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=746 end=47271 sample=../Audio/Little Rascal/84C5-X47A.wav
-	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=385 end=46765 sample=../Audio/Little Rascal/84C5-DYGD.wav
+<group> key=24 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=499 sample=../PolAudio/Little Rascal/24C0-1C92.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=777 end=17733 sample=../PolAudio/Little Rascal/24C0-ARD2.wav
+<group> key=25 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=729 sample=../PolAudio/Little Rascal/25C#0-D4A8.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=703 end=21045 sample=../PolAudio/Little Rascal/25C#0-4R8U.wav
+<group> key=26 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=530 sample=../PolAudio/Little Rascal/26D0-12H3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=741 end=17753 sample=../PolAudio/Little Rascal/26D0-Q2L8.wav
+<group> key=27 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=523 sample=../PolAudio/Little Rascal/27D#0-5N7T.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=998 sample=../PolAudio/Little Rascal/27D#0-7ZJ5.wav
+<group> key=28 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=594 end=19413 sample=../PolAudio/Little Rascal/28E0-VKT7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=608 sample=../PolAudio/Little Rascal/28E0-2VLZ.wav
+<group> key=29 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=594 end=15423 sample=../PolAudio/Little Rascal/29F0-C38C.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=663 end=19433 sample=../PolAudio/Little Rascal/29F0-MSSC.wav
+<group> key=30 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=959 sample=../PolAudio/Little Rascal/30F#0-TXVP.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=928 end=18667 sample=../PolAudio/Little Rascal/30F#0-LHZP.wav
+<group> key=31 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=556 sample=../PolAudio/Little Rascal/31G0-CYNX.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=420 end=19413 sample=../PolAudio/Little Rascal/31G0-GRV1.wav
+<group> key=32 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=949 end=19198 sample=../PolAudio/Little Rascal/32G#0-P5S3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=582 sample=../PolAudio/Little Rascal/32G#0-6HJ7.wav
+<group> key=33 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=790 sample=../PolAudio/Little Rascal/33A0-E0Y0.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=807 sample=../PolAudio/Little Rascal/33A0-131T.wav
+<group> key=34 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=593 sample=../PolAudio/Little Rascal/34A#0-JB0E.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=623 sample=../PolAudio/Little Rascal/34A#0-4TMZ.wav
+<group> key=35 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=817 end=19235 sample=../PolAudio/Little Rascal/35B0-48HS.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=897 sample=../PolAudio/Little Rascal/35B0-HDV8.wav
+<group> key=36 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=810 sample=../PolAudio/Little Rascal/36C1-YOBM.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=564 sample=../PolAudio/Little Rascal/36C1-SYIC.wav
+<group> key=37 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=504 end=19119 sample=../PolAudio/Little Rascal/37C#1-XW3C.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=490 end=20391 sample=../PolAudio/Little Rascal/37C#1-ZFFR.wav
+<group> key=38 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=778 sample=../PolAudio/Little Rascal/38D1-91P3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=549 sample=../PolAudio/Little Rascal/38D1-DN8O.wav
+<group> key=39 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=641 sample=../PolAudio/Little Rascal/39D#1-7SA7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=948 sample=../PolAudio/Little Rascal/39D#1-FMM3.wav
+<group> key=40 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=529 sample=../PolAudio/Little Rascal/40E1-5N7Q.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=539 end=19444 sample=../PolAudio/Little Rascal/40E1-BRO8.wav
+<group> key=41 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=583 end=46586 sample=../PolAudio/Little Rascal/41F1-FJ88.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=789 end=18663 sample=../PolAudio/Little Rascal/41F1-0O1L.wav
+<group> key=42 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=532 end=46720 sample=../PolAudio/Little Rascal/42F#1-W4GE.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=619 end=46454 sample=../PolAudio/Little Rascal/42F#1-VDFQ.wav
+<group> key=43 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=938 end=21035 sample=../PolAudio/Little Rascal/43G1-R95D.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=825 end=46844 sample=../PolAudio/Little Rascal/43G1-XXDW.wav
+<group> key=44 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=897 end=18495 sample=../PolAudio/Little Rascal/44G#1-E13P.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=547 sample=../PolAudio/Little Rascal/44G#1-58EZ.wav
+<group> key=45 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=974 end=18205 sample=../PolAudio/Little Rascal/45A1-C5HO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=416 end=45913 sample=../PolAudio/Little Rascal/45A1-0DUK.wav
+<group> key=46 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=596 sample=../PolAudio/Little Rascal/46A#1-ZCRY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=438 end=18836 sample=../PolAudio/Little Rascal/46A#1-0DNG.wav
+<group> key=47 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=594 end=46809 sample=../PolAudio/Little Rascal/47B1-EXXK.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=844 end=48168 sample=../PolAudio/Little Rascal/47B1-35TJ.wav
+<group> key=48 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=811 sample=../PolAudio/Little Rascal/48C2-D7GQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=899 end=46976 sample=../PolAudio/Little Rascal/48C2-HZKN.wav
+<group> key=49 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=717 end=46964 sample=../PolAudio/Little Rascal/49C#2-2VKT.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=610 end=46100 sample=../PolAudio/Little Rascal/49C#2-J9D0.wav
+<group> key=50 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=543 end=46083 sample=../PolAudio/Little Rascal/50D2-8TTT.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=671 end=46710 sample=../PolAudio/Little Rascal/50D2-VETG.wav
+<group> key=51 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=434 end=18370 sample=../PolAudio/Little Rascal/51D#2-72T6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=713 end=19690 sample=../PolAudio/Little Rascal/51D#2-R70Q.wav
+<group> key=52 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=669 end=18959 sample=../PolAudio/Little Rascal/52E2-GH7K.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=649 sample=../PolAudio/Little Rascal/52E2-N6BE.wav
+<group> key=53 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=910 end=47118 sample=../PolAudio/Little Rascal/53F2-ZG49.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=646 end=46821 sample=../PolAudio/Little Rascal/53F2-DVVP.wav
+<group> key=54 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=891 end=46206 sample=../PolAudio/Little Rascal/54F#2-DEL8.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=656 end=46315 sample=../PolAudio/Little Rascal/54F#2-6T1Y.wav
+<group> key=55 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=485 end=46434 sample=../PolAudio/Little Rascal/55G2-4GV4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=652 end=46670 sample=../PolAudio/Little Rascal/55G2-SALL.wav
+<group> key=56 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=763 end=46959 sample=../PolAudio/Little Rascal/56G#2-A6X4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=608 end=46820 sample=../PolAudio/Little Rascal/56G#2-35ZL.wav
+<group> key=57 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=905 end=46989 sample=../PolAudio/Little Rascal/57A2-9TSZ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=485 end=46723 sample=../PolAudio/Little Rascal/57A2-AW23.wav
+<group> key=58 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=934 sample=../PolAudio/Little Rascal/58A#2-KCO6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=623 end=46948 sample=../PolAudio/Little Rascal/58A#2-R1LJ.wav
+<group> key=59 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=927 end=47031 sample=../PolAudio/Little Rascal/59B2-HZ4K.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=433 end=46428 sample=../PolAudio/Little Rascal/59B2-JDGO.wav
+<group> key=60 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=597 sample=../PolAudio/Little Rascal/60C3-HQG6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=526 end=45641 sample=../PolAudio/Little Rascal/60C3-5LFG.wav
+<group> key=61 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=949 end=46977 sample=../PolAudio/Little Rascal/61C#3-4KA4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=762 end=46962 sample=../PolAudio/Little Rascal/61C#3-L9CR.wav
+<group> key=62 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=822 sample=../PolAudio/Little Rascal/62D3-LZ53.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=901 end=47066 sample=../PolAudio/Little Rascal/62D3-LCV1.wav
+<group> key=63 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=908 end=22841 sample=../PolAudio/Little Rascal/63D#3-YXRC.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=718 end=45776 sample=../PolAudio/Little Rascal/63D#3-9V3J.wav
+<group> key=64 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=592 end=35896 sample=../PolAudio/Little Rascal/64E3-MECY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=843 end=20671 sample=../PolAudio/Little Rascal/64E3-EZXP.wav
+<group> key=65 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=630 end=46220 sample=../PolAudio/Little Rascal/65F3-1KKA.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=583 end=46745 sample=../PolAudio/Little Rascal/65F3-XCPZ.wav
+<group> key=66 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=784 end=45826 sample=../PolAudio/Little Rascal/66F#3-9VGT.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=722 sample=../PolAudio/Little Rascal/66F#3-KM1K.wav
+<group> key=67 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=948 end=47080 sample=../PolAudio/Little Rascal/67G3-V2SQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=897 end=47217 sample=../PolAudio/Little Rascal/67G3-EV5R.wav
+<group> key=68 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=749 end=46994 sample=../PolAudio/Little Rascal/68G#3-O4G6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=561 end=46475 sample=../PolAudio/Little Rascal/68G#3-M0TO.wav
+<group> key=69 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1020 end=47211 sample=../PolAudio/Little Rascal/69A3-BDQR.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=547 end=46974 sample=../PolAudio/Little Rascal/69A3-RTS9.wav
+<group> key=70 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=814 end=32549 sample=../PolAudio/Little Rascal/70A#3-TKTF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=842 end=46793 sample=../PolAudio/Little Rascal/70A#3-4NRO.wav
+<group> key=71 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=744 end=46292 sample=../PolAudio/Little Rascal/71B3-TUDR.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=825 end=47033 sample=../PolAudio/Little Rascal/71B3-W1R8.wav
+<group> key=72 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=747 end=46064 sample=../PolAudio/Little Rascal/72C4-ONY8.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=622 end=46712 sample=../PolAudio/Little Rascal/72C4-8MZV.wav
+<group> key=73 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=512 end=46902 sample=../PolAudio/Little Rascal/73C#4-Z5VG.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=879 end=46925 sample=../PolAudio/Little Rascal/73C#4-RK3G.wav
+<group> key=74 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=829 end=46338 sample=../PolAudio/Little Rascal/74D4-P2EI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=747 end=46619 sample=../PolAudio/Little Rascal/74D4-0ALJ.wav
+<group> key=75 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=756 end=46261 sample=../PolAudio/Little Rascal/75D#4-UOYN.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=862 sample=../PolAudio/Little Rascal/75D#4-O4QN.wav
+<group> key=76 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=861 end=47030 sample=../PolAudio/Little Rascal/76E4-YM82.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=792 sample=../PolAudio/Little Rascal/76E4-01AI.wav
+<group> key=77 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=690 end=46970 sample=../PolAudio/Little Rascal/77F4-U5S0.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=886 end=46851 sample=../PolAudio/Little Rascal/77F4-S80G.wav
+<group> key=78 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=925 end=47464 sample=../PolAudio/Little Rascal/78F#4-KDTF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=556 end=46848 sample=../PolAudio/Little Rascal/78F#4-M255.wav
+<group> key=79 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=889 sample=../PolAudio/Little Rascal/79G4-WHIU.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=781 end=46445 sample=../PolAudio/Little Rascal/79G4-M13F.wav
+<group> key=80 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=583 end=47029 sample=../PolAudio/Little Rascal/80G#4-MUMH.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=553 end=47086 sample=../PolAudio/Little Rascal/80G#4-OMG3.wav
+<group> key=81 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=867 end=47131 sample=../PolAudio/Little Rascal/81A4-DZ2R.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=764 end=57754 sample=../PolAudio/Little Rascal/81A4-5EII.wav
+<group> key=82 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=832 end=46543 sample=../PolAudio/Little Rascal/82A#4-AY0N.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=607 end=47053 sample=../PolAudio/Little Rascal/82A#4-561F.wav
+<group> key=83 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=479 end=46317 sample=../PolAudio/Little Rascal/83B4-Q7N5.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=769 end=47336 sample=../PolAudio/Little Rascal/83B4-BSAL.wav
+<group> key=84 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=746 end=47271 sample=../PolAudio/Little Rascal/84C5-X47A.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=385 end=46765 sample=../PolAudio/Little Rascal/84C5-DYGD.wav

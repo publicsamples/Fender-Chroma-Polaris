@@ -1,551 +1,551 @@
 // this file was generated from Nervous Energy LFO MOD (try arp).exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=596 end=170751 sample=../Audio/Nervous Energy/24C0-6JUK.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=638 end=162277 sample=../Audio/Nervous Energy/24C0-YD98.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=500 end=162835 sample=../Audio/Nervous Energy/24C0-6MUY.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=526 end=170491 sample=../Audio/Nervous Energy/24C0-TBS0.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=801 end=168133 sample=../Audio/Nervous Energy/24C0-YO24.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=456 end=161389 sample=../Audio/Nervous Energy/24C0-769F.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=771 end=170095 sample=../Audio/Nervous Energy/24C0-VC68.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=759 end=171882 sample=../Audio/Nervous Energy/24C0-BWIS.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=445 end=236233 sample=../Audio/Nervous Energy/25C#0-8VI2.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=816 end=236395 sample=../Audio/Nervous Energy/25C#0-H4W6.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=512 end=237124 sample=../Audio/Nervous Energy/25C#0-AY7Q.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=808 end=236394 sample=../Audio/Nervous Energy/25C#0-CKB1.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=650 end=235648 sample=../Audio/Nervous Energy/25C#0-1J1O.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=628 end=235647 sample=../Audio/Nervous Energy/25C#0-TZ3C.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=426 end=236793 sample=../Audio/Nervous Energy/25C#0-45N1.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=642 end=236144 sample=../Audio/Nervous Energy/25C#0-S9WM.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=516 end=164596 sample=../Audio/Nervous Energy/26D0-NKSJ.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=585 end=163897 sample=../Audio/Nervous Energy/26D0-9K98.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=485 end=166400 sample=../Audio/Nervous Energy/26D0-L0O1.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=745 end=165236 sample=../Audio/Nervous Energy/26D0-JG7D.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=501 end=164713 sample=../Audio/Nervous Energy/26D0-F4VB.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=581 end=163703 sample=../Audio/Nervous Energy/26D0-ZNC3.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=569 end=164179 sample=../Audio/Nervous Energy/26D0-HA9D.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=785 end=163656 sample=../Audio/Nervous Energy/26D0-87WE.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=785 sample=../Audio/Nervous Energy/27D#0-QCEM.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=528 end=145488 sample=../Audio/Nervous Energy/27D#0-H72R.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=735 end=145512 sample=../Audio/Nervous Energy/27D#0-X176.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=957 sample=../Audio/Nervous Energy/27D#0-BOJT.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=559 end=144082 sample=../Audio/Nervous Energy/27D#0-EODU.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=371 end=145290 sample=../Audio/Nervous Energy/27D#0-C0J9.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=604 end=144521 sample=../Audio/Nervous Energy/27D#0-QRFJ.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=465 end=145342 sample=../Audio/Nervous Energy/27D#0-XSVH.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=898 end=137388 sample=../Audio/Nervous Energy/28E0-2UAG.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=700 end=134164 sample=../Audio/Nervous Energy/28E0-WAD8.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=756 end=139476 sample=../Audio/Nervous Energy/28E0-R6AE.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=908 end=136814 sample=../Audio/Nervous Energy/28E0-9YRE.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=469 end=137977 sample=../Audio/Nervous Energy/28E0-VVMO.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=888 end=136835 sample=../Audio/Nervous Energy/28E0-FXOW.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=576 sample=../Audio/Nervous Energy/28E0-RWIS.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=858 end=135222 sample=../Audio/Nervous Energy/28E0-UEVZ.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=759 sample=../Audio/Nervous Energy/29F0-OH33.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=616 end=120701 sample=../Audio/Nervous Energy/29F0-FZDC.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=726 end=121481 sample=../Audio/Nervous Energy/29F0-FFIH.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=546 end=121684 sample=../Audio/Nervous Energy/29F0-EDY4.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=677 end=121822 sample=../Audio/Nervous Energy/29F0-EMJ9.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=795 end=122504 sample=../Audio/Nervous Energy/29F0-MONJ.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=882 end=121633 sample=../Audio/Nervous Energy/29F0-89NZ.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=747 sample=../Audio/Nervous Energy/29F0-4YJ9.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=460 sample=../Audio/Nervous Energy/30F#0-ZC3I.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=906 end=167750 sample=../Audio/Nervous Energy/30F#0-F4UG.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=423 end=160513 sample=../Audio/Nervous Energy/30F#0-V668.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=796 end=171888 sample=../Audio/Nervous Energy/30F#0-QUJL.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=645 end=168963 sample=../Audio/Nervous Energy/30F#0-36C1.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=546 end=169574 sample=../Audio/Nervous Energy/30F#0-ZWAH.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=654 end=161096 sample=../Audio/Nervous Energy/30F#0-B98Y.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=777 end=170687 sample=../Audio/Nervous Energy/30F#0-ZJXL.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=832 end=236786 sample=../Audio/Nervous Energy/31G0-VQNA.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=596 end=235499 sample=../Audio/Nervous Energy/31G0-KD18.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=738 sample=../Audio/Nervous Energy/31G0-R46L.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=877 end=236155 sample=../Audio/Nervous Energy/31G0-EMCS.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=903 end=235544 sample=../Audio/Nervous Energy/31G0-Z7KK.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=463 end=236032 sample=../Audio/Nervous Energy/31G0-CAJG.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=574 end=237170 sample=../Audio/Nervous Energy/31G0-S2RE.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=739 end=235874 sample=../Audio/Nervous Energy/31G0-Z0ZM.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=905 sample=../Audio/Nervous Energy/32G#0-EBI5.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=561 end=162786 sample=../Audio/Nervous Energy/32G#0-G1NX.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=901 end=161373 sample=../Audio/Nervous Energy/32G#0-AH9E.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=823 end=163564 sample=../Audio/Nervous Energy/32G#0-EAQK.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=464 sample=../Audio/Nervous Energy/32G#0-1ULD.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=566 end=157695 sample=../Audio/Nervous Energy/32G#0-C1T1.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=861 end=161564 sample=../Audio/Nervous Energy/32G#0-1PIA.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=690 end=160738 sample=../Audio/Nervous Energy/32G#0-ZXM8.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=597 end=145590 sample=../Audio/Nervous Energy/33A0-0QX5.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=793 end=145129 sample=../Audio/Nervous Energy/33A0-QN2Y.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=849 end=145844 sample=../Audio/Nervous Energy/33A0-MVDT.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=773 end=144457 sample=../Audio/Nervous Energy/33A0-13CN.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=570 end=141979 sample=../Audio/Nervous Energy/33A0-9YXP.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=767 end=145014 sample=../Audio/Nervous Energy/33A0-3QIU.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=840 end=141316 sample=../Audio/Nervous Energy/33A0-DVSK.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=514 end=143136 sample=../Audio/Nervous Energy/33A0-AJU2.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=571 end=136743 sample=../Audio/Nervous Energy/34A#0-8AVW.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=887 end=137821 sample=../Audio/Nervous Energy/34A#0-QFM0.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=748 end=137631 sample=../Audio/Nervous Energy/34A#0-EJSG.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=945 end=135828 sample=../Audio/Nervous Energy/34A#0-4G9Q.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=868 end=138935 sample=../Audio/Nervous Energy/34A#0-7MOQ.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=1004 end=135738 sample=../Audio/Nervous Energy/34A#0-QV72.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=1005 end=136812 sample=../Audio/Nervous Energy/34A#0-D63H.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=716 end=134835 sample=../Audio/Nervous Energy/34A#0-CE3N.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=795 end=119963 sample=../Audio/Nervous Energy/35B0-3OMI.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=567 end=120571 sample=../Audio/Nervous Energy/35B0-B8ZR.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=785 end=121622 sample=../Audio/Nervous Energy/35B0-RB6T.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=809 end=119423 sample=../Audio/Nervous Energy/35B0-O7Q2.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=789 end=119516 sample=../Audio/Nervous Energy/35B0-8EFI.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=538 end=121553 sample=../Audio/Nervous Energy/35B0-VSXQ.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=875 end=121140 sample=../Audio/Nervous Energy/35B0-DKKI.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=772 sample=../Audio/Nervous Energy/35B0-E2KT.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=855 end=163443 sample=../Audio/Nervous Energy/36C1-O6ZY.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=403 end=164852 sample=../Audio/Nervous Energy/36C1-Z895.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=710 end=158484 sample=../Audio/Nervous Energy/36C1-1P7P.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=502 end=163154 sample=../Audio/Nervous Energy/36C1-18GJ.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=677 end=160532 sample=../Audio/Nervous Energy/36C1-SQ1T.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=570 end=162703 sample=../Audio/Nervous Energy/36C1-1F1F.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=548 end=163206 sample=../Audio/Nervous Energy/36C1-4R1I.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=884 end=161536 sample=../Audio/Nervous Energy/36C1-XP47.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=515 end=235631 sample=../Audio/Nervous Energy/37C#1-3FDO.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=907 end=235770 sample=../Audio/Nervous Energy/37C#1-0BMU.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=600 end=237047 sample=../Audio/Nervous Energy/37C#1-1D8T.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=903 end=237191 sample=../Audio/Nervous Energy/37C#1-RBRF.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=711 end=235766 sample=../Audio/Nervous Energy/37C#1-6LHS.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=942 end=236416 sample=../Audio/Nervous Energy/37C#1-63GM.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=726 end=235903 sample=../Audio/Nervous Energy/37C#1-GMA0.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=838 end=235457 sample=../Audio/Nervous Energy/37C#1-33KK.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=864 end=158373 sample=../Audio/Nervous Energy/38D1-QUX5.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=690 end=154573 sample=../Audio/Nervous Energy/38D1-6JKC.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=859 sample=../Audio/Nervous Energy/38D1-CP85.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=791 end=154941 sample=../Audio/Nervous Energy/38D1-L0RU.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=480 end=154907 sample=../Audio/Nervous Energy/38D1-OFUN.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=385 end=160344 sample=../Audio/Nervous Energy/38D1-605X.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=934 sample=../Audio/Nervous Energy/38D1-1KMT.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=646 end=159956 sample=../Audio/Nervous Energy/38D1-V03U.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=546 sample=../Audio/Nervous Energy/39D#1-V7MD.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=536 end=143807 sample=../Audio/Nervous Energy/39D#1-THRU.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=563 end=138789 sample=../Audio/Nervous Energy/39D#1-YPS9.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=610 end=141003 sample=../Audio/Nervous Energy/39D#1-YJ3P.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=765 end=142899 sample=../Audio/Nervous Energy/39D#1-L0QW.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=557 sample=../Audio/Nervous Energy/39D#1-9I7U.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=708 end=141198 sample=../Audio/Nervous Energy/39D#1-ICPT.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=561 end=140720 sample=../Audio/Nervous Energy/39D#1-QGMZ.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=592 end=135529 sample=../Audio/Nervous Energy/40E1-D38B.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=676 end=131544 sample=../Audio/Nervous Energy/40E1-X0S6.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=789 end=135480 sample=../Audio/Nervous Energy/40E1-2K7M.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=575 end=135894 sample=../Audio/Nervous Energy/40E1-T6VU.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=930 end=133088 sample=../Audio/Nervous Energy/40E1-LHOH.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=870 end=133167 sample=../Audio/Nervous Energy/40E1-BD6S.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=801 end=136876 sample=../Audio/Nervous Energy/40E1-X23B.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=831 end=132632 sample=../Audio/Nervous Energy/40E1-KKAF.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=926 end=120973 sample=../Audio/Nervous Energy/41F1-G6UG.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=548 end=120712 sample=../Audio/Nervous Energy/41F1-T3KZ.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=806 end=118648 sample=../Audio/Nervous Energy/41F1-EZPO.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=631 end=119397 sample=../Audio/Nervous Energy/41F1-6Y40.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=939 sample=../Audio/Nervous Energy/41F1-P10X.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=508 end=120897 sample=../Audio/Nervous Energy/41F1-6G3C.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=419 end=121414 sample=../Audio/Nervous Energy/41F1-JA2H.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=631 end=120416 sample=../Audio/Nervous Energy/41F1-RLHY.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=670 end=159778 sample=../Audio/Nervous Energy/42F#1-LNZU.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=720 end=155186 sample=../Audio/Nervous Energy/42F#1-ZA9D.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=913 end=163270 sample=../Audio/Nervous Energy/42F#1-0FP9.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=806 end=162971 sample=../Audio/Nervous Energy/42F#1-NT50.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=364 end=153936 sample=../Audio/Nervous Energy/42F#1-FKML.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=808 end=156010 sample=../Audio/Nervous Energy/42F#1-MARW.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=719 end=160362 sample=../Audio/Nervous Energy/42F#1-XW3A.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=846 end=155094 sample=../Audio/Nervous Energy/42F#1-RBJM.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=772 end=235175 sample=../Audio/Nervous Energy/43G1-1IAP.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=922 end=235757 sample=../Audio/Nervous Energy/43G1-YZ1O.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=633 sample=../Audio/Nervous Energy/43G1-0SKZ.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=918 end=236371 sample=../Audio/Nervous Energy/43G1-2XFD.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=731 end=235938 sample=../Audio/Nervous Energy/43G1-P6S2.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=883 sample=../Audio/Nervous Energy/43G1-WP5M.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=632 sample=../Audio/Nervous Energy/43G1-LMPJ.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=491 end=235863 sample=../Audio/Nervous Energy/43G1-J4WW.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=1014 end=154474 sample=../Audio/Nervous Energy/44G#1-E10L.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=652 end=150634 sample=../Audio/Nervous Energy/44G#1-N7YI.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=790 end=150550 sample=../Audio/Nervous Energy/44G#1-HXPO.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=855 end=152503 sample=../Audio/Nervous Energy/44G#1-1CWQ.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=727 end=153985 sample=../Audio/Nervous Energy/44G#1-2ZEJ.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=632 end=154788 sample=../Audio/Nervous Energy/44G#1-7C1S.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=939 end=158931 sample=../Audio/Nervous Energy/44G#1-48DP.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=743 end=154164 sample=../Audio/Nervous Energy/44G#1-RFAH.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=745 end=137241 sample=../Audio/Nervous Energy/45A1-FCMT.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=575 end=137078 sample=../Audio/Nervous Energy/45A1-7KSG.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=764 end=140814 sample=../Audio/Nervous Energy/45A1-YV7J.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=799 end=136701 sample=../Audio/Nervous Energy/45A1-WUCH.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=402 end=140920 sample=../Audio/Nervous Energy/45A1-XV7D.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=774 end=139372 sample=../Audio/Nervous Energy/45A1-36XS.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=490 end=140313 sample=../Audio/Nervous Energy/45A1-Y6GC.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=828 end=136300 sample=../Audio/Nervous Energy/45A1-VL8O.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=760 end=132986 sample=../Audio/Nervous Energy/46A#1-IZ5L.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=504 end=129291 sample=../Audio/Nervous Energy/46A#1-P7XO.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=442 end=131588 sample=../Audio/Nervous Energy/46A#1-EF6O.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=390 end=131551 sample=../Audio/Nervous Energy/46A#1-XUR3.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=503 end=132984 sample=../Audio/Nervous Energy/46A#1-JNXV.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=869 end=134168 sample=../Audio/Nervous Energy/46A#1-V6W7.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=566 end=133380 sample=../Audio/Nervous Energy/46A#1-PWTZ.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=577 end=132567 sample=../Audio/Nervous Energy/46A#1-IITC.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=452 end=115981 sample=../Audio/Nervous Energy/47B1-I0VS.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=747 sample=../Audio/Nervous Energy/47B1-632P.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=455 end=117861 sample=../Audio/Nervous Energy/47B1-1IWS.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=456 end=117889 sample=../Audio/Nervous Energy/47B1-T9X6.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=945 end=119279 sample=../Audio/Nervous Energy/47B1-84JD.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=646 end=119053 sample=../Audio/Nervous Energy/47B1-7LLW.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=422 sample=../Audio/Nervous Energy/47B1-QE9Q.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=674 end=118059 sample=../Audio/Nervous Energy/47B1-3T8Y.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=590 end=155024 sample=../Audio/Nervous Energy/48C2-GJHX.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=700 end=153053 sample=../Audio/Nervous Energy/48C2-7YNF.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=509 end=157066 sample=../Audio/Nervous Energy/48C2-F2L3.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=905 end=158085 sample=../Audio/Nervous Energy/48C2-V0LO.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=453 sample=../Audio/Nervous Energy/48C2-BE78.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=570 sample=../Audio/Nervous Energy/48C2-THWB.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=514 end=156140 sample=../Audio/Nervous Energy/48C2-1NB7.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=801 sample=../Audio/Nervous Energy/48C2-7YDJ.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=706 end=236147 sample=../Audio/Nervous Energy/49C#2-PNS4.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=693 end=235769 sample=../Audio/Nervous Energy/49C#2-NYD6.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=564 end=235521 sample=../Audio/Nervous Energy/49C#2-3R9T.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=591 end=236101 sample=../Audio/Nervous Energy/49C#2-JSAI.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=834 end=236255 sample=../Audio/Nervous Energy/49C#2-MTFI.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=801 end=235193 sample=../Audio/Nervous Energy/49C#2-ZAIZ.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=954 end=235940 sample=../Audio/Nervous Energy/49C#2-Q2VA.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=938 end=236994 sample=../Audio/Nervous Energy/49C#2-9JUJ.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=517 end=151625 sample=../Audio/Nervous Energy/50D2-41H0.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=889 end=149910 sample=../Audio/Nervous Energy/50D2-BSL9.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=558 end=152282 sample=../Audio/Nervous Energy/50D2-Q6YH.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=504 end=151317 sample=../Audio/Nervous Energy/50D2-H8GP.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=763 end=149241 sample=../Audio/Nervous Energy/50D2-40N8.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=707 end=150715 sample=../Audio/Nervous Energy/50D2-2NVE.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=583 end=147822 sample=../Audio/Nervous Energy/50D2-MGLD.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=895 end=149251 sample=../Audio/Nervous Energy/50D2-OUMD.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=644 end=142080 sample=../Audio/Nervous Energy/51D#2-37RP.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=443 end=134547 sample=../Audio/Nervous Energy/51D#2-HPG6.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=869 end=136792 sample=../Audio/Nervous Energy/51D#2-DMYP.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=446 end=137433 sample=../Audio/Nervous Energy/51D#2-FK3E.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=766 end=133766 sample=../Audio/Nervous Energy/51D#2-VO7C.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=760 end=138880 sample=../Audio/Nervous Energy/51D#2-GLI4.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=547 end=136100 sample=../Audio/Nervous Energy/51D#2-33N7.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=565 end=136082 sample=../Audio/Nervous Energy/51D#2-7GTA.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=481 end=130608 sample=../Audio/Nervous Energy/52E2-LAIE.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=557 end=131456 sample=../Audio/Nervous Energy/52E2-O239.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=864 end=130623 sample=../Audio/Nervous Energy/52E2-F6N2.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=494 end=132868 sample=../Audio/Nervous Energy/52E2-WYWG.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=759 sample=../Audio/Nervous Energy/52E2-SBZ1.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=824 end=108766 sample=../Audio/Nervous Energy/52E2-H78Z.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=475 end=129682 sample=../Audio/Nervous Energy/52E2-Q92Y.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=692 end=131545 sample=../Audio/Nervous Energy/52E2-8TDR.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=784 end=96991 sample=../Audio/Nervous Energy/53F2-4MHV.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=851 end=116746 sample=../Audio/Nervous Energy/53F2-P1SD.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=565 sample=../Audio/Nervous Energy/53F2-44DZ.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=710 end=113127 sample=../Audio/Nervous Energy/53F2-EW60.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=674 end=116960 sample=../Audio/Nervous Energy/53F2-PYCH.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=950 end=116412 sample=../Audio/Nervous Energy/53F2-HIS8.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=719 end=72668 sample=../Audio/Nervous Energy/53F2-5K5M.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=422 end=113742 sample=../Audio/Nervous Energy/53F2-5556.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=637 end=149820 sample=../Audio/Nervous Energy/54F#2-10N7.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=613 end=146602 sample=../Audio/Nervous Energy/54F#2-P9U6.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=751 sample=../Audio/Nervous Energy/54F#2-V47P.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=347 end=143293 sample=../Audio/Nervous Energy/54F#2-4081.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=767 sample=../Audio/Nervous Energy/54F#2-QO3B.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=919 end=150507 sample=../Audio/Nervous Energy/54F#2-4PGN.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=647 end=150337 sample=../Audio/Nervous Energy/54F#2-7TER.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=556 sample=../Audio/Nervous Energy/54F#2-ZZPW.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=800 end=217463 sample=../Audio/Nervous Energy/55G2-QGGA.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=526 end=209456 sample=../Audio/Nervous Energy/55G2-HFUH.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=787 end=143804 sample=../Audio/Nervous Energy/55G2-TGQY.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=536 end=236133 sample=../Audio/Nervous Energy/55G2-UA0L.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=737 end=179178 sample=../Audio/Nervous Energy/55G2-WLAB.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=477 sample=../Audio/Nervous Energy/55G2-GVOH.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=499 end=202816 sample=../Audio/Nervous Energy/55G2-KW6L.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=577 end=233553 sample=../Audio/Nervous Energy/55G2-MQMS.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=729 end=143829 sample=../Audio/Nervous Energy/56G#2-PUJH.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=891 end=144059 sample=../Audio/Nervous Energy/56G#2-HCJM.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=649 end=142339 sample=../Audio/Nervous Energy/56G#2-W8TG.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=544 end=143949 sample=../Audio/Nervous Energy/56G#2-O65W.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=588 end=142751 sample=../Audio/Nervous Energy/56G#2-BW93.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=446 end=146904 sample=../Audio/Nervous Energy/56G#2-NAFD.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=629 end=144603 sample=../Audio/Nervous Energy/56G#2-0PM9.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=430 end=143701 sample=../Audio/Nervous Energy/56G#2-4XS8.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=665 end=133123 sample=../Audio/Nervous Energy/57A2-G0EI.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=417 end=114453 sample=../Audio/Nervous Energy/57A2-MAO5.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=589 end=130728 sample=../Audio/Nervous Energy/57A2-Z9DZ.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=485 end=131701 sample=../Audio/Nervous Energy/57A2-4BRC.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=758 end=131728 sample=../Audio/Nervous Energy/57A2-0PI1.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=377 end=132342 sample=../Audio/Nervous Energy/57A2-E4BG.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=465 end=131151 sample=../Audio/Nervous Energy/57A2-OO3Q.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=699 sample=../Audio/Nervous Energy/57A2-9YDQ.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=562 end=126403 sample=../Audio/Nervous Energy/58A#2-PJOJ.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=992 end=126296 sample=../Audio/Nervous Energy/58A#2-GHQ7.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=754 sample=../Audio/Nervous Energy/58A#2-V5U1.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=799 end=126337 sample=../Audio/Nervous Energy/58A#2-J7JY.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=767 end=126168 sample=../Audio/Nervous Energy/58A#2-QSS9.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=465 end=125887 sample=../Audio/Nervous Energy/58A#2-MH1A.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=909 end=125697 sample=../Audio/Nervous Energy/58A#2-FESC.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=460 end=126400 sample=../Audio/Nervous Energy/58A#2-JJN1.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=951 end=106333 sample=../Audio/Nervous Energy/59B2-5LQP.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=807 end=91675 sample=../Audio/Nervous Energy/59B2-1SE9.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=496 end=114377 sample=../Audio/Nervous Energy/59B2-TSFL.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=794 end=71296 sample=../Audio/Nervous Energy/59B2-0U50.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=677 end=110776 sample=../Audio/Nervous Energy/59B2-Z2K3.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=696 end=86385 sample=../Audio/Nervous Energy/59B2-FMAM.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=710 end=114829 sample=../Audio/Nervous Energy/59B2-13CW.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=861 end=113207 sample=../Audio/Nervous Energy/59B2-RJEL.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=470 end=137996 sample=../Audio/Nervous Energy/60C3-RZRB.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=929 end=139728 sample=../Audio/Nervous Energy/60C3-WA43.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=845 end=139894 sample=../Audio/Nervous Energy/60C3-WS0X.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=531 end=138993 sample=../Audio/Nervous Energy/60C3-I8O8.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=587 end=144964 sample=../Audio/Nervous Energy/60C3-V4WW.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=800 end=140063 sample=../Audio/Nervous Energy/60C3-CKEY.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=714 end=143125 sample=../Audio/Nervous Energy/60C3-78XH.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=687 end=127168 sample=../Audio/Nervous Energy/60C3-2UJH.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=789 end=236115 sample=../Audio/Nervous Energy/61C#3-0D9T.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=777 end=235878 sample=../Audio/Nervous Energy/61C#3-OW0U.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=904 end=235444 sample=../Audio/Nervous Energy/61C#3-QW7V.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=789 end=234926 sample=../Audio/Nervous Energy/61C#3-SAKZ.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=878 end=236094 sample=../Audio/Nervous Energy/61C#3-M4GK.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=799 end=236538 sample=../Audio/Nervous Energy/61C#3-VQY3.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=461 end=235437 sample=../Audio/Nervous Energy/61C#3-2FG2.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=728 end=235898 sample=../Audio/Nervous Energy/61C#3-QFVM.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=649 end=82869 sample=../Audio/Nervous Energy/62D3-YWFB.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=708 end=139448 sample=../Audio/Nervous Energy/62D3-YW74.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=705 end=135334 sample=../Audio/Nervous Energy/62D3-HXYI.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=597 end=136995 sample=../Audio/Nervous Energy/62D3-R9OZ.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=607 end=137493 sample=../Audio/Nervous Energy/62D3-AJRR.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=580 end=139325 sample=../Audio/Nervous Energy/62D3-HMI2.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=436 end=97266 sample=../Audio/Nervous Energy/62D3-HRT3.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=566 end=136706 sample=../Audio/Nervous Energy/62D3-KG9Z.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=992 end=130361 sample=../Audio/Nervous Energy/63D#3-JVSU.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=499 end=127126 sample=../Audio/Nervous Energy/63D#3-ZRZ9.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=517 end=123581 sample=../Audio/Nervous Energy/63D#3-E864.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=604 end=125138 sample=../Audio/Nervous Energy/63D#3-I9X4.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=769 end=124545 sample=../Audio/Nervous Energy/63D#3-B52W.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=543 end=128552 sample=../Audio/Nervous Energy/63D#3-5JPF.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=670 end=126853 sample=../Audio/Nervous Energy/63D#3-4U3T.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=804 end=129101 sample=../Audio/Nervous Energy/63D#3-TIKE.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=601 end=73177 sample=../Audio/Nervous Energy/64E3-S4B5.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=759 sample=../Audio/Nervous Energy/64E3-Z8HL.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=619 end=119817 sample=../Audio/Nervous Energy/64E3-G80O.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=626 end=122116 sample=../Audio/Nervous Energy/64E3-DBGA.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=634 end=90447 sample=../Audio/Nervous Energy/64E3-ACAO.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=850 end=123276 sample=../Audio/Nervous Energy/64E3-CH4M.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=461 end=121921 sample=../Audio/Nervous Energy/64E3-ECTT.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=973 end=123138 sample=../Audio/Nervous Energy/64E3-JTK3.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=505 end=108362 sample=../Audio/Nervous Energy/65F3-FEZZ.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=409 end=111924 sample=../Audio/Nervous Energy/65F3-R8GS.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=734 end=109983 sample=../Audio/Nervous Energy/65F3-FCP4.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=603 sample=../Audio/Nervous Energy/65F3-CRB0.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=342 end=108054 sample=../Audio/Nervous Energy/65F3-3XBY.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=570 end=110250 sample=../Audio/Nervous Energy/65F3-BGQ5.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=563 sample=../Audio/Nervous Energy/65F3-H0KI.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=752 sample=../Audio/Nervous Energy/65F3-8OIG.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=801 end=133512 sample=../Audio/Nervous Energy/66F#3-87K6.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=815 end=132136 sample=../Audio/Nervous Energy/66F#3-Z6UD.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=575 end=133760 sample=../Audio/Nervous Energy/66F#3-VSN7.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=840 end=136755 sample=../Audio/Nervous Energy/66F#3-QE96.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=710 end=135572 sample=../Audio/Nervous Energy/66F#3-EOQO.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=448 end=134577 sample=../Audio/Nervous Energy/66F#3-GILA.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=562 end=135316 sample=../Audio/Nervous Energy/66F#3-Y227.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=963 end=133451 sample=../Audio/Nervous Energy/66F#3-0P73.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=618 end=157202 sample=../Audio/Nervous Energy/67G3-LR18.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=497 end=206539 sample=../Audio/Nervous Energy/67G3-6AGB.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=732 end=147991 sample=../Audio/Nervous Energy/67G3-23X5.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=772 end=164608 sample=../Audio/Nervous Energy/67G3-A62L.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=585 end=235553 sample=../Audio/Nervous Energy/67G3-X60T.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=480 end=235955 sample=../Audio/Nervous Energy/67G3-A0XG.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=525 end=235199 sample=../Audio/Nervous Energy/67G3-OD16.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=934 end=235981 sample=../Audio/Nervous Energy/67G3-VB18.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=509 end=127126 sample=../Audio/Nervous Energy/68G#3-KL54.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=818 end=131561 sample=../Audio/Nervous Energy/68G#3-3HJQ.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=852 end=134835 sample=../Audio/Nervous Energy/68G#3-2A5Q.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=874 end=133396 sample=../Audio/Nervous Energy/68G#3-517M.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=798 sample=../Audio/Nervous Energy/68G#3-OJEC.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=747 end=129929 sample=../Audio/Nervous Energy/68G#3-JWOH.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=554 end=130177 sample=../Audio/Nervous Energy/68G#3-2CRB.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=486 end=128835 sample=../Audio/Nervous Energy/68G#3-MVFZ.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=803 end=122030 sample=../Audio/Nervous Energy/69A3-F47Q.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=849 end=122900 sample=../Audio/Nervous Energy/69A3-DYKD.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=485 end=120644 sample=../Audio/Nervous Energy/69A3-2WEC.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=838 sample=../Audio/Nervous Energy/69A3-69ZI.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=735 sample=../Audio/Nervous Energy/69A3-P91C.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=702 end=120797 sample=../Audio/Nervous Energy/69A3-X344.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=792 end=124373 sample=../Audio/Nervous Energy/69A3-Z2C9.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=887 end=121773 sample=../Audio/Nervous Energy/69A3-9OCT.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=992 end=120012 sample=../Audio/Nervous Energy/70A#3-LRLH.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=931 end=114371 sample=../Audio/Nervous Energy/70A#3-52DL.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=841 end=115102 sample=../Audio/Nervous Energy/70A#3-366V.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=406 end=116382 sample=../Audio/Nervous Energy/70A#3-3IF0.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=759 end=116671 sample=../Audio/Nervous Energy/70A#3-QG7S.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=474 end=116767 sample=../Audio/Nervous Energy/70A#3-MLUT.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=539 end=118320 sample=../Audio/Nervous Energy/70A#3-KEM9.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=453 end=115649 sample=../Audio/Nervous Energy/70A#3-A8VU.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=543 end=105117 sample=../Audio/Nervous Energy/71B3-FHEU.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=792 end=106816 sample=../Audio/Nervous Energy/71B3-NW7Q.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=967 end=109554 sample=../Audio/Nervous Energy/71B3-CQG0.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=794 end=109960 sample=../Audio/Nervous Energy/71B3-SZ5D.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=946 end=107036 sample=../Audio/Nervous Energy/71B3-4QWR.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=537 end=105765 sample=../Audio/Nervous Energy/71B3-2VAS.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=531 end=106810 sample=../Audio/Nervous Energy/71B3-PIOR.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=858 end=106072 sample=../Audio/Nervous Energy/71B3-0MXH.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=618 end=125629 sample=../Audio/Nervous Energy/72C4-ST59.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=461 end=129553 sample=../Audio/Nervous Energy/72C4-89VA.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=562 end=129473 sample=../Audio/Nervous Energy/72C4-EM8Z.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=954 end=124439 sample=../Audio/Nervous Energy/72C4-SJ7V.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=723 end=130636 sample=../Audio/Nervous Energy/72C4-427W.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=906 end=127311 sample=../Audio/Nervous Energy/72C4-GG5J.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=866 end=129157 sample=../Audio/Nervous Energy/72C4-FJMW.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=798 end=127923 sample=../Audio/Nervous Energy/72C4-VLLE.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=625 end=235358 sample=../Audio/Nervous Energy/73C#4-7WRL.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=510 end=235111 sample=../Audio/Nervous Energy/73C#4-J1U8.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=624 end=235272 sample=../Audio/Nervous Energy/73C#4-COWL.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=726 end=235324 sample=../Audio/Nervous Energy/73C#4-X5YL.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=463 sample=../Audio/Nervous Energy/73C#4-BNPK.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=490 end=235288 sample=../Audio/Nervous Energy/73C#4-AC0R.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=723 end=235438 sample=../Audio/Nervous Energy/73C#4-BL3D.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=768 end=235037 sample=../Audio/Nervous Energy/73C#4-ZEKU.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=805 end=119549 sample=../Audio/Nervous Energy/74D4-QM4T.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=470 end=124868 sample=../Audio/Nervous Energy/74D4-B7BD.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=688 end=122126 sample=../Audio/Nervous Energy/74D4-GZN0.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=592 end=127644 sample=../Audio/Nervous Energy/74D4-VD6X.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=472 end=124816 sample=../Audio/Nervous Energy/74D4-GMDG.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=951 sample=../Audio/Nervous Energy/74D4-L5S8.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=434 end=122892 sample=../Audio/Nervous Energy/74D4-PYQV.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=566 end=122459 sample=../Audio/Nervous Energy/74D4-DMAE.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=779 sample=../Audio/Nervous Energy/75D#4-6VXE.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=698 end=118172 sample=../Audio/Nervous Energy/75D#4-P5PC.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=507 end=118969 sample=../Audio/Nervous Energy/75D#4-MQA4.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=799 end=115813 sample=../Audio/Nervous Energy/75D#4-MB9X.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=823 end=116828 sample=../Audio/Nervous Energy/75D#4-JGNT.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=646 end=118734 sample=../Audio/Nervous Energy/75D#4-NWO9.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=824 end=119992 sample=../Audio/Nervous Energy/75D#4-48ES.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=567 end=115787 sample=../Audio/Nervous Energy/75D#4-GBGM.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=764 end=110818 sample=../Audio/Nervous Energy/76E4-CL87.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=796 end=110165 sample=../Audio/Nervous Energy/76E4-89MO.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=695 end=111812 sample=../Audio/Nervous Energy/76E4-2DON.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=856 end=111768 sample=../Audio/Nervous Energy/76E4-JLA8.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=527 end=114405 sample=../Audio/Nervous Energy/76E4-POVE.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=597 end=111783 sample=../Audio/Nervous Energy/76E4-SLGR.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=799 end=114157 sample=../Audio/Nervous Energy/76E4-U44D.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=809 end=113071 sample=../Audio/Nervous Energy/76E4-BGIA.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=607 end=101930 sample=../Audio/Nervous Energy/77F4-Q3VZ.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=857 end=104708 sample=../Audio/Nervous Energy/77F4-QWLB.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=878 end=108192 sample=../Audio/Nervous Energy/77F4-XHJM.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=634 end=107266 sample=../Audio/Nervous Energy/77F4-Y1IJ.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=723 end=105907 sample=../Audio/Nervous Energy/77F4-HJ37.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=795 end=101838 sample=../Audio/Nervous Energy/77F4-1POO.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=768 end=103183 sample=../Audio/Nervous Energy/77F4-7UCM.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=825 end=103982 sample=../Audio/Nervous Energy/77F4-MSAM.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=585 end=120304 sample=../Audio/Nervous Energy/78F#4-XHDE.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=500 sample=../Audio/Nervous Energy/78F#4-JFCB.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=653 end=122159 sample=../Audio/Nervous Energy/78F#4-4QN7.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=839 end=120800 sample=../Audio/Nervous Energy/78F#4-4NVZ.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=957 end=124421 sample=../Audio/Nervous Energy/78F#4-6N0W.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=741 sample=../Audio/Nervous Energy/78F#4-VYBE.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=399 end=123487 sample=../Audio/Nervous Energy/78F#4-A6HE.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=534 end=122878 sample=../Audio/Nervous Energy/78F#4-YXTZ.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=892 end=234522 sample=../Audio/Nervous Energy/79G4-GBS3.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=889 end=235450 sample=../Audio/Nervous Energy/79G4-UV70.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=538 end=234528 sample=../Audio/Nervous Energy/79G4-7RHS.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=818 sample=../Audio/Nervous Energy/79G4-83Z7.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=436 end=235168 sample=../Audio/Nervous Energy/79G4-I2I0.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=779 sample=../Audio/Nervous Energy/79G4-0I9I.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=623 end=235551 sample=../Audio/Nervous Energy/79G4-0LJL.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=508 end=235326 sample=../Audio/Nervous Energy/79G4-AX45.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=475 end=118208 sample=../Audio/Nervous Energy/80G#4-NUPK.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=825 end=135117 sample=../Audio/Nervous Energy/80G#4-8JT9.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=534 end=122683 sample=../Audio/Nervous Energy/80G#4-4ULJ.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=622 end=124229 sample=../Audio/Nervous Energy/80G#4-PMZ3.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=549 end=129340 sample=../Audio/Nervous Energy/80G#4-UGZK.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=886 end=127717 sample=../Audio/Nervous Energy/80G#4-7AKQ.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=518 end=120299 sample=../Audio/Nervous Energy/80G#4-41JB.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=573 end=123689 sample=../Audio/Nervous Energy/80G#4-PK9A.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=629 end=111760 sample=../Audio/Nervous Energy/81A4-G2AB.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=528 end=112359 sample=../Audio/Nervous Energy/81A4-N3RN.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=679 sample=../Audio/Nervous Energy/81A4-J7NK.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=687 end=117261 sample=../Audio/Nervous Energy/81A4-SY3T.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=792 end=113525 sample=../Audio/Nervous Energy/81A4-OW1Y.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=642 end=112671 sample=../Audio/Nervous Energy/81A4-HTQN.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=808 end=113339 sample=../Audio/Nervous Energy/81A4-1P56.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=748 sample=../Audio/Nervous Energy/81A4-4QAA.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=775 end=108846 sample=../Audio/Nervous Energy/82A#4-UG5E.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=836 end=112000 sample=../Audio/Nervous Energy/82A#4-9F4C.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=472 end=112030 sample=../Audio/Nervous Energy/82A#4-VCC7.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=484 end=110454 sample=../Audio/Nervous Energy/82A#4-MROH.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=464 end=108424 sample=../Audio/Nervous Energy/82A#4-F4BD.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=799 end=109281 sample=../Audio/Nervous Energy/82A#4-OSXW.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=412 end=110525 sample=../Audio/Nervous Energy/82A#4-RI9W.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=464 end=111282 sample=../Audio/Nervous Energy/82A#4-C91G.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=806 end=104052 sample=../Audio/Nervous Energy/83B4-J5DF.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=871 end=102928 sample=../Audio/Nervous Energy/83B4-N9HA.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=420 end=104837 sample=../Audio/Nervous Energy/83B4-BT73.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=421 end=105362 sample=../Audio/Nervous Energy/83B4-DJR6.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=595 end=103161 sample=../Audio/Nervous Energy/83B4-YRP1.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=497 end=101765 sample=../Audio/Nervous Energy/83B4-CJA6.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=929 end=101582 sample=../Audio/Nervous Energy/83B4-20US.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=903 end=101872 sample=../Audio/Nervous Energy/83B4-V3BG.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=882 end=122483 sample=../Audio/Nervous Energy/84C5-4JO5.wav
-	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=767 end=124740 sample=../Audio/Nervous Energy/84C5-OAOO.wav
-	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=416 end=123035 sample=../Audio/Nervous Energy/84C5-6X8I.wav
-	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=739 end=146107 sample=../Audio/Nervous Energy/84C5-XNCN.wav
-	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=522 sample=../Audio/Nervous Energy/84C5-WYB9.wav
-	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=692 end=124691 sample=../Audio/Nervous Energy/84C5-3LBH.wav
-	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=908 sample=../Audio/Nervous Energy/84C5-YBD9.wav
-	<region> lovel=108 hivel=127 amp_velcurve_127=1 offset=1012 end=123463 sample=../Audio/Nervous Energy/84C5-J3JQ.wav
+<group> key=24 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=596 end=170751 sample=../PolAudio/Nervous Energy/24C0-6JUK.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=638 end=162277 sample=../PolAudio/Nervous Energy/24C0-YD98.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=500 end=162835 sample=../PolAudio/Nervous Energy/24C0-6MUY.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=526 end=170491 sample=../PolAudio/Nervous Energy/24C0-TBS0.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=801 end=168133 sample=../PolAudio/Nervous Energy/24C0-YO24.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=456 end=161389 sample=../PolAudio/Nervous Energy/24C0-769F.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=771 end=170095 sample=../PolAudio/Nervous Energy/24C0-VC68.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=759 end=171882 sample=../PolAudio/Nervous Energy/24C0-BWIS.wav
+<group> key=25 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=445 end=236233 sample=../PolAudio/Nervous Energy/25C#0-8VI2.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=816 end=236395 sample=../PolAudio/Nervous Energy/25C#0-H4W6.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=512 end=237124 sample=../PolAudio/Nervous Energy/25C#0-AY7Q.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=808 end=236394 sample=../PolAudio/Nervous Energy/25C#0-CKB1.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=650 end=235648 sample=../PolAudio/Nervous Energy/25C#0-1J1O.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=628 end=235647 sample=../PolAudio/Nervous Energy/25C#0-TZ3C.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=426 end=236793 sample=../PolAudio/Nervous Energy/25C#0-45N1.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=642 end=236144 sample=../PolAudio/Nervous Energy/25C#0-S9WM.wav
+<group> key=26 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=516 end=164596 sample=../PolAudio/Nervous Energy/26D0-NKSJ.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=585 end=163897 sample=../PolAudio/Nervous Energy/26D0-9K98.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=485 end=166400 sample=../PolAudio/Nervous Energy/26D0-L0O1.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=745 end=165236 sample=../PolAudio/Nervous Energy/26D0-JG7D.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=501 end=164713 sample=../PolAudio/Nervous Energy/26D0-F4VB.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=581 end=163703 sample=../PolAudio/Nervous Energy/26D0-ZNC3.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=569 end=164179 sample=../PolAudio/Nervous Energy/26D0-HA9D.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=785 end=163656 sample=../PolAudio/Nervous Energy/26D0-87WE.wav
+<group> key=27 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=785 sample=../PolAudio/Nervous Energy/27D#0-QCEM.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=528 end=145488 sample=../PolAudio/Nervous Energy/27D#0-H72R.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=735 end=145512 sample=../PolAudio/Nervous Energy/27D#0-X176.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=957 sample=../PolAudio/Nervous Energy/27D#0-BOJT.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=559 end=144082 sample=../PolAudio/Nervous Energy/27D#0-EODU.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=371 end=145290 sample=../PolAudio/Nervous Energy/27D#0-C0J9.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=604 end=144521 sample=../PolAudio/Nervous Energy/27D#0-QRFJ.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=465 end=145342 sample=../PolAudio/Nervous Energy/27D#0-XSVH.wav
+<group> key=28 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=898 end=137388 sample=../PolAudio/Nervous Energy/28E0-2UAG.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=700 end=134164 sample=../PolAudio/Nervous Energy/28E0-WAD8.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=756 end=139476 sample=../PolAudio/Nervous Energy/28E0-R6AE.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=908 end=136814 sample=../PolAudio/Nervous Energy/28E0-9YRE.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=469 end=137977 sample=../PolAudio/Nervous Energy/28E0-VVMO.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=888 end=136835 sample=../PolAudio/Nervous Energy/28E0-FXOW.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=576 sample=../PolAudio/Nervous Energy/28E0-RWIS.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=858 end=135222 sample=../PolAudio/Nervous Energy/28E0-UEVZ.wav
+<group> key=29 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=759 sample=../PolAudio/Nervous Energy/29F0-OH33.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=616 end=120701 sample=../PolAudio/Nervous Energy/29F0-FZDC.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=726 end=121481 sample=../PolAudio/Nervous Energy/29F0-FFIH.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=546 end=121684 sample=../PolAudio/Nervous Energy/29F0-EDY4.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=677 end=121822 sample=../PolAudio/Nervous Energy/29F0-EMJ9.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=795 end=122504 sample=../PolAudio/Nervous Energy/29F0-MONJ.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=882 end=121633 sample=../PolAudio/Nervous Energy/29F0-89NZ.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=747 sample=../PolAudio/Nervous Energy/29F0-4YJ9.wav
+<group> key=30 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=460 sample=../PolAudio/Nervous Energy/30F#0-ZC3I.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=906 end=167750 sample=../PolAudio/Nervous Energy/30F#0-F4UG.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=423 end=160513 sample=../PolAudio/Nervous Energy/30F#0-V668.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=796 end=171888 sample=../PolAudio/Nervous Energy/30F#0-QUJL.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=645 end=168963 sample=../PolAudio/Nervous Energy/30F#0-36C1.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=546 end=169574 sample=../PolAudio/Nervous Energy/30F#0-ZWAH.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=654 end=161096 sample=../PolAudio/Nervous Energy/30F#0-B98Y.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=777 end=170687 sample=../PolAudio/Nervous Energy/30F#0-ZJXL.wav
+<group> key=31 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=832 end=236786 sample=../PolAudio/Nervous Energy/31G0-VQNA.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=596 end=235499 sample=../PolAudio/Nervous Energy/31G0-KD18.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=738 sample=../PolAudio/Nervous Energy/31G0-R46L.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=877 end=236155 sample=../PolAudio/Nervous Energy/31G0-EMCS.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=903 end=235544 sample=../PolAudio/Nervous Energy/31G0-Z7KK.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=463 end=236032 sample=../PolAudio/Nervous Energy/31G0-CAJG.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=574 end=237170 sample=../PolAudio/Nervous Energy/31G0-S2RE.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=739 end=235874 sample=../PolAudio/Nervous Energy/31G0-Z0ZM.wav
+<group> key=32 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=905 sample=../PolAudio/Nervous Energy/32G#0-EBI5.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=561 end=162786 sample=../PolAudio/Nervous Energy/32G#0-G1NX.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=901 end=161373 sample=../PolAudio/Nervous Energy/32G#0-AH9E.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=823 end=163564 sample=../PolAudio/Nervous Energy/32G#0-EAQK.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=464 sample=../PolAudio/Nervous Energy/32G#0-1ULD.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=566 end=157695 sample=../PolAudio/Nervous Energy/32G#0-C1T1.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=861 end=161564 sample=../PolAudio/Nervous Energy/32G#0-1PIA.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=690 end=160738 sample=../PolAudio/Nervous Energy/32G#0-ZXM8.wav
+<group> key=33 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=597 end=145590 sample=../PolAudio/Nervous Energy/33A0-0QX5.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=793 end=145129 sample=../PolAudio/Nervous Energy/33A0-QN2Y.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=849 end=145844 sample=../PolAudio/Nervous Energy/33A0-MVDT.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=773 end=144457 sample=../PolAudio/Nervous Energy/33A0-13CN.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=570 end=141979 sample=../PolAudio/Nervous Energy/33A0-9YXP.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=767 end=145014 sample=../PolAudio/Nervous Energy/33A0-3QIU.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=840 end=141316 sample=../PolAudio/Nervous Energy/33A0-DVSK.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=514 end=143136 sample=../PolAudio/Nervous Energy/33A0-AJU2.wav
+<group> key=34 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=571 end=136743 sample=../PolAudio/Nervous Energy/34A#0-8AVW.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=887 end=137821 sample=../PolAudio/Nervous Energy/34A#0-QFM0.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=748 end=137631 sample=../PolAudio/Nervous Energy/34A#0-EJSG.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=945 end=135828 sample=../PolAudio/Nervous Energy/34A#0-4G9Q.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=868 end=138935 sample=../PolAudio/Nervous Energy/34A#0-7MOQ.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=1004 end=135738 sample=../PolAudio/Nervous Energy/34A#0-QV72.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=1005 end=136812 sample=../PolAudio/Nervous Energy/34A#0-D63H.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=716 end=134835 sample=../PolAudio/Nervous Energy/34A#0-CE3N.wav
+<group> key=35 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=795 end=119963 sample=../PolAudio/Nervous Energy/35B0-3OMI.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=567 end=120571 sample=../PolAudio/Nervous Energy/35B0-B8ZR.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=785 end=121622 sample=../PolAudio/Nervous Energy/35B0-RB6T.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=809 end=119423 sample=../PolAudio/Nervous Energy/35B0-O7Q2.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=789 end=119516 sample=../PolAudio/Nervous Energy/35B0-8EFI.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=538 end=121553 sample=../PolAudio/Nervous Energy/35B0-VSXQ.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=875 end=121140 sample=../PolAudio/Nervous Energy/35B0-DKKI.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=772 sample=../PolAudio/Nervous Energy/35B0-E2KT.wav
+<group> key=36 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=855 end=163443 sample=../PolAudio/Nervous Energy/36C1-O6ZY.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=403 end=164852 sample=../PolAudio/Nervous Energy/36C1-Z895.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=710 end=158484 sample=../PolAudio/Nervous Energy/36C1-1P7P.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=502 end=163154 sample=../PolAudio/Nervous Energy/36C1-18GJ.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=677 end=160532 sample=../PolAudio/Nervous Energy/36C1-SQ1T.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=570 end=162703 sample=../PolAudio/Nervous Energy/36C1-1F1F.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=548 end=163206 sample=../PolAudio/Nervous Energy/36C1-4R1I.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=884 end=161536 sample=../PolAudio/Nervous Energy/36C1-XP47.wav
+<group> key=37 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=515 end=235631 sample=../PolAudio/Nervous Energy/37C#1-3FDO.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=907 end=235770 sample=../PolAudio/Nervous Energy/37C#1-0BMU.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=600 end=237047 sample=../PolAudio/Nervous Energy/37C#1-1D8T.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=903 end=237191 sample=../PolAudio/Nervous Energy/37C#1-RBRF.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=711 end=235766 sample=../PolAudio/Nervous Energy/37C#1-6LHS.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=942 end=236416 sample=../PolAudio/Nervous Energy/37C#1-63GM.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=726 end=235903 sample=../PolAudio/Nervous Energy/37C#1-GMA0.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=838 end=235457 sample=../PolAudio/Nervous Energy/37C#1-33KK.wav
+<group> key=38 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=864 end=158373 sample=../PolAudio/Nervous Energy/38D1-QUX5.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=690 end=154573 sample=../PolAudio/Nervous Energy/38D1-6JKC.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=859 sample=../PolAudio/Nervous Energy/38D1-CP85.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=791 end=154941 sample=../PolAudio/Nervous Energy/38D1-L0RU.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=480 end=154907 sample=../PolAudio/Nervous Energy/38D1-OFUN.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=385 end=160344 sample=../PolAudio/Nervous Energy/38D1-605X.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=934 sample=../PolAudio/Nervous Energy/38D1-1KMT.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=646 end=159956 sample=../PolAudio/Nervous Energy/38D1-V03U.wav
+<group> key=39 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=546 sample=../PolAudio/Nervous Energy/39D#1-V7MD.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=536 end=143807 sample=../PolAudio/Nervous Energy/39D#1-THRU.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=563 end=138789 sample=../PolAudio/Nervous Energy/39D#1-YPS9.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=610 end=141003 sample=../PolAudio/Nervous Energy/39D#1-YJ3P.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=765 end=142899 sample=../PolAudio/Nervous Energy/39D#1-L0QW.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=557 sample=../PolAudio/Nervous Energy/39D#1-9I7U.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=708 end=141198 sample=../PolAudio/Nervous Energy/39D#1-ICPT.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=561 end=140720 sample=../PolAudio/Nervous Energy/39D#1-QGMZ.wav
+<group> key=40 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=592 end=135529 sample=../PolAudio/Nervous Energy/40E1-D38B.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=676 end=131544 sample=../PolAudio/Nervous Energy/40E1-X0S6.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=789 end=135480 sample=../PolAudio/Nervous Energy/40E1-2K7M.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=575 end=135894 sample=../PolAudio/Nervous Energy/40E1-T6VU.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=930 end=133088 sample=../PolAudio/Nervous Energy/40E1-LHOH.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=870 end=133167 sample=../PolAudio/Nervous Energy/40E1-BD6S.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=801 end=136876 sample=../PolAudio/Nervous Energy/40E1-X23B.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=831 end=132632 sample=../PolAudio/Nervous Energy/40E1-KKAF.wav
+<group> key=41 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=926 end=120973 sample=../PolAudio/Nervous Energy/41F1-G6UG.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=548 end=120712 sample=../PolAudio/Nervous Energy/41F1-T3KZ.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=806 end=118648 sample=../PolAudio/Nervous Energy/41F1-EZPO.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=631 end=119397 sample=../PolAudio/Nervous Energy/41F1-6Y40.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=939 sample=../PolAudio/Nervous Energy/41F1-P10X.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=508 end=120897 sample=../PolAudio/Nervous Energy/41F1-6G3C.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=419 end=121414 sample=../PolAudio/Nervous Energy/41F1-JA2H.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=631 end=120416 sample=../PolAudio/Nervous Energy/41F1-RLHY.wav
+<group> key=42 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=670 end=159778 sample=../PolAudio/Nervous Energy/42F#1-LNZU.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=720 end=155186 sample=../PolAudio/Nervous Energy/42F#1-ZA9D.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=913 end=163270 sample=../PolAudio/Nervous Energy/42F#1-0FP9.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=806 end=162971 sample=../PolAudio/Nervous Energy/42F#1-NT50.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=364 end=153936 sample=../PolAudio/Nervous Energy/42F#1-FKML.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=808 end=156010 sample=../PolAudio/Nervous Energy/42F#1-MARW.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=719 end=160362 sample=../PolAudio/Nervous Energy/42F#1-XW3A.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=846 end=155094 sample=../PolAudio/Nervous Energy/42F#1-RBJM.wav
+<group> key=43 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=772 end=235175 sample=../PolAudio/Nervous Energy/43G1-1IAP.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=922 end=235757 sample=../PolAudio/Nervous Energy/43G1-YZ1O.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=633 sample=../PolAudio/Nervous Energy/43G1-0SKZ.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=918 end=236371 sample=../PolAudio/Nervous Energy/43G1-2XFD.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=731 end=235938 sample=../PolAudio/Nervous Energy/43G1-P6S2.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=883 sample=../PolAudio/Nervous Energy/43G1-WP5M.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=632 sample=../PolAudio/Nervous Energy/43G1-LMPJ.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=491 end=235863 sample=../PolAudio/Nervous Energy/43G1-J4WW.wav
+<group> key=44 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=1014 end=154474 sample=../PolAudio/Nervous Energy/44G#1-E10L.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=652 end=150634 sample=../PolAudio/Nervous Energy/44G#1-N7YI.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=790 end=150550 sample=../PolAudio/Nervous Energy/44G#1-HXPO.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=855 end=152503 sample=../PolAudio/Nervous Energy/44G#1-1CWQ.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=727 end=153985 sample=../PolAudio/Nervous Energy/44G#1-2ZEJ.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=632 end=154788 sample=../PolAudio/Nervous Energy/44G#1-7C1S.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=939 end=158931 sample=../PolAudio/Nervous Energy/44G#1-48DP.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=743 end=154164 sample=../PolAudio/Nervous Energy/44G#1-RFAH.wav
+<group> key=45 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=745 end=137241 sample=../PolAudio/Nervous Energy/45A1-FCMT.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=575 end=137078 sample=../PolAudio/Nervous Energy/45A1-7KSG.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=764 end=140814 sample=../PolAudio/Nervous Energy/45A1-YV7J.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=799 end=136701 sample=../PolAudio/Nervous Energy/45A1-WUCH.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=402 end=140920 sample=../PolAudio/Nervous Energy/45A1-XV7D.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=774 end=139372 sample=../PolAudio/Nervous Energy/45A1-36XS.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=490 end=140313 sample=../PolAudio/Nervous Energy/45A1-Y6GC.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=828 end=136300 sample=../PolAudio/Nervous Energy/45A1-VL8O.wav
+<group> key=46 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=760 end=132986 sample=../PolAudio/Nervous Energy/46A#1-IZ5L.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=504 end=129291 sample=../PolAudio/Nervous Energy/46A#1-P7XO.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=442 end=131588 sample=../PolAudio/Nervous Energy/46A#1-EF6O.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=390 end=131551 sample=../PolAudio/Nervous Energy/46A#1-XUR3.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=503 end=132984 sample=../PolAudio/Nervous Energy/46A#1-JNXV.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=869 end=134168 sample=../PolAudio/Nervous Energy/46A#1-V6W7.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=566 end=133380 sample=../PolAudio/Nervous Energy/46A#1-PWTZ.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=577 end=132567 sample=../PolAudio/Nervous Energy/46A#1-IITC.wav
+<group> key=47 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=452 end=115981 sample=../PolAudio/Nervous Energy/47B1-I0VS.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=747 sample=../PolAudio/Nervous Energy/47B1-632P.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=455 end=117861 sample=../PolAudio/Nervous Energy/47B1-1IWS.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=456 end=117889 sample=../PolAudio/Nervous Energy/47B1-T9X6.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=945 end=119279 sample=../PolAudio/Nervous Energy/47B1-84JD.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=646 end=119053 sample=../PolAudio/Nervous Energy/47B1-7LLW.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=422 sample=../PolAudio/Nervous Energy/47B1-QE9Q.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=674 end=118059 sample=../PolAudio/Nervous Energy/47B1-3T8Y.wav
+<group> key=48 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=590 end=155024 sample=../PolAudio/Nervous Energy/48C2-GJHX.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=700 end=153053 sample=../PolAudio/Nervous Energy/48C2-7YNF.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=509 end=157066 sample=../PolAudio/Nervous Energy/48C2-F2L3.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=905 end=158085 sample=../PolAudio/Nervous Energy/48C2-V0LO.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=453 sample=../PolAudio/Nervous Energy/48C2-BE78.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=570 sample=../PolAudio/Nervous Energy/48C2-THWB.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=514 end=156140 sample=../PolAudio/Nervous Energy/48C2-1NB7.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=801 sample=../PolAudio/Nervous Energy/48C2-7YDJ.wav
+<group> key=49 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=706 end=236147 sample=../PolAudio/Nervous Energy/49C#2-PNS4.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=693 end=235769 sample=../PolAudio/Nervous Energy/49C#2-NYD6.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=564 end=235521 sample=../PolAudio/Nervous Energy/49C#2-3R9T.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=591 end=236101 sample=../PolAudio/Nervous Energy/49C#2-JSAI.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=834 end=236255 sample=../PolAudio/Nervous Energy/49C#2-MTFI.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=801 end=235193 sample=../PolAudio/Nervous Energy/49C#2-ZAIZ.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=954 end=235940 sample=../PolAudio/Nervous Energy/49C#2-Q2VA.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=938 end=236994 sample=../PolAudio/Nervous Energy/49C#2-9JUJ.wav
+<group> key=50 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=517 end=151625 sample=../PolAudio/Nervous Energy/50D2-41H0.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=889 end=149910 sample=../PolAudio/Nervous Energy/50D2-BSL9.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=558 end=152282 sample=../PolAudio/Nervous Energy/50D2-Q6YH.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=504 end=151317 sample=../PolAudio/Nervous Energy/50D2-H8GP.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=763 end=149241 sample=../PolAudio/Nervous Energy/50D2-40N8.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=707 end=150715 sample=../PolAudio/Nervous Energy/50D2-2NVE.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=583 end=147822 sample=../PolAudio/Nervous Energy/50D2-MGLD.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=895 end=149251 sample=../PolAudio/Nervous Energy/50D2-OUMD.wav
+<group> key=51 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=644 end=142080 sample=../PolAudio/Nervous Energy/51D#2-37RP.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=443 end=134547 sample=../PolAudio/Nervous Energy/51D#2-HPG6.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=869 end=136792 sample=../PolAudio/Nervous Energy/51D#2-DMYP.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=446 end=137433 sample=../PolAudio/Nervous Energy/51D#2-FK3E.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=766 end=133766 sample=../PolAudio/Nervous Energy/51D#2-VO7C.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=760 end=138880 sample=../PolAudio/Nervous Energy/51D#2-GLI4.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=547 end=136100 sample=../PolAudio/Nervous Energy/51D#2-33N7.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=565 end=136082 sample=../PolAudio/Nervous Energy/51D#2-7GTA.wav
+<group> key=52 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=481 end=130608 sample=../PolAudio/Nervous Energy/52E2-LAIE.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=557 end=131456 sample=../PolAudio/Nervous Energy/52E2-O239.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=864 end=130623 sample=../PolAudio/Nervous Energy/52E2-F6N2.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=494 end=132868 sample=../PolAudio/Nervous Energy/52E2-WYWG.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=759 sample=../PolAudio/Nervous Energy/52E2-SBZ1.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=824 end=108766 sample=../PolAudio/Nervous Energy/52E2-H78Z.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=475 end=129682 sample=../PolAudio/Nervous Energy/52E2-Q92Y.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=692 end=131545 sample=../PolAudio/Nervous Energy/52E2-8TDR.wav
+<group> key=53 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=784 end=96991 sample=../PolAudio/Nervous Energy/53F2-4MHV.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=851 end=116746 sample=../PolAudio/Nervous Energy/53F2-P1SD.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=565 sample=../PolAudio/Nervous Energy/53F2-44DZ.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=710 end=113127 sample=../PolAudio/Nervous Energy/53F2-EW60.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=674 end=116960 sample=../PolAudio/Nervous Energy/53F2-PYCH.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=950 end=116412 sample=../PolAudio/Nervous Energy/53F2-HIS8.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=719 end=72668 sample=../PolAudio/Nervous Energy/53F2-5K5M.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=422 end=113742 sample=../PolAudio/Nervous Energy/53F2-5556.wav
+<group> key=54 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=637 end=149820 sample=../PolAudio/Nervous Energy/54F#2-10N7.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=613 end=146602 sample=../PolAudio/Nervous Energy/54F#2-P9U6.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=751 sample=../PolAudio/Nervous Energy/54F#2-V47P.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=347 end=143293 sample=../PolAudio/Nervous Energy/54F#2-4081.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=767 sample=../PolAudio/Nervous Energy/54F#2-QO3B.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=919 end=150507 sample=../PolAudio/Nervous Energy/54F#2-4PGN.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=647 end=150337 sample=../PolAudio/Nervous Energy/54F#2-7TER.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=556 sample=../PolAudio/Nervous Energy/54F#2-ZZPW.wav
+<group> key=55 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=800 end=217463 sample=../PolAudio/Nervous Energy/55G2-QGGA.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=526 end=209456 sample=../PolAudio/Nervous Energy/55G2-HFUH.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=787 end=143804 sample=../PolAudio/Nervous Energy/55G2-TGQY.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=536 end=236133 sample=../PolAudio/Nervous Energy/55G2-UA0L.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=737 end=179178 sample=../PolAudio/Nervous Energy/55G2-WLAB.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=477 sample=../PolAudio/Nervous Energy/55G2-GVOH.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=499 end=202816 sample=../PolAudio/Nervous Energy/55G2-KW6L.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=577 end=233553 sample=../PolAudio/Nervous Energy/55G2-MQMS.wav
+<group> key=56 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=729 end=143829 sample=../PolAudio/Nervous Energy/56G#2-PUJH.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=891 end=144059 sample=../PolAudio/Nervous Energy/56G#2-HCJM.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=649 end=142339 sample=../PolAudio/Nervous Energy/56G#2-W8TG.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=544 end=143949 sample=../PolAudio/Nervous Energy/56G#2-O65W.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=588 end=142751 sample=../PolAudio/Nervous Energy/56G#2-BW93.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=446 end=146904 sample=../PolAudio/Nervous Energy/56G#2-NAFD.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=629 end=144603 sample=../PolAudio/Nervous Energy/56G#2-0PM9.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=430 end=143701 sample=../PolAudio/Nervous Energy/56G#2-4XS8.wav
+<group> key=57 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=665 end=133123 sample=../PolAudio/Nervous Energy/57A2-G0EI.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=417 end=114453 sample=../PolAudio/Nervous Energy/57A2-MAO5.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=589 end=130728 sample=../PolAudio/Nervous Energy/57A2-Z9DZ.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=485 end=131701 sample=../PolAudio/Nervous Energy/57A2-4BRC.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=758 end=131728 sample=../PolAudio/Nervous Energy/57A2-0PI1.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=377 end=132342 sample=../PolAudio/Nervous Energy/57A2-E4BG.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=465 end=131151 sample=../PolAudio/Nervous Energy/57A2-OO3Q.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=699 sample=../PolAudio/Nervous Energy/57A2-9YDQ.wav
+<group> key=58 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=562 end=126403 sample=../PolAudio/Nervous Energy/58A#2-PJOJ.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=992 end=126296 sample=../PolAudio/Nervous Energy/58A#2-GHQ7.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=754 sample=../PolAudio/Nervous Energy/58A#2-V5U1.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=799 end=126337 sample=../PolAudio/Nervous Energy/58A#2-J7JY.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=767 end=126168 sample=../PolAudio/Nervous Energy/58A#2-QSS9.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=465 end=125887 sample=../PolAudio/Nervous Energy/58A#2-MH1A.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=909 end=125697 sample=../PolAudio/Nervous Energy/58A#2-FESC.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=460 end=126400 sample=../PolAudio/Nervous Energy/58A#2-JJN1.wav
+<group> key=59 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=951 end=106333 sample=../PolAudio/Nervous Energy/59B2-5LQP.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=807 end=91675 sample=../PolAudio/Nervous Energy/59B2-1SE9.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=496 end=114377 sample=../PolAudio/Nervous Energy/59B2-TSFL.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=794 end=71296 sample=../PolAudio/Nervous Energy/59B2-0U50.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=677 end=110776 sample=../PolAudio/Nervous Energy/59B2-Z2K3.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=696 end=86385 sample=../PolAudio/Nervous Energy/59B2-FMAM.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=710 end=114829 sample=../PolAudio/Nervous Energy/59B2-13CW.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=861 end=113207 sample=../PolAudio/Nervous Energy/59B2-RJEL.wav
+<group> key=60 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=470 end=137996 sample=../PolAudio/Nervous Energy/60C3-RZRB.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=929 end=139728 sample=../PolAudio/Nervous Energy/60C3-WA43.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=845 end=139894 sample=../PolAudio/Nervous Energy/60C3-WS0X.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=531 end=138993 sample=../PolAudio/Nervous Energy/60C3-I8O8.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=587 end=144964 sample=../PolAudio/Nervous Energy/60C3-V4WW.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=800 end=140063 sample=../PolAudio/Nervous Energy/60C3-CKEY.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=714 end=143125 sample=../PolAudio/Nervous Energy/60C3-78XH.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=687 end=127168 sample=../PolAudio/Nervous Energy/60C3-2UJH.wav
+<group> key=61 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=789 end=236115 sample=../PolAudio/Nervous Energy/61C#3-0D9T.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=777 end=235878 sample=../PolAudio/Nervous Energy/61C#3-OW0U.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=904 end=235444 sample=../PolAudio/Nervous Energy/61C#3-QW7V.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=789 end=234926 sample=../PolAudio/Nervous Energy/61C#3-SAKZ.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=878 end=236094 sample=../PolAudio/Nervous Energy/61C#3-M4GK.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=799 end=236538 sample=../PolAudio/Nervous Energy/61C#3-VQY3.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=461 end=235437 sample=../PolAudio/Nervous Energy/61C#3-2FG2.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=728 end=235898 sample=../PolAudio/Nervous Energy/61C#3-QFVM.wav
+<group> key=62 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=649 end=82869 sample=../PolAudio/Nervous Energy/62D3-YWFB.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=708 end=139448 sample=../PolAudio/Nervous Energy/62D3-YW74.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=705 end=135334 sample=../PolAudio/Nervous Energy/62D3-HXYI.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=597 end=136995 sample=../PolAudio/Nervous Energy/62D3-R9OZ.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=607 end=137493 sample=../PolAudio/Nervous Energy/62D3-AJRR.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=580 end=139325 sample=../PolAudio/Nervous Energy/62D3-HMI2.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=436 end=97266 sample=../PolAudio/Nervous Energy/62D3-HRT3.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=566 end=136706 sample=../PolAudio/Nervous Energy/62D3-KG9Z.wav
+<group> key=63 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=992 end=130361 sample=../PolAudio/Nervous Energy/63D#3-JVSU.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=499 end=127126 sample=../PolAudio/Nervous Energy/63D#3-ZRZ9.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=517 end=123581 sample=../PolAudio/Nervous Energy/63D#3-E864.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=604 end=125138 sample=../PolAudio/Nervous Energy/63D#3-I9X4.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=769 end=124545 sample=../PolAudio/Nervous Energy/63D#3-B52W.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=543 end=128552 sample=../PolAudio/Nervous Energy/63D#3-5JPF.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=670 end=126853 sample=../PolAudio/Nervous Energy/63D#3-4U3T.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=804 end=129101 sample=../PolAudio/Nervous Energy/63D#3-TIKE.wav
+<group> key=64 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=601 end=73177 sample=../PolAudio/Nervous Energy/64E3-S4B5.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=759 sample=../PolAudio/Nervous Energy/64E3-Z8HL.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=619 end=119817 sample=../PolAudio/Nervous Energy/64E3-G80O.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=626 end=122116 sample=../PolAudio/Nervous Energy/64E3-DBGA.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=634 end=90447 sample=../PolAudio/Nervous Energy/64E3-ACAO.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=850 end=123276 sample=../PolAudio/Nervous Energy/64E3-CH4M.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=461 end=121921 sample=../PolAudio/Nervous Energy/64E3-ECTT.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=973 end=123138 sample=../PolAudio/Nervous Energy/64E3-JTK3.wav
+<group> key=65 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=505 end=108362 sample=../PolAudio/Nervous Energy/65F3-FEZZ.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=409 end=111924 sample=../PolAudio/Nervous Energy/65F3-R8GS.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=734 end=109983 sample=../PolAudio/Nervous Energy/65F3-FCP4.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=603 sample=../PolAudio/Nervous Energy/65F3-CRB0.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=342 end=108054 sample=../PolAudio/Nervous Energy/65F3-3XBY.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=570 end=110250 sample=../PolAudio/Nervous Energy/65F3-BGQ5.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=563 sample=../PolAudio/Nervous Energy/65F3-H0KI.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=752 sample=../PolAudio/Nervous Energy/65F3-8OIG.wav
+<group> key=66 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=801 end=133512 sample=../PolAudio/Nervous Energy/66F#3-87K6.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=815 end=132136 sample=../PolAudio/Nervous Energy/66F#3-Z6UD.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=575 end=133760 sample=../PolAudio/Nervous Energy/66F#3-VSN7.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=840 end=136755 sample=../PolAudio/Nervous Energy/66F#3-QE96.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=710 end=135572 sample=../PolAudio/Nervous Energy/66F#3-EOQO.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=448 end=134577 sample=../PolAudio/Nervous Energy/66F#3-GILA.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=562 end=135316 sample=../PolAudio/Nervous Energy/66F#3-Y227.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=963 end=133451 sample=../PolAudio/Nervous Energy/66F#3-0P73.wav
+<group> key=67 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=618 end=157202 sample=../PolAudio/Nervous Energy/67G3-LR18.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=497 end=206539 sample=../PolAudio/Nervous Energy/67G3-6AGB.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=732 end=147991 sample=../PolAudio/Nervous Energy/67G3-23X5.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=772 end=164608 sample=../PolAudio/Nervous Energy/67G3-A62L.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=585 end=235553 sample=../PolAudio/Nervous Energy/67G3-X60T.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=480 end=235955 sample=../PolAudio/Nervous Energy/67G3-A0XG.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=525 end=235199 sample=../PolAudio/Nervous Energy/67G3-OD16.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=934 end=235981 sample=../PolAudio/Nervous Energy/67G3-VB18.wav
+<group> key=68 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=509 end=127126 sample=../PolAudio/Nervous Energy/68G#3-KL54.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=818 end=131561 sample=../PolAudio/Nervous Energy/68G#3-3HJQ.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=852 end=134835 sample=../PolAudio/Nervous Energy/68G#3-2A5Q.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=874 end=133396 sample=../PolAudio/Nervous Energy/68G#3-517M.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=798 sample=../PolAudio/Nervous Energy/68G#3-OJEC.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=747 end=129929 sample=../PolAudio/Nervous Energy/68G#3-JWOH.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=554 end=130177 sample=../PolAudio/Nervous Energy/68G#3-2CRB.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=486 end=128835 sample=../PolAudio/Nervous Energy/68G#3-MVFZ.wav
+<group> key=69 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=803 end=122030 sample=../PolAudio/Nervous Energy/69A3-F47Q.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=849 end=122900 sample=../PolAudio/Nervous Energy/69A3-DYKD.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=485 end=120644 sample=../PolAudio/Nervous Energy/69A3-2WEC.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=838 sample=../PolAudio/Nervous Energy/69A3-69ZI.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=735 sample=../PolAudio/Nervous Energy/69A3-P91C.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=702 end=120797 sample=../PolAudio/Nervous Energy/69A3-X344.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=792 end=124373 sample=../PolAudio/Nervous Energy/69A3-Z2C9.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=887 end=121773 sample=../PolAudio/Nervous Energy/69A3-9OCT.wav
+<group> key=70 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=992 end=120012 sample=../PolAudio/Nervous Energy/70A#3-LRLH.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=931 end=114371 sample=../PolAudio/Nervous Energy/70A#3-52DL.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=841 end=115102 sample=../PolAudio/Nervous Energy/70A#3-366V.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=406 end=116382 sample=../PolAudio/Nervous Energy/70A#3-3IF0.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=759 end=116671 sample=../PolAudio/Nervous Energy/70A#3-QG7S.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=474 end=116767 sample=../PolAudio/Nervous Energy/70A#3-MLUT.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=539 end=118320 sample=../PolAudio/Nervous Energy/70A#3-KEM9.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=453 end=115649 sample=../PolAudio/Nervous Energy/70A#3-A8VU.wav
+<group> key=71 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=543 end=105117 sample=../PolAudio/Nervous Energy/71B3-FHEU.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=792 end=106816 sample=../PolAudio/Nervous Energy/71B3-NW7Q.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=967 end=109554 sample=../PolAudio/Nervous Energy/71B3-CQG0.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=794 end=109960 sample=../PolAudio/Nervous Energy/71B3-SZ5D.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=946 end=107036 sample=../PolAudio/Nervous Energy/71B3-4QWR.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=537 end=105765 sample=../PolAudio/Nervous Energy/71B3-2VAS.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=531 end=106810 sample=../PolAudio/Nervous Energy/71B3-PIOR.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=858 end=106072 sample=../PolAudio/Nervous Energy/71B3-0MXH.wav
+<group> key=72 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=618 end=125629 sample=../PolAudio/Nervous Energy/72C4-ST59.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=461 end=129553 sample=../PolAudio/Nervous Energy/72C4-89VA.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=562 end=129473 sample=../PolAudio/Nervous Energy/72C4-EM8Z.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=954 end=124439 sample=../PolAudio/Nervous Energy/72C4-SJ7V.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=723 end=130636 sample=../PolAudio/Nervous Energy/72C4-427W.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=906 end=127311 sample=../PolAudio/Nervous Energy/72C4-GG5J.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=866 end=129157 sample=../PolAudio/Nervous Energy/72C4-FJMW.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=798 end=127923 sample=../PolAudio/Nervous Energy/72C4-VLLE.wav
+<group> key=73 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=625 end=235358 sample=../PolAudio/Nervous Energy/73C#4-7WRL.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=510 end=235111 sample=../PolAudio/Nervous Energy/73C#4-J1U8.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=624 end=235272 sample=../PolAudio/Nervous Energy/73C#4-COWL.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=726 end=235324 sample=../PolAudio/Nervous Energy/73C#4-X5YL.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=463 sample=../PolAudio/Nervous Energy/73C#4-BNPK.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=490 end=235288 sample=../PolAudio/Nervous Energy/73C#4-AC0R.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=723 end=235438 sample=../PolAudio/Nervous Energy/73C#4-BL3D.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=768 end=235037 sample=../PolAudio/Nervous Energy/73C#4-ZEKU.wav
+<group> key=74 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=805 end=119549 sample=../PolAudio/Nervous Energy/74D4-QM4T.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=470 end=124868 sample=../PolAudio/Nervous Energy/74D4-B7BD.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=688 end=122126 sample=../PolAudio/Nervous Energy/74D4-GZN0.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=592 end=127644 sample=../PolAudio/Nervous Energy/74D4-VD6X.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=472 end=124816 sample=../PolAudio/Nervous Energy/74D4-GMDG.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=951 sample=../PolAudio/Nervous Energy/74D4-L5S8.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=434 end=122892 sample=../PolAudio/Nervous Energy/74D4-PYQV.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=566 end=122459 sample=../PolAudio/Nervous Energy/74D4-DMAE.wav
+<group> key=75 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=779 sample=../PolAudio/Nervous Energy/75D#4-6VXE.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=698 end=118172 sample=../PolAudio/Nervous Energy/75D#4-P5PC.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=507 end=118969 sample=../PolAudio/Nervous Energy/75D#4-MQA4.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=799 end=115813 sample=../PolAudio/Nervous Energy/75D#4-MB9X.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=823 end=116828 sample=../PolAudio/Nervous Energy/75D#4-JGNT.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=646 end=118734 sample=../PolAudio/Nervous Energy/75D#4-NWO9.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=824 end=119992 sample=../PolAudio/Nervous Energy/75D#4-48ES.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=567 end=115787 sample=../PolAudio/Nervous Energy/75D#4-GBGM.wav
+<group> key=76 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=764 end=110818 sample=../PolAudio/Nervous Energy/76E4-CL87.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=796 end=110165 sample=../PolAudio/Nervous Energy/76E4-89MO.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=695 end=111812 sample=../PolAudio/Nervous Energy/76E4-2DON.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=856 end=111768 sample=../PolAudio/Nervous Energy/76E4-JLA8.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=527 end=114405 sample=../PolAudio/Nervous Energy/76E4-POVE.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=597 end=111783 sample=../PolAudio/Nervous Energy/76E4-SLGR.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=799 end=114157 sample=../PolAudio/Nervous Energy/76E4-U44D.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=809 end=113071 sample=../PolAudio/Nervous Energy/76E4-BGIA.wav
+<group> key=77 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=607 end=101930 sample=../PolAudio/Nervous Energy/77F4-Q3VZ.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=857 end=104708 sample=../PolAudio/Nervous Energy/77F4-QWLB.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=878 end=108192 sample=../PolAudio/Nervous Energy/77F4-XHJM.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=634 end=107266 sample=../PolAudio/Nervous Energy/77F4-Y1IJ.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=723 end=105907 sample=../PolAudio/Nervous Energy/77F4-HJ37.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=795 end=101838 sample=../PolAudio/Nervous Energy/77F4-1POO.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=768 end=103183 sample=../PolAudio/Nervous Energy/77F4-7UCM.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=825 end=103982 sample=../PolAudio/Nervous Energy/77F4-MSAM.wav
+<group> key=78 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=585 end=120304 sample=../PolAudio/Nervous Energy/78F#4-XHDE.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=500 sample=../PolAudio/Nervous Energy/78F#4-JFCB.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=653 end=122159 sample=../PolAudio/Nervous Energy/78F#4-4QN7.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=839 end=120800 sample=../PolAudio/Nervous Energy/78F#4-4NVZ.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=957 end=124421 sample=../PolAudio/Nervous Energy/78F#4-6N0W.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=741 sample=../PolAudio/Nervous Energy/78F#4-VYBE.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=399 end=123487 sample=../PolAudio/Nervous Energy/78F#4-A6HE.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=534 end=122878 sample=../PolAudio/Nervous Energy/78F#4-YXTZ.wav
+<group> key=79 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=892 end=234522 sample=../PolAudio/Nervous Energy/79G4-GBS3.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=889 end=235450 sample=../PolAudio/Nervous Energy/79G4-UV70.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=538 end=234528 sample=../PolAudio/Nervous Energy/79G4-7RHS.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=818 sample=../PolAudio/Nervous Energy/79G4-83Z7.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=436 end=235168 sample=../PolAudio/Nervous Energy/79G4-I2I0.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=779 sample=../PolAudio/Nervous Energy/79G4-0I9I.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=623 end=235551 sample=../PolAudio/Nervous Energy/79G4-0LJL.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=508 end=235326 sample=../PolAudio/Nervous Energy/79G4-AX45.wav
+<group> key=80 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=475 end=118208 sample=../PolAudio/Nervous Energy/80G#4-NUPK.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=825 end=135117 sample=../PolAudio/Nervous Energy/80G#4-8JT9.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=534 end=122683 sample=../PolAudio/Nervous Energy/80G#4-4ULJ.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=622 end=124229 sample=../PolAudio/Nervous Energy/80G#4-PMZ3.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=549 end=129340 sample=../PolAudio/Nervous Energy/80G#4-UGZK.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=886 end=127717 sample=../PolAudio/Nervous Energy/80G#4-7AKQ.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=518 end=120299 sample=../PolAudio/Nervous Energy/80G#4-41JB.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=573 end=123689 sample=../PolAudio/Nervous Energy/80G#4-PK9A.wav
+<group> key=81 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=629 end=111760 sample=../PolAudio/Nervous Energy/81A4-G2AB.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=528 end=112359 sample=../PolAudio/Nervous Energy/81A4-N3RN.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=679 sample=../PolAudio/Nervous Energy/81A4-J7NK.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=687 end=117261 sample=../PolAudio/Nervous Energy/81A4-SY3T.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=792 end=113525 sample=../PolAudio/Nervous Energy/81A4-OW1Y.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=642 end=112671 sample=../PolAudio/Nervous Energy/81A4-HTQN.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=808 end=113339 sample=../PolAudio/Nervous Energy/81A4-1P56.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=748 sample=../PolAudio/Nervous Energy/81A4-4QAA.wav
+<group> key=82 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=775 end=108846 sample=../PolAudio/Nervous Energy/82A#4-UG5E.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=836 end=112000 sample=../PolAudio/Nervous Energy/82A#4-9F4C.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=472 end=112030 sample=../PolAudio/Nervous Energy/82A#4-VCC7.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=484 end=110454 sample=../PolAudio/Nervous Energy/82A#4-MROH.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=464 end=108424 sample=../PolAudio/Nervous Energy/82A#4-F4BD.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=799 end=109281 sample=../PolAudio/Nervous Energy/82A#4-OSXW.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=412 end=110525 sample=../PolAudio/Nervous Energy/82A#4-RI9W.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=464 end=111282 sample=../PolAudio/Nervous Energy/82A#4-C91G.wav
+<group> key=83 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=806 end=104052 sample=../PolAudio/Nervous Energy/83B4-J5DF.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=871 end=102928 sample=../PolAudio/Nervous Energy/83B4-N9HA.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=420 end=104837 sample=../PolAudio/Nervous Energy/83B4-BT73.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=421 end=105362 sample=../PolAudio/Nervous Energy/83B4-DJR6.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=595 end=103161 sample=../PolAudio/Nervous Energy/83B4-YRP1.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=497 end=101765 sample=../PolAudio/Nervous Energy/83B4-CJA6.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=929 end=101582 sample=../PolAudio/Nervous Energy/83B4-20US.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=903 end=101872 sample=../PolAudio/Nervous Energy/83B4-V3BG.wav
+<group> key=84 
+	<region> lovel=001 hivel=009 amp_velcurve_009=1 offset=882 end=122483 sample=../PolAudio/Nervous Energy/84C5-4JO5.wav
+	<region> lovel=010 hivel=022 amp_velcurve_022=1 offset=767 end=124740 sample=../PolAudio/Nervous Energy/84C5-OAOO.wav
+	<region> lovel=023 hivel=037 amp_velcurve_037=1 offset=416 end=123035 sample=../PolAudio/Nervous Energy/84C5-6X8I.wav
+	<region> lovel=038 hivel=053 amp_velcurve_053=1 offset=739 end=146107 sample=../PolAudio/Nervous Energy/84C5-XNCN.wav
+	<region> lovel=054 hivel=071 amp_velcurve_071=1 offset=522 sample=../PolAudio/Nervous Energy/84C5-WYB9.wav
+	<region> lovel=072 hivel=089 amp_velcurve_089=1 offset=692 end=124691 sample=../PolAudio/Nervous Energy/84C5-3LBH.wav
+	<region> lovel=090 hivel=107 amp_velcurve_107=1 offset=908 sample=../PolAudio/Nervous Energy/84C5-YBD9.wav
+	<region> lovel=108 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1012 end=123463 sample=../PolAudio/Nervous Energy/84C5-J3JQ.wav

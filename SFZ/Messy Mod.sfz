@@ -1,124 +1,124 @@
 // this file was generated from Messy Mod.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1011 sample=../Audio/Messy Mod/Messy Mod-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=881 end=511941 sample=../Audio/Messy Mod/Messy Mod-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1069 end=506580 sample=../Audio/Messy Mod/Messy Mod-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1040 end=499175 sample=../Audio/Messy Mod/Messy Mod-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=652 end=506422 sample=../Audio/Messy Mod/Messy Mod-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=835 sample=../Audio/Messy Mod/Messy Mod-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=690 sample=../Audio/Messy Mod/Messy Mod-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=694 sample=../Audio/Messy Mod/Messy Mod-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=905 sample=../Audio/Messy Mod/Messy Mod-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=941 end=499854 sample=../Audio/Messy Mod/Messy Mod-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=862 end=506901 sample=../Audio/Messy Mod/Messy Mod-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=867 end=505633 sample=../Audio/Messy Mod/Messy Mod-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=817 end=516350 sample=../Audio/Messy Mod/Messy Mod-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=776 end=512719 sample=../Audio/Messy Mod/Messy Mod-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=919 end=507298 sample=../Audio/Messy Mod/Messy Mod-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=679 sample=../Audio/Messy Mod/Messy Mod-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=795 end=505911 sample=../Audio/Messy Mod/Messy Mod-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=849 end=506057 sample=../Audio/Messy Mod/Messy Mod-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=883 end=516461 sample=../Audio/Messy Mod/Messy Mod-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=858 end=512631 sample=../Audio/Messy Mod/Messy Mod-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1011 end=506200 sample=../Audio/Messy Mod/Messy Mod-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1127 end=500264 sample=../Audio/Messy Mod/Messy Mod-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1035 sample=../Audio/Messy Mod/Messy Mod-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=755 end=506651 sample=../Audio/Messy Mod/Messy Mod-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=884 sample=../Audio/Messy Mod/Messy Mod-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=943 sample=../Audio/Messy Mod/Messy Mod-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1204 end=506232 sample=../Audio/Messy Mod/Messy Mod-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1183 sample=../Audio/Messy Mod/Messy Mod-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=836 end=504832 sample=../Audio/Messy Mod/Messy Mod-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=795 sample=../Audio/Messy Mod/Messy Mod-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1012 end=514757 sample=../Audio/Messy Mod/Messy Mod-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=831 end=511378 sample=../Audio/Messy Mod/Messy Mod-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1060 sample=../Audio/Messy Mod/Messy Mod-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=865 end=499331 sample=../Audio/Messy Mod/Messy Mod-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=882 sample=../Audio/Messy Mod/Messy Mod-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=961 end=504832 sample=../Audio/Messy Mod/Messy Mod-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1002 end=515977 sample=../Audio/Messy Mod/Messy Mod-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1173 end=510190 sample=../Audio/Messy Mod/Messy Mod-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=797 sample=../Audio/Messy Mod/Messy Mod-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=996 sample=../Audio/Messy Mod/Messy Mod-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=887 end=505223 sample=../Audio/Messy Mod/Messy Mod-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=635 end=503649 sample=../Audio/Messy Mod/Messy Mod-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=823 end=512392 sample=../Audio/Messy Mod/Messy Mod-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=789 end=512363 sample=../Audio/Messy Mod/Messy Mod-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=826 sample=../Audio/Messy Mod/Messy Mod-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=739 sample=../Audio/Messy Mod/Messy Mod-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=871 sample=../Audio/Messy Mod/Messy Mod-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1117 end=504656 sample=../Audio/Messy Mod/Messy Mod-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1128 end=512065 sample=../Audio/Messy Mod/Messy Mod-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=976 end=510254 sample=../Audio/Messy Mod/Messy Mod-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=970 sample=../Audio/Messy Mod/Messy Mod-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=867 end=499394 sample=../Audio/Messy Mod/Messy Mod-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1171 end=505016 sample=../Audio/Messy Mod/Messy Mod-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=947 end=504599 sample=../Audio/Messy Mod/Messy Mod-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=870 end=512103 sample=../Audio/Messy Mod/Messy Mod-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=825 sample=../Audio/Messy Mod/Messy Mod-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1065 end=504888 sample=../Audio/Messy Mod/Messy Mod-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=835 end=499355 sample=../Audio/Messy Mod/Messy Mod-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=800 end=504938 sample=../Audio/Messy Mod/Messy Mod-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=963 sample=../Audio/Messy Mod/Messy Mod-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1078 end=512303 sample=../Audio/Messy Mod/Messy Mod-96-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1011 sample=../PolAudio/Messy Mod/Messy Mod-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=881 end=511941 sample=../PolAudio/Messy Mod/Messy Mod-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1069 end=506580 sample=../PolAudio/Messy Mod/Messy Mod-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1040 end=499175 sample=../PolAudio/Messy Mod/Messy Mod-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=652 end=506422 sample=../PolAudio/Messy Mod/Messy Mod-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=835 sample=../PolAudio/Messy Mod/Messy Mod-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=690 sample=../PolAudio/Messy Mod/Messy Mod-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=694 sample=../PolAudio/Messy Mod/Messy Mod-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=905 sample=../PolAudio/Messy Mod/Messy Mod-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=941 end=499854 sample=../PolAudio/Messy Mod/Messy Mod-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=862 end=506901 sample=../PolAudio/Messy Mod/Messy Mod-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=867 end=505633 sample=../PolAudio/Messy Mod/Messy Mod-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=817 end=516350 sample=../PolAudio/Messy Mod/Messy Mod-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=776 end=512719 sample=../PolAudio/Messy Mod/Messy Mod-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=919 end=507298 sample=../PolAudio/Messy Mod/Messy Mod-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=679 sample=../PolAudio/Messy Mod/Messy Mod-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=795 end=505911 sample=../PolAudio/Messy Mod/Messy Mod-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=849 end=506057 sample=../PolAudio/Messy Mod/Messy Mod-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=883 end=516461 sample=../PolAudio/Messy Mod/Messy Mod-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=858 end=512631 sample=../PolAudio/Messy Mod/Messy Mod-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1011 end=506200 sample=../PolAudio/Messy Mod/Messy Mod-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1127 end=500264 sample=../PolAudio/Messy Mod/Messy Mod-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1035 sample=../PolAudio/Messy Mod/Messy Mod-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=755 end=506651 sample=../PolAudio/Messy Mod/Messy Mod-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=884 sample=../PolAudio/Messy Mod/Messy Mod-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=943 sample=../PolAudio/Messy Mod/Messy Mod-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1204 end=506232 sample=../PolAudio/Messy Mod/Messy Mod-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1183 sample=../PolAudio/Messy Mod/Messy Mod-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=836 end=504832 sample=../PolAudio/Messy Mod/Messy Mod-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=795 sample=../PolAudio/Messy Mod/Messy Mod-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1012 end=514757 sample=../PolAudio/Messy Mod/Messy Mod-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=831 end=511378 sample=../PolAudio/Messy Mod/Messy Mod-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1060 sample=../PolAudio/Messy Mod/Messy Mod-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=865 end=499331 sample=../PolAudio/Messy Mod/Messy Mod-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=882 sample=../PolAudio/Messy Mod/Messy Mod-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=961 end=504832 sample=../PolAudio/Messy Mod/Messy Mod-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1002 end=515977 sample=../PolAudio/Messy Mod/Messy Mod-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1173 end=510190 sample=../PolAudio/Messy Mod/Messy Mod-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=797 sample=../PolAudio/Messy Mod/Messy Mod-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=996 sample=../PolAudio/Messy Mod/Messy Mod-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=887 end=505223 sample=../PolAudio/Messy Mod/Messy Mod-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=635 end=503649 sample=../PolAudio/Messy Mod/Messy Mod-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=823 end=512392 sample=../PolAudio/Messy Mod/Messy Mod-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=789 end=512363 sample=../PolAudio/Messy Mod/Messy Mod-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=826 sample=../PolAudio/Messy Mod/Messy Mod-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=739 sample=../PolAudio/Messy Mod/Messy Mod-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=871 sample=../PolAudio/Messy Mod/Messy Mod-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1117 end=504656 sample=../PolAudio/Messy Mod/Messy Mod-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1128 end=512065 sample=../PolAudio/Messy Mod/Messy Mod-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=976 end=510254 sample=../PolAudio/Messy Mod/Messy Mod-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=970 sample=../PolAudio/Messy Mod/Messy Mod-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=867 end=499394 sample=../PolAudio/Messy Mod/Messy Mod-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1171 end=505016 sample=../PolAudio/Messy Mod/Messy Mod-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=947 end=504599 sample=../PolAudio/Messy Mod/Messy Mod-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=870 end=512103 sample=../PolAudio/Messy Mod/Messy Mod-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=825 sample=../PolAudio/Messy Mod/Messy Mod-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1065 end=504888 sample=../PolAudio/Messy Mod/Messy Mod-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=835 end=499355 sample=../PolAudio/Messy Mod/Messy Mod-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=800 end=504938 sample=../PolAudio/Messy Mod/Messy Mod-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=963 sample=../PolAudio/Messy Mod/Messy Mod-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1078 end=512303 sample=../PolAudio/Messy Mod/Messy Mod-96-127.aif

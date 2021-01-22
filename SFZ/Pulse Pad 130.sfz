@@ -1,429 +1,429 @@
 // this file was generated from Pulse Pad 130.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=99201 loop_end=335768 sample=../Audio/Mourning/(2013713 214210)/Mourning2424-MEW5.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=169408 loop_end=286338 sample=../Audio/Mourning/(2013713 214210)/Mourning2424-AL1Q.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=102907 loop_end=338200 sample=../Audio/Mourning/(2013713 214210)/Mourning2424-LJQ1.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=46907 loop_end=162517 sample=../Audio/Mourning/(2013713 214210)/Mourning2424-D6BQ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=198591 loop_end=361469 sample=../Audio/PulseArp130/(201381 124757)/24C0-XD73.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=198591 loop_end=361469 sample=../Audio/PulseArp130/(201381 124757)/24C0-XD73.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218728 loop_end=292422 sample=../Audio/Mourning/(2013713 214210)/Mourning2525-KTMM.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=231240 loop_end=304955 sample=../Audio/Mourning/(2013713 214210)/Mourning2525-5C32.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=236618 loop_end=310327 sample=../Audio/Mourning/(2013713 214210)/Mourning2525-XC9O.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157845 loop_end=231557 sample=../Audio/Mourning/(2013713 214210)/Mourning2525-RX5G.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=30705 loop_end=356275 sample=../Audio/PulseArp130/(201381 124757)/25C#0-EYHP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=30705 loop_end=356275 sample=../Audio/PulseArp130/(201381 124757)/25C#0-EYHP.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=214602 loop_end=298408 sample=../Audio/Mourning/(2013713 214210)/Mourning2626-C8MY.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=133793 loop_end=296655 sample=../Audio/Mourning/(2013713 214210)/Mourning2626-N8SW.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=208415 loop_end=292809 sample=../Audio/Mourning/(2013713 214210)/Mourning2626-GZXH.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279164 loop_end=364147 sample=../Audio/Mourning/(2013713 214210)/Mourning2626-H27O.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=193491 loop_end=356353 sample=../Audio/PulseArp130/(201381 124757)/26D0-MCRC.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=193491 loop_end=356353 sample=../Audio/PulseArp130/(201381 124757)/26D0-MCRC.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=266679 loop_end=343501 sample=../Audio/Mourning/(2013713 214210)/Mourning2727-0OQV.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=255702 loop_end=333620 sample=../Audio/Mourning/(2013713 214210)/Mourning2727-GGP8.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=223700 loop_end=300485 sample=../Audio/Mourning/(2013713 214210)/Mourning2727-40QA.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279697 loop_end=357608 sample=../Audio/Mourning/(2013713 214210)/Mourning2727-WRZF.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188841 loop_end=351863 sample=../Audio/PulseArp130/(201381 124757)/27D#0-KRD3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188841 loop_end=351863 sample=../Audio/PulseArp130/(201381 124757)/27D#0-KRD3.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=90365 loop_end=277029 sample=../Audio/Mourning/(2013713 214210)/Mourning2828-4D0N.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=71421 loop_end=257041 sample=../Audio/Mourning/(2013713 214210)/Mourning2828-IVYD.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=170469 loop_end=294281 sample=../Audio/Mourning/(2013713 214210)/Mourning2828-SIDK.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=41322 loop_end=355522 sample=../Audio/Mourning/(2013713 214210)/Mourning2828-3EAM.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=92097 loop_end=254696 sample=../Audio/PulseArp130/(201381 124757)/28E0-M9L0.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=92097 loop_end=254696 sample=../Audio/PulseArp130/(201381 124757)/28E0-M9L0.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=89732 loop_end=295691 sample=../Audio/Mourning/(2013713 214210)/Mourning2929-GC9S.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=143354 loop_end=347351 sample=../Audio/Mourning/(2013713 214210)/Mourning2929-MJ98.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=228137 loop_end=364541 sample=../Audio/Mourning/(2013713 214210)/Mourning2929-4FSS.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152574 loop_end=358581 sample=../Audio/Mourning/(2013713 214210)/Mourning2929-KW2F.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=15240 loop_end=178129 sample=../Audio/PulseArp130/(201381 124757)/29F0-ZGV7.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=15240 loop_end=178129 sample=../Audio/PulseArp130/(201381 124757)/29F0-ZGV7.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=228918 loop_end=309129 sample=../Audio/Mourning/(2013713 214210)/Mourning3030-JJDN.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=200355 loop_end=280103 sample=../Audio/Mourning/(2013713 214210)/Mourning3030-A73Z.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=216706 loop_end=297392 sample=../Audio/Mourning/(2013713 214210)/Mourning3030-AB3D.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275425 loop_end=355168 sample=../Audio/Mourning/(2013713 214210)/Mourning3030-VU8C.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=193694 loop_end=356306 sample=../Audio/PulseArp130/(201381 124757)/30F#0-P107.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=193694 loop_end=356306 sample=../Audio/PulseArp130/(201381 124757)/30F#0-P107.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=166227 loop_end=272561 sample=../Audio/Mourning/(2013713 214210)/Mourning3131-BV94.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=255745 loop_end=361160 sample=../Audio/Mourning/(2013713 214210)/Mourning3131-98BL.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=136997 loop_end=295822 sample=../Audio/Mourning/(2013713 214210)/Mourning3131-OZUB.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=129164 loop_end=289322 sample=../Audio/Mourning/(2013713 214210)/Mourning3131-4TW1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=5660 loop_end=147663 sample=../Audio/PulseArp130/(201381 124757)/31G0-IGUT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=5660 loop_end=147663 sample=../Audio/PulseArp130/(201381 124757)/31G0-IGUT.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=133092 loop_end=364418 sample=../Audio/Mourning/(2013713 214210)/Mourning3232-XW6X.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=78032 loop_end=309848 sample=../Audio/Mourning/(2013713 214210)/Mourning3232-0115.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=56577 loop_end=289645 sample=../Audio/Mourning/(2013713 214210)/Mourning3232-QLPE.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136015 loop_end=310240 sample=../Audio/Mourning/(2013713 214210)/Mourning3232-K68B.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=5480 loop_end=310899 sample=../Audio/PulseArp130/(201381 124757)/32G#0-J3C2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=5480 loop_end=310899 sample=../Audio/PulseArp130/(201381 124757)/32G#0-J3C2.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=148470 loop_end=312090 sample=../Audio/Mourning/(2013713 214210)/Mourning3333-TFDL.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=199409 loop_end=364213 sample=../Audio/Mourning/(2013713 214210)/Mourning3333-1VDF.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=143835 loop_end=309454 sample=../Audio/Mourning/(2013713 214210)/Mourning3333-B6A0.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158823 loop_end=322812 sample=../Audio/Mourning/(2013713 214210)/Mourning3333-I7Q7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=173051 loop_end=335688 sample=../Audio/PulseArp130/(201381 124757)/33A0-F8DU.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=173051 loop_end=335688 sample=../Audio/PulseArp130/(201381 124757)/33A0-F8DU.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=79954 loop_end=168156 sample=../Audio/Mourning/(2013713 214210)/Mourning3434-OIR6.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=169910 loop_end=257762 sample=../Audio/Mourning/(2013713 214210)/Mourning3434-ZGKV.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=154598 loop_end=242458 sample=../Audio/Mourning/(2013713 214210)/Mourning3434-HE2I.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242838 loop_end=331045 sample=../Audio/Mourning/(2013713 214210)/Mourning3434-X9HS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=167931 loop_end=351235 sample=../Audio/PulseArp130/(201381 124757)/34A#0-3Y2F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=167931 loop_end=351235 sample=../Audio/PulseArp130/(201381 124757)/34A#0-3Y2F.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=192459 loop_end=292110 sample=../Audio/Mourning/(2013713 214210)/Mourning3535-DRQ2.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=239521 loop_end=340612 sample=../Audio/Mourning/(2013713 214210)/Mourning3535-YB6A.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=117604 loop_end=220106 sample=../Audio/Mourning/(2013713 214210)/Mourning3535-JU9Y.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77627 loop_end=176912 sample=../Audio/Mourning/(2013713 214210)/Mourning3535-BX2P.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=147792 loop_end=310649 sample=../Audio/PulseArp130/(201381 124757)/35B0-R71V.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=147792 loop_end=310649 sample=../Audio/PulseArp130/(201381 124757)/35B0-R71V.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=69727 loop_end=344111 sample=../Audio/Mourning/(2013713 214210)/Mourning3636-UOKL.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=63771 loop_end=171788 sample=../Audio/Mourning/(2013713 214210)/Mourning3636-9EZN.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=106690 loop_end=330751 sample=../Audio/Mourning/(2013713 214210)/Mourning3636-22NJ.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179255 loop_end=347272 sample=../Audio/Mourning/(2013713 214210)/Mourning3636-6X66.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=81905 loop_end=265002 sample=../Audio/PulseArp130/(201381 124757)/36C1-I4QS.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=81905 loop_end=265002 sample=../Audio/PulseArp130/(201381 124757)/36C1-I4QS.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=191440 loop_end=271339 sample=../Audio/Mourning/(2013713 214210)/Mourning3737-H32V.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=236412 loop_end=317225 sample=../Audio/Mourning/(2013713 214210)/Mourning3737-KVTK.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=143176 loop_end=223997 sample=../Audio/Mourning/(2013713 214210)/Mourning3737-PWM4.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273363 loop_end=354204 sample=../Audio/Mourning/(2013713 214210)/Mourning3737-PDX2.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=41428 loop_end=204068 sample=../Audio/PulseArp130/(201381 124757)/37C#1-QP1J.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=41428 loop_end=204068 sample=../Audio/PulseArp130/(201381 124757)/37C#1-QP1J.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=178883 loop_end=262582 sample=../Audio/Mourning/(2013713 214210)/Mourning3838-005U.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=231223 loop_end=315212 sample=../Audio/Mourning/(2013713 214210)/Mourning3838-XIJY.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=177261 loop_end=346151 sample=../Audio/Mourning/(2013713 214210)/Mourning3838-U4QA.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127773 loop_end=213830 sample=../Audio/Mourning/(2013713 214210)/Mourning3838-UHL9.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351209 sample=../Audio/PulseArp130/(201381 124757)/38D1-1PFC.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351209 sample=../Audio/PulseArp130/(201381 124757)/38D1-1PFC.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=252259 loop_end=331246 sample=../Audio/Mourning/(2013713 214210)/Mourning3939-ZOIV.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=206697 loop_end=284563 sample=../Audio/Mourning/(2013713 214210)/Mourning3939-11DO.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=148776 loop_end=306439 sample=../Audio/Mourning/(2013713 214210)/Mourning3939-09BP.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197877 loop_end=355560 sample=../Audio/Mourning/(2013713 214210)/Mourning3939-ZE8I.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=122600 loop_end=285652 sample=../Audio/PulseArp130/(201381 124757)/39D#1-9B0M.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=122600 loop_end=285652 sample=../Audio/PulseArp130/(201381 124757)/39D#1-9B0M.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=187580 loop_end=351706 sample=../Audio/Mourning/(2013713 214210)/Mourning4040-OXWS.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=177498 loop_end=342132 sample=../Audio/Mourning/(2013713 214210)/Mourning4040-L9TD.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=199479 loop_end=363337 sample=../Audio/Mourning/(2013713 214210)/Mourning4040-B398.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=95296 loop_end=192544 sample=../Audio/Mourning/(2013713 214210)/Mourning4040-MR34.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=107184 loop_end=249491 sample=../Audio/PulseArp130/(201381 124757)/40E1-7CFA.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=107184 loop_end=249491 sample=../Audio/PulseArp130/(201381 124757)/40E1-7CFA.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=89126 loop_end=345140 sample=../Audio/Mourning/(2013713 214210)/Mourning4141-UUZZ.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=70718 loop_end=145638 sample=../Audio/Mourning/(2013713 214210)/Mourning4141-CBK6.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=71245 loop_end=182874 sample=../Audio/Mourning/(2013713 214210)/Mourning4141-JYPO.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39869 loop_end=114561 sample=../Audio/Mourning/(2013713 214210)/Mourning4141-VRD2.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=45970 loop_end=208879 sample=../Audio/PulseArp130/(201381 124757)/41F1-QVX4.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=45970 loop_end=208879 sample=../Audio/PulseArp130/(201381 124757)/41F1-QVX4.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=88227 loop_end=169773 sample=../Audio/Mourning/(2013713 214210)/Mourning4242-ZM1Q.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=232571 loop_end=309844 sample=../Audio/Mourning/(2013713 214210)/Mourning4242-X9XB.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=286705 loop_end=364461 sample=../Audio/Mourning/(2013713 214210)/Mourning4242-5JQ0.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=118110 loop_end=196314 sample=../Audio/Mourning/(2013713 214210)/Mourning4242-TE3Q.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=15460 loop_end=361420 sample=../Audio/PulseArp130/(201381 124757)/42F#1-Z60N.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=15460 loop_end=361420 sample=../Audio/PulseArp130/(201381 124757)/42F#1-Z60N.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=113639 loop_end=360323 sample=../Audio/Mourning/(2013713 214210)/Mourning4343-M7NJ.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=211828 loop_end=302766 sample=../Audio/Mourning/(2013713 214210)/Mourning4343-TNFV.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=246852 loop_end=339159 sample=../Audio/Mourning/(2013713 214210)/Mourning4343-WJHL.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242718 loop_end=333913 sample=../Audio/Mourning/(2013713 214210)/Mourning4343-TR8Z.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=46075 loop_end=208749 sample=../Audio/PulseArp130/(201381 124757)/43G1-VQ6K.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=46075 loop_end=208749 sample=../Audio/PulseArp130/(201381 124757)/43G1-VQ6K.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=258878 loop_end=346990 sample=../Audio/Mourning/(2013713 214210)/Mourning4444-ZJW3.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=95664 loop_end=181876 sample=../Audio/Mourning/(2013713 214210)/Mourning4444-CSZG.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=64401 loop_end=153562 sample=../Audio/Mourning/(2013713 214210)/Mourning4444-8TJH.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123110 loop_end=357748 sample=../Audio/Mourning/(2013713 214210)/Mourning4444-WLN1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=183764 loop_end=346475 sample=../Audio/PulseArp130/(201381 124757)/44G#1-X94A.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=183764 loop_end=346475 sample=../Audio/PulseArp130/(201381 124757)/44G#1-X94A.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=247600 loop_end=334697 sample=../Audio/Mourning/(2013713 214210)/Mourning4545-MC9G.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=169883 loop_end=256999 sample=../Audio/Mourning/(2013713 214210)/Mourning4545-VY6O.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=201723 loop_end=287451 sample=../Audio/Mourning/(2013713 214210)/Mourning4545-V60T.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258922 loop_end=345049 sample=../Audio/Mourning/(2013713 214210)/Mourning4545-JBU3.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=66494 loop_end=229134 sample=../Audio/PulseArp130/(201381 124757)/45A1-PAT3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=66494 loop_end=229134 sample=../Audio/PulseArp130/(201381 124757)/45A1-PAT3.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=169461 loop_end=334455 sample=../Audio/Mourning/(2013713 214210)/Mourning4646-QAJ8.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=127915 loop_end=364321 sample=../Audio/Mourning/(2013713 214210)/Mourning4646-BG9A.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=221617 loop_end=362562 sample=../Audio/Mourning/(2013713 214210)/Mourning4646-C4YC.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=45412 loop_end=161436 sample=../Audio/Mourning/(2013713 214210)/Mourning4646-36U5.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35660 loop_end=361340 sample=../Audio/PulseArp130/(201381 124757)/46A#1-0CN2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35660 loop_end=361340 sample=../Audio/PulseArp130/(201381 124757)/46A#1-0CN2.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=163780 loop_end=242542 sample=../Audio/Mourning/(2013713 214210)/Mourning4747-JRJC.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=225131 loop_end=304060 sample=../Audio/Mourning/(2013713 214210)/Mourning4747-3DT0.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=180049 loop_end=260052 sample=../Audio/Mourning/(2013713 214210)/Mourning4747-R7XD.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=41007 loop_end=118856 sample=../Audio/Mourning/(2013713 214210)/Mourning4747-K8X9.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188313 loop_end=351191 sample=../Audio/PulseArp130/(201381 124757)/47B1-6B0B.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188313 loop_end=351191 sample=../Audio/PulseArp130/(201381 124757)/47B1-6B0B.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=197453 loop_end=280545 sample=../Audio/Mourning/(2013713 214210)/Mourning4848-P7MU.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=258995 loop_end=342749 sample=../Audio/Mourning/(2013713 214210)/Mourning4848-VFPD.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=253866 loop_end=338615 sample=../Audio/Mourning/(2013713 214210)/Mourning4848-CCHV.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=184270 loop_end=268189 sample=../Audio/Mourning/(2013713 214210)/Mourning4848-8ZA7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=76522 loop_end=239320 sample=../Audio/PulseArp130/(201381 124757)/48C2-UC6F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=76522 loop_end=239320 sample=../Audio/PulseArp130/(201381 124757)/48C2-UC6F.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218389 loop_end=311155 sample=../Audio/Mourning/(2013713 214210)/Mourning4949-63OR.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=188272 loop_end=351148 sample=../Audio/Mourning/(2013713 214210)/Mourning4949-759I.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=196735 loop_end=359608 sample=../Audio/Mourning/(2013713 214210)/Mourning4949-ZREU.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=44106 loop_end=157901 sample=../Audio/Mourning/(2013713 214210)/Mourning4949-MTW4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351228 sample=../Audio/PulseArp130/(201381 124757)/49C#2-TE6H.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351228 sample=../Audio/PulseArp130/(201381 124757)/49C#2-TE6H.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=104421 loop_end=345834 sample=../Audio/Mourning/(2013713 214210)/Mourning5050-QL2W.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=100146 loop_end=364489 sample=../Audio/Mourning/(2013713 214210)/Mourning5050-AYRS.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=206675 loop_end=363473 sample=../Audio/Mourning/(2013713 214210)/Mourning5050-06GO.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51100 loop_end=135052 sample=../Audio/Mourning/(2013713 214210)/Mourning5050-K2JY.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35682 loop_end=361393 sample=../Audio/PulseArp130/(201381 124757)/50D2-6DDE.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35682 loop_end=361393 sample=../Audio/PulseArp130/(201381 124757)/50D2-6DDE.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=273126 loop_end=354866 sample=../Audio/Mourning/(2013713 214210)/Mourning5151-R6OV.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=190122 loop_end=271864 sample=../Audio/Mourning/(2013713 214210)/Mourning5151-CLOO.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=200665 loop_end=364418 sample=../Audio/Mourning/(2013713 214210)/Mourning5151-WUUR.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257345 loop_end=338932 sample=../Audio/Mourning/(2013713 214210)/Mourning5151-830E.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35773 loop_end=361381 sample=../Audio/PulseArp130/(201381 124757)/51D#2-KIJP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35773 loop_end=361381 sample=../Audio/PulseArp130/(201381 124757)/51D#2-KIJP.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=258211 loop_end=340926 sample=../Audio/Mourning/(2013713 214210)/Mourning5252-EG4J.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=205896 loop_end=290061 sample=../Audio/Mourning/(2013713 214210)/Mourning5252-0W31.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=279510 loop_end=363399 sample=../Audio/Mourning/(2013713 214210)/Mourning5252-C0P4.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244780 loop_end=328808 sample=../Audio/Mourning/(2013713 214210)/Mourning5252-1JSK.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=107129 loop_end=269652 sample=../Audio/PulseArp130/(201381 124757)/52E2-J6AO.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=107129 loop_end=269652 sample=../Audio/PulseArp130/(201381 124757)/52E2-J6AO.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=132198 loop_end=210568 sample=../Audio/Mourning/(2013713 214210)/Mourning5353-YQ3Q.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=192641 loop_end=363362 sample=../Audio/Mourning/(2013713 214210)/Mourning5353-D6I7.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=98964 loop_end=175369 sample=../Audio/Mourning/(2013713 214210)/Mourning5353-PTJM.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=193521 loop_end=364510 sample=../Audio/Mourning/(2013713 214210)/Mourning5353-ZNFS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=81698 loop_end=244618 sample=../Audio/PulseArp130/(201381 124757)/53F2-GFDY.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=81698 loop_end=244618 sample=../Audio/PulseArp130/(201381 124757)/53F2-GFDY.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=223130 loop_end=299885 sample=../Audio/Mourning/(2013713 214210)/Mourning5454-MJ99.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=221237 loop_end=297156 sample=../Audio/Mourning/(2013713 214210)/Mourning5454-OO1H.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=215160 loop_end=290958 sample=../Audio/Mourning/(2013713 214210)/Mourning5454-5MQ6.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253906 loop_end=330675 sample=../Audio/Mourning/(2013713 214210)/Mourning5454-PKH6.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=46013 loop_end=208720 sample=../Audio/PulseArp130/(201381 124757)/54F#2-ZIMF.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=46013 loop_end=208720 sample=../Audio/PulseArp130/(201381 124757)/54F#2-ZIMF.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=276382 loop_end=350026 sample=../Audio/Mourning/(2013713 214210)/Mourning5555-EM53.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=140788 loop_end=214483 sample=../Audio/Mourning/(2013713 214210)/Mourning5555-DWLS.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=272379 loop_end=363422 sample=../Audio/Mourning/(2013713 214210)/Mourning5555-B54G.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224211 loop_end=315290 sample=../Audio/Mourning/(2013713 214210)/Mourning5555-MM4Z.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=162761 loop_end=346109 sample=../Audio/PulseArp130/(201381 124757)/55G2-V0PS.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=162761 loop_end=346109 sample=../Audio/PulseArp130/(201381 124757)/55G2-V0PS.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=282559 loop_end=364507 sample=../Audio/Mourning/(2013713 214210)/Mourning5656-1Y8H.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=221497 loop_end=303240 sample=../Audio/Mourning/(2013713 214210)/Mourning5656-VPSN.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=254897 loop_end=335794 sample=../Audio/Mourning/(2013713 214210)/Mourning5656-EBTU.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255904 loop_end=336807 sample=../Audio/Mourning/(2013713 214210)/Mourning5656-KEK9.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25593 loop_end=188292 sample=../Audio/PulseArp130/(201381 124757)/56G#2-QGIG.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25593 loop_end=188292 sample=../Audio/PulseArp130/(201381 124757)/56G#2-QGIG.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=268547 loop_end=355657 sample=../Audio/Mourning/(2013713 214210)/Mourning5757-RQUL.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=269146 loop_end=356958 sample=../Audio/Mourning/(2013713 214210)/Mourning5757-7W2X.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=221127 loop_end=310138 sample=../Audio/Mourning/(2013713 214210)/Mourning5757-E9KJ.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=95960 loop_end=170471 sample=../Audio/Mourning/(2013713 214210)/Mourning5757-67U2.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=127336 loop_end=290244 sample=../Audio/PulseArp130/(201381 124757)/57A2-I2DQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=127336 loop_end=290244 sample=../Audio/PulseArp130/(201381 124757)/57A2-I2DQ.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=205000 loop_end=360797 sample=../Audio/Mourning/(2013713 214210)/Mourning5858-99K7.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=231349 loop_end=314341 sample=../Audio/Mourning/(2013713 214210)/Mourning5858-QU8U.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=232975 loop_end=315503 sample=../Audio/Mourning/(2013713 214210)/Mourning5858-0EBY.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280326 loop_end=364353 sample=../Audio/Mourning/(2013713 214210)/Mourning5858-U3QH.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35742 loop_end=361440 sample=../Audio/PulseArp130/(201381 124757)/58A#2-VHG1.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35742 loop_end=361440 sample=../Audio/PulseArp130/(201381 124757)/58A#2-VHG1.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=109653 loop_end=362590 sample=../Audio/Mourning/(2013713 214210)/Mourning5959-CINA.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=207926 loop_end=303669 sample=../Audio/Mourning/(2013713 214210)/Mourning5959-ZGI2.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=68906 loop_end=149536 sample=../Audio/Mourning/(2013713 214210)/Mourning5959-WUF2.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=55882 loop_end=166117 sample=../Audio/Mourning/(2013713 214210)/Mourning5959-BJT8.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=4968 loop_end=167927 sample=../Audio/PulseArp130/(201381 124757)/59B2-NDJ7.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=4968 loop_end=167927 sample=../Audio/PulseArp130/(201381 124757)/59B2-NDJ7.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=241580 loop_end=319436 sample=../Audio/Mourning/(2013713 214210)/Mourning6060-3WTU.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=233476 loop_end=309496 sample=../Audio/Mourning/(2013713 214210)/Mourning6060-3FHW.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=237487 loop_end=314347 sample=../Audio/Mourning/(2013713 214210)/Mourning6060-M0R7.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248655 loop_end=325513 sample=../Audio/Mourning/(2013713 214210)/Mourning6060-52U7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=167913 loop_end=330740 sample=../Audio/PulseArp130/(201381 124757)/60C3-RQM2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=167913 loop_end=330740 sample=../Audio/PulseArp130/(201381 124757)/60C3-RQM2.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=157691 loop_end=242687 sample=../Audio/Mourning/(2013713 214210)/Mourning6161-DAC6.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=274338 loop_end=360308 sample=../Audio/Mourning/(2013713 214210)/Mourning6161-MM1J.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=204265 loop_end=289752 sample=../Audio/Mourning/(2013713 214210)/Mourning6161-XPOL.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163867 loop_end=247843 sample=../Audio/Mourning/(2013713 214210)/Mourning6161-K5UQ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20265 loop_end=162817 sample=../Audio/PulseArp130/(201381 124757)/61C#3-NH9F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20265 loop_end=162817 sample=../Audio/PulseArp130/(201381 124757)/61C#3-NH9F.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=276447 loop_end=356066 sample=../Audio/Mourning/(2013713 214210)/Mourning6262-MTEW.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=283564 loop_end=363463 sample=../Audio/Mourning/(2013713 214210)/Mourning6262-ELKO.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=237538 loop_end=318407 sample=../Audio/Mourning/(2013713 214210)/Mourning6262-H0BC.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273767 loop_end=354197 sample=../Audio/Mourning/(2013713 214210)/Mourning6262-0GR5.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20445 loop_end=183294 sample=../Audio/PulseArp130/(201381 124757)/62D3-ZELN.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20445 loop_end=183294 sample=../Audio/PulseArp130/(201381 124757)/62D3-ZELN.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218394 loop_end=291550 sample=../Audio/Mourning/(2013713 214210)/Mourning6363-NBKW.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=240662 loop_end=325838 sample=../Audio/Mourning/(2013713 214210)/Mourning6363-KHRJ.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=263055 loop_end=348101 sample=../Audio/Mourning/(2013713 214210)/Mourning6363-6IS1.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215540 loop_end=300375 sample=../Audio/Mourning/(2013713 214210)/Mourning6363-FFUS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25595 loop_end=351206 sample=../Audio/PulseArp130/(201381 124757)/63D#3-U94O.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25595 loop_end=351206 sample=../Audio/PulseArp130/(201381 124757)/63D#3-U94O.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=259234 loop_end=335880 sample=../Audio/Mourning/(2013713 214210)/Mourning6464-QAUV.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=253227 loop_end=330207 sample=../Audio/Mourning/(2013713 214210)/Mourning6464-C8S0.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=238241 loop_end=316284 sample=../Audio/Mourning/(2013713 214210)/Mourning6464-YNXY.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197210 loop_end=274046 sample=../Audio/Mourning/(2013713 214210)/Mourning6464-TBEP.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=96737 loop_end=259584 sample=../Audio/PulseArp130/(201381 124757)/64E3-X6CS.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=96737 loop_end=259584 sample=../Audio/PulseArp130/(201381 124757)/64E3-X6CS.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=112525 loop_end=362137 sample=../Audio/Mourning/(2013713 214210)/Mourning6565-TLGT.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=256099 loop_end=344085 sample=../Audio/Mourning/(2013713 214210)/Mourning6565-WQKV.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=165652 loop_end=251711 sample=../Audio/Mourning/(2013713 214210)/Mourning6565-R1F7.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203761 loop_end=290743 sample=../Audio/Mourning/(2013713 214210)/Mourning6565-JO07.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=30471 loop_end=356163 sample=../Audio/PulseArp130/(201381 124757)/65F3-YUEM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=30471 loop_end=356163 sample=../Audio/PulseArp130/(201381 124757)/65F3-YUEM.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218824 loop_end=294256 sample=../Audio/Mourning/(2013713 214210)/Mourning6666-YNDF.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=254966 loop_end=338942 sample=../Audio/Mourning/(2013713 214210)/Mourning6666-RJ69.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=246487 loop_end=330703 sample=../Audio/Mourning/(2013713 214210)/Mourning6666-HRA2.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=198193 loop_end=354066 sample=../Audio/Mourning/(2013713 214210)/Mourning6666-9ECF.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=81550 loop_end=244260 sample=../Audio/PulseArp130/(201381 124757)/66F#3-DE8W.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=81550 loop_end=244260 sample=../Audio/PulseArp130/(201381 124757)/66F#3-DE8W.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=123788 loop_end=210673 sample=../Audio/Mourning/(2013713 214210)/Mourning6767-JOW4.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=277464 loop_end=352841 sample=../Audio/Mourning/(2013713 214210)/Mourning6767-36V0.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=238111 loop_end=313770 sample=../Audio/Mourning/(2013713 214210)/Mourning6767-KMA2.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239674 loop_end=325378 sample=../Audio/Mourning/(2013713 214210)/Mourning6767-L5PG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20397 loop_end=346046 sample=../Audio/PulseArp130/(201381 124757)/67G3-C1ZN.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20397 loop_end=346046 sample=../Audio/PulseArp130/(201381 124757)/67G3-C1ZN.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=214208 loop_end=293424 sample=../Audio/Mourning/(2013713 214210)/Mourning6868-I54Y.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=253737 loop_end=331525 sample=../Audio/Mourning/(2013713 214210)/Mourning6868-O5AN.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=245472 loop_end=322992 sample=../Audio/Mourning/(2013713 214210)/Mourning6868-7OIS.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203385 loop_end=281490 sample=../Audio/Mourning/(2013713 214210)/Mourning6868-ACHY.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35706 loop_end=361233 sample=../Audio/PulseArp130/(201381 124757)/68G#3-FL7V.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=35706 loop_end=361233 sample=../Audio/PulseArp130/(201381 124757)/68G#3-FL7V.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=208802 loop_end=289616 sample=../Audio/Mourning/(2013713 214210)/Mourning6969-1O5T.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=255973 loop_end=330532 sample=../Audio/Mourning/(2013713 214210)/Mourning6969-UUT4.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=280231 loop_end=362489 sample=../Audio/Mourning/(2013713 214210)/Mourning6969-OTWR.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202116 loop_end=279053 sample=../Audio/Mourning/(2013713 214210)/Mourning6969-5GUG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=66415 loop_end=229277 sample=../Audio/PulseArp130/(201381 124757)/69A3-WFH6.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=66415 loop_end=229277 sample=../Audio/PulseArp130/(201381 124757)/69A3-WFH6.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=226255 loop_end=306145 sample=../Audio/Mourning/(2013713 214210)/Mourning7070-RO6F.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=250929 loop_end=326719 sample=../Audio/Mourning/(2013713 214210)/Mourning7070-CLWQ.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=225836 loop_end=302883 sample=../Audio/Mourning/(2013713 214210)/Mourning7070-TWCP.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209175 loop_end=357615 sample=../Audio/Mourning/(2013713 214210)/Mourning7070-O1PS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=66388 loop_end=229230 sample=../Audio/PulseArp130/(201381 124757)/70A#3-04D2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=66388 loop_end=229230 sample=../Audio/PulseArp130/(201381 124757)/70A#3-04D2.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=128121 loop_end=214340 sample=../Audio/Mourning/(2013713 214210)/Mourning7171-P5JL.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=94660 loop_end=183777 sample=../Audio/Mourning/(2013713 214210)/Mourning7171-CUO2.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=233425 loop_end=319304 sample=../Audio/Mourning/(2013713 214210)/Mourning7171-E1VX.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225736 loop_end=313564 sample=../Audio/Mourning/(2013713 214210)/Mourning7171-8BNH.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=208828 loop_end=351223 sample=../Audio/PulseArp130/(201381 124757)/71B3-UY6F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=208828 loop_end=351223 sample=../Audio/PulseArp130/(201381 124757)/71B3-UY6F.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=272762 loop_end=358140 sample=../Audio/Mourning/(2013713 214210)/Mourning7272-HZIW.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=202740 loop_end=360415 sample=../Audio/Mourning/(2013713 214210)/Mourning7272-P63U.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=195526 loop_end=358096 sample=../Audio/Mourning/(2013713 214210)/Mourning7272-FEVX.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274348 loop_end=348084 sample=../Audio/Mourning/(2013713 214210)/Mourning7272-P5LU.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20442 loop_end=346107 sample=../Audio/PulseArp130/(201381 124757)/72C4-YIYB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20442 loop_end=346107 sample=../Audio/PulseArp130/(201381 124757)/72C4-YIYB.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=164849 loop_end=254944 sample=../Audio/Mourning/(2013713 214210)/Mourning7373-KDS4.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=263108 loop_end=339596 sample=../Audio/Mourning/(2013713 214210)/Mourning7373-76H4.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=223231 loop_end=308229 sample=../Audio/Mourning/(2013713 214210)/Mourning7373-HESP.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197780 loop_end=281727 sample=../Audio/Mourning/(2013713 214210)/Mourning7373-U4NZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20414 loop_end=346103 sample=../Audio/PulseArp130/(201381 124757)/73C#4-W0HA.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=20414 loop_end=346103 sample=../Audio/PulseArp130/(201381 124757)/73C#4-W0HA.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=168555 loop_end=244516 sample=../Audio/Mourning/(2013713 214210)/Mourning7474-32IN.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=254303 loop_end=330985 sample=../Audio/Mourning/(2013713 214210)/Mourning7474-FVCS.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=239985 loop_end=320128 sample=../Audio/Mourning/(2013713 214210)/Mourning7474-XANI.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263813 loop_end=348464 sample=../Audio/Mourning/(2013713 214210)/Mourning7474-11CX.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=198513 loop_end=361395 sample=../Audio/PulseArp130/(201381 124757)/74D4-E3NP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=198513 loop_end=361395 sample=../Audio/PulseArp130/(201381 124757)/74D4-E3NP.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=210412 loop_end=288261 sample=../Audio/Mourning/(2013713 214210)/Mourning7575-S0QH.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=248516 loop_end=334357 sample=../Audio/Mourning/(2013713 214210)/Mourning7575-MA7N.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=207961 loop_end=285448 sample=../Audio/Mourning/(2013713 214210)/Mourning7575-WTND.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280543 loop_end=362706 sample=../Audio/Mourning/(2013713 214210)/Mourning7575-ELGI.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=142684 loop_end=305419 sample=../Audio/PulseArp130/(201381 124757)/75D#4-R5ZQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=142684 loop_end=305419 sample=../Audio/PulseArp130/(201381 124757)/75D#4-R5ZQ.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=103981 loop_end=182857 sample=../Audio/Mourning/(2013713 214210)/Mourning7676-HJRO.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=181567 loop_end=258366 sample=../Audio/Mourning/(2013713 214210)/Mourning7676-WBI0.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=222559 loop_end=302348 sample=../Audio/Mourning/(2013713 214210)/Mourning7676-P94E.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240082 loop_end=322844 sample=../Audio/Mourning/(2013713 214210)/Mourning7676-KRN5.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=30621 loop_end=213811 sample=../Audio/PulseArp130/(201381 124757)/76E4-CKUY.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=30621 loop_end=213811 sample=../Audio/PulseArp130/(201381 124757)/76E4-CKUY.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=182612 loop_end=360830 sample=../Audio/Mourning/(2013713 214210)/Mourning7777-RE72.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=229505 loop_end=315435 sample=../Audio/Mourning/(2013713 214210)/Mourning7777-W53B.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=196383 loop_end=364004 sample=../Audio/Mourning/(2013713 214210)/Mourning7777-Z7T0.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182314 loop_end=355761 sample=../Audio/Mourning/(2013713 214210)/Mourning7777-I0C3.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=152570 loop_end=335679 sample=../Audio/PulseArp130/(201381 124757)/77F4-6ATJ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=152570 loop_end=335679 sample=../Audio/PulseArp130/(201381 124757)/77F4-6ATJ.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=78379 loop_end=164439 sample=../Audio/Mourning/(2013713 214210)/Mourning7878-D8Q9.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=190886 loop_end=345544 sample=../Audio/Mourning/(2013713 214210)/Mourning7878-Y5X8.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=228556 loop_end=312301 sample=../Audio/Mourning/(2013713 214210)/Mourning7878-HCA3.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=79998 loop_end=161841 sample=../Audio/Mourning/(2013713 214210)/Mourning7878-BPSF.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25534 loop_end=188400 sample=../Audio/PulseArp130/(201381 124757)/78F#4-47T1.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25534 loop_end=188400 sample=../Audio/PulseArp130/(201381 124757)/78F#4-47T1.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=198150 loop_end=363922 sample=../Audio/Mourning/(2013713 214210)/Mourning7979-69LR.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=190097 loop_end=355108 sample=../Audio/Mourning/(2013713 214210)/Mourning7979-2O3H.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=167159 loop_end=332324 sample=../Audio/Mourning/(2013713 214210)/Mourning7979-QFBV.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265211 loop_end=364476 sample=../Audio/Mourning/(2013713 214210)/Mourning7979-URVS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=10052 loop_end=172859 sample=../Audio/PulseArp130/(201381 124757)/79G4-ABG4.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=10052 loop_end=172859 sample=../Audio/PulseArp130/(201381 124757)/79G4-ABG4.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218983 loop_end=294844 sample=../Audio/Mourning/(2013713 214210)/Mourning8080-BHR8.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=272497 loop_end=354549 sample=../Audio/Mourning/(2013713 214210)/Mourning8080-XWTC.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=192382 loop_end=273393 sample=../Audio/Mourning/(2013713 214210)/Mourning8080-PCOT.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162087 loop_end=241228 sample=../Audio/Mourning/(2013713 214210)/Mourning8080-FIR5.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25425 loop_end=188278 sample=../Audio/PulseArp130/(201381 124757)/80G#4-WKFO.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25425 loop_end=188278 sample=../Audio/PulseArp130/(201381 124757)/80G#4-WKFO.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=252249 loop_end=335079 sample=../Audio/Mourning/(2013713 214210)/Mourning8181-FMVW.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=199366 loop_end=281099 sample=../Audio/Mourning/(2013713 214210)/Mourning8181-7G97.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=239462 loop_end=322414 sample=../Audio/Mourning/(2013713 214210)/Mourning8181-OBGL.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68029 loop_end=151681 sample=../Audio/Mourning/(2013713 214210)/Mourning8181-0TPT.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25539 loop_end=351225 sample=../Audio/PulseArp130/(201381 124757)/81A4-21K1.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=25539 loop_end=351225 sample=../Audio/PulseArp130/(201381 124757)/81A4-21K1.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=203074 loop_end=363882 sample=../Audio/Mourning/(2013713 214210)/Mourning8282-LI4J.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=238440 loop_end=313164 sample=../Audio/Mourning/(2013713 214210)/Mourning8282-G4HD.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=226437 loop_end=300232 sample=../Audio/Mourning/(2013713 214210)/Mourning8282-PXCW.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259452 loop_end=335189 sample=../Audio/Mourning/(2013713 214210)/Mourning8282-I72D.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=183270 loop_end=346109 sample=../Audio/PulseArp130/(201381 124757)/82A#4-RZWP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=183270 loop_end=346109 sample=../Audio/PulseArp130/(201381 124757)/82A#4-RZWP.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=253914 loop_end=333946 sample=../Audio/Mourning/(2013713 214210)/Mourning8383-K9XX.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=223789 loop_end=308736 sample=../Audio/Mourning/(2013713 214210)/Mourning8383-7RFJ.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=270222 loop_end=356309 sample=../Audio/Mourning/(2013713 214210)/Mourning8383-7833.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204982 loop_end=285611 sample=../Audio/Mourning/(2013713 214210)/Mourning8383-6U26.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=56050 loop_end=361229 sample=../Audio/PulseArp130/(201381 124757)/83B4-XCCO.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=56050 loop_end=361229 sample=../Audio/PulseArp130/(201381 124757)/83B4-XCCO.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=173536 loop_end=250395 sample=../Audio/Mourning/(2013713 214210)/Mourning8484-HSKN.aif
-	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=272711 loop_end=354597 sample=../Audio/Mourning/(2013713 214210)/Mourning8484-Q48S.aif
-	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=282823 loop_end=362028 sample=../Audio/Mourning/(2013713 214210)/Mourning8484-EWQW.aif
-	<region> lovel=091 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249787 loop_end=327274 sample=../Audio/Mourning/(2013713 214210)/Mourning8484-OXK9.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=61165 loop_end=223907 sample=../Audio/PulseArp130/(201381 124757)/84C5-AIE8.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=61165 loop_end=223907 sample=../Audio/PulseArp130/(201381 124757)/84C5-AIE8.wav
+<group> key=24 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=99201 loop_end=335768 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2424-MEW5.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=169408 loop_end=286338 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2424-AL1Q.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=102907 loop_end=338200 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2424-LJQ1.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=46907 loop_end=162517 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2424-D6BQ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=198591 loop_end=361469 sample=../PolAudio/PulseArp130/(201381 124757)/24C0-XD73.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=198591 loop_end=361469 sample=../PolAudio/PulseArp130/(201381 124757)/24C0-XD73.wav
+<group> key=25 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218728 loop_end=292422 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2525-KTMM.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=231240 loop_end=304955 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2525-5C32.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=236618 loop_end=310327 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2525-XC9O.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=157845 loop_end=231557 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2525-RX5G.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=30705 loop_end=356275 sample=../PolAudio/PulseArp130/(201381 124757)/25C#0-EYHP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=30705 loop_end=356275 sample=../PolAudio/PulseArp130/(201381 124757)/25C#0-EYHP.wav
+<group> key=26 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=214602 loop_end=298408 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2626-C8MY.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=133793 loop_end=296655 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2626-N8SW.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=208415 loop_end=292809 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2626-GZXH.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=279164 loop_end=364147 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2626-H27O.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=193491 loop_end=356353 sample=../PolAudio/PulseArp130/(201381 124757)/26D0-MCRC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=193491 loop_end=356353 sample=../PolAudio/PulseArp130/(201381 124757)/26D0-MCRC.wav
+<group> key=27 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=266679 loop_end=343501 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2727-0OQV.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=255702 loop_end=333620 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2727-GGP8.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=223700 loop_end=300485 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2727-40QA.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=279697 loop_end=357608 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2727-WRZF.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188841 loop_end=351863 sample=../PolAudio/PulseArp130/(201381 124757)/27D#0-KRD3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188841 loop_end=351863 sample=../PolAudio/PulseArp130/(201381 124757)/27D#0-KRD3.wav
+<group> key=28 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=90365 loop_end=277029 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2828-4D0N.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=71421 loop_end=257041 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2828-IVYD.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=170469 loop_end=294281 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2828-SIDK.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=41322 loop_end=355522 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2828-3EAM.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=92097 loop_end=254696 sample=../PolAudio/PulseArp130/(201381 124757)/28E0-M9L0.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=92097 loop_end=254696 sample=../PolAudio/PulseArp130/(201381 124757)/28E0-M9L0.wav
+<group> key=29 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=89732 loop_end=295691 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2929-GC9S.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=143354 loop_end=347351 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2929-MJ98.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=228137 loop_end=364541 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2929-4FSS.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=152574 loop_end=358581 sample=../PolAudio/Mourning/(2013713 214210)/Mourning2929-KW2F.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=15240 loop_end=178129 sample=../PolAudio/PulseArp130/(201381 124757)/29F0-ZGV7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=15240 loop_end=178129 sample=../PolAudio/PulseArp130/(201381 124757)/29F0-ZGV7.wav
+<group> key=30 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=228918 loop_end=309129 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3030-JJDN.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=200355 loop_end=280103 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3030-A73Z.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=216706 loop_end=297392 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3030-AB3D.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=275425 loop_end=355168 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3030-VU8C.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=193694 loop_end=356306 sample=../PolAudio/PulseArp130/(201381 124757)/30F#0-P107.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=193694 loop_end=356306 sample=../PolAudio/PulseArp130/(201381 124757)/30F#0-P107.wav
+<group> key=31 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=166227 loop_end=272561 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3131-BV94.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=255745 loop_end=361160 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3131-98BL.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=136997 loop_end=295822 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3131-OZUB.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=129164 loop_end=289322 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3131-4TW1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=5660 loop_end=147663 sample=../PolAudio/PulseArp130/(201381 124757)/31G0-IGUT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=5660 loop_end=147663 sample=../PolAudio/PulseArp130/(201381 124757)/31G0-IGUT.wav
+<group> key=32 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=133092 loop_end=364418 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3232-XW6X.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=78032 loop_end=309848 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3232-0115.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=56577 loop_end=289645 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3232-QLPE.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=136015 loop_end=310240 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3232-K68B.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=5480 loop_end=310899 sample=../PolAudio/PulseArp130/(201381 124757)/32G#0-J3C2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=5480 loop_end=310899 sample=../PolAudio/PulseArp130/(201381 124757)/32G#0-J3C2.wav
+<group> key=33 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=148470 loop_end=312090 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3333-TFDL.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=199409 loop_end=364213 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3333-1VDF.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=143835 loop_end=309454 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3333-B6A0.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=158823 loop_end=322812 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3333-I7Q7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=173051 loop_end=335688 sample=../PolAudio/PulseArp130/(201381 124757)/33A0-F8DU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=173051 loop_end=335688 sample=../PolAudio/PulseArp130/(201381 124757)/33A0-F8DU.wav
+<group> key=34 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=79954 loop_end=168156 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3434-OIR6.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=169910 loop_end=257762 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3434-ZGKV.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=154598 loop_end=242458 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3434-HE2I.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=242838 loop_end=331045 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3434-X9HS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=167931 loop_end=351235 sample=../PolAudio/PulseArp130/(201381 124757)/34A#0-3Y2F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=167931 loop_end=351235 sample=../PolAudio/PulseArp130/(201381 124757)/34A#0-3Y2F.wav
+<group> key=35 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=192459 loop_end=292110 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3535-DRQ2.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=239521 loop_end=340612 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3535-YB6A.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=117604 loop_end=220106 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3535-JU9Y.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=77627 loop_end=176912 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3535-BX2P.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=147792 loop_end=310649 sample=../PolAudio/PulseArp130/(201381 124757)/35B0-R71V.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=147792 loop_end=310649 sample=../PolAudio/PulseArp130/(201381 124757)/35B0-R71V.wav
+<group> key=36 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=69727 loop_end=344111 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3636-UOKL.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=63771 loop_end=171788 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3636-9EZN.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=106690 loop_end=330751 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3636-22NJ.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=179255 loop_end=347272 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3636-6X66.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=81905 loop_end=265002 sample=../PolAudio/PulseArp130/(201381 124757)/36C1-I4QS.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=81905 loop_end=265002 sample=../PolAudio/PulseArp130/(201381 124757)/36C1-I4QS.wav
+<group> key=37 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=191440 loop_end=271339 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3737-H32V.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=236412 loop_end=317225 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3737-KVTK.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=143176 loop_end=223997 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3737-PWM4.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=273363 loop_end=354204 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3737-PDX2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=41428 loop_end=204068 sample=../PolAudio/PulseArp130/(201381 124757)/37C#1-QP1J.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=41428 loop_end=204068 sample=../PolAudio/PulseArp130/(201381 124757)/37C#1-QP1J.wav
+<group> key=38 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=178883 loop_end=262582 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3838-005U.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=231223 loop_end=315212 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3838-XIJY.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=177261 loop_end=346151 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3838-U4QA.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=127773 loop_end=213830 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3838-UHL9.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351209 sample=../PolAudio/PulseArp130/(201381 124757)/38D1-1PFC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351209 sample=../PolAudio/PulseArp130/(201381 124757)/38D1-1PFC.wav
+<group> key=39 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=252259 loop_end=331246 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3939-ZOIV.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=206697 loop_end=284563 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3939-11DO.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=148776 loop_end=306439 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3939-09BP.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=197877 loop_end=355560 sample=../PolAudio/Mourning/(2013713 214210)/Mourning3939-ZE8I.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=122600 loop_end=285652 sample=../PolAudio/PulseArp130/(201381 124757)/39D#1-9B0M.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=122600 loop_end=285652 sample=../PolAudio/PulseArp130/(201381 124757)/39D#1-9B0M.wav
+<group> key=40 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=187580 loop_end=351706 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4040-OXWS.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=177498 loop_end=342132 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4040-L9TD.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=199479 loop_end=363337 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4040-B398.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=95296 loop_end=192544 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4040-MR34.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=107184 loop_end=249491 sample=../PolAudio/PulseArp130/(201381 124757)/40E1-7CFA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=107184 loop_end=249491 sample=../PolAudio/PulseArp130/(201381 124757)/40E1-7CFA.wav
+<group> key=41 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=89126 loop_end=345140 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4141-UUZZ.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=70718 loop_end=145638 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4141-CBK6.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=71245 loop_end=182874 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4141-JYPO.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=39869 loop_end=114561 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4141-VRD2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=45970 loop_end=208879 sample=../PolAudio/PulseArp130/(201381 124757)/41F1-QVX4.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=45970 loop_end=208879 sample=../PolAudio/PulseArp130/(201381 124757)/41F1-QVX4.wav
+<group> key=42 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=88227 loop_end=169773 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4242-ZM1Q.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=232571 loop_end=309844 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4242-X9XB.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=286705 loop_end=364461 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4242-5JQ0.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=118110 loop_end=196314 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4242-TE3Q.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=15460 loop_end=361420 sample=../PolAudio/PulseArp130/(201381 124757)/42F#1-Z60N.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=15460 loop_end=361420 sample=../PolAudio/PulseArp130/(201381 124757)/42F#1-Z60N.wav
+<group> key=43 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=113639 loop_end=360323 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4343-M7NJ.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=211828 loop_end=302766 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4343-TNFV.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=246852 loop_end=339159 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4343-WJHL.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=242718 loop_end=333913 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4343-TR8Z.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=46075 loop_end=208749 sample=../PolAudio/PulseArp130/(201381 124757)/43G1-VQ6K.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=46075 loop_end=208749 sample=../PolAudio/PulseArp130/(201381 124757)/43G1-VQ6K.wav
+<group> key=44 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=258878 loop_end=346990 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4444-ZJW3.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=95664 loop_end=181876 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4444-CSZG.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=64401 loop_end=153562 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4444-8TJH.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=123110 loop_end=357748 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4444-WLN1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=183764 loop_end=346475 sample=../PolAudio/PulseArp130/(201381 124757)/44G#1-X94A.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=183764 loop_end=346475 sample=../PolAudio/PulseArp130/(201381 124757)/44G#1-X94A.wav
+<group> key=45 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=247600 loop_end=334697 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4545-MC9G.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=169883 loop_end=256999 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4545-VY6O.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=201723 loop_end=287451 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4545-V60T.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=258922 loop_end=345049 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4545-JBU3.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=66494 loop_end=229134 sample=../PolAudio/PulseArp130/(201381 124757)/45A1-PAT3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=66494 loop_end=229134 sample=../PolAudio/PulseArp130/(201381 124757)/45A1-PAT3.wav
+<group> key=46 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=169461 loop_end=334455 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4646-QAJ8.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=127915 loop_end=364321 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4646-BG9A.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=221617 loop_end=362562 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4646-C4YC.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=45412 loop_end=161436 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4646-36U5.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35660 loop_end=361340 sample=../PolAudio/PulseArp130/(201381 124757)/46A#1-0CN2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35660 loop_end=361340 sample=../PolAudio/PulseArp130/(201381 124757)/46A#1-0CN2.wav
+<group> key=47 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=163780 loop_end=242542 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4747-JRJC.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=225131 loop_end=304060 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4747-3DT0.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=180049 loop_end=260052 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4747-R7XD.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=41007 loop_end=118856 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4747-K8X9.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188313 loop_end=351191 sample=../PolAudio/PulseArp130/(201381 124757)/47B1-6B0B.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188313 loop_end=351191 sample=../PolAudio/PulseArp130/(201381 124757)/47B1-6B0B.wav
+<group> key=48 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=197453 loop_end=280545 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4848-P7MU.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=258995 loop_end=342749 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4848-VFPD.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=253866 loop_end=338615 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4848-CCHV.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=184270 loop_end=268189 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4848-8ZA7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=76522 loop_end=239320 sample=../PolAudio/PulseArp130/(201381 124757)/48C2-UC6F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=76522 loop_end=239320 sample=../PolAudio/PulseArp130/(201381 124757)/48C2-UC6F.wav
+<group> key=49 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218389 loop_end=311155 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4949-63OR.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=188272 loop_end=351148 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4949-759I.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=196735 loop_end=359608 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4949-ZREU.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=44106 loop_end=157901 sample=../PolAudio/Mourning/(2013713 214210)/Mourning4949-MTW4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351228 sample=../PolAudio/PulseArp130/(201381 124757)/49C#2-TE6H.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=188341 loop_end=351228 sample=../PolAudio/PulseArp130/(201381 124757)/49C#2-TE6H.wav
+<group> key=50 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=104421 loop_end=345834 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5050-QL2W.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=100146 loop_end=364489 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5050-AYRS.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=206675 loop_end=363473 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5050-06GO.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=51100 loop_end=135052 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5050-K2JY.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35682 loop_end=361393 sample=../PolAudio/PulseArp130/(201381 124757)/50D2-6DDE.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35682 loop_end=361393 sample=../PolAudio/PulseArp130/(201381 124757)/50D2-6DDE.wav
+<group> key=51 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=273126 loop_end=354866 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5151-R6OV.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=190122 loop_end=271864 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5151-CLOO.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=200665 loop_end=364418 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5151-WUUR.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=257345 loop_end=338932 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5151-830E.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35773 loop_end=361381 sample=../PolAudio/PulseArp130/(201381 124757)/51D#2-KIJP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35773 loop_end=361381 sample=../PolAudio/PulseArp130/(201381 124757)/51D#2-KIJP.wav
+<group> key=52 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=258211 loop_end=340926 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5252-EG4J.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=205896 loop_end=290061 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5252-0W31.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=279510 loop_end=363399 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5252-C0P4.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=244780 loop_end=328808 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5252-1JSK.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=107129 loop_end=269652 sample=../PolAudio/PulseArp130/(201381 124757)/52E2-J6AO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=107129 loop_end=269652 sample=../PolAudio/PulseArp130/(201381 124757)/52E2-J6AO.wav
+<group> key=53 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=132198 loop_end=210568 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5353-YQ3Q.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=192641 loop_end=363362 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5353-D6I7.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=98964 loop_end=175369 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5353-PTJM.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=193521 loop_end=364510 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5353-ZNFS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=81698 loop_end=244618 sample=../PolAudio/PulseArp130/(201381 124757)/53F2-GFDY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=81698 loop_end=244618 sample=../PolAudio/PulseArp130/(201381 124757)/53F2-GFDY.wav
+<group> key=54 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=223130 loop_end=299885 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5454-MJ99.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=221237 loop_end=297156 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5454-OO1H.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=215160 loop_end=290958 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5454-5MQ6.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=253906 loop_end=330675 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5454-PKH6.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=46013 loop_end=208720 sample=../PolAudio/PulseArp130/(201381 124757)/54F#2-ZIMF.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=46013 loop_end=208720 sample=../PolAudio/PulseArp130/(201381 124757)/54F#2-ZIMF.wav
+<group> key=55 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=276382 loop_end=350026 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5555-EM53.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=140788 loop_end=214483 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5555-DWLS.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=272379 loop_end=363422 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5555-B54G.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=224211 loop_end=315290 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5555-MM4Z.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=162761 loop_end=346109 sample=../PolAudio/PulseArp130/(201381 124757)/55G2-V0PS.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=162761 loop_end=346109 sample=../PolAudio/PulseArp130/(201381 124757)/55G2-V0PS.wav
+<group> key=56 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=282559 loop_end=364507 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5656-1Y8H.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=221497 loop_end=303240 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5656-VPSN.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=254897 loop_end=335794 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5656-EBTU.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=255904 loop_end=336807 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5656-KEK9.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25593 loop_end=188292 sample=../PolAudio/PulseArp130/(201381 124757)/56G#2-QGIG.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25593 loop_end=188292 sample=../PolAudio/PulseArp130/(201381 124757)/56G#2-QGIG.wav
+<group> key=57 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=268547 loop_end=355657 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5757-RQUL.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=269146 loop_end=356958 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5757-7W2X.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=221127 loop_end=310138 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5757-E9KJ.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=95960 loop_end=170471 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5757-67U2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=127336 loop_end=290244 sample=../PolAudio/PulseArp130/(201381 124757)/57A2-I2DQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=127336 loop_end=290244 sample=../PolAudio/PulseArp130/(201381 124757)/57A2-I2DQ.wav
+<group> key=58 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=205000 loop_end=360797 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5858-99K7.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=231349 loop_end=314341 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5858-QU8U.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=232975 loop_end=315503 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5858-0EBY.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=280326 loop_end=364353 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5858-U3QH.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35742 loop_end=361440 sample=../PolAudio/PulseArp130/(201381 124757)/58A#2-VHG1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35742 loop_end=361440 sample=../PolAudio/PulseArp130/(201381 124757)/58A#2-VHG1.wav
+<group> key=59 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=109653 loop_end=362590 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5959-CINA.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=207926 loop_end=303669 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5959-ZGI2.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=68906 loop_end=149536 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5959-WUF2.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=55882 loop_end=166117 sample=../PolAudio/Mourning/(2013713 214210)/Mourning5959-BJT8.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=4968 loop_end=167927 sample=../PolAudio/PulseArp130/(201381 124757)/59B2-NDJ7.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=4968 loop_end=167927 sample=../PolAudio/PulseArp130/(201381 124757)/59B2-NDJ7.wav
+<group> key=60 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=241580 loop_end=319436 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6060-3WTU.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=233476 loop_end=309496 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6060-3FHW.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=237487 loop_end=314347 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6060-M0R7.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=248655 loop_end=325513 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6060-52U7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=167913 loop_end=330740 sample=../PolAudio/PulseArp130/(201381 124757)/60C3-RQM2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=167913 loop_end=330740 sample=../PolAudio/PulseArp130/(201381 124757)/60C3-RQM2.wav
+<group> key=61 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=157691 loop_end=242687 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6161-DAC6.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=274338 loop_end=360308 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6161-MM1J.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=204265 loop_end=289752 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6161-XPOL.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=163867 loop_end=247843 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6161-K5UQ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20265 loop_end=162817 sample=../PolAudio/PulseArp130/(201381 124757)/61C#3-NH9F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20265 loop_end=162817 sample=../PolAudio/PulseArp130/(201381 124757)/61C#3-NH9F.wav
+<group> key=62 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=276447 loop_end=356066 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6262-MTEW.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=283564 loop_end=363463 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6262-ELKO.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=237538 loop_end=318407 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6262-H0BC.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=273767 loop_end=354197 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6262-0GR5.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20445 loop_end=183294 sample=../PolAudio/PulseArp130/(201381 124757)/62D3-ZELN.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20445 loop_end=183294 sample=../PolAudio/PulseArp130/(201381 124757)/62D3-ZELN.wav
+<group> key=63 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218394 loop_end=291550 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6363-NBKW.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=240662 loop_end=325838 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6363-KHRJ.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=263055 loop_end=348101 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6363-6IS1.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=215540 loop_end=300375 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6363-FFUS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25595 loop_end=351206 sample=../PolAudio/PulseArp130/(201381 124757)/63D#3-U94O.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25595 loop_end=351206 sample=../PolAudio/PulseArp130/(201381 124757)/63D#3-U94O.wav
+<group> key=64 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=259234 loop_end=335880 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6464-QAUV.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=253227 loop_end=330207 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6464-C8S0.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=238241 loop_end=316284 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6464-YNXY.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=197210 loop_end=274046 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6464-TBEP.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=96737 loop_end=259584 sample=../PolAudio/PulseArp130/(201381 124757)/64E3-X6CS.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=96737 loop_end=259584 sample=../PolAudio/PulseArp130/(201381 124757)/64E3-X6CS.wav
+<group> key=65 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=112525 loop_end=362137 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6565-TLGT.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=256099 loop_end=344085 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6565-WQKV.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=165652 loop_end=251711 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6565-R1F7.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=203761 loop_end=290743 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6565-JO07.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=30471 loop_end=356163 sample=../PolAudio/PulseArp130/(201381 124757)/65F3-YUEM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=30471 loop_end=356163 sample=../PolAudio/PulseArp130/(201381 124757)/65F3-YUEM.wav
+<group> key=66 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218824 loop_end=294256 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6666-YNDF.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=254966 loop_end=338942 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6666-RJ69.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=246487 loop_end=330703 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6666-HRA2.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=198193 loop_end=354066 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6666-9ECF.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=81550 loop_end=244260 sample=../PolAudio/PulseArp130/(201381 124757)/66F#3-DE8W.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=81550 loop_end=244260 sample=../PolAudio/PulseArp130/(201381 124757)/66F#3-DE8W.wav
+<group> key=67 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=123788 loop_end=210673 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6767-JOW4.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=277464 loop_end=352841 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6767-36V0.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=238111 loop_end=313770 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6767-KMA2.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=239674 loop_end=325378 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6767-L5PG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20397 loop_end=346046 sample=../PolAudio/PulseArp130/(201381 124757)/67G3-C1ZN.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20397 loop_end=346046 sample=../PolAudio/PulseArp130/(201381 124757)/67G3-C1ZN.wav
+<group> key=68 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=214208 loop_end=293424 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6868-I54Y.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=253737 loop_end=331525 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6868-O5AN.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=245472 loop_end=322992 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6868-7OIS.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=203385 loop_end=281490 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6868-ACHY.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35706 loop_end=361233 sample=../PolAudio/PulseArp130/(201381 124757)/68G#3-FL7V.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=35706 loop_end=361233 sample=../PolAudio/PulseArp130/(201381 124757)/68G#3-FL7V.wav
+<group> key=69 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=208802 loop_end=289616 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6969-1O5T.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=255973 loop_end=330532 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6969-UUT4.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=280231 loop_end=362489 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6969-OTWR.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=202116 loop_end=279053 sample=../PolAudio/Mourning/(2013713 214210)/Mourning6969-5GUG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=66415 loop_end=229277 sample=../PolAudio/PulseArp130/(201381 124757)/69A3-WFH6.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=66415 loop_end=229277 sample=../PolAudio/PulseArp130/(201381 124757)/69A3-WFH6.wav
+<group> key=70 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=226255 loop_end=306145 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7070-RO6F.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=250929 loop_end=326719 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7070-CLWQ.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=225836 loop_end=302883 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7070-TWCP.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=209175 loop_end=357615 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7070-O1PS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=66388 loop_end=229230 sample=../PolAudio/PulseArp130/(201381 124757)/70A#3-04D2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=66388 loop_end=229230 sample=../PolAudio/PulseArp130/(201381 124757)/70A#3-04D2.wav
+<group> key=71 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=128121 loop_end=214340 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7171-P5JL.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=94660 loop_end=183777 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7171-CUO2.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=233425 loop_end=319304 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7171-E1VX.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=225736 loop_end=313564 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7171-8BNH.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=208828 loop_end=351223 sample=../PolAudio/PulseArp130/(201381 124757)/71B3-UY6F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=208828 loop_end=351223 sample=../PolAudio/PulseArp130/(201381 124757)/71B3-UY6F.wav
+<group> key=72 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=272762 loop_end=358140 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7272-HZIW.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=202740 loop_end=360415 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7272-P63U.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=195526 loop_end=358096 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7272-FEVX.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=274348 loop_end=348084 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7272-P5LU.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20442 loop_end=346107 sample=../PolAudio/PulseArp130/(201381 124757)/72C4-YIYB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20442 loop_end=346107 sample=../PolAudio/PulseArp130/(201381 124757)/72C4-YIYB.wav
+<group> key=73 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=164849 loop_end=254944 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7373-KDS4.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=263108 loop_end=339596 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7373-76H4.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=223231 loop_end=308229 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7373-HESP.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=197780 loop_end=281727 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7373-U4NZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20414 loop_end=346103 sample=../PolAudio/PulseArp130/(201381 124757)/73C#4-W0HA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=20414 loop_end=346103 sample=../PolAudio/PulseArp130/(201381 124757)/73C#4-W0HA.wav
+<group> key=74 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=168555 loop_end=244516 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7474-32IN.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=254303 loop_end=330985 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7474-FVCS.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=239985 loop_end=320128 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7474-XANI.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=263813 loop_end=348464 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7474-11CX.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=198513 loop_end=361395 sample=../PolAudio/PulseArp130/(201381 124757)/74D4-E3NP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=198513 loop_end=361395 sample=../PolAudio/PulseArp130/(201381 124757)/74D4-E3NP.wav
+<group> key=75 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=210412 loop_end=288261 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7575-S0QH.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=248516 loop_end=334357 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7575-MA7N.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=207961 loop_end=285448 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7575-WTND.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=280543 loop_end=362706 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7575-ELGI.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=142684 loop_end=305419 sample=../PolAudio/PulseArp130/(201381 124757)/75D#4-R5ZQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=142684 loop_end=305419 sample=../PolAudio/PulseArp130/(201381 124757)/75D#4-R5ZQ.wav
+<group> key=76 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=103981 loop_end=182857 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7676-HJRO.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=181567 loop_end=258366 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7676-WBI0.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=222559 loop_end=302348 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7676-P94E.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=240082 loop_end=322844 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7676-KRN5.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=30621 loop_end=213811 sample=../PolAudio/PulseArp130/(201381 124757)/76E4-CKUY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=30621 loop_end=213811 sample=../PolAudio/PulseArp130/(201381 124757)/76E4-CKUY.wav
+<group> key=77 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=182612 loop_end=360830 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7777-RE72.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=229505 loop_end=315435 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7777-W53B.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=196383 loop_end=364004 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7777-Z7T0.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=182314 loop_end=355761 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7777-I0C3.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=152570 loop_end=335679 sample=../PolAudio/PulseArp130/(201381 124757)/77F4-6ATJ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=152570 loop_end=335679 sample=../PolAudio/PulseArp130/(201381 124757)/77F4-6ATJ.wav
+<group> key=78 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=78379 loop_end=164439 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7878-D8Q9.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=190886 loop_end=345544 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7878-Y5X8.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=228556 loop_end=312301 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7878-HCA3.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=79998 loop_end=161841 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7878-BPSF.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25534 loop_end=188400 sample=../PolAudio/PulseArp130/(201381 124757)/78F#4-47T1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25534 loop_end=188400 sample=../PolAudio/PulseArp130/(201381 124757)/78F#4-47T1.wav
+<group> key=79 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=198150 loop_end=363922 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7979-69LR.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=190097 loop_end=355108 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7979-2O3H.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=167159 loop_end=332324 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7979-QFBV.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=265211 loop_end=364476 sample=../PolAudio/Mourning/(2013713 214210)/Mourning7979-URVS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=10052 loop_end=172859 sample=../PolAudio/PulseArp130/(201381 124757)/79G4-ABG4.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=10052 loop_end=172859 sample=../PolAudio/PulseArp130/(201381 124757)/79G4-ABG4.wav
+<group> key=80 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=218983 loop_end=294844 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8080-BHR8.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=272497 loop_end=354549 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8080-XWTC.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=192382 loop_end=273393 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8080-PCOT.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=162087 loop_end=241228 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8080-FIR5.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25425 loop_end=188278 sample=../PolAudio/PulseArp130/(201381 124757)/80G#4-WKFO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25425 loop_end=188278 sample=../PolAudio/PulseArp130/(201381 124757)/80G#4-WKFO.wav
+<group> key=81 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=252249 loop_end=335079 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8181-FMVW.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=199366 loop_end=281099 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8181-7G97.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=239462 loop_end=322414 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8181-OBGL.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=68029 loop_end=151681 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8181-0TPT.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25539 loop_end=351225 sample=../PolAudio/PulseArp130/(201381 124757)/81A4-21K1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=25539 loop_end=351225 sample=../PolAudio/PulseArp130/(201381 124757)/81A4-21K1.wav
+<group> key=82 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=203074 loop_end=363882 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8282-LI4J.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=238440 loop_end=313164 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8282-G4HD.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=226437 loop_end=300232 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8282-PXCW.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=259452 loop_end=335189 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8282-I72D.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=183270 loop_end=346109 sample=../PolAudio/PulseArp130/(201381 124757)/82A#4-RZWP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=183270 loop_end=346109 sample=../PolAudio/PulseArp130/(201381 124757)/82A#4-RZWP.wav
+<group> key=83 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=253914 loop_end=333946 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8383-K9XX.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=223789 loop_end=308736 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8383-7RFJ.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=270222 loop_end=356309 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8383-7833.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=204982 loop_end=285611 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8383-6U26.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=56050 loop_end=361229 sample=../PolAudio/PulseArp130/(201381 124757)/83B4-XCCO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=56050 loop_end=361229 sample=../PolAudio/PulseArp130/(201381 124757)/83B4-XCCO.wav
+<group> key=84 
+	<region> lovel=001 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=173536 loop_end=250395 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8484-HSKN.aif
+	<region> lovel=031 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=272711 loop_end=354597 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8484-Q48S.aif
+	<region> lovel=061 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=282823 loop_end=362028 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8484-EWQW.aif
+	<region> lovel=091 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=249787 loop_end=327274 sample=../PolAudio/Mourning/(2013713 214210)/Mourning8484-OXK9.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=61165 loop_end=223907 sample=../PolAudio/PulseArp130/(201381 124757)/84C5-AIE8.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=7 loop_mode=loop_sustain loop_start=61165 loop_end=223907 sample=../PolAudio/PulseArp130/(201381 124757)/84C5-AIE8.wav

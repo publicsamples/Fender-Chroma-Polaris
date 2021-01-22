@@ -1,124 +1,124 @@
 // this file was generated from Darkness.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=227849 loop_end=390302 sample=../Audio/Darkness/(2013715 02651)/Darkness-QSHV.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=271688 loop_end=322633 sample=../Audio/Darkness/(2013715 02651)/Darkness-2QDM.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=239964 loop_end=355048 sample=../Audio/Darkness/(2013715 02651)/Darkness-J2SC.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=296155 loop_end=347176 sample=../Audio/Darkness/(2013715 02651)/Darkness-AH73.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=334020 loop_end=382230 sample=../Audio/Darkness/(2013715 02651)/Darkness-Q5AO.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=225905 loop_end=382352 sample=../Audio/Darkness/(2013715 02651)/Darkness-QV0X.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=283780 loop_end=383885 sample=../Audio/Darkness/(2013715 02651)/Darkness-AKJV.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=236518 loop_end=376479 sample=../Audio/Darkness/(2013715 02651)/Darkness-SG1U.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=303038 loop_end=397304 sample=../Audio/Darkness/(2013715 02651)/Darkness-O8CI.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=244195 loop_end=392659 sample=../Audio/Darkness/(2013715 02651)/Darkness-C621.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=350331 loop_end=396448 sample=../Audio/Darkness/(2013715 02651)/Darkness-4XG6.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=293199 loop_end=339930 sample=../Audio/Darkness/(2013715 02651)/Darkness-DIUC.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=251021 loop_end=298109 sample=../Audio/Darkness/(2013715 02651)/Darkness-GHNF.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=285915 loop_end=329138 sample=../Audio/Darkness/(2013715 02651)/Darkness-DG72.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278761 loop_end=401245 sample=../Audio/Darkness/(2013715 02651)/Darkness-QF1U.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=350014 loop_end=393043 sample=../Audio/Darkness/(2013715 02651)/Darkness-GTIW.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=231638 loop_end=401631 sample=../Audio/Darkness/(2013715 02651)/Darkness-0UIY.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=301381 loop_end=394551 sample=../Audio/Darkness/(2013715 02651)/Darkness-NB6W.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=225540 loop_end=390275 sample=../Audio/Darkness/(2013715 02651)/Darkness-CQRX.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352568 loop_end=400849 sample=../Audio/Darkness/(2013715 02651)/Darkness-S4QM.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=284938 loop_end=376018 sample=../Audio/Darkness/(2013715 02651)/Darkness-I9YH.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=238892 loop_end=383026 sample=../Audio/Darkness/(2013715 02651)/Darkness-5MN6.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=353419 loop_end=399059 sample=../Audio/Darkness/(2013715 02651)/Darkness-QX2N.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=317511 loop_end=387454 sample=../Audio/Darkness/(2013715 02651)/Darkness-RRWT.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278749 loop_end=401005 sample=../Audio/Darkness/(2013715 02651)/Darkness-SB5T.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221317 loop_end=334927 sample=../Audio/Darkness/(2013715 02651)/Darkness-ZUHR.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273583 loop_end=395549 sample=../Audio/Darkness/(2013715 02651)/Darkness-XZBK.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=315614 loop_end=360101 sample=../Audio/Darkness/(2013715 02651)/Darkness-L98W.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=334897 loop_end=381926 sample=../Audio/Darkness/(2013715 02651)/Darkness-70XW.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=274405 loop_end=349104 sample=../Audio/Darkness/(2013715 02651)/Darkness-3NDL.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=329145 loop_end=398082 sample=../Audio/Darkness/(2013715 02651)/Darkness-EXPQ.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=302414 loop_end=399851 sample=../Audio/Darkness/(2013715 02651)/Darkness-39LQ.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=230754 loop_end=393776 sample=../Audio/Darkness/(2013715 02651)/Darkness-TO1A.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=303834 loop_end=350639 sample=../Audio/Darkness/(2013715 02651)/Darkness-2F52.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=312581 loop_end=386290 sample=../Audio/Darkness/(2013715 02651)/Darkness-A01E.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=232499 loop_end=346147 sample=../Audio/Darkness/(2013715 02651)/Darkness-9UA7.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=257560 loop_end=329713 sample=../Audio/Darkness/(2013715 02651)/Darkness-UHS9.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286833 loop_end=379967 sample=../Audio/Darkness/(2013715 02651)/Darkness-MMYB.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=245961 loop_end=387327 sample=../Audio/Darkness/(2013715 02651)/Darkness-3NZE.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=247552 loop_end=394518 sample=../Audio/Darkness/(2013715 02651)/Darkness-XMRQ.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=337186 loop_end=381737 sample=../Audio/Darkness/(2013715 02651)/Darkness-OMT8.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=257290 loop_end=329819 sample=../Audio/Darkness/(2013715 02651)/Darkness-BWMX.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=269266 loop_end=384767 sample=../Audio/Darkness/(2013715 02651)/Darkness-8XL0.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=229785 loop_end=276825 sample=../Audio/Darkness/(2013715 02651)/Darkness-FDNZ.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=230371 loop_end=378091 sample=../Audio/Darkness/(2013715 02651)/Darkness-P1J5.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=267489 loop_end=313671 sample=../Audio/Darkness/(2013715 02651)/Darkness-8QPX.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=234471 loop_end=379977 sample=../Audio/Darkness/(2013715 02651)/Darkness-RSYC.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=229115 loop_end=392484 sample=../Audio/Darkness/(2013715 02651)/Darkness-AMQG.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=296972 loop_end=392134 sample=../Audio/Darkness/(2013715 02651)/Darkness-7ETM.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=317763 loop_end=392531 sample=../Audio/Darkness/(2013715 02651)/Darkness-RQWO.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=229633 loop_end=274284 sample=../Audio/Darkness/(2013715 02651)/Darkness-EQLA.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=251799 loop_end=348994 sample=../Audio/Darkness/(2013715 02651)/Darkness-GZB6.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=297836 loop_end=367487 sample=../Audio/Darkness/(2013715 02651)/Darkness-N1TG.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=282869 loop_end=401747 sample=../Audio/Darkness/(2013715 02651)/Darkness-0PB3.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=302345 loop_end=401063 sample=../Audio/Darkness/(2013715 02651)/Darkness-90LE.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=231661 loop_end=276453 sample=../Audio/Darkness/(2013715 02651)/Darkness-5X7T.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=231620 loop_end=401457 sample=../Audio/Darkness/(2013715 02651)/Darkness-C4SI.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=331572 loop_end=401355 sample=../Audio/Darkness/(2013715 02651)/Darkness-GFNP.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=254149 loop_end=396536 sample=../Audio/Darkness/(2013715 02651)/Darkness-7HDU.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=229766 loop_end=279084 sample=../Audio/Darkness/(2013715 02651)/Darkness-FMXM.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=249390 loop_end=363195 sample=../Audio/Darkness/(2013715 02651)/Darkness-2PUW.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=227849 loop_end=390302 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-QSHV.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271688 loop_end=322633 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-2QDM.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=239964 loop_end=355048 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-J2SC.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=296155 loop_end=347176 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-AH73.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=334020 loop_end=382230 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-Q5AO.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=225905 loop_end=382352 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-QV0X.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=283780 loop_end=383885 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-AKJV.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=236518 loop_end=376479 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-SG1U.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=303038 loop_end=397304 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-O8CI.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=244195 loop_end=392659 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-C621.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=350331 loop_end=396448 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-4XG6.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=293199 loop_end=339930 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-DIUC.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=251021 loop_end=298109 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-GHNF.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=285915 loop_end=329138 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-DG72.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278761 loop_end=401245 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-QF1U.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=350014 loop_end=393043 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-GTIW.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=231638 loop_end=401631 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-0UIY.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=301381 loop_end=394551 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-NB6W.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=225540 loop_end=390275 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-CQRX.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=352568 loop_end=400849 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-S4QM.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=284938 loop_end=376018 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-I9YH.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=238892 loop_end=383026 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-5MN6.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=353419 loop_end=399059 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-QX2N.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=317511 loop_end=387454 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-RRWT.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278749 loop_end=401005 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-SB5T.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=221317 loop_end=334927 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-ZUHR.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=273583 loop_end=395549 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-XZBK.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=315614 loop_end=360101 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-L98W.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=334897 loop_end=381926 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-70XW.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=274405 loop_end=349104 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-3NDL.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=329145 loop_end=398082 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-EXPQ.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=302414 loop_end=399851 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-39LQ.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=230754 loop_end=393776 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-TO1A.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=303834 loop_end=350639 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-2F52.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=312581 loop_end=386290 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-A01E.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=232499 loop_end=346147 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-9UA7.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=257560 loop_end=329713 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-UHS9.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=286833 loop_end=379967 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-MMYB.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=245961 loop_end=387327 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-3NZE.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=247552 loop_end=394518 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-XMRQ.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=337186 loop_end=381737 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-OMT8.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=257290 loop_end=329819 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-BWMX.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=269266 loop_end=384767 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-8XL0.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229785 loop_end=276825 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-FDNZ.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=230371 loop_end=378091 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-P1J5.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267489 loop_end=313671 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-8QPX.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=234471 loop_end=379977 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-RSYC.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229115 loop_end=392484 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-AMQG.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=296972 loop_end=392134 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-7ETM.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=317763 loop_end=392531 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-RQWO.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229633 loop_end=274284 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-EQLA.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=251799 loop_end=348994 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-GZB6.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=297836 loop_end=367487 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-N1TG.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=282869 loop_end=401747 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-0PB3.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=302345 loop_end=401063 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-90LE.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=231661 loop_end=276453 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-5X7T.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=231620 loop_end=401457 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-C4SI.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=331572 loop_end=401355 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-GFNP.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=254149 loop_end=396536 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-7HDU.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229766 loop_end=279084 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-FMXM.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=249390 loop_end=363195 sample=../PolAudio/Darkness/(2013715 02651)/Darkness-2PUW.aif

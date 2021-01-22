@@ -1,114 +1,114 @@
 // this file was generated from Touch Link.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=7 hikey=37 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=11165 loop_end=39454 sample=../Audio/The Link/(2013622 0049)/37C1-Z4LF.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=69062 loop_end=143824 sample=../Audio/The Link/(2013622 0049)/37C1-2XH2.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93145 loop_end=142989 sample=../Audio/The Link/(2013622 0049)/37C1-XG3X.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=26697 loop_end=101463 sample=../Audio/The Link/(2013622 0049)/37C1-GNVA.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=34674 loop_end=134370 sample=../Audio/The Link/(2013622 0049)/37C1-CKHF.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51494 loop_end=127615 sample=../Audio/The Link/(2013622 0049)/37C1-L6F8.aif
-<group>lokey=38 hikey=41 pitch_keycenter=40 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=23340 loop_end=143681 sample=../Audio/The Link/(2013622 0049)/41E1-3LSM.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=8911 loop_end=80577 sample=../Audio/The Link/(2013622 0049)/41E1-MHQ5.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=33350 loop_end=80419 sample=../Audio/The Link/(2013622 0049)/41E1-U8SN.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=23217 loop_end=142485 sample=../Audio/The Link/(2013622 0049)/41E1-RUAK.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=66957 loop_end=139702 sample=../Audio/The Link/(2013622 0049)/41E1-RA0Q.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=53670 loop_end=125880 sample=../Audio/The Link/(2013622 0049)/41E1-QAUA.aif
-<group>lokey=42 hikey=45 pitch_keycenter=44 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=47686 loop_end=142614 sample=../Audio/The Link/(2013622 0049)/45G#1-4WAF.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=66013 loop_end=136784 sample=../Audio/The Link/(2013622 0049)/45G#1-5P20.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=17335 loop_end=139810 sample=../Audio/The Link/(2013622 0049)/45G#1-TZ05.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=69469 loop_end=141509 sample=../Audio/The Link/(2013622 0049)/45G#1-0IU8.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=108500 loop_end=138589 sample=../Audio/The Link/(2013622 0049)/45G#1-63UM.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=23099 loop_end=52339 sample=../Audio/The Link/(2013622 0049)/45G#1-NY3O.aif
-<group>lokey=46 hikey=49 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=44229 loop_end=143186 sample=../Audio/The Link/(2013622 0049)/49C2-P6QL.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=68377 loop_end=143430 sample=../Audio/The Link/(2013622 0049)/49C2-Q0FN.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=74836 loop_end=120947 sample=../Audio/The Link/(2013622 0049)/49C2-NPRD.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=37467 loop_end=82903 sample=../Audio/The Link/(2013622 0049)/49C2-S274.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=37248 loop_end=82348 sample=../Audio/The Link/(2013622 0049)/49C2-U2EC.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=91081 loop_end=133824 sample=../Audio/The Link/(2013622 0049)/49C2-HCY8.aif
-<group>lokey=50 hikey=53 pitch_keycenter=52 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=34094 loop_end=134384 sample=../Audio/The Link/(2013622 0049)/53E2-OCQC.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=73988 loop_end=144318 sample=../Audio/The Link/(2013622 0049)/53E2-FF7Q.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=88454 loop_end=137660 sample=../Audio/The Link/(2013622 0049)/53E2-A23G.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=35187 loop_end=65136 sample=../Audio/The Link/(2013622 0049)/53E2-ILPN.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=54612 loop_end=103820 sample=../Audio/The Link/(2013622 0049)/53E2-E955.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=87995 loop_end=138004 sample=../Audio/The Link/(2013622 0049)/53E2-XSSZ.aif
-<group>lokey=54 hikey=57 pitch_keycenter=56 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=78653 loop_end=106628 sample=../Audio/The Link/(2013622 0049)/57G#2-8AFK.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=39807 loop_end=139186 sample=../Audio/The Link/(2013622 0049)/57G#2-7MBK.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=96204 loop_end=125871 sample=../Audio/The Link/(2013622 0049)/57G#2-UWYH.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=93366 loop_end=142742 sample=../Audio/The Link/(2013622 0049)/57G#2-030T.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=74702 loop_end=104579 sample=../Audio/The Link/(2013622 0049)/57G#2-BLGA.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=44342 loop_end=74009 sample=../Audio/The Link/(2013622 0049)/57G#2-1QU3.aif
-<group>lokey=58 hikey=61 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=106205 loop_end=136311 sample=../Audio/The Link/(2013622 0049)/61C3-POBO.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=20725 loop_end=52172 sample=../Audio/The Link/(2013622 0049)/61C3-QFIZ.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=31498 loop_end=128700 sample=../Audio/The Link/(2013622 0049)/61C3-FL2A.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=78498 loop_end=127267 sample=../Audio/The Link/(2013622 0049)/61C3-8VE5.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=64910 loop_end=97197 sample=../Audio/The Link/(2013622 0049)/61C3-SCF9.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47975 loop_end=143159 sample=../Audio/The Link/(2013622 0049)/61C3-8OK2.aif
-<group>lokey=62 hikey=65 pitch_keycenter=64 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=66116 loop_end=142652 sample=../Audio/The Link/(2013622 0049)/65E3-1720.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=99176 loop_end=143248 sample=../Audio/The Link/(2013622 0049)/65E3-U62I.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=54516 loop_end=127172 sample=../Audio/The Link/(2013622 0049)/65E3-XZQI.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=68194 loop_end=98245 sample=../Audio/The Link/(2013622 0049)/65E3-PVZ5.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=91045 loop_end=140862 sample=../Audio/The Link/(2013622 0049)/65E3-TAVX.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97814 loop_end=128931 sample=../Audio/The Link/(2013622 0049)/65E3-CTA5.aif
-<group>lokey=66 hikey=69 pitch_keycenter=68 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=97114 loop_end=142551 sample=../Audio/The Link/(2013622 0049)/69G#3-6GFV.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=29104 loop_end=128220 sample=../Audio/The Link/(2013622 0049)/69G#3-5YRH.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=65143 loop_end=138428 sample=../Audio/The Link/(2013622 0049)/69G#3-JOF7.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105497 loop_end=136205 sample=../Audio/The Link/(2013622 0049)/69G#3-1O6K.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=29675 loop_end=60387 sample=../Audio/The Link/(2013622 0049)/69G#3-3T48.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=12888 loop_end=129376 sample=../Audio/The Link/(2013622 0049)/69G#3-EQ8U.aif
-<group>lokey=70 hikey=73 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=49353 loop_end=142432 sample=../Audio/The Link/(2013622 0049)/73C4-JFZ6.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=25201 loop_end=141376 sample=../Audio/The Link/(2013622 0049)/73C4-FVUX.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=10184 loop_end=129655 sample=../Audio/The Link/(2013622 0049)/73C4-ADHJ.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=68305 loop_end=137240 sample=../Audio/The Link/(2013622 0049)/73C4-SO3P.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=81959 loop_end=111635 sample=../Audio/The Link/(2013622 0049)/73C4-3P0D.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73927 loop_end=104444 sample=../Audio/The Link/(2013622 0049)/73C4-NVTJ.aif
-<group>lokey=74 hikey=77 pitch_keycenter=76 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=90566 loop_end=136138 sample=../Audio/The Link/(2013622 0049)/77E4-ENTP.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=71793 loop_end=104529 sample=../Audio/The Link/(2013622 0049)/77E4-5FJE.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=62882 loop_end=107448 sample=../Audio/The Link/(2013622 0049)/77E4-UHES.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=41037 loop_end=136171 sample=../Audio/The Link/(2013622 0049)/77E4-K2JU.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=62006 loop_end=94477 sample=../Audio/The Link/(2013622 0049)/77E4-JC3I.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22091 loop_end=143688 sample=../Audio/The Link/(2013622 0049)/77E4-6MIP.aif
-<group>lokey=78 hikey=81 pitch_keycenter=80 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=61544 loop_end=142547 sample=../Audio/The Link/(2013622 0049)/81G#4-2Z4S.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=87048 loop_end=142263 sample=../Audio/The Link/(2013622 0049)/81G#4-ZVUE.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=59442 loop_end=91328 sample=../Audio/The Link/(2013622 0049)/81G#4-U0LP.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=46701 loop_end=78693 sample=../Audio/The Link/(2013622 0049)/81G#4-5PFO.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=79825 loop_end=138694 sample=../Audio/The Link/(2013622 0049)/81G#4-KE7Z.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88367 loop_end=142277 sample=../Audio/The Link/(2013622 0049)/81G#4-IKBO.aif
-<group>lokey=82 hikey=85 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=29032 loop_end=143532 sample=../Audio/The Link/(2013622 0049)/85C5-FYBA.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=12068 loop_end=44316 sample=../Audio/The Link/(2013622 0049)/85C5-04P0.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=55076 loop_end=86899 sample=../Audio/The Link/(2013622 0049)/85C5-Y3HM.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=50130 loop_end=97129 sample=../Audio/The Link/(2013622 0049)/85C5-JMKC.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=35481 loop_end=80752 sample=../Audio/The Link/(2013622 0049)/85C5-8SMY.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=89352 loop_end=138334 sample=../Audio/The Link/(2013622 0049)/85C5-WVM9.aif
-<group>lokey=86 hikey=89 pitch_keycenter=88 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=90432 loop_end=143349 sample=../Audio/The Link/(2013622 0049)/89E5-LDSR.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=63541 loop_end=109890 sample=../Audio/The Link/(2013622 0049)/89E5-6QM6.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=85959 loop_end=135442 sample=../Audio/The Link/(2013622 0049)/89E5-6FXP.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=73644 loop_end=102231 sample=../Audio/The Link/(2013622 0049)/89E5-83V2.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=32950 loop_end=131091 sample=../Audio/The Link/(2013622 0049)/89E5-8RBJ.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90058 loop_end=141785 sample=../Audio/The Link/(2013622 0049)/89E5-L4XV.aif
-<group>lokey=90 hikey=93 pitch_keycenter=92 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=87843 loop_end=127831 sample=../Audio/The Link/(2013622 0049)/93G#5-G89D.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=35176 loop_end=64921 sample=../Audio/The Link/(2013622 0049)/93G#5-3R7X.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41565 loop_end=131955 sample=../Audio/The Link/(2013622 0049)/93G#5-C5NB.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=15339 loop_end=45506 sample=../Audio/The Link/(2013622 0049)/93G#5-3LXD.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=89988 loop_end=138313 sample=../Audio/The Link/(2013622 0049)/93G#5-3L7F.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101806 loop_end=138913 sample=../Audio/The Link/(2013622 0049)/93G#5-RG0I.aif
-<group>lokey=94 hikey=127 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=89153 loop_end=121502 sample=../Audio/The Link/(2013622 0049)/96C6-9JCZ.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=8385 loop_end=136592 sample=../Audio/The Link/(2013622 0049)/96C6-ZO8I.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=89451 loop_end=122708 sample=../Audio/The Link/(2013622 0049)/96C6-UBBS.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=91465 loop_end=122869 sample=../Audio/The Link/(2013622 0049)/96C6-7YBS.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=35106 loop_end=67957 sample=../Audio/The Link/(2013622 0049)/96C6-1RAP.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72298 loop_end=106432 sample=../Audio/The Link/(2013622 0049)/96C6-L3DX.aif
+<group>lokey=7 hikey=37 pitch_keycenter=36 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=11165 loop_end=39454 sample=../PolAudio/The Link/(2013622 0049)/37C1-Z4LF.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=69062 loop_end=143824 sample=../PolAudio/The Link/(2013622 0049)/37C1-2XH2.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93145 loop_end=142989 sample=../PolAudio/The Link/(2013622 0049)/37C1-XG3X.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=26697 loop_end=101463 sample=../PolAudio/The Link/(2013622 0049)/37C1-GNVA.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=34674 loop_end=134370 sample=../PolAudio/The Link/(2013622 0049)/37C1-CKHF.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=51494 loop_end=127615 sample=../PolAudio/The Link/(2013622 0049)/37C1-L6F8.aif
+<group>lokey=38 hikey=41 pitch_keycenter=40 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=23340 loop_end=143681 sample=../PolAudio/The Link/(2013622 0049)/41E1-3LSM.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=8911 loop_end=80577 sample=../PolAudio/The Link/(2013622 0049)/41E1-MHQ5.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=33350 loop_end=80419 sample=../PolAudio/The Link/(2013622 0049)/41E1-U8SN.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=23217 loop_end=142485 sample=../PolAudio/The Link/(2013622 0049)/41E1-RUAK.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=66957 loop_end=139702 sample=../PolAudio/The Link/(2013622 0049)/41E1-RA0Q.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=53670 loop_end=125880 sample=../PolAudio/The Link/(2013622 0049)/41E1-QAUA.aif
+<group>lokey=42 hikey=45 pitch_keycenter=44 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=47686 loop_end=142614 sample=../PolAudio/The Link/(2013622 0049)/45G#1-4WAF.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=66013 loop_end=136784 sample=../PolAudio/The Link/(2013622 0049)/45G#1-5P20.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=17335 loop_end=139810 sample=../PolAudio/The Link/(2013622 0049)/45G#1-TZ05.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=69469 loop_end=141509 sample=../PolAudio/The Link/(2013622 0049)/45G#1-0IU8.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=108500 loop_end=138589 sample=../PolAudio/The Link/(2013622 0049)/45G#1-63UM.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=23099 loop_end=52339 sample=../PolAudio/The Link/(2013622 0049)/45G#1-NY3O.aif
+<group>lokey=46 hikey=49 pitch_keycenter=48 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=44229 loop_end=143186 sample=../PolAudio/The Link/(2013622 0049)/49C2-P6QL.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=68377 loop_end=143430 sample=../PolAudio/The Link/(2013622 0049)/49C2-Q0FN.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=74836 loop_end=120947 sample=../PolAudio/The Link/(2013622 0049)/49C2-NPRD.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=37467 loop_end=82903 sample=../PolAudio/The Link/(2013622 0049)/49C2-S274.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=37248 loop_end=82348 sample=../PolAudio/The Link/(2013622 0049)/49C2-U2EC.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=91081 loop_end=133824 sample=../PolAudio/The Link/(2013622 0049)/49C2-HCY8.aif
+<group>lokey=50 hikey=53 pitch_keycenter=52 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=34094 loop_end=134384 sample=../PolAudio/The Link/(2013622 0049)/53E2-OCQC.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=73988 loop_end=144318 sample=../PolAudio/The Link/(2013622 0049)/53E2-FF7Q.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=88454 loop_end=137660 sample=../PolAudio/The Link/(2013622 0049)/53E2-A23G.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=35187 loop_end=65136 sample=../PolAudio/The Link/(2013622 0049)/53E2-ILPN.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=54612 loop_end=103820 sample=../PolAudio/The Link/(2013622 0049)/53E2-E955.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=87995 loop_end=138004 sample=../PolAudio/The Link/(2013622 0049)/53E2-XSSZ.aif
+<group>lokey=54 hikey=57 pitch_keycenter=56 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=78653 loop_end=106628 sample=../PolAudio/The Link/(2013622 0049)/57G#2-8AFK.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=39807 loop_end=139186 sample=../PolAudio/The Link/(2013622 0049)/57G#2-7MBK.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=96204 loop_end=125871 sample=../PolAudio/The Link/(2013622 0049)/57G#2-UWYH.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=93366 loop_end=142742 sample=../PolAudio/The Link/(2013622 0049)/57G#2-030T.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=74702 loop_end=104579 sample=../PolAudio/The Link/(2013622 0049)/57G#2-BLGA.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=44342 loop_end=74009 sample=../PolAudio/The Link/(2013622 0049)/57G#2-1QU3.aif
+<group>lokey=58 hikey=61 pitch_keycenter=60 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=106205 loop_end=136311 sample=../PolAudio/The Link/(2013622 0049)/61C3-POBO.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=20725 loop_end=52172 sample=../PolAudio/The Link/(2013622 0049)/61C3-QFIZ.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=31498 loop_end=128700 sample=../PolAudio/The Link/(2013622 0049)/61C3-FL2A.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=78498 loop_end=127267 sample=../PolAudio/The Link/(2013622 0049)/61C3-8VE5.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=64910 loop_end=97197 sample=../PolAudio/The Link/(2013622 0049)/61C3-SCF9.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=47975 loop_end=143159 sample=../PolAudio/The Link/(2013622 0049)/61C3-8OK2.aif
+<group>lokey=62 hikey=65 pitch_keycenter=64 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=66116 loop_end=142652 sample=../PolAudio/The Link/(2013622 0049)/65E3-1720.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=99176 loop_end=143248 sample=../PolAudio/The Link/(2013622 0049)/65E3-U62I.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=54516 loop_end=127172 sample=../PolAudio/The Link/(2013622 0049)/65E3-XZQI.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=68194 loop_end=98245 sample=../PolAudio/The Link/(2013622 0049)/65E3-PVZ5.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=91045 loop_end=140862 sample=../PolAudio/The Link/(2013622 0049)/65E3-TAVX.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=97814 loop_end=128931 sample=../PolAudio/The Link/(2013622 0049)/65E3-CTA5.aif
+<group>lokey=66 hikey=69 pitch_keycenter=68 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=97114 loop_end=142551 sample=../PolAudio/The Link/(2013622 0049)/69G#3-6GFV.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=29104 loop_end=128220 sample=../PolAudio/The Link/(2013622 0049)/69G#3-5YRH.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=65143 loop_end=138428 sample=../PolAudio/The Link/(2013622 0049)/69G#3-JOF7.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105497 loop_end=136205 sample=../PolAudio/The Link/(2013622 0049)/69G#3-1O6K.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=29675 loop_end=60387 sample=../PolAudio/The Link/(2013622 0049)/69G#3-3T48.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=12888 loop_end=129376 sample=../PolAudio/The Link/(2013622 0049)/69G#3-EQ8U.aif
+<group>lokey=70 hikey=73 pitch_keycenter=72 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=49353 loop_end=142432 sample=../PolAudio/The Link/(2013622 0049)/73C4-JFZ6.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=25201 loop_end=141376 sample=../PolAudio/The Link/(2013622 0049)/73C4-FVUX.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=10184 loop_end=129655 sample=../PolAudio/The Link/(2013622 0049)/73C4-ADHJ.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=68305 loop_end=137240 sample=../PolAudio/The Link/(2013622 0049)/73C4-SO3P.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=81959 loop_end=111635 sample=../PolAudio/The Link/(2013622 0049)/73C4-3P0D.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=73927 loop_end=104444 sample=../PolAudio/The Link/(2013622 0049)/73C4-NVTJ.aif
+<group>lokey=74 hikey=77 pitch_keycenter=76 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=90566 loop_end=136138 sample=../PolAudio/The Link/(2013622 0049)/77E4-ENTP.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=71793 loop_end=104529 sample=../PolAudio/The Link/(2013622 0049)/77E4-5FJE.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=62882 loop_end=107448 sample=../PolAudio/The Link/(2013622 0049)/77E4-UHES.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=41037 loop_end=136171 sample=../PolAudio/The Link/(2013622 0049)/77E4-K2JU.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=62006 loop_end=94477 sample=../PolAudio/The Link/(2013622 0049)/77E4-JC3I.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=22091 loop_end=143688 sample=../PolAudio/The Link/(2013622 0049)/77E4-6MIP.aif
+<group>lokey=78 hikey=81 pitch_keycenter=80 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=61544 loop_end=142547 sample=../PolAudio/The Link/(2013622 0049)/81G#4-2Z4S.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=87048 loop_end=142263 sample=../PolAudio/The Link/(2013622 0049)/81G#4-ZVUE.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=59442 loop_end=91328 sample=../PolAudio/The Link/(2013622 0049)/81G#4-U0LP.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=46701 loop_end=78693 sample=../PolAudio/The Link/(2013622 0049)/81G#4-5PFO.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=79825 loop_end=138694 sample=../PolAudio/The Link/(2013622 0049)/81G#4-KE7Z.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=88367 loop_end=142277 sample=../PolAudio/The Link/(2013622 0049)/81G#4-IKBO.aif
+<group>lokey=82 hikey=85 pitch_keycenter=84 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=29032 loop_end=143532 sample=../PolAudio/The Link/(2013622 0049)/85C5-FYBA.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=12068 loop_end=44316 sample=../PolAudio/The Link/(2013622 0049)/85C5-04P0.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=55076 loop_end=86899 sample=../PolAudio/The Link/(2013622 0049)/85C5-Y3HM.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=50130 loop_end=97129 sample=../PolAudio/The Link/(2013622 0049)/85C5-JMKC.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=35481 loop_end=80752 sample=../PolAudio/The Link/(2013622 0049)/85C5-8SMY.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=89352 loop_end=138334 sample=../PolAudio/The Link/(2013622 0049)/85C5-WVM9.aif
+<group>lokey=86 hikey=89 pitch_keycenter=88 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=90432 loop_end=143349 sample=../PolAudio/The Link/(2013622 0049)/89E5-LDSR.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=63541 loop_end=109890 sample=../PolAudio/The Link/(2013622 0049)/89E5-6QM6.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=85959 loop_end=135442 sample=../PolAudio/The Link/(2013622 0049)/89E5-6FXP.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=73644 loop_end=102231 sample=../PolAudio/The Link/(2013622 0049)/89E5-83V2.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=32950 loop_end=131091 sample=../PolAudio/The Link/(2013622 0049)/89E5-8RBJ.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=90058 loop_end=141785 sample=../PolAudio/The Link/(2013622 0049)/89E5-L4XV.aif
+<group>lokey=90 hikey=93 pitch_keycenter=92 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=87843 loop_end=127831 sample=../PolAudio/The Link/(2013622 0049)/93G#5-G89D.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=35176 loop_end=64921 sample=../PolAudio/The Link/(2013622 0049)/93G#5-3R7X.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41565 loop_end=131955 sample=../PolAudio/The Link/(2013622 0049)/93G#5-C5NB.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=15339 loop_end=45506 sample=../PolAudio/The Link/(2013622 0049)/93G#5-3LXD.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=89988 loop_end=138313 sample=../PolAudio/The Link/(2013622 0049)/93G#5-3L7F.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=101806 loop_end=138913 sample=../PolAudio/The Link/(2013622 0049)/93G#5-RG0I.aif
+<group>lokey=94 hikey=127 pitch_keycenter=96 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=89153 loop_end=121502 sample=../PolAudio/The Link/(2013622 0049)/96C6-9JCZ.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=8385 loop_end=136592 sample=../PolAudio/The Link/(2013622 0049)/96C6-ZO8I.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=89451 loop_end=122708 sample=../PolAudio/The Link/(2013622 0049)/96C6-UBBS.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=91465 loop_end=122869 sample=../PolAudio/The Link/(2013622 0049)/96C6-7YBS.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=35106 loop_end=67957 sample=../PolAudio/The Link/(2013622 0049)/96C6-1RAP.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=72298 loop_end=106432 sample=../PolAudio/The Link/(2013622 0049)/96C6-L3DX.aif

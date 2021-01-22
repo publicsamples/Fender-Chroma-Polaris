@@ -1,124 +1,124 @@
 // this file was generated from You'll Clean That Up Before You Leave.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=654 end=445159 loop_mode=loop_sustain loop_start=8509 loop_end=97556 sample=../Audio/You'll Clean That Up Before You Leave/24C0-VIAG.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=797 loop_mode=loop_sustain loop_start=8220 loop_end=81888 sample=../Audio/You'll Clean That Up Before You Leave/25C#0-YSU9.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=446257 loop_mode=loop_sustain loop_start=7265 loop_end=82843 sample=../Audio/You'll Clean That Up Before You Leave/26D0-IGNK.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=472 end=446629 loop_mode=loop_sustain loop_start=6112 loop_end=81910 sample=../Audio/You'll Clean That Up Before You Leave/27D#0-9YV2.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=919 end=444725 loop_mode=loop_sustain loop_start=8011 loop_end=80700 sample=../Audio/You'll Clean That Up Before You Leave/28E0-X2NN.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 end=444339 loop_mode=loop_sustain loop_start=6581 loop_end=79070 sample=../Audio/You'll Clean That Up Before You Leave/29F0-VT7U.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=635 end=444951 loop_mode=loop_sustain loop_start=225502 loop_end=336966 sample=../Audio/You'll Clean That Up Before You Leave/30F#0-VGJ4.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=635 end=442435 loop_mode=loop_sustain loop_start=9089 loop_end=87959 sample=../Audio/You'll Clean That Up Before You Leave/31G0-F6AT.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=835 end=444273 loop_mode=loop_sustain loop_start=7957 loop_end=96140 sample=../Audio/You'll Clean That Up Before You Leave/32G#0-5W1M.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=592 end=443767 loop_mode=loop_sustain loop_start=8412 loop_end=81184 sample=../Audio/You'll Clean That Up Before You Leave/33A0-0LAW.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=805 end=444202 loop_mode=loop_sustain loop_start=7771 loop_end=99923 sample=../Audio/You'll Clean That Up Before You Leave/34A#0-FLYB.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=444399 loop_mode=loop_sustain loop_start=8405 loop_end=82482 sample=../Audio/You'll Clean That Up Before You Leave/35B0-HJD8.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=871 end=444545 loop_mode=loop_sustain loop_start=8468 loop_end=88570 sample=../Audio/You'll Clean That Up Before You Leave/36C1-6HJL.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 end=453907 loop_mode=loop_sustain loop_start=271314 loop_end=351229 sample=../Audio/You'll Clean That Up Before You Leave/37C#1-2BA1.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=963 end=444385 loop_mode=loop_sustain loop_start=246584 loop_end=358100 sample=../Audio/You'll Clean That Up Before You Leave/38D1-3SMK.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 end=444133 loop_mode=loop_sustain loop_start=7443 loop_end=79783 sample=../Audio/You'll Clean That Up Before You Leave/39D#1-C8E4.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=944 end=443637 loop_mode=loop_sustain loop_start=7916 loop_end=79964 sample=../Audio/You'll Clean That Up Before You Leave/40E1-EWH5.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=850 end=444495 loop_mode=loop_sustain loop_start=250922 loop_end=342076 sample=../Audio/You'll Clean That Up Before You Leave/41F1-LVFK.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 loop_mode=loop_sustain loop_start=226490 loop_end=338246 sample=../Audio/You'll Clean That Up Before You Leave/42F#1-6MV5.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=567 end=444066 loop_mode=loop_sustain loop_start=225435 loop_end=363952 sample=../Audio/You'll Clean That Up Before You Leave/43G1-KZ63.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=821 end=444130 loop_mode=loop_sustain loop_start=8960 loop_end=83539 sample=../Audio/You'll Clean That Up Before You Leave/44G#1-PJVK.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=656 end=443996 loop_mode=loop_sustain loop_start=7292 loop_end=90450 sample=../Audio/You'll Clean That Up Before You Leave/45A1-NVG9.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 end=444729 loop_mode=loop_sustain loop_start=7869 loop_end=87147 sample=../Audio/You'll Clean That Up Before You Leave/46A#1-ZTPP.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=961 end=444645 loop_mode=loop_sustain loop_start=220951 loop_end=365461 sample=../Audio/You'll Clean That Up Before You Leave/47B1-XYXF.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 end=444132 loop_mode=loop_sustain loop_start=8553 loop_end=91636 sample=../Audio/You'll Clean That Up Before You Leave/48C2-24RL.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=442640 loop_mode=loop_sustain loop_start=8770 loop_end=83553 sample=../Audio/You'll Clean That Up Before You Leave/49C#2-E170.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=592 end=447581 loop_mode=loop_sustain loop_start=226761 loop_end=338405 sample=../Audio/You'll Clean That Up Before You Leave/50D2-V82M.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=609 end=443764 loop_mode=loop_sustain loop_start=7638 loop_end=96664 sample=../Audio/You'll Clean That Up Before You Leave/51D#2-L5LV.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 end=443800 loop_mode=loop_sustain loop_start=8776 loop_end=85592 sample=../Audio/You'll Clean That Up Before You Leave/52E2-OXZX.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=907 end=444530 loop_mode=loop_sustain loop_start=8262 loop_end=84851 sample=../Audio/You'll Clean That Up Before You Leave/53F2-NT89.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=591 end=444357 loop_mode=loop_sustain loop_start=6720 loop_end=93706 sample=../Audio/You'll Clean That Up Before You Leave/54F#2-6W2O.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=537 end=444100 loop_mode=loop_sustain loop_start=225485 loop_end=363729 sample=../Audio/You'll Clean That Up Before You Leave/55G2-3HRQ.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=941 loop_mode=loop_sustain loop_start=239941 loop_end=358431 sample=../Audio/You'll Clean That Up Before You Leave/56G#2-GEGE.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=658 end=443069 loop_mode=loop_sustain loop_start=7781 loop_end=79741 sample=../Audio/You'll Clean That Up Before You Leave/57A2-GU78.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=873 end=444440 loop_mode=loop_sustain loop_start=10004 loop_end=84108 sample=../Audio/You'll Clean That Up Before You Leave/58A#2-7ULQ.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=978 end=444493 loop_mode=loop_sustain loop_start=8555 loop_end=83878 sample=../Audio/You'll Clean That Up Before You Leave/59B2-8R0J.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=444362 loop_mode=loop_sustain loop_start=224321 loop_end=343255 sample=../Audio/You'll Clean That Up Before You Leave/60C3-FJEU.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=693 end=447300 loop_mode=loop_sustain loop_start=9862 loop_end=83196 sample=../Audio/You'll Clean That Up Before You Leave/61C#3-5BCD.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=940 end=444717 loop_mode=loop_sustain loop_start=247564 loop_end=359098 sample=../Audio/You'll Clean That Up Before You Leave/62D3-AZAA.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=442679 loop_mode=loop_sustain loop_start=12100 loop_end=89940 sample=../Audio/You'll Clean That Up Before You Leave/63D#3-UJVS.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=969 end=444769 loop_mode=loop_sustain loop_start=9830 loop_end=85663 sample=../Audio/You'll Clean That Up Before You Leave/64E3-P8HZ.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=576 loop_mode=loop_sustain loop_start=220652 loop_end=365028 sample=../Audio/You'll Clean That Up Before You Leave/65F3-BQNY.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=535 end=444598 loop_mode=loop_sustain loop_start=244321 loop_end=355966 sample=../Audio/You'll Clean That Up Before You Leave/66F#3-9RIZ.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=965 loop_mode=loop_sustain loop_start=276425 loop_end=356349 sample=../Audio/You'll Clean That Up Before You Leave/67G3-HWMJ.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=558 end=444201 loop_mode=loop_sustain loop_start=244375 loop_end=363445 sample=../Audio/You'll Clean That Up Before You Leave/68G#3-XLLR.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=916 end=444902 loop_mode=loop_sustain loop_start=8959 loop_end=92052 sample=../Audio/You'll Clean That Up Before You Leave/69A3-V3M7.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 end=443151 loop_mode=loop_sustain loop_start=11738 loop_end=84237 sample=../Audio/You'll Clean That Up Before You Leave/70A#3-8IQY.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=669 loop_mode=loop_sustain loop_start=272413 loop_end=364202 sample=../Audio/You'll Clean That Up Before You Leave/71B3-0Y3X.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=637 end=450178 loop_mode=loop_sustain loop_start=244471 loop_end=356224 sample=../Audio/You'll Clean That Up Before You Leave/72C4-D363.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=444413 loop_mode=loop_sustain loop_start=223746 loop_end=354838 sample=../Audio/You'll Clean That Up Before You Leave/73C#4-PCPJ.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 end=444846 loop_mode=loop_sustain loop_start=232147 loop_end=343745 sample=../Audio/You'll Clean That Up Before You Leave/74D4-B04B.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=461 end=444599 loop_mode=loop_sustain loop_start=4198 loop_end=95782 sample=../Audio/You'll Clean That Up Before You Leave/75D#4-LMRA.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=905 loop_mode=loop_sustain loop_start=3363 loop_end=77758 sample=../Audio/You'll Clean That Up Before You Leave/76E4-I29S.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=605 end=448777 loop_mode=loop_sustain loop_start=264992 loop_end=355943 sample=../Audio/You'll Clean That Up Before You Leave/77F4-58M9.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=503 loop_mode=loop_sustain loop_start=4538 loop_end=100455 sample=../Audio/You'll Clean That Up Before You Leave/78F#4-WTJN.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=936 end=447934 loop_mode=loop_sustain loop_start=3055 loop_end=95111 sample=../Audio/You'll Clean That Up Before You Leave/79G4-HJM1.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1012 end=470717 loop_mode=loop_sustain loop_start=2543 loop_end=79227 sample=../Audio/You'll Clean That Up Before You Leave/80G#4-33X6.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=942 end=450478 loop_mode=loop_sustain loop_start=3086 loop_end=86419 sample=../Audio/You'll Clean That Up Before You Leave/81A4-W16I.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=552 end=491065 loop_mode=loop_sustain loop_start=1595 loop_end=78436 sample=../Audio/You'll Clean That Up Before You Leave/82A#4-R7KX.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1031 end=447894 loop_mode=loop_sustain loop_start=2223 loop_end=83756 sample=../Audio/You'll Clean That Up Before You Leave/83B4-JQ95.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=536 end=466763 loop_mode=loop_sustain loop_start=2755 loop_end=78156 sample=../Audio/You'll Clean That Up Before You Leave/84C5-OWVB.wav
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=654 end=445159 loop_mode=loop_sustain loop_start=8509 loop_end=97556 sample=../PolAudio/You'll Clean That Up Before You Leave/24C0-VIAG.wav
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=797 loop_mode=loop_sustain loop_start=8220 loop_end=81888 sample=../PolAudio/You'll Clean That Up Before You Leave/25C#0-YSU9.wav
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=727 end=446257 loop_mode=loop_sustain loop_start=7265 loop_end=82843 sample=../PolAudio/You'll Clean That Up Before You Leave/26D0-IGNK.wav
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=472 end=446629 loop_mode=loop_sustain loop_start=6112 loop_end=81910 sample=../PolAudio/You'll Clean That Up Before You Leave/27D#0-9YV2.wav
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=919 end=444725 loop_mode=loop_sustain loop_start=8011 loop_end=80700 sample=../PolAudio/You'll Clean That Up Before You Leave/28E0-X2NN.wav
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=992 end=444339 loop_mode=loop_sustain loop_start=6581 loop_end=79070 sample=../PolAudio/You'll Clean That Up Before You Leave/29F0-VT7U.wav
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=635 end=444951 loop_mode=loop_sustain loop_start=225502 loop_end=336966 sample=../PolAudio/You'll Clean That Up Before You Leave/30F#0-VGJ4.wav
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=635 end=442435 loop_mode=loop_sustain loop_start=9089 loop_end=87959 sample=../PolAudio/You'll Clean That Up Before You Leave/31G0-F6AT.wav
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=835 end=444273 loop_mode=loop_sustain loop_start=7957 loop_end=96140 sample=../PolAudio/You'll Clean That Up Before You Leave/32G#0-5W1M.wav
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=592 end=443767 loop_mode=loop_sustain loop_start=8412 loop_end=81184 sample=../PolAudio/You'll Clean That Up Before You Leave/33A0-0LAW.wav
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=805 end=444202 loop_mode=loop_sustain loop_start=7771 loop_end=99923 sample=../PolAudio/You'll Clean That Up Before You Leave/34A#0-FLYB.wav
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=744 end=444399 loop_mode=loop_sustain loop_start=8405 loop_end=82482 sample=../PolAudio/You'll Clean That Up Before You Leave/35B0-HJD8.wav
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=871 end=444545 loop_mode=loop_sustain loop_start=8468 loop_end=88570 sample=../PolAudio/You'll Clean That Up Before You Leave/36C1-6HJL.wav
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=575 end=453907 loop_mode=loop_sustain loop_start=271314 loop_end=351229 sample=../PolAudio/You'll Clean That Up Before You Leave/37C#1-2BA1.wav
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=963 end=444385 loop_mode=loop_sustain loop_start=246584 loop_end=358100 sample=../PolAudio/You'll Clean That Up Before You Leave/38D1-3SMK.wav
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=555 end=444133 loop_mode=loop_sustain loop_start=7443 loop_end=79783 sample=../PolAudio/You'll Clean That Up Before You Leave/39D#1-C8E4.wav
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=944 end=443637 loop_mode=loop_sustain loop_start=7916 loop_end=79964 sample=../PolAudio/You'll Clean That Up Before You Leave/40E1-EWH5.wav
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=850 end=444495 loop_mode=loop_sustain loop_start=250922 loop_end=342076 sample=../PolAudio/You'll Clean That Up Before You Leave/41F1-LVFK.wav
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=627 loop_mode=loop_sustain loop_start=226490 loop_end=338246 sample=../PolAudio/You'll Clean That Up Before You Leave/42F#1-6MV5.wav
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=567 end=444066 loop_mode=loop_sustain loop_start=225435 loop_end=363952 sample=../PolAudio/You'll Clean That Up Before You Leave/43G1-KZ63.wav
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=821 end=444130 loop_mode=loop_sustain loop_start=8960 loop_end=83539 sample=../PolAudio/You'll Clean That Up Before You Leave/44G#1-PJVK.wav
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=656 end=443996 loop_mode=loop_sustain loop_start=7292 loop_end=90450 sample=../PolAudio/You'll Clean That Up Before You Leave/45A1-NVG9.wav
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=832 end=444729 loop_mode=loop_sustain loop_start=7869 loop_end=87147 sample=../PolAudio/You'll Clean That Up Before You Leave/46A#1-ZTPP.wav
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=961 end=444645 loop_mode=loop_sustain loop_start=220951 loop_end=365461 sample=../PolAudio/You'll Clean That Up Before You Leave/47B1-XYXF.wav
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=542 end=444132 loop_mode=loop_sustain loop_start=8553 loop_end=91636 sample=../PolAudio/You'll Clean That Up Before You Leave/48C2-24RL.wav
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=627 end=442640 loop_mode=loop_sustain loop_start=8770 loop_end=83553 sample=../PolAudio/You'll Clean That Up Before You Leave/49C#2-E170.wav
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=592 end=447581 loop_mode=loop_sustain loop_start=226761 loop_end=338405 sample=../PolAudio/You'll Clean That Up Before You Leave/50D2-V82M.wav
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=609 end=443764 loop_mode=loop_sustain loop_start=7638 loop_end=96664 sample=../PolAudio/You'll Clean That Up Before You Leave/51D#2-L5LV.wav
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=646 end=443800 loop_mode=loop_sustain loop_start=8776 loop_end=85592 sample=../PolAudio/You'll Clean That Up Before You Leave/52E2-OXZX.wav
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=907 end=444530 loop_mode=loop_sustain loop_start=8262 loop_end=84851 sample=../PolAudio/You'll Clean That Up Before You Leave/53F2-NT89.wav
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=591 end=444357 loop_mode=loop_sustain loop_start=6720 loop_end=93706 sample=../PolAudio/You'll Clean That Up Before You Leave/54F#2-6W2O.wav
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=537 end=444100 loop_mode=loop_sustain loop_start=225485 loop_end=363729 sample=../PolAudio/You'll Clean That Up Before You Leave/55G2-3HRQ.wav
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=941 loop_mode=loop_sustain loop_start=239941 loop_end=358431 sample=../PolAudio/You'll Clean That Up Before You Leave/56G#2-GEGE.wav
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=658 end=443069 loop_mode=loop_sustain loop_start=7781 loop_end=79741 sample=../PolAudio/You'll Clean That Up Before You Leave/57A2-GU78.wav
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=873 end=444440 loop_mode=loop_sustain loop_start=10004 loop_end=84108 sample=../PolAudio/You'll Clean That Up Before You Leave/58A#2-7ULQ.wav
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=978 end=444493 loop_mode=loop_sustain loop_start=8555 loop_end=83878 sample=../PolAudio/You'll Clean That Up Before You Leave/59B2-8R0J.wav
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=785 end=444362 loop_mode=loop_sustain loop_start=224321 loop_end=343255 sample=../PolAudio/You'll Clean That Up Before You Leave/60C3-FJEU.wav
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=693 end=447300 loop_mode=loop_sustain loop_start=9862 loop_end=83196 sample=../PolAudio/You'll Clean That Up Before You Leave/61C#3-5BCD.wav
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=940 end=444717 loop_mode=loop_sustain loop_start=247564 loop_end=359098 sample=../PolAudio/You'll Clean That Up Before You Leave/62D3-AZAA.wav
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=631 end=442679 loop_mode=loop_sustain loop_start=12100 loop_end=89940 sample=../PolAudio/You'll Clean That Up Before You Leave/63D#3-UJVS.wav
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=969 end=444769 loop_mode=loop_sustain loop_start=9830 loop_end=85663 sample=../PolAudio/You'll Clean That Up Before You Leave/64E3-P8HZ.wav
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=576 loop_mode=loop_sustain loop_start=220652 loop_end=365028 sample=../PolAudio/You'll Clean That Up Before You Leave/65F3-BQNY.wav
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=535 end=444598 loop_mode=loop_sustain loop_start=244321 loop_end=355966 sample=../PolAudio/You'll Clean That Up Before You Leave/66F#3-9RIZ.wav
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=965 loop_mode=loop_sustain loop_start=276425 loop_end=356349 sample=../PolAudio/You'll Clean That Up Before You Leave/67G3-HWMJ.wav
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=558 end=444201 loop_mode=loop_sustain loop_start=244375 loop_end=363445 sample=../PolAudio/You'll Clean That Up Before You Leave/68G#3-XLLR.wav
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=916 end=444902 loop_mode=loop_sustain loop_start=8959 loop_end=92052 sample=../PolAudio/You'll Clean That Up Before You Leave/69A3-V3M7.wav
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=838 end=443151 loop_mode=loop_sustain loop_start=11738 loop_end=84237 sample=../PolAudio/You'll Clean That Up Before You Leave/70A#3-8IQY.wav
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=669 loop_mode=loop_sustain loop_start=272413 loop_end=364202 sample=../PolAudio/You'll Clean That Up Before You Leave/71B3-0Y3X.wav
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=637 end=450178 loop_mode=loop_sustain loop_start=244471 loop_end=356224 sample=../PolAudio/You'll Clean That Up Before You Leave/72C4-D363.wav
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=471 end=444413 loop_mode=loop_sustain loop_start=223746 loop_end=354838 sample=../PolAudio/You'll Clean That Up Before You Leave/73C#4-PCPJ.wav
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=636 end=444846 loop_mode=loop_sustain loop_start=232147 loop_end=343745 sample=../PolAudio/You'll Clean That Up Before You Leave/74D4-B04B.wav
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=461 end=444599 loop_mode=loop_sustain loop_start=4198 loop_end=95782 sample=../PolAudio/You'll Clean That Up Before You Leave/75D#4-LMRA.wav
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=905 loop_mode=loop_sustain loop_start=3363 loop_end=77758 sample=../PolAudio/You'll Clean That Up Before You Leave/76E4-I29S.wav
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=605 end=448777 loop_mode=loop_sustain loop_start=264992 loop_end=355943 sample=../PolAudio/You'll Clean That Up Before You Leave/77F4-58M9.wav
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=503 loop_mode=loop_sustain loop_start=4538 loop_end=100455 sample=../PolAudio/You'll Clean That Up Before You Leave/78F#4-WTJN.wav
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=936 end=447934 loop_mode=loop_sustain loop_start=3055 loop_end=95111 sample=../PolAudio/You'll Clean That Up Before You Leave/79G4-HJM1.wav
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1012 end=470717 loop_mode=loop_sustain loop_start=2543 loop_end=79227 sample=../PolAudio/You'll Clean That Up Before You Leave/80G#4-33X6.wav
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=942 end=450478 loop_mode=loop_sustain loop_start=3086 loop_end=86419 sample=../PolAudio/You'll Clean That Up Before You Leave/81A4-W16I.wav
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=552 end=491065 loop_mode=loop_sustain loop_start=1595 loop_end=78436 sample=../PolAudio/You'll Clean That Up Before You Leave/82A#4-R7KX.wav
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1031 end=447894 loop_mode=loop_sustain loop_start=2223 loop_end=83756 sample=../PolAudio/You'll Clean That Up Before You Leave/83B4-JQ95.wav
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=536 end=466763 loop_mode=loop_sustain loop_start=2755 loop_end=78156 sample=../PolAudio/You'll Clean That Up Before You Leave/84C5-OWVB.wav

@@ -1,490 +1,490 @@
 // this file was generated from Cantankerous Stack.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1218 end=510186 sample=../Audio/Cantankerous/24C0-31GG.wav
-<group> key=24 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1218 end=510186 sample=../Audio/Cantankerous/24C0-31GG.wav
-<group> key=24 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1218 end=510186 sample=../Audio/Cantankerous/24C0-31GG.wav
-<group> key=24 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1218 end=510186 sample=../Audio/Cantankerous/24C0-31GG.wav
-<group> key=25 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=829 end=528124 sample=../Audio/Cantankerous/25C#0-ZHQL.wav
-<group> key=25 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=829 end=528124 sample=../Audio/Cantankerous/25C#0-ZHQL.wav
-<group> key=25 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=829 end=528124 sample=../Audio/Cantankerous/25C#0-ZHQL.wav
-<group> key=25 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=829 end=528124 sample=../Audio/Cantankerous/25C#0-ZHQL.wav
-<group> key=26 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=972 end=505985 sample=../Audio/Cantankerous/26D0-MDIW.wav
-<group> key=26 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 end=505985 sample=../Audio/Cantankerous/26D0-MDIW.wav
-<group> key=26 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=972 end=505985 sample=../Audio/Cantankerous/26D0-MDIW.wav
-<group> key=26 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 end=505985 sample=../Audio/Cantankerous/26D0-MDIW.wav
-<group> key=27 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1042 sample=../Audio/Cantankerous/27D#0-1LL3.wav
-<group> key=27 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1042 sample=../Audio/Cantankerous/27D#0-1LL3.wav
-<group> key=27 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1042 sample=../Audio/Cantankerous/27D#0-1LL3.wav
-<group> key=27 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1042 sample=../Audio/Cantankerous/27D#0-1LL3.wav
-<group> key=28 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=845 sample=../Audio/Cantankerous/28E0-N3VC.wav
-<group> key=28 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 sample=../Audio/Cantankerous/28E0-N3VC.wav
-<group> key=28 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=845 sample=../Audio/Cantankerous/28E0-N3VC.wav
-<group> key=28 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 sample=../Audio/Cantankerous/28E0-N3VC.wav
-<group> key=29 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1373 end=495671 sample=../Audio/Cantankerous/29F0-VJ23.wav
-<group> key=29 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1373 end=495671 sample=../Audio/Cantankerous/29F0-VJ23.wav
-<group> key=29 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1373 end=495671 sample=../Audio/Cantankerous/29F0-VJ23.wav
-<group> key=29 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1373 end=495671 sample=../Audio/Cantankerous/29F0-VJ23.wav
-<group> key=30 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1164 sample=../Audio/Cantankerous/30F#0-Q26Z.wav
-<group> key=30 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1164 sample=../Audio/Cantankerous/30F#0-Q26Z.wav
-<group> key=30 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1164 sample=../Audio/Cantankerous/30F#0-Q26Z.wav
-<group> key=30 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1164 sample=../Audio/Cantankerous/30F#0-Q26Z.wav
-<group> key=31 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=748 end=527162 sample=../Audio/Cantankerous/31G0-X7ZR.wav
-<group> key=31 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 end=527162 sample=../Audio/Cantankerous/31G0-X7ZR.wav
-<group> key=31 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=748 end=527162 sample=../Audio/Cantankerous/31G0-X7ZR.wav
-<group> key=31 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 end=527162 sample=../Audio/Cantankerous/31G0-X7ZR.wav
-<group> key=32 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=972 sample=../Audio/Cantankerous/32G#0-ABFL.wav
-<group> key=32 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 sample=../Audio/Cantankerous/32G#0-ABFL.wav
-<group> key=32 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=972 sample=../Audio/Cantankerous/32G#0-ABFL.wav
-<group> key=32 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 sample=../Audio/Cantankerous/32G#0-ABFL.wav
-<group> key=33 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1875 sample=../Audio/Cantankerous/33A0-OQNL.wav
-<group> key=33 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1875 sample=../Audio/Cantankerous/33A0-OQNL.wav
-<group> key=33 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1875 sample=../Audio/Cantankerous/33A0-OQNL.wav
-<group> key=33 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1875 sample=../Audio/Cantankerous/33A0-OQNL.wav
-<group> key=34 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1259 end=499713 sample=../Audio/Cantankerous/34A#0-GOSA.wav
-<group> key=34 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1259 end=499713 sample=../Audio/Cantankerous/34A#0-GOSA.wav
-<group> key=34 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1259 end=499713 sample=../Audio/Cantankerous/34A#0-GOSA.wav
-<group> key=34 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1259 end=499713 sample=../Audio/Cantankerous/34A#0-GOSA.wav
-<group> key=35 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1384 end=496539 sample=../Audio/Cantankerous/35B0-J409.wav
-<group> key=35 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1384 end=496539 sample=../Audio/Cantankerous/35B0-J409.wav
-<group> key=35 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1384 end=496539 sample=../Audio/Cantankerous/35B0-J409.wav
-<group> key=35 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1384 end=496539 sample=../Audio/Cantankerous/35B0-J409.wav
-<group> key=36 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1427 end=510571 sample=../Audio/Cantankerous/36C1-SGC1.wav
-<group> key=36 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1427 end=510571 sample=../Audio/Cantankerous/36C1-SGC1.wav
-<group> key=36 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1427 end=510571 sample=../Audio/Cantankerous/36C1-SGC1.wav
-<group> key=36 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1427 end=510571 sample=../Audio/Cantankerous/36C1-SGC1.wav
-<group> key=37 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1161 end=527741 sample=../Audio/Cantankerous/37C#1-9IZP.wav
-<group> key=37 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1161 end=527741 sample=../Audio/Cantankerous/37C#1-9IZP.wav
-<group> key=37 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1161 end=527741 sample=../Audio/Cantankerous/37C#1-9IZP.wav
-<group> key=37 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1161 end=527741 sample=../Audio/Cantankerous/37C#1-9IZP.wav
-<group> key=38 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1248 sample=../Audio/Cantankerous/38D1-8YCU.wav
-<group> key=38 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1248 sample=../Audio/Cantankerous/38D1-8YCU.wav
-<group> key=38 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1248 sample=../Audio/Cantankerous/38D1-8YCU.wav
-<group> key=38 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1248 sample=../Audio/Cantankerous/38D1-8YCU.wav
-<group> key=39 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1316 end=490593 sample=../Audio/Cantankerous/39D#1-C7IU.wav
-<group> key=39 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1316 end=490593 sample=../Audio/Cantankerous/39D#1-C7IU.wav
-<group> key=39 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1316 end=490593 sample=../Audio/Cantankerous/39D#1-C7IU.wav
-<group> key=39 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1316 end=490593 sample=../Audio/Cantankerous/39D#1-C7IU.wav
-<group> key=40 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1309 end=499258 sample=../Audio/Cantankerous/40E1-ZLHF.wav
-<group> key=40 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1309 end=499258 sample=../Audio/Cantankerous/40E1-ZLHF.wav
-<group> key=40 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1309 end=499258 sample=../Audio/Cantankerous/40E1-ZLHF.wav
-<group> key=40 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1309 end=499258 sample=../Audio/Cantankerous/40E1-ZLHF.wav
-<group> key=41 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1145 end=495755 sample=../Audio/Cantankerous/41F1-PQBN.wav
-<group> key=41 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1145 end=495755 sample=../Audio/Cantankerous/41F1-PQBN.wav
-<group> key=41 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1145 end=495755 sample=../Audio/Cantankerous/41F1-PQBN.wav
-<group> key=41 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1145 end=495755 sample=../Audio/Cantankerous/41F1-PQBN.wav
-<group> key=42 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1062 end=510681 sample=../Audio/Cantankerous/42F#1-TRNV.wav
-<group> key=42 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=510681 sample=../Audio/Cantankerous/42F#1-TRNV.wav
-<group> key=42 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1062 end=510681 sample=../Audio/Cantankerous/42F#1-TRNV.wav
-<group> key=42 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=510681 sample=../Audio/Cantankerous/42F#1-TRNV.wav
-<group> key=43 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=761 end=527220 sample=../Audio/Cantankerous/43G1-9BE9.wav
-<group> key=43 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 end=527220 sample=../Audio/Cantankerous/43G1-9BE9.wav
-<group> key=43 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=761 end=527220 sample=../Audio/Cantankerous/43G1-9BE9.wav
-<group> key=43 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 end=527220 sample=../Audio/Cantankerous/43G1-9BE9.wav
-<group> key=44 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1011 end=507268 sample=../Audio/Cantankerous/44G#1-NRD6.wav
-<group> key=44 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1011 end=507268 sample=../Audio/Cantankerous/44G#1-NRD6.wav
-<group> key=44 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1011 end=507268 sample=../Audio/Cantankerous/44G#1-NRD6.wav
-<group> key=44 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1011 end=507268 sample=../Audio/Cantankerous/44G#1-NRD6.wav
-<group> key=45 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1265 end=490121 sample=../Audio/Cantankerous/45A1-1VFM.wav
-<group> key=45 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1265 end=490121 sample=../Audio/Cantankerous/45A1-1VFM.wav
-<group> key=45 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1265 end=490121 sample=../Audio/Cantankerous/45A1-1VFM.wav
-<group> key=45 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1265 end=490121 sample=../Audio/Cantankerous/45A1-1VFM.wav
-<group> key=46 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=879 end=498971 sample=../Audio/Cantankerous/46A#1-Y3L9.wav
-<group> key=46 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=498971 sample=../Audio/Cantankerous/46A#1-Y3L9.wav
-<group> key=46 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=879 end=498971 sample=../Audio/Cantankerous/46A#1-Y3L9.wav
-<group> key=46 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=498971 sample=../Audio/Cantankerous/46A#1-Y3L9.wav
-<group> key=47 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=933 end=496335 sample=../Audio/Cantankerous/47B1-YY6N.wav
-<group> key=47 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=496335 sample=../Audio/Cantankerous/47B1-YY6N.wav
-<group> key=47 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=933 end=496335 sample=../Audio/Cantankerous/47B1-YY6N.wav
-<group> key=47 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=496335 sample=../Audio/Cantankerous/47B1-YY6N.wav
-<group> key=48 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1231 end=510990 sample=../Audio/Cantankerous/48C2-7GVC.wav
-<group> key=48 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1231 end=510990 sample=../Audio/Cantankerous/48C2-7GVC.wav
-<group> key=48 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1231 end=510990 sample=../Audio/Cantankerous/48C2-7GVC.wav
-<group> key=48 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1231 end=510990 sample=../Audio/Cantankerous/48C2-7GVC.wav
-<group> key=49 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1175 end=527093 sample=../Audio/Cantankerous/49C#2-QJLW.wav
-<group> key=49 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1175 end=527093 sample=../Audio/Cantankerous/49C#2-QJLW.wav
-<group> key=49 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1175 end=527093 sample=../Audio/Cantankerous/49C#2-QJLW.wav
-<group> key=49 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1175 end=527093 sample=../Audio/Cantankerous/49C#2-QJLW.wav
-<group> key=50 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1108 sample=../Audio/Cantankerous/50D2-8Z9G.wav
-<group> key=50 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 sample=../Audio/Cantankerous/50D2-8Z9G.wav
-<group> key=50 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1108 sample=../Audio/Cantankerous/50D2-8Z9G.wav
-<group> key=50 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 sample=../Audio/Cantankerous/50D2-8Z9G.wav
-<group> key=51 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1878 end=489989 sample=../Audio/Cantankerous/51D#2-7U79.wav
-<group> key=51 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1878 end=489989 sample=../Audio/Cantankerous/51D#2-7U79.wav
-<group> key=51 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1878 end=489989 sample=../Audio/Cantankerous/51D#2-7U79.wav
-<group> key=51 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1878 end=489989 sample=../Audio/Cantankerous/51D#2-7U79.wav
-<group> key=52 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=988 sample=../Audio/Cantankerous/52E2-6H0Y.wav
-<group> key=52 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 sample=../Audio/Cantankerous/52E2-6H0Y.wav
-<group> key=52 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=988 sample=../Audio/Cantankerous/52E2-6H0Y.wav
-<group> key=52 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 sample=../Audio/Cantankerous/52E2-6H0Y.wav
-<group> key=53 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1166 end=496141 sample=../Audio/Cantankerous/53F2-ZC32.wav
-<group> key=53 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1166 end=496141 sample=../Audio/Cantankerous/53F2-ZC32.wav
-<group> key=53 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1166 end=496141 sample=../Audio/Cantankerous/53F2-ZC32.wav
-<group> key=53 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1166 end=496141 sample=../Audio/Cantankerous/53F2-ZC32.wav
-<group> key=54 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1563 sample=../Audio/Cantankerous/54F#2-TXQ5.wav
-<group> key=54 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1563 sample=../Audio/Cantankerous/54F#2-TXQ5.wav
-<group> key=54 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1563 sample=../Audio/Cantankerous/54F#2-TXQ5.wav
-<group> key=54 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1563 sample=../Audio/Cantankerous/54F#2-TXQ5.wav
-<group> key=55 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1097 end=529341 sample=../Audio/Cantankerous/55G2-LKMT.wav
-<group> key=55 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 end=529341 sample=../Audio/Cantankerous/55G2-LKMT.wav
-<group> key=55 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1097 end=529341 sample=../Audio/Cantankerous/55G2-LKMT.wav
-<group> key=55 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 end=529341 sample=../Audio/Cantankerous/55G2-LKMT.wav
-<group> key=56 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=2002 end=508117 sample=../Audio/Cantankerous/56G#2-KGS3.wav
-<group> key=56 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2002 end=508117 sample=../Audio/Cantankerous/56G#2-KGS3.wav
-<group> key=56 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=2002 end=508117 sample=../Audio/Cantankerous/56G#2-KGS3.wav
-<group> key=56 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2002 end=508117 sample=../Audio/Cantankerous/56G#2-KGS3.wav
-<group> key=57 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1040 sample=../Audio/Cantankerous/57A2-XWBS.wav
-<group> key=57 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1040 sample=../Audio/Cantankerous/57A2-XWBS.wav
-<group> key=57 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1040 sample=../Audio/Cantankerous/57A2-XWBS.wav
-<group> key=57 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1040 sample=../Audio/Cantankerous/57A2-XWBS.wav
-<group> key=58 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1550 sample=../Audio/Cantankerous/58A#2-NQZY.wav
-<group> key=58 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1550 sample=../Audio/Cantankerous/58A#2-NQZY.wav
-<group> key=58 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1550 sample=../Audio/Cantankerous/58A#2-NQZY.wav
-<group> key=58 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1550 sample=../Audio/Cantankerous/58A#2-NQZY.wav
-<group> key=59 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1025 end=496017 sample=../Audio/Cantankerous/59B2-022R.wav
-<group> key=59 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1025 end=496017 sample=../Audio/Cantankerous/59B2-022R.wav
-<group> key=59 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1025 end=496017 sample=../Audio/Cantankerous/59B2-022R.wav
-<group> key=59 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1025 end=496017 sample=../Audio/Cantankerous/59B2-022R.wav
-<group> key=60 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1165 sample=../Audio/Cantankerous/60C3-4TOR.wav
-<group> key=60 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1165 sample=../Audio/Cantankerous/60C3-4TOR.wav
-<group> key=60 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1165 sample=../Audio/Cantankerous/60C3-4TOR.wav
-<group> key=60 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1165 sample=../Audio/Cantankerous/60C3-4TOR.wav
-<group> key=61 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1100 end=530003 sample=../Audio/Cantankerous/61C#3-0B07.wav
-<group> key=61 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1100 end=530003 sample=../Audio/Cantankerous/61C#3-0B07.wav
-<group> key=61 pan=-46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1100 end=530003 sample=../Audio/Cantankerous/61C#3-0B07.wav
-<group> key=61 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1100 end=530003 sample=../Audio/Cantankerous/61C#3-0B07.wav
-<group> key=62 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1038 sample=../Audio/Cantankerous/62D3-K1S1.wav
-<group> key=62 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1038 sample=../Audio/Cantankerous/62D3-K1S1.wav
-<group> key=62 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1038 sample=../Audio/Cantankerous/62D3-K1S1.wav
-<group> key=62 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1038 sample=../Audio/Cantankerous/62D3-K1S1.wav
-<group> key=63 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1003 end=489701 sample=../Audio/Cantankerous/63D#3-FCQ2.wav
-<group> key=63 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1003 end=489701 sample=../Audio/Cantankerous/63D#3-FCQ2.wav
-<group> key=63 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1003 end=489701 sample=../Audio/Cantankerous/63D#3-FCQ2.wav
-<group> key=63 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1003 end=489701 sample=../Audio/Cantankerous/63D#3-FCQ2.wav
-<group> key=64 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1342 end=499276 sample=../Audio/Cantankerous/64E3-196X.wav
-<group> key=64 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1342 end=499276 sample=../Audio/Cantankerous/64E3-196X.wav
-<group> key=64 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1342 end=499276 sample=../Audio/Cantankerous/64E3-196X.wav
-<group> key=64 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1342 end=499276 sample=../Audio/Cantankerous/64E3-196X.wav
-<group> key=65 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1151 end=496289 sample=../Audio/Cantankerous/65F3-U61C.wav
-<group> key=65 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1151 end=496289 sample=../Audio/Cantankerous/65F3-U61C.wav
-<group> key=65 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1151 end=496289 sample=../Audio/Cantankerous/65F3-U61C.wav
-<group> key=65 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1151 end=496289 sample=../Audio/Cantankerous/65F3-U61C.wav
-<group> key=66 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1263 end=509834 sample=../Audio/Cantankerous/66F#3-1Q33.wav
-<group> key=66 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1263 end=509834 sample=../Audio/Cantankerous/66F#3-1Q33.wav
-<group> key=66 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1263 end=509834 sample=../Audio/Cantankerous/66F#3-1Q33.wav
-<group> key=66 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1263 end=509834 sample=../Audio/Cantankerous/66F#3-1Q33.wav
-<group> key=67 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=775 sample=../Audio/Cantankerous/67G3-AZD3.wav
-<group> key=67 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 sample=../Audio/Cantankerous/67G3-AZD3.wav
-<group> key=67 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=775 sample=../Audio/Cantankerous/67G3-AZD3.wav
-<group> key=67 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 sample=../Audio/Cantankerous/67G3-AZD3.wav
-<group> key=68 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=972 end=507419 sample=../Audio/Cantankerous/68G#3-W1EI.wav
-<group> key=68 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 end=507419 sample=../Audio/Cantankerous/68G#3-W1EI.wav
-<group> key=68 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=972 end=507419 sample=../Audio/Cantankerous/68G#3-W1EI.wav
-<group> key=68 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 end=507419 sample=../Audio/Cantankerous/68G#3-W1EI.wav
-<group> key=69 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1956 sample=../Audio/Cantankerous/69A3-N1LP.wav
-<group> key=69 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1956 sample=../Audio/Cantankerous/69A3-N1LP.wav
-<group> key=69 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1956 sample=../Audio/Cantankerous/69A3-N1LP.wav
-<group> key=69 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1956 sample=../Audio/Cantankerous/69A3-N1LP.wav
-<group> key=70 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1198 end=499106 sample=../Audio/Cantankerous/70A#3-GKZ5.wav
-<group> key=70 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1198 end=499106 sample=../Audio/Cantankerous/70A#3-GKZ5.wav
-<group> key=70 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1198 end=499106 sample=../Audio/Cantankerous/70A#3-GKZ5.wav
-<group> key=70 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1198 end=499106 sample=../Audio/Cantankerous/70A#3-GKZ5.wav
-<group> key=71 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1177 end=495872 sample=../Audio/Cantankerous/71B3-ZYPL.wav
-<group> key=71 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1177 end=495872 sample=../Audio/Cantankerous/71B3-ZYPL.wav
-<group> key=71 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1177 end=495872 sample=../Audio/Cantankerous/71B3-ZYPL.wav
-<group> key=71 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1177 end=495872 sample=../Audio/Cantankerous/71B3-ZYPL.wav
-<group> key=72 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1019 end=509172 sample=../Audio/Cantankerous/72C4-WMM7.wav
-<group> key=72 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1019 end=509172 sample=../Audio/Cantankerous/72C4-WMM7.wav
-<group> key=72 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1019 end=509172 sample=../Audio/Cantankerous/72C4-WMM7.wav
-<group> key=72 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1019 end=509172 sample=../Audio/Cantankerous/72C4-WMM7.wav
-<group> key=73 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1110 end=531039 sample=../Audio/Cantankerous/73C#4-6MRJ.wav
-<group> key=73 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1110 end=531039 sample=../Audio/Cantankerous/73C#4-6MRJ.wav
-<group> key=73 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1110 end=531039 sample=../Audio/Cantankerous/73C#4-6MRJ.wav
-<group> key=73 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1110 end=531039 sample=../Audio/Cantankerous/73C#4-6MRJ.wav
-<group> key=74 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=898 end=504964 sample=../Audio/Cantankerous/74D4-PF6G.wav
-<group> key=74 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=898 end=504964 sample=../Audio/Cantankerous/74D4-PF6G.wav
-<group> key=74 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=898 end=504964 sample=../Audio/Cantankerous/74D4-PF6G.wav
-<group> key=74 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=898 end=504964 sample=../Audio/Cantankerous/74D4-PF6G.wav
-<group> key=75 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1160 sample=../Audio/Cantankerous/75D#4-96TL.wav
-<group> key=75 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1160 sample=../Audio/Cantankerous/75D#4-96TL.wav
-<group> key=75 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1160 sample=../Audio/Cantankerous/75D#4-96TL.wav
-<group> key=75 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1160 sample=../Audio/Cantankerous/75D#4-96TL.wav
-<group> key=76 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1097 end=499235 sample=../Audio/Cantankerous/76E4-POAX.wav
-<group> key=76 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 end=499235 sample=../Audio/Cantankerous/76E4-POAX.wav
-<group> key=76 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1097 end=499235 sample=../Audio/Cantankerous/76E4-POAX.wav
-<group> key=76 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 end=499235 sample=../Audio/Cantankerous/76E4-POAX.wav
-<group> key=77 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1169 end=496003 sample=../Audio/Cantankerous/77F4-CNTU.wav
-<group> key=77 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1169 end=496003 sample=../Audio/Cantankerous/77F4-CNTU.wav
-<group> key=77 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1169 end=496003 sample=../Audio/Cantankerous/77F4-CNTU.wav
-<group> key=77 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1169 end=496003 sample=../Audio/Cantankerous/77F4-CNTU.wav
-<group> key=78 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1380 sample=../Audio/Cantankerous/78F#4-D9XR.wav
-<group> key=78 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1380 sample=../Audio/Cantankerous/78F#4-D9XR.wav
-<group> key=78 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1380 sample=../Audio/Cantankerous/78F#4-D9XR.wav
-<group> key=78 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1380 sample=../Audio/Cantankerous/78F#4-D9XR.wav
-<group> key=79 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1042 end=531522 sample=../Audio/Cantankerous/79G4-MGYN.wav
-<group> key=79 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1042 end=531522 sample=../Audio/Cantankerous/79G4-MGYN.wav
-<group> key=79 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1042 end=531522 sample=../Audio/Cantankerous/79G4-MGYN.wav
-<group> key=79 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1042 end=531522 sample=../Audio/Cantankerous/79G4-MGYN.wav
-<group> key=80 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1184 end=506374 sample=../Audio/Cantankerous/80G#4-2KPC.wav
-<group> key=80 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1184 end=506374 sample=../Audio/Cantankerous/80G#4-2KPC.wav
-<group> key=80 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1184 end=506374 sample=../Audio/Cantankerous/80G#4-2KPC.wav
-<group> key=80 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1184 end=506374 sample=../Audio/Cantankerous/80G#4-2KPC.wav
-<group> key=81 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1212 end=490328 sample=../Audio/Cantankerous/81A4-381T.wav
-<group> key=81 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1212 end=490328 sample=../Audio/Cantankerous/81A4-381T.wav
-<group> key=81 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1212 end=490328 sample=../Audio/Cantankerous/81A4-381T.wav
-<group> key=81 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1212 end=490328 sample=../Audio/Cantankerous/81A4-381T.wav
-<group> key=82 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1299 end=499077 sample=../Audio/Cantankerous/82A#4-F015.wav
-<group> key=82 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1299 end=499077 sample=../Audio/Cantankerous/82A#4-F015.wav
-<group> key=82 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1299 end=499077 sample=../Audio/Cantankerous/82A#4-F015.wav
-<group> key=82 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1299 end=499077 sample=../Audio/Cantankerous/82A#4-F015.wav
-<group> key=83 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1059 end=496336 sample=../Audio/Cantankerous/83B4-O9EB.wav
-<group> key=83 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1059 end=496336 sample=../Audio/Cantankerous/83B4-O9EB.wav
-<group> key=83 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=1059 end=496336 sample=../Audio/Cantankerous/83B4-O9EB.wav
-<group> key=83 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1059 end=496336 sample=../Audio/Cantankerous/83B4-O9EB.wav
-<group> key=84 pan=-100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=825 end=508625 sample=../Audio/Cantankerous/84C5-DFLD.wav
-<group> key=84 pan=-50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=825 end=508625 sample=../Audio/Cantankerous/84C5-DFLD.wav
-<group> key=84 pan=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=12 offset=825 end=508625 sample=../Audio/Cantankerous/84C5-DFLD.wav
-<group> key=84 pan=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=825 end=508625 sample=../Audio/Cantankerous/84C5-DFLD.wav
+<group> key=24 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1218 end=510186 sample=../PolAudio/Cantankerous/24C0-31GG.wav
+<group> key=24 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1218 end=510186 sample=../PolAudio/Cantankerous/24C0-31GG.wav
+<group> key=24 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1218 end=510186 sample=../PolAudio/Cantankerous/24C0-31GG.wav
+<group> key=24 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1218 end=510186 sample=../PolAudio/Cantankerous/24C0-31GG.wav
+<group> key=25 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=829 end=528124 sample=../PolAudio/Cantankerous/25C#0-ZHQL.wav
+<group> key=25 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=829 end=528124 sample=../PolAudio/Cantankerous/25C#0-ZHQL.wav
+<group> key=25 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=829 end=528124 sample=../PolAudio/Cantankerous/25C#0-ZHQL.wav
+<group> key=25 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=829 end=528124 sample=../PolAudio/Cantankerous/25C#0-ZHQL.wav
+<group> key=26 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=972 end=505985 sample=../PolAudio/Cantankerous/26D0-MDIW.wav
+<group> key=26 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=972 end=505985 sample=../PolAudio/Cantankerous/26D0-MDIW.wav
+<group> key=26 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=972 end=505985 sample=../PolAudio/Cantankerous/26D0-MDIW.wav
+<group> key=26 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=972 end=505985 sample=../PolAudio/Cantankerous/26D0-MDIW.wav
+<group> key=27 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1042 sample=../PolAudio/Cantankerous/27D#0-1LL3.wav
+<group> key=27 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1042 sample=../PolAudio/Cantankerous/27D#0-1LL3.wav
+<group> key=27 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1042 sample=../PolAudio/Cantankerous/27D#0-1LL3.wav
+<group> key=27 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1042 sample=../PolAudio/Cantankerous/27D#0-1LL3.wav
+<group> key=28 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=845 sample=../PolAudio/Cantankerous/28E0-N3VC.wav
+<group> key=28 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=845 sample=../PolAudio/Cantankerous/28E0-N3VC.wav
+<group> key=28 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=845 sample=../PolAudio/Cantankerous/28E0-N3VC.wav
+<group> key=28 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=845 sample=../PolAudio/Cantankerous/28E0-N3VC.wav
+<group> key=29 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1373 end=495671 sample=../PolAudio/Cantankerous/29F0-VJ23.wav
+<group> key=29 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1373 end=495671 sample=../PolAudio/Cantankerous/29F0-VJ23.wav
+<group> key=29 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1373 end=495671 sample=../PolAudio/Cantankerous/29F0-VJ23.wav
+<group> key=29 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1373 end=495671 sample=../PolAudio/Cantankerous/29F0-VJ23.wav
+<group> key=30 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1164 sample=../PolAudio/Cantankerous/30F#0-Q26Z.wav
+<group> key=30 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1164 sample=../PolAudio/Cantankerous/30F#0-Q26Z.wav
+<group> key=30 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1164 sample=../PolAudio/Cantankerous/30F#0-Q26Z.wav
+<group> key=30 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1164 sample=../PolAudio/Cantankerous/30F#0-Q26Z.wav
+<group> key=31 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=748 end=527162 sample=../PolAudio/Cantankerous/31G0-X7ZR.wav
+<group> key=31 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=748 end=527162 sample=../PolAudio/Cantankerous/31G0-X7ZR.wav
+<group> key=31 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=748 end=527162 sample=../PolAudio/Cantankerous/31G0-X7ZR.wav
+<group> key=31 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=748 end=527162 sample=../PolAudio/Cantankerous/31G0-X7ZR.wav
+<group> key=32 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=972 sample=../PolAudio/Cantankerous/32G#0-ABFL.wav
+<group> key=32 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=972 sample=../PolAudio/Cantankerous/32G#0-ABFL.wav
+<group> key=32 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=972 sample=../PolAudio/Cantankerous/32G#0-ABFL.wav
+<group> key=32 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=972 sample=../PolAudio/Cantankerous/32G#0-ABFL.wav
+<group> key=33 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1875 sample=../PolAudio/Cantankerous/33A0-OQNL.wav
+<group> key=33 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1875 sample=../PolAudio/Cantankerous/33A0-OQNL.wav
+<group> key=33 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1875 sample=../PolAudio/Cantankerous/33A0-OQNL.wav
+<group> key=33 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1875 sample=../PolAudio/Cantankerous/33A0-OQNL.wav
+<group> key=34 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1259 end=499713 sample=../PolAudio/Cantankerous/34A#0-GOSA.wav
+<group> key=34 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1259 end=499713 sample=../PolAudio/Cantankerous/34A#0-GOSA.wav
+<group> key=34 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1259 end=499713 sample=../PolAudio/Cantankerous/34A#0-GOSA.wav
+<group> key=34 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1259 end=499713 sample=../PolAudio/Cantankerous/34A#0-GOSA.wav
+<group> key=35 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1384 end=496539 sample=../PolAudio/Cantankerous/35B0-J409.wav
+<group> key=35 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1384 end=496539 sample=../PolAudio/Cantankerous/35B0-J409.wav
+<group> key=35 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1384 end=496539 sample=../PolAudio/Cantankerous/35B0-J409.wav
+<group> key=35 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1384 end=496539 sample=../PolAudio/Cantankerous/35B0-J409.wav
+<group> key=36 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1427 end=510571 sample=../PolAudio/Cantankerous/36C1-SGC1.wav
+<group> key=36 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1427 end=510571 sample=../PolAudio/Cantankerous/36C1-SGC1.wav
+<group> key=36 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1427 end=510571 sample=../PolAudio/Cantankerous/36C1-SGC1.wav
+<group> key=36 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1427 end=510571 sample=../PolAudio/Cantankerous/36C1-SGC1.wav
+<group> key=37 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1161 end=527741 sample=../PolAudio/Cantankerous/37C#1-9IZP.wav
+<group> key=37 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1161 end=527741 sample=../PolAudio/Cantankerous/37C#1-9IZP.wav
+<group> key=37 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1161 end=527741 sample=../PolAudio/Cantankerous/37C#1-9IZP.wav
+<group> key=37 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1161 end=527741 sample=../PolAudio/Cantankerous/37C#1-9IZP.wav
+<group> key=38 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1248 sample=../PolAudio/Cantankerous/38D1-8YCU.wav
+<group> key=38 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1248 sample=../PolAudio/Cantankerous/38D1-8YCU.wav
+<group> key=38 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1248 sample=../PolAudio/Cantankerous/38D1-8YCU.wav
+<group> key=38 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1248 sample=../PolAudio/Cantankerous/38D1-8YCU.wav
+<group> key=39 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1316 end=490593 sample=../PolAudio/Cantankerous/39D#1-C7IU.wav
+<group> key=39 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1316 end=490593 sample=../PolAudio/Cantankerous/39D#1-C7IU.wav
+<group> key=39 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1316 end=490593 sample=../PolAudio/Cantankerous/39D#1-C7IU.wav
+<group> key=39 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1316 end=490593 sample=../PolAudio/Cantankerous/39D#1-C7IU.wav
+<group> key=40 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1309 end=499258 sample=../PolAudio/Cantankerous/40E1-ZLHF.wav
+<group> key=40 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1309 end=499258 sample=../PolAudio/Cantankerous/40E1-ZLHF.wav
+<group> key=40 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1309 end=499258 sample=../PolAudio/Cantankerous/40E1-ZLHF.wav
+<group> key=40 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1309 end=499258 sample=../PolAudio/Cantankerous/40E1-ZLHF.wav
+<group> key=41 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1145 end=495755 sample=../PolAudio/Cantankerous/41F1-PQBN.wav
+<group> key=41 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1145 end=495755 sample=../PolAudio/Cantankerous/41F1-PQBN.wav
+<group> key=41 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1145 end=495755 sample=../PolAudio/Cantankerous/41F1-PQBN.wav
+<group> key=41 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1145 end=495755 sample=../PolAudio/Cantankerous/41F1-PQBN.wav
+<group> key=42 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1062 end=510681 sample=../PolAudio/Cantankerous/42F#1-TRNV.wav
+<group> key=42 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1062 end=510681 sample=../PolAudio/Cantankerous/42F#1-TRNV.wav
+<group> key=42 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1062 end=510681 sample=../PolAudio/Cantankerous/42F#1-TRNV.wav
+<group> key=42 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1062 end=510681 sample=../PolAudio/Cantankerous/42F#1-TRNV.wav
+<group> key=43 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=761 end=527220 sample=../PolAudio/Cantankerous/43G1-9BE9.wav
+<group> key=43 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=761 end=527220 sample=../PolAudio/Cantankerous/43G1-9BE9.wav
+<group> key=43 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=761 end=527220 sample=../PolAudio/Cantankerous/43G1-9BE9.wav
+<group> key=43 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=761 end=527220 sample=../PolAudio/Cantankerous/43G1-9BE9.wav
+<group> key=44 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1011 end=507268 sample=../PolAudio/Cantankerous/44G#1-NRD6.wav
+<group> key=44 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1011 end=507268 sample=../PolAudio/Cantankerous/44G#1-NRD6.wav
+<group> key=44 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1011 end=507268 sample=../PolAudio/Cantankerous/44G#1-NRD6.wav
+<group> key=44 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1011 end=507268 sample=../PolAudio/Cantankerous/44G#1-NRD6.wav
+<group> key=45 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1265 end=490121 sample=../PolAudio/Cantankerous/45A1-1VFM.wav
+<group> key=45 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1265 end=490121 sample=../PolAudio/Cantankerous/45A1-1VFM.wav
+<group> key=45 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1265 end=490121 sample=../PolAudio/Cantankerous/45A1-1VFM.wav
+<group> key=45 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1265 end=490121 sample=../PolAudio/Cantankerous/45A1-1VFM.wav
+<group> key=46 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=879 end=498971 sample=../PolAudio/Cantankerous/46A#1-Y3L9.wav
+<group> key=46 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=879 end=498971 sample=../PolAudio/Cantankerous/46A#1-Y3L9.wav
+<group> key=46 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=879 end=498971 sample=../PolAudio/Cantankerous/46A#1-Y3L9.wav
+<group> key=46 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=879 end=498971 sample=../PolAudio/Cantankerous/46A#1-Y3L9.wav
+<group> key=47 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=933 end=496335 sample=../PolAudio/Cantankerous/47B1-YY6N.wav
+<group> key=47 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=933 end=496335 sample=../PolAudio/Cantankerous/47B1-YY6N.wav
+<group> key=47 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=933 end=496335 sample=../PolAudio/Cantankerous/47B1-YY6N.wav
+<group> key=47 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=933 end=496335 sample=../PolAudio/Cantankerous/47B1-YY6N.wav
+<group> key=48 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1231 end=510990 sample=../PolAudio/Cantankerous/48C2-7GVC.wav
+<group> key=48 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1231 end=510990 sample=../PolAudio/Cantankerous/48C2-7GVC.wav
+<group> key=48 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1231 end=510990 sample=../PolAudio/Cantankerous/48C2-7GVC.wav
+<group> key=48 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1231 end=510990 sample=../PolAudio/Cantankerous/48C2-7GVC.wav
+<group> key=49 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1175 end=527093 sample=../PolAudio/Cantankerous/49C#2-QJLW.wav
+<group> key=49 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1175 end=527093 sample=../PolAudio/Cantankerous/49C#2-QJLW.wav
+<group> key=49 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1175 end=527093 sample=../PolAudio/Cantankerous/49C#2-QJLW.wav
+<group> key=49 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1175 end=527093 sample=../PolAudio/Cantankerous/49C#2-QJLW.wav
+<group> key=50 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1108 sample=../PolAudio/Cantankerous/50D2-8Z9G.wav
+<group> key=50 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1108 sample=../PolAudio/Cantankerous/50D2-8Z9G.wav
+<group> key=50 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1108 sample=../PolAudio/Cantankerous/50D2-8Z9G.wav
+<group> key=50 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1108 sample=../PolAudio/Cantankerous/50D2-8Z9G.wav
+<group> key=51 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1878 end=489989 sample=../PolAudio/Cantankerous/51D#2-7U79.wav
+<group> key=51 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1878 end=489989 sample=../PolAudio/Cantankerous/51D#2-7U79.wav
+<group> key=51 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1878 end=489989 sample=../PolAudio/Cantankerous/51D#2-7U79.wav
+<group> key=51 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1878 end=489989 sample=../PolAudio/Cantankerous/51D#2-7U79.wav
+<group> key=52 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=988 sample=../PolAudio/Cantankerous/52E2-6H0Y.wav
+<group> key=52 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=988 sample=../PolAudio/Cantankerous/52E2-6H0Y.wav
+<group> key=52 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=988 sample=../PolAudio/Cantankerous/52E2-6H0Y.wav
+<group> key=52 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=988 sample=../PolAudio/Cantankerous/52E2-6H0Y.wav
+<group> key=53 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1166 end=496141 sample=../PolAudio/Cantankerous/53F2-ZC32.wav
+<group> key=53 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1166 end=496141 sample=../PolAudio/Cantankerous/53F2-ZC32.wav
+<group> key=53 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1166 end=496141 sample=../PolAudio/Cantankerous/53F2-ZC32.wav
+<group> key=53 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1166 end=496141 sample=../PolAudio/Cantankerous/53F2-ZC32.wav
+<group> key=54 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1563 sample=../PolAudio/Cantankerous/54F#2-TXQ5.wav
+<group> key=54 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1563 sample=../PolAudio/Cantankerous/54F#2-TXQ5.wav
+<group> key=54 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1563 sample=../PolAudio/Cantankerous/54F#2-TXQ5.wav
+<group> key=54 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1563 sample=../PolAudio/Cantankerous/54F#2-TXQ5.wav
+<group> key=55 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1097 end=529341 sample=../PolAudio/Cantankerous/55G2-LKMT.wav
+<group> key=55 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1097 end=529341 sample=../PolAudio/Cantankerous/55G2-LKMT.wav
+<group> key=55 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1097 end=529341 sample=../PolAudio/Cantankerous/55G2-LKMT.wav
+<group> key=55 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1097 end=529341 sample=../PolAudio/Cantankerous/55G2-LKMT.wav
+<group> key=56 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=2002 end=508117 sample=../PolAudio/Cantankerous/56G#2-KGS3.wav
+<group> key=56 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2002 end=508117 sample=../PolAudio/Cantankerous/56G#2-KGS3.wav
+<group> key=56 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=2002 end=508117 sample=../PolAudio/Cantankerous/56G#2-KGS3.wav
+<group> key=56 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2002 end=508117 sample=../PolAudio/Cantankerous/56G#2-KGS3.wav
+<group> key=57 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1040 sample=../PolAudio/Cantankerous/57A2-XWBS.wav
+<group> key=57 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1040 sample=../PolAudio/Cantankerous/57A2-XWBS.wav
+<group> key=57 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1040 sample=../PolAudio/Cantankerous/57A2-XWBS.wav
+<group> key=57 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1040 sample=../PolAudio/Cantankerous/57A2-XWBS.wav
+<group> key=58 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1550 sample=../PolAudio/Cantankerous/58A#2-NQZY.wav
+<group> key=58 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1550 sample=../PolAudio/Cantankerous/58A#2-NQZY.wav
+<group> key=58 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1550 sample=../PolAudio/Cantankerous/58A#2-NQZY.wav
+<group> key=58 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1550 sample=../PolAudio/Cantankerous/58A#2-NQZY.wav
+<group> key=59 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1025 end=496017 sample=../PolAudio/Cantankerous/59B2-022R.wav
+<group> key=59 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1025 end=496017 sample=../PolAudio/Cantankerous/59B2-022R.wav
+<group> key=59 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1025 end=496017 sample=../PolAudio/Cantankerous/59B2-022R.wav
+<group> key=59 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1025 end=496017 sample=../PolAudio/Cantankerous/59B2-022R.wav
+<group> key=60 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1165 sample=../PolAudio/Cantankerous/60C3-4TOR.wav
+<group> key=60 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1165 sample=../PolAudio/Cantankerous/60C3-4TOR.wav
+<group> key=60 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1165 sample=../PolAudio/Cantankerous/60C3-4TOR.wav
+<group> key=60 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1165 sample=../PolAudio/Cantankerous/60C3-4TOR.wav
+<group> key=61 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1100 end=530003 sample=../PolAudio/Cantankerous/61C#3-0B07.wav
+<group> key=61 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1100 end=530003 sample=../PolAudio/Cantankerous/61C#3-0B07.wav
+<group> key=61 pan=-46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1100 end=530003 sample=../PolAudio/Cantankerous/61C#3-0B07.wav
+<group> key=61 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1100 end=530003 sample=../PolAudio/Cantankerous/61C#3-0B07.wav
+<group> key=62 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1038 sample=../PolAudio/Cantankerous/62D3-K1S1.wav
+<group> key=62 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1038 sample=../PolAudio/Cantankerous/62D3-K1S1.wav
+<group> key=62 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1038 sample=../PolAudio/Cantankerous/62D3-K1S1.wav
+<group> key=62 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1038 sample=../PolAudio/Cantankerous/62D3-K1S1.wav
+<group> key=63 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1003 end=489701 sample=../PolAudio/Cantankerous/63D#3-FCQ2.wav
+<group> key=63 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1003 end=489701 sample=../PolAudio/Cantankerous/63D#3-FCQ2.wav
+<group> key=63 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1003 end=489701 sample=../PolAudio/Cantankerous/63D#3-FCQ2.wav
+<group> key=63 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1003 end=489701 sample=../PolAudio/Cantankerous/63D#3-FCQ2.wav
+<group> key=64 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1342 end=499276 sample=../PolAudio/Cantankerous/64E3-196X.wav
+<group> key=64 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1342 end=499276 sample=../PolAudio/Cantankerous/64E3-196X.wav
+<group> key=64 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1342 end=499276 sample=../PolAudio/Cantankerous/64E3-196X.wav
+<group> key=64 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1342 end=499276 sample=../PolAudio/Cantankerous/64E3-196X.wav
+<group> key=65 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1151 end=496289 sample=../PolAudio/Cantankerous/65F3-U61C.wav
+<group> key=65 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1151 end=496289 sample=../PolAudio/Cantankerous/65F3-U61C.wav
+<group> key=65 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1151 end=496289 sample=../PolAudio/Cantankerous/65F3-U61C.wav
+<group> key=65 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1151 end=496289 sample=../PolAudio/Cantankerous/65F3-U61C.wav
+<group> key=66 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1263 end=509834 sample=../PolAudio/Cantankerous/66F#3-1Q33.wav
+<group> key=66 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1263 end=509834 sample=../PolAudio/Cantankerous/66F#3-1Q33.wav
+<group> key=66 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1263 end=509834 sample=../PolAudio/Cantankerous/66F#3-1Q33.wav
+<group> key=66 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1263 end=509834 sample=../PolAudio/Cantankerous/66F#3-1Q33.wav
+<group> key=67 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=775 sample=../PolAudio/Cantankerous/67G3-AZD3.wav
+<group> key=67 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=775 sample=../PolAudio/Cantankerous/67G3-AZD3.wav
+<group> key=67 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=775 sample=../PolAudio/Cantankerous/67G3-AZD3.wav
+<group> key=67 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=775 sample=../PolAudio/Cantankerous/67G3-AZD3.wav
+<group> key=68 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=972 end=507419 sample=../PolAudio/Cantankerous/68G#3-W1EI.wav
+<group> key=68 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=972 end=507419 sample=../PolAudio/Cantankerous/68G#3-W1EI.wav
+<group> key=68 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=972 end=507419 sample=../PolAudio/Cantankerous/68G#3-W1EI.wav
+<group> key=68 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=972 end=507419 sample=../PolAudio/Cantankerous/68G#3-W1EI.wav
+<group> key=69 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1956 sample=../PolAudio/Cantankerous/69A3-N1LP.wav
+<group> key=69 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1956 sample=../PolAudio/Cantankerous/69A3-N1LP.wav
+<group> key=69 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1956 sample=../PolAudio/Cantankerous/69A3-N1LP.wav
+<group> key=69 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1956 sample=../PolAudio/Cantankerous/69A3-N1LP.wav
+<group> key=70 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1198 end=499106 sample=../PolAudio/Cantankerous/70A#3-GKZ5.wav
+<group> key=70 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1198 end=499106 sample=../PolAudio/Cantankerous/70A#3-GKZ5.wav
+<group> key=70 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1198 end=499106 sample=../PolAudio/Cantankerous/70A#3-GKZ5.wav
+<group> key=70 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1198 end=499106 sample=../PolAudio/Cantankerous/70A#3-GKZ5.wav
+<group> key=71 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1177 end=495872 sample=../PolAudio/Cantankerous/71B3-ZYPL.wav
+<group> key=71 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1177 end=495872 sample=../PolAudio/Cantankerous/71B3-ZYPL.wav
+<group> key=71 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1177 end=495872 sample=../PolAudio/Cantankerous/71B3-ZYPL.wav
+<group> key=71 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1177 end=495872 sample=../PolAudio/Cantankerous/71B3-ZYPL.wav
+<group> key=72 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1019 end=509172 sample=../PolAudio/Cantankerous/72C4-WMM7.wav
+<group> key=72 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1019 end=509172 sample=../PolAudio/Cantankerous/72C4-WMM7.wav
+<group> key=72 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1019 end=509172 sample=../PolAudio/Cantankerous/72C4-WMM7.wav
+<group> key=72 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1019 end=509172 sample=../PolAudio/Cantankerous/72C4-WMM7.wav
+<group> key=73 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1110 end=531039 sample=../PolAudio/Cantankerous/73C#4-6MRJ.wav
+<group> key=73 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1110 end=531039 sample=../PolAudio/Cantankerous/73C#4-6MRJ.wav
+<group> key=73 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1110 end=531039 sample=../PolAudio/Cantankerous/73C#4-6MRJ.wav
+<group> key=73 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1110 end=531039 sample=../PolAudio/Cantankerous/73C#4-6MRJ.wav
+<group> key=74 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=898 end=504964 sample=../PolAudio/Cantankerous/74D4-PF6G.wav
+<group> key=74 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=898 end=504964 sample=../PolAudio/Cantankerous/74D4-PF6G.wav
+<group> key=74 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=898 end=504964 sample=../PolAudio/Cantankerous/74D4-PF6G.wav
+<group> key=74 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=898 end=504964 sample=../PolAudio/Cantankerous/74D4-PF6G.wav
+<group> key=75 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1160 sample=../PolAudio/Cantankerous/75D#4-96TL.wav
+<group> key=75 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1160 sample=../PolAudio/Cantankerous/75D#4-96TL.wav
+<group> key=75 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1160 sample=../PolAudio/Cantankerous/75D#4-96TL.wav
+<group> key=75 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1160 sample=../PolAudio/Cantankerous/75D#4-96TL.wav
+<group> key=76 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1097 end=499235 sample=../PolAudio/Cantankerous/76E4-POAX.wav
+<group> key=76 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1097 end=499235 sample=../PolAudio/Cantankerous/76E4-POAX.wav
+<group> key=76 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1097 end=499235 sample=../PolAudio/Cantankerous/76E4-POAX.wav
+<group> key=76 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1097 end=499235 sample=../PolAudio/Cantankerous/76E4-POAX.wav
+<group> key=77 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1169 end=496003 sample=../PolAudio/Cantankerous/77F4-CNTU.wav
+<group> key=77 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1169 end=496003 sample=../PolAudio/Cantankerous/77F4-CNTU.wav
+<group> key=77 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1169 end=496003 sample=../PolAudio/Cantankerous/77F4-CNTU.wav
+<group> key=77 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1169 end=496003 sample=../PolAudio/Cantankerous/77F4-CNTU.wav
+<group> key=78 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1380 sample=../PolAudio/Cantankerous/78F#4-D9XR.wav
+<group> key=78 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1380 sample=../PolAudio/Cantankerous/78F#4-D9XR.wav
+<group> key=78 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1380 sample=../PolAudio/Cantankerous/78F#4-D9XR.wav
+<group> key=78 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1380 sample=../PolAudio/Cantankerous/78F#4-D9XR.wav
+<group> key=79 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1042 end=531522 sample=../PolAudio/Cantankerous/79G4-MGYN.wav
+<group> key=79 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1042 end=531522 sample=../PolAudio/Cantankerous/79G4-MGYN.wav
+<group> key=79 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1042 end=531522 sample=../PolAudio/Cantankerous/79G4-MGYN.wav
+<group> key=79 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1042 end=531522 sample=../PolAudio/Cantankerous/79G4-MGYN.wav
+<group> key=80 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1184 end=506374 sample=../PolAudio/Cantankerous/80G#4-2KPC.wav
+<group> key=80 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1184 end=506374 sample=../PolAudio/Cantankerous/80G#4-2KPC.wav
+<group> key=80 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1184 end=506374 sample=../PolAudio/Cantankerous/80G#4-2KPC.wav
+<group> key=80 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1184 end=506374 sample=../PolAudio/Cantankerous/80G#4-2KPC.wav
+<group> key=81 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1212 end=490328 sample=../PolAudio/Cantankerous/81A4-381T.wav
+<group> key=81 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1212 end=490328 sample=../PolAudio/Cantankerous/81A4-381T.wav
+<group> key=81 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1212 end=490328 sample=../PolAudio/Cantankerous/81A4-381T.wav
+<group> key=81 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1212 end=490328 sample=../PolAudio/Cantankerous/81A4-381T.wav
+<group> key=82 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1299 end=499077 sample=../PolAudio/Cantankerous/82A#4-F015.wav
+<group> key=82 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1299 end=499077 sample=../PolAudio/Cantankerous/82A#4-F015.wav
+<group> key=82 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1299 end=499077 sample=../PolAudio/Cantankerous/82A#4-F015.wav
+<group> key=82 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1299 end=499077 sample=../PolAudio/Cantankerous/82A#4-F015.wav
+<group> key=83 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1059 end=496336 sample=../PolAudio/Cantankerous/83B4-O9EB.wav
+<group> key=83 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1059 end=496336 sample=../PolAudio/Cantankerous/83B4-O9EB.wav
+<group> key=83 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=1059 end=496336 sample=../PolAudio/Cantankerous/83B4-O9EB.wav
+<group> key=83 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1059 end=496336 sample=../PolAudio/Cantankerous/83B4-O9EB.wav
+<group> key=84 pan=-100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=825 end=508625 sample=../PolAudio/Cantankerous/84C5-DFLD.wav
+<group> key=84 pan=-50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=825 end=508625 sample=../PolAudio/Cantankerous/84C5-DFLD.wav
+<group> key=84 pan=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=12 offset=825 end=508625 sample=../PolAudio/Cantankerous/84C5-DFLD.wav
+<group> key=84 pan=100 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=825 end=508625 sample=../PolAudio/Cantankerous/84C5-DFLD.wav

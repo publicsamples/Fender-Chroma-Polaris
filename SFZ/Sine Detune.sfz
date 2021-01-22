@@ -1,246 +1,246 @@
 // this file was generated from Sine Detune.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3779 loop_end=81632 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2424-NCNN.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3779 loop_end=81632 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2424-NCNN.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3779 loop_end=81632 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2424-NCNN.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=371 loop_end=73892 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2525-7CKZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=371 loop_end=73892 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2525-7CKZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=371 loop_end=73892 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2525-7CKZ.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10616 loop_end=84913 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2626-6SFJ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=10616 loop_end=84913 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2626-6SFJ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=10616 loop_end=84913 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2626-6SFJ.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=830 loop_end=75982 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2727-Z46U.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=830 loop_end=75982 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2727-Z46U.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=830 loop_end=75982 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2727-Z46U.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=6083 loop_end=81816 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2828-VUI4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=6083 loop_end=81816 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2828-VUI4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=6083 loop_end=81816 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2828-VUI4.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=77699 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2929-TMWC.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=77699 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2929-TMWC.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=77699 sample=../Audio/FilterSine/(2013714 134318)/FilterSine2929-TMWC.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=227591 loop_end=352640 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3030-PZ3F.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=227591 loop_end=352640 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3030-PZ3F.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=227591 loop_end=352640 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3030-PZ3F.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=254147 loop_end=353534 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3131-738K.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=254147 loop_end=353534 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3131-738K.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=254147 loop_end=353534 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3131-738K.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2565 loop_end=78066 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3232-SKIX.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2565 loop_end=78066 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3232-SKIX.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2565 loop_end=78066 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3232-SKIX.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2611 loop_end=75069 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3333-15K4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2611 loop_end=75069 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3333-15K4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2611 loop_end=75069 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3333-15K4.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=253035 loop_end=352563 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3434-GY2Y.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=253035 loop_end=352563 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3434-GY2Y.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=253035 loop_end=352563 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3434-GY2Y.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3887 loop_end=80508 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3535-2Z82.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3887 loop_end=80508 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3535-2Z82.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3887 loop_end=80508 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3535-2Z82.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=236432 loop_end=361350 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3636-HVFE.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=236432 loop_end=361350 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3636-HVFE.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=236432 loop_end=361350 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3636-HVFE.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3806 loop_end=79836 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3737-6KNM.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3806 loop_end=79836 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3737-6KNM.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3806 loop_end=79836 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3737-6KNM.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2524 loop_end=78201 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3838-5VX4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2524 loop_end=78201 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3838-5VX4.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2524 loop_end=78201 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3838-5VX4.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=1979 loop_end=73943 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3939-RL1H.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=1979 loop_end=73943 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3939-RL1H.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=1979 loop_end=73943 sample=../Audio/FilterSine/(2013714 134318)/FilterSine3939-RL1H.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=1969 loop_end=76591 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4040-XGSB.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=1969 loop_end=76591 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4040-XGSB.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=1969 loop_end=76591 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4040-XGSB.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=75874 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4141-PU5Y.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=75874 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4141-PU5Y.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=75874 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4141-PU5Y.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=233534 loop_end=358469 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4242-U3Z1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=233534 loop_end=358469 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4242-U3Z1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=233534 loop_end=358469 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4242-U3Z1.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=4973 loop_end=79365 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4343-C2O1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=4973 loop_end=79365 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4343-C2O1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=4973 loop_end=79365 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4343-C2O1.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=884 loop_end=74431 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4444-EP5X.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=884 loop_end=74431 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4444-EP5X.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=884 loop_end=74431 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4444-EP5X.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=4910 loop_end=76855 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4545-75CB.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=4910 loop_end=76855 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4545-75CB.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=4910 loop_end=76855 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4545-75CB.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=251636 loop_end=351043 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4646-9AAE.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=251636 loop_end=351043 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4646-9AAE.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=251636 loop_end=351043 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4646-9AAE.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2919 loop_end=76606 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4747-FU9K.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2919 loop_end=76606 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4747-FU9K.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2919 loop_end=76606 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4747-FU9K.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2776 loop_end=75857 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4848-LUPD.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2776 loop_end=75857 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4848-LUPD.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2776 loop_end=75857 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4848-LUPD.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=928 loop_end=72850 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4949-5GF2.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=928 loop_end=72850 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4949-5GF2.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=928 loop_end=72850 sample=../Audio/FilterSine/(2013714 134318)/FilterSine4949-5GF2.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3769 loop_end=76683 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5050-2QDU.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3769 loop_end=76683 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5050-2QDU.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3769 loop_end=76683 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5050-2QDU.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3602 loop_end=79412 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5151-DIHZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3602 loop_end=79412 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5151-DIHZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3602 loop_end=79412 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5151-DIHZ.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3832 loop_end=77574 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5252-9Z4F.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3832 loop_end=77574 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5252-9Z4F.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3832 loop_end=77574 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5252-9Z4F.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=249373 loop_end=341660 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5353-3KW8.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=249373 loop_end=341660 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5353-3KW8.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=249373 loop_end=341660 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5353-3KW8.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=5067 loop_end=78919 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5454-JMZW.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=5067 loop_end=78919 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5454-JMZW.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=5067 loop_end=78919 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5454-JMZW.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=250079 loop_end=348303 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5555-8TCP.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=250079 loop_end=348303 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5555-8TCP.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=250079 loop_end=348303 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5555-8TCP.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2617 loop_end=76627 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5656-FY0M.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2617 loop_end=76627 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5656-FY0M.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2617 loop_end=76627 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5656-FY0M.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3026 loop_end=75769 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5757-1UZG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3026 loop_end=75769 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5757-1UZG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3026 loop_end=75769 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5757-1UZG.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=252875 loop_end=352152 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5858-OT4V.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=252875 loop_end=352152 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5858-OT4V.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=252875 loop_end=352152 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5858-OT4V.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=261994 loop_end=353787 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5959-2GS8.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=261994 loop_end=353787 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5959-2GS8.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=261994 loop_end=353787 sample=../Audio/FilterSine/(2013714 134318)/FilterSine5959-2GS8.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=235557 loop_end=360594 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6060-CY6M.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=235557 loop_end=360594 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6060-CY6M.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=235557 loop_end=360594 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6060-CY6M.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3752 loop_end=79305 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6161-U3SG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3752 loop_end=79305 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6161-U3SG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3752 loop_end=79305 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6161-U3SG.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=249970 loop_end=330033 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6262-NEO7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=249970 loop_end=330033 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6262-NEO7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=249970 loop_end=330033 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6262-NEO7.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2388 loop_end=76939 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6363-EIVT.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2388 loop_end=76939 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6363-EIVT.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2388 loop_end=76939 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6363-EIVT.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=1915 loop_end=75559 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6464-VWND.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=1915 loop_end=75559 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6464-VWND.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=1915 loop_end=75559 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6464-VWND.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=231627 loop_end=323788 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6565-NYOK.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=231627 loop_end=323788 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6565-NYOK.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=231627 loop_end=323788 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6565-NYOK.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=262773 loop_end=359172 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6666-CCY0.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=262773 loop_end=359172 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6666-CCY0.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=262773 loop_end=359172 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6666-CCY0.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=245499 loop_end=343879 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6767-9W71.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=245499 loop_end=343879 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6767-9W71.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=245499 loop_end=343879 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6767-9W71.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=233499 loop_end=339975 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6868-85RG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=233499 loop_end=339975 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6868-85RG.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=233499 loop_end=339975 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6868-85RG.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=4928 loop_end=77872 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6969-M8MC.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=4928 loop_end=77872 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6969-M8MC.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=4928 loop_end=77872 sample=../Audio/FilterSine/(2013714 134318)/FilterSine6969-M8MC.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=4956 loop_end=77028 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7070-IA01.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=4956 loop_end=77028 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7070-IA01.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=4956 loop_end=77028 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7070-IA01.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=254882 loop_end=346949 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7171-6ALS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=254882 loop_end=346949 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7171-6ALS.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=254882 loop_end=346949 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7171-6ALS.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2932 loop_end=78189 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7272-7R8H.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2932 loop_end=78189 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7272-7R8H.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2932 loop_end=78189 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7272-7R8H.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=970 loop_end=74788 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7373-C6YO.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=970 loop_end=74788 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7373-C6YO.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=970 loop_end=74788 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7373-C6YO.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=282759 loop_end=362861 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7474-PTYA.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=282759 loop_end=362861 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7474-PTYA.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=282759 loop_end=362861 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7474-PTYA.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3623 loop_end=79484 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7575-9KXJ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3623 loop_end=79484 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7575-9KXJ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3623 loop_end=79484 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7575-9KXJ.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=243892 loop_end=343630 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7676-8VMF.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=243892 loop_end=343630 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7676-8VMF.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=243892 loop_end=343630 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7676-8VMF.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=230809 loop_end=322594 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7777-EECM.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=230809 loop_end=322594 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7777-EECM.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=230809 loop_end=322594 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7777-EECM.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=9849 loop_end=83001 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7878-271M.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=9849 loop_end=83001 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7878-271M.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=9849 loop_end=83001 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7878-271M.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=3903 loop_end=76195 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7979-WS36.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=3903 loop_end=76195 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7979-WS36.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=3903 loop_end=76195 sample=../Audio/FilterSine/(2013714 134318)/FilterSine7979-WS36.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2598 loop_end=76753 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8080-0QG6.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2598 loop_end=76753 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8080-0QG6.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2598 loop_end=76753 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8080-0QG6.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=980 loop_end=75754 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8181-7NE7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=980 loop_end=75754 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8181-7NE7.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=980 loop_end=75754 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8181-7NE7.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=2972 loop_end=76217 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8282-6UMZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=2972 loop_end=76217 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8282-6UMZ.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=2972 loop_end=76217 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8282-6UMZ.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=972 loop_end=74326 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8383-B3TL.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=972 loop_end=74326 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8383-B3TL.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=972 loop_end=74326 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8383-B3TL.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=8843 loop_end=82773 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8484-5DO1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=15 volume=12 loop_mode=loop_sustain loop_start=8843 loop_end=82773 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8484-5DO1.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=-16 volume=12 loop_mode=loop_sustain loop_start=8843 loop_end=82773 sample=../Audio/FilterSine/(2013714 134318)/FilterSine8484-5DO1.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3779 loop_end=81632 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2424-NCNN.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3779 loop_end=81632 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2424-NCNN.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3779 loop_end=81632 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2424-NCNN.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=371 loop_end=73892 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2525-7CKZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=371 loop_end=73892 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2525-7CKZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=371 loop_end=73892 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2525-7CKZ.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10616 loop_end=84913 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2626-6SFJ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=10616 loop_end=84913 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2626-6SFJ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=10616 loop_end=84913 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2626-6SFJ.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=830 loop_end=75982 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2727-Z46U.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=830 loop_end=75982 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2727-Z46U.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=830 loop_end=75982 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2727-Z46U.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=6083 loop_end=81816 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2828-VUI4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=6083 loop_end=81816 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2828-VUI4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=6083 loop_end=81816 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2828-VUI4.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=77699 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2929-TMWC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=77699 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2929-TMWC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=77699 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine2929-TMWC.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=227591 loop_end=352640 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3030-PZ3F.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=227591 loop_end=352640 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3030-PZ3F.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=227591 loop_end=352640 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3030-PZ3F.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=254147 loop_end=353534 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3131-738K.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=254147 loop_end=353534 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3131-738K.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=254147 loop_end=353534 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3131-738K.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2565 loop_end=78066 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3232-SKIX.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2565 loop_end=78066 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3232-SKIX.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2565 loop_end=78066 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3232-SKIX.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2611 loop_end=75069 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3333-15K4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2611 loop_end=75069 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3333-15K4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2611 loop_end=75069 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3333-15K4.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=253035 loop_end=352563 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3434-GY2Y.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=253035 loop_end=352563 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3434-GY2Y.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=253035 loop_end=352563 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3434-GY2Y.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3887 loop_end=80508 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3535-2Z82.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3887 loop_end=80508 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3535-2Z82.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3887 loop_end=80508 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3535-2Z82.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=236432 loop_end=361350 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3636-HVFE.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=236432 loop_end=361350 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3636-HVFE.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=236432 loop_end=361350 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3636-HVFE.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3806 loop_end=79836 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3737-6KNM.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3806 loop_end=79836 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3737-6KNM.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3806 loop_end=79836 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3737-6KNM.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2524 loop_end=78201 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3838-5VX4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2524 loop_end=78201 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3838-5VX4.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2524 loop_end=78201 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3838-5VX4.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=1979 loop_end=73943 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3939-RL1H.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=1979 loop_end=73943 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3939-RL1H.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=1979 loop_end=73943 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine3939-RL1H.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=1969 loop_end=76591 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4040-XGSB.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=1969 loop_end=76591 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4040-XGSB.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=1969 loop_end=76591 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4040-XGSB.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=75874 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4141-PU5Y.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=75874 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4141-PU5Y.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2704 loop_end=75874 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4141-PU5Y.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=233534 loop_end=358469 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4242-U3Z1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=233534 loop_end=358469 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4242-U3Z1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=233534 loop_end=358469 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4242-U3Z1.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=4973 loop_end=79365 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4343-C2O1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=4973 loop_end=79365 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4343-C2O1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=4973 loop_end=79365 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4343-C2O1.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=884 loop_end=74431 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4444-EP5X.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=884 loop_end=74431 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4444-EP5X.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=884 loop_end=74431 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4444-EP5X.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=4910 loop_end=76855 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4545-75CB.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=4910 loop_end=76855 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4545-75CB.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=4910 loop_end=76855 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4545-75CB.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=251636 loop_end=351043 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4646-9AAE.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=251636 loop_end=351043 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4646-9AAE.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=251636 loop_end=351043 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4646-9AAE.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2919 loop_end=76606 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4747-FU9K.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2919 loop_end=76606 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4747-FU9K.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2919 loop_end=76606 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4747-FU9K.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2776 loop_end=75857 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4848-LUPD.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2776 loop_end=75857 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4848-LUPD.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2776 loop_end=75857 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4848-LUPD.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=928 loop_end=72850 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4949-5GF2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=928 loop_end=72850 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4949-5GF2.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=928 loop_end=72850 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine4949-5GF2.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3769 loop_end=76683 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5050-2QDU.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3769 loop_end=76683 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5050-2QDU.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3769 loop_end=76683 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5050-2QDU.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3602 loop_end=79412 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5151-DIHZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3602 loop_end=79412 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5151-DIHZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3602 loop_end=79412 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5151-DIHZ.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3832 loop_end=77574 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5252-9Z4F.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3832 loop_end=77574 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5252-9Z4F.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3832 loop_end=77574 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5252-9Z4F.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=249373 loop_end=341660 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5353-3KW8.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=249373 loop_end=341660 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5353-3KW8.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=249373 loop_end=341660 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5353-3KW8.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=5067 loop_end=78919 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5454-JMZW.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=5067 loop_end=78919 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5454-JMZW.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=5067 loop_end=78919 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5454-JMZW.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=250079 loop_end=348303 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5555-8TCP.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=250079 loop_end=348303 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5555-8TCP.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=250079 loop_end=348303 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5555-8TCP.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2617 loop_end=76627 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5656-FY0M.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2617 loop_end=76627 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5656-FY0M.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2617 loop_end=76627 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5656-FY0M.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3026 loop_end=75769 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5757-1UZG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3026 loop_end=75769 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5757-1UZG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3026 loop_end=75769 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5757-1UZG.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=252875 loop_end=352152 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5858-OT4V.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=252875 loop_end=352152 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5858-OT4V.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=252875 loop_end=352152 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5858-OT4V.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=261994 loop_end=353787 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5959-2GS8.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=261994 loop_end=353787 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5959-2GS8.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=261994 loop_end=353787 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine5959-2GS8.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=235557 loop_end=360594 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6060-CY6M.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=235557 loop_end=360594 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6060-CY6M.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=235557 loop_end=360594 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6060-CY6M.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3752 loop_end=79305 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6161-U3SG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3752 loop_end=79305 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6161-U3SG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3752 loop_end=79305 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6161-U3SG.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=249970 loop_end=330033 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6262-NEO7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=249970 loop_end=330033 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6262-NEO7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=249970 loop_end=330033 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6262-NEO7.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2388 loop_end=76939 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6363-EIVT.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2388 loop_end=76939 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6363-EIVT.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2388 loop_end=76939 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6363-EIVT.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=1915 loop_end=75559 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6464-VWND.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=1915 loop_end=75559 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6464-VWND.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=1915 loop_end=75559 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6464-VWND.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=231627 loop_end=323788 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6565-NYOK.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=231627 loop_end=323788 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6565-NYOK.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=231627 loop_end=323788 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6565-NYOK.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=262773 loop_end=359172 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6666-CCY0.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=262773 loop_end=359172 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6666-CCY0.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=262773 loop_end=359172 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6666-CCY0.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=245499 loop_end=343879 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6767-9W71.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=245499 loop_end=343879 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6767-9W71.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=245499 loop_end=343879 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6767-9W71.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=233499 loop_end=339975 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6868-85RG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=233499 loop_end=339975 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6868-85RG.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=233499 loop_end=339975 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6868-85RG.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=4928 loop_end=77872 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6969-M8MC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=4928 loop_end=77872 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6969-M8MC.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=4928 loop_end=77872 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine6969-M8MC.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=4956 loop_end=77028 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7070-IA01.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=4956 loop_end=77028 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7070-IA01.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=4956 loop_end=77028 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7070-IA01.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=254882 loop_end=346949 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7171-6ALS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=254882 loop_end=346949 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7171-6ALS.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=254882 loop_end=346949 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7171-6ALS.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2932 loop_end=78189 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7272-7R8H.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2932 loop_end=78189 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7272-7R8H.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2932 loop_end=78189 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7272-7R8H.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=970 loop_end=74788 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7373-C6YO.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=970 loop_end=74788 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7373-C6YO.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=970 loop_end=74788 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7373-C6YO.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=282759 loop_end=362861 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7474-PTYA.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=282759 loop_end=362861 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7474-PTYA.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=282759 loop_end=362861 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7474-PTYA.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3623 loop_end=79484 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7575-9KXJ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3623 loop_end=79484 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7575-9KXJ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3623 loop_end=79484 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7575-9KXJ.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=243892 loop_end=343630 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7676-8VMF.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=243892 loop_end=343630 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7676-8VMF.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=243892 loop_end=343630 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7676-8VMF.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=230809 loop_end=322594 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7777-EECM.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=230809 loop_end=322594 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7777-EECM.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=230809 loop_end=322594 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7777-EECM.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=9849 loop_end=83001 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7878-271M.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=9849 loop_end=83001 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7878-271M.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=9849 loop_end=83001 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7878-271M.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=3903 loop_end=76195 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7979-WS36.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=3903 loop_end=76195 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7979-WS36.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=3903 loop_end=76195 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine7979-WS36.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2598 loop_end=76753 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8080-0QG6.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2598 loop_end=76753 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8080-0QG6.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2598 loop_end=76753 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8080-0QG6.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=980 loop_end=75754 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8181-7NE7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=980 loop_end=75754 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8181-7NE7.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=980 loop_end=75754 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8181-7NE7.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=2972 loop_end=76217 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8282-6UMZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=2972 loop_end=76217 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8282-6UMZ.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=2972 loop_end=76217 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8282-6UMZ.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=972 loop_end=74326 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8383-B3TL.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=972 loop_end=74326 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8383-B3TL.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=972 loop_end=74326 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8383-B3TL.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=8843 loop_end=82773 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8484-5DO1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=15 volume=12 loop_mode=loop_sustain loop_start=8843 loop_end=82773 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8484-5DO1.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=-16 volume=12 loop_mode=loop_sustain loop_start=8843 loop_end=82773 sample=../PolAudio/FilterSine/(2013714 134318)/FilterSine8484-5DO1.aif

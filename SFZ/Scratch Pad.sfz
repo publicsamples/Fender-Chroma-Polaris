@@ -1,185 +1,185 @@
 // this file was generated from Scratch Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=16 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=242209 loop_end=321842 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-36-32-PVJU.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248854 loop_end=288300 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-36-127-MH2P.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=309307 loop_end=369823 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-37-32-7QZX.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338243 loop_end=378932 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-37-127-7500.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=346191 loop_end=404465 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-38-32-RQRW.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357829 loop_end=416098 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-38-127-FE40.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=342430 loop_end=407112 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-39-32-ELP6.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268466 loop_end=417930 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-39-127-WHGL.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=272268 loop_end=334498 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-40-32-P28U.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305856 loop_end=431478 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-40-127-4VJW.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=319328 loop_end=360355 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-41-32-PN4V.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240631 loop_end=281656 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-41-127-VXRW.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=310012 loop_end=369325 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-42-32-3IDL.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360343 loop_end=419394 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-42-127-TYI2.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=247734 loop_end=408953 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-43-32-64QM.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254222 loop_end=434109 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-43-127-7992.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=337113 loop_end=433325 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-44-32-0S5X.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321486 loop_end=418625 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-44-127-OD3G.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=269021 loop_end=397027 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-45-32-Q1Z2.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286153 loop_end=435595 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-45-127-LR00.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=387556 loop_end=431319 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-46-32-L62E.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284401 loop_end=327955 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-46-127-VQKJ.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=326431 loop_end=368443 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-47-32-JNBE.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278242 loop_end=320635 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-47-127-5BPU.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=277245 loop_end=434634 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-48-32-YLOF.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292046 loop_end=389679 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-48-127-RI5I.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=325634 loop_end=425594 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-49-32-VI05.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304952 loop_end=404902 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-49-127-E2YV.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=328550 loop_end=393235 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-50-32-2PTP.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253425 loop_end=317131 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-50-127-611N.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=367005 loop_end=429462 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-51-32-7653.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257341 loop_end=426313 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-51-127-LSGV.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=266954 loop_end=410293 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-52-32-I7DZ.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249230 loop_end=413394 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-52-127-BB8G.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=249489 loop_end=427778 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-53-32-N7ME.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283802 loop_end=342450 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-53-127-5JJQ.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=320002 loop_end=380436 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-54-32-VBYR.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321052 loop_end=360429 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-54-127-F4J0.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=364493 loop_end=429096 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-55-32-4M4A.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284892 loop_end=327553 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-55-127-NLTY.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=325671 loop_end=384056 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-56-32-TAGD.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261251 loop_end=434782 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-56-127-TC30.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=377955 loop_end=418720 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-57-32-T4NU.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246133 loop_end=372374 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-57-127-7CH0.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=328812 loop_end=369694 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-58-32-7T5F.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281074 loop_end=322058 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-58-127-S74X.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=300426 loop_end=340398 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-59-32-Q9XH.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274401 loop_end=431574 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-59-127-1823.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=267136 loop_end=427971 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-60-32-T8VP.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268228 loop_end=429968 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-60-127-08IE.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=249598 loop_end=421612 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-61-32-Z11E.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251629 loop_end=402291 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-61-127-7O0B.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=242380 loop_end=435801 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-62-32-XF7W.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324638 loop_end=421102 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-62-127-R4DR.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=250498 loop_end=292881 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-63-32-FTL9.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269970 loop_end=376578 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-63-127-JVV7.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=273995 loop_end=376253 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-64-32-UNZ4.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293222 loop_end=436548 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-64-127-1OMS.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=238854 loop_end=416044 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-65-32-8CS9.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319822 loop_end=396582 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-65-127-IASV.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=340120 loop_end=400545 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-66-32-Q8WC.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=353470 loop_end=393522 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-66-127-3ISY.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=286035 loop_end=329007 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-67-32-RF34.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254214 loop_end=401876 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-67-127-FA7D.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=277680 loop_end=374032 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-68-32-5O2S.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318978 loop_end=434707 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-68-127-EV2F.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=323049 loop_end=427918 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-69-32-2JKQ.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329431 loop_end=434890 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-69-127-TZI2.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=246294 loop_end=287451 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-70-32-L2G3.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287201 loop_end=327178 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-70-127-W41Z.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=258886 loop_end=376438 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-71-32-9N3Y.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=331116 loop_end=371073 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-71-127-893B.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=329729 loop_end=429890 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-72-32-RS75.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358615 loop_end=418953 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-72-127-SX2G.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=322838 loop_end=430126 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-73-32-2MHT.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=374762 loop_end=417926 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-73-127-BPBB.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=282240 loop_end=397794 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-74-32-M1VH.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318590 loop_end=434225 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-74-127-W1CE.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=392243 loop_end=434379 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-75-32-1KKS.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294624 loop_end=399970 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-75-127-T9EK.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=263669 loop_end=306168 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-76-32-PAH4.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282605 loop_end=405616 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-76-127-G1S8.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=248079 loop_end=346215 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-77-32-GVN3.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261361 loop_end=301538 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-77-127-YS57.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=309002 loop_end=409048 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-78-32-LRXK.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369483 loop_end=409715 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-78-127-4LEX.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=366006 loop_end=432351 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-79-32-GKI9.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306643 loop_end=435975 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-79-127-TXU6.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=250285 loop_end=424340 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-80-32-1AZI.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272938 loop_end=350066 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-80-127-BP19.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=285459 loop_end=369367 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-81-32-QAJP.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=0 loop_end=455 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-81-127-5JXT.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=372097 loop_end=433908 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-82-32-ZUSS.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262363 loop_end=324976 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-82-127-V8G4.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=351622 loop_end=430257 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-83-32-O3CU.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351335 loop_end=391247 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-83-127-7TBA.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=277875 loop_end=318537 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-84-32-SWMX.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349841 loop_end=390640 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-84-127-IPQ5.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=242200 loop_end=285205 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-85-32-F5TU.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239450 loop_end=409476 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-85-127-PMR9.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=285829 loop_end=381928 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-86-32-2EF6.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328917 loop_end=425427 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-86-127-A694.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=349555 loop_end=433269 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-87-32-VZ54.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284884 loop_end=433442 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-87-127-3S1W.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=283459 loop_end=324570 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-88-32-XLH5.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321390 loop_end=361885 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-88-127-PM8E.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=240987 loop_end=299724 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-89-32-1GLI.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307268 loop_end=406619 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-89-127-5BR7.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=262197 loop_end=422835 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-90-32-61WY.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320042 loop_end=361019 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-90-127-62YI.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=0 loop_end=427 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-91-32-FOE5.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256326 loop_end=300392 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-91-127-8LD9.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=316199 loop_end=432989 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-92-32-C2SY.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252908 loop_end=426900 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-92-127-U8G2.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=246536 loop_end=435389 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-93-32-Z3A7.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296219 loop_end=336795 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-93-127-BI9F.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=271762 loop_end=313088 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-94-32-CUE3.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243140 loop_end=284784 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-94-127-FQQO.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=292216 loop_end=332007 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-95-32-EMW1.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292182 loop_end=371343 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-95-127-TDE5.aif
-<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=259461 loop_end=299372 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-96-32-TDV2.aif
-	<region> lovel=067 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242781 loop_end=402660 sample=../Audio/Scratch Pad/(2013713 16571)/Scratch Pad-96-127-BWUM.aif
+<group>lokey=16 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=242209 loop_end=321842 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-36-32-PVJU.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=248854 loop_end=288300 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-36-127-MH2P.aif
+<group> key=37 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=309307 loop_end=369823 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-37-32-7QZX.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=338243 loop_end=378932 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-37-127-7500.aif
+<group> key=38 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=346191 loop_end=404465 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-38-32-RQRW.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=357829 loop_end=416098 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-38-127-FE40.aif
+<group> key=39 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=342430 loop_end=407112 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-39-32-ELP6.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=268466 loop_end=417930 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-39-127-WHGL.aif
+<group> key=40 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=272268 loop_end=334498 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-40-32-P28U.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=305856 loop_end=431478 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-40-127-4VJW.aif
+<group> key=41 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=319328 loop_end=360355 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-41-32-PN4V.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=240631 loop_end=281656 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-41-127-VXRW.aif
+<group> key=42 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=310012 loop_end=369325 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-42-32-3IDL.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=360343 loop_end=419394 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-42-127-TYI2.aif
+<group> key=43 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=247734 loop_end=408953 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-43-32-64QM.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=254222 loop_end=434109 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-43-127-7992.aif
+<group> key=44 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=337113 loop_end=433325 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-44-32-0S5X.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=321486 loop_end=418625 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-44-127-OD3G.aif
+<group> key=45 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=269021 loop_end=397027 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-45-32-Q1Z2.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=286153 loop_end=435595 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-45-127-LR00.aif
+<group> key=46 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=387556 loop_end=431319 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-46-32-L62E.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=284401 loop_end=327955 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-46-127-VQKJ.aif
+<group> key=47 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=326431 loop_end=368443 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-47-32-JNBE.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=278242 loop_end=320635 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-47-127-5BPU.aif
+<group> key=48 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=277245 loop_end=434634 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-48-32-YLOF.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=292046 loop_end=389679 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-48-127-RI5I.aif
+<group> key=49 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=325634 loop_end=425594 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-49-32-VI05.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=304952 loop_end=404902 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-49-127-E2YV.aif
+<group> key=50 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=328550 loop_end=393235 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-50-32-2PTP.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=253425 loop_end=317131 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-50-127-611N.aif
+<group> key=51 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=367005 loop_end=429462 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-51-32-7653.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=257341 loop_end=426313 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-51-127-LSGV.aif
+<group> key=52 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=266954 loop_end=410293 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-52-32-I7DZ.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=249230 loop_end=413394 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-52-127-BB8G.aif
+<group> key=53 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=249489 loop_end=427778 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-53-32-N7ME.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=283802 loop_end=342450 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-53-127-5JJQ.aif
+<group> key=54 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=320002 loop_end=380436 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-54-32-VBYR.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=321052 loop_end=360429 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-54-127-F4J0.aif
+<group> key=55 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=364493 loop_end=429096 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-55-32-4M4A.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=284892 loop_end=327553 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-55-127-NLTY.aif
+<group> key=56 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=325671 loop_end=384056 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-56-32-TAGD.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=261251 loop_end=434782 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-56-127-TC30.aif
+<group> key=57 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=377955 loop_end=418720 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-57-32-T4NU.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=246133 loop_end=372374 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-57-127-7CH0.aif
+<group> key=58 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=328812 loop_end=369694 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-58-32-7T5F.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=281074 loop_end=322058 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-58-127-S74X.aif
+<group> key=59 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=300426 loop_end=340398 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-59-32-Q9XH.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=274401 loop_end=431574 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-59-127-1823.aif
+<group> key=60 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=267136 loop_end=427971 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-60-32-T8VP.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=268228 loop_end=429968 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-60-127-08IE.aif
+<group> key=61 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=249598 loop_end=421612 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-61-32-Z11E.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=251629 loop_end=402291 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-61-127-7O0B.aif
+<group> key=62 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=242380 loop_end=435801 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-62-32-XF7W.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=324638 loop_end=421102 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-62-127-R4DR.aif
+<group> key=63 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=250498 loop_end=292881 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-63-32-FTL9.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=269970 loop_end=376578 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-63-127-JVV7.aif
+<group> key=64 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=273995 loop_end=376253 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-64-32-UNZ4.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=293222 loop_end=436548 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-64-127-1OMS.aif
+<group> key=65 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=238854 loop_end=416044 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-65-32-8CS9.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=319822 loop_end=396582 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-65-127-IASV.aif
+<group> key=66 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=340120 loop_end=400545 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-66-32-Q8WC.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=353470 loop_end=393522 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-66-127-3ISY.aif
+<group> key=67 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=286035 loop_end=329007 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-67-32-RF34.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=254214 loop_end=401876 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-67-127-FA7D.aif
+<group> key=68 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=277680 loop_end=374032 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-68-32-5O2S.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=318978 loop_end=434707 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-68-127-EV2F.aif
+<group> key=69 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=323049 loop_end=427918 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-69-32-2JKQ.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=329431 loop_end=434890 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-69-127-TZI2.aif
+<group> key=70 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=246294 loop_end=287451 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-70-32-L2G3.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=287201 loop_end=327178 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-70-127-W41Z.aif
+<group> key=71 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=258886 loop_end=376438 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-71-32-9N3Y.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=331116 loop_end=371073 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-71-127-893B.aif
+<group> key=72 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=329729 loop_end=429890 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-72-32-RS75.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=358615 loop_end=418953 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-72-127-SX2G.aif
+<group> key=73 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=322838 loop_end=430126 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-73-32-2MHT.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=374762 loop_end=417926 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-73-127-BPBB.aif
+<group> key=74 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=282240 loop_end=397794 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-74-32-M1VH.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=318590 loop_end=434225 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-74-127-W1CE.aif
+<group> key=75 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=392243 loop_end=434379 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-75-32-1KKS.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=294624 loop_end=399970 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-75-127-T9EK.aif
+<group> key=76 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=263669 loop_end=306168 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-76-32-PAH4.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=282605 loop_end=405616 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-76-127-G1S8.aif
+<group> key=77 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=248079 loop_end=346215 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-77-32-GVN3.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=261361 loop_end=301538 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-77-127-YS57.aif
+<group> key=78 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=309002 loop_end=409048 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-78-32-LRXK.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=369483 loop_end=409715 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-78-127-4LEX.aif
+<group> key=79 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=366006 loop_end=432351 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-79-32-GKI9.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=306643 loop_end=435975 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-79-127-TXU6.aif
+<group> key=80 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=250285 loop_end=424340 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-80-32-1AZI.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=272938 loop_end=350066 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-80-127-BP19.aif
+<group> key=81 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=285459 loop_end=369367 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-81-32-QAJP.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=0 loop_end=455 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-81-127-5JXT.aif
+<group> key=82 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=372097 loop_end=433908 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-82-32-ZUSS.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=262363 loop_end=324976 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-82-127-V8G4.aif
+<group> key=83 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=351622 loop_end=430257 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-83-32-O3CU.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=351335 loop_end=391247 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-83-127-7TBA.aif
+<group> key=84 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=277875 loop_end=318537 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-84-32-SWMX.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=349841 loop_end=390640 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-84-127-IPQ5.aif
+<group> key=85 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=242200 loop_end=285205 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-85-32-F5TU.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=239450 loop_end=409476 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-85-127-PMR9.aif
+<group> key=86 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=285829 loop_end=381928 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-86-32-2EF6.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=328917 loop_end=425427 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-86-127-A694.aif
+<group> key=87 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=349555 loop_end=433269 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-87-32-VZ54.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=284884 loop_end=433442 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-87-127-3S1W.aif
+<group> key=88 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=283459 loop_end=324570 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-88-32-XLH5.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=321390 loop_end=361885 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-88-127-PM8E.aif
+<group> key=89 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=240987 loop_end=299724 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-89-32-1GLI.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=307268 loop_end=406619 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-89-127-5BR7.aif
+<group> key=90 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=262197 loop_end=422835 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-90-32-61WY.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=320042 loop_end=361019 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-90-127-62YI.aif
+<group> key=91 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=0 loop_end=427 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-91-32-FOE5.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=256326 loop_end=300392 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-91-127-8LD9.aif
+<group> key=92 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=316199 loop_end=432989 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-92-32-C2SY.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=252908 loop_end=426900 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-92-127-U8G2.aif
+<group> key=93 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=246536 loop_end=435389 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-93-32-Z3A7.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=296219 loop_end=336795 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-93-127-BI9F.aif
+<group> key=94 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=271762 loop_end=313088 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-94-32-CUE3.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=243140 loop_end=284784 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-94-127-FQQO.aif
+<group> key=95 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=292216 loop_end=332007 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-95-32-EMW1.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=292182 loop_end=371343 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-95-127-TDE5.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 
+	<region> lovel=001 hivel=066 amp_velcurve_066=1 loop_mode=loop_sustain loop_start=259461 loop_end=299372 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-96-32-TDV2.aif
+	<region> lovel=067 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=242781 loop_end=402660 sample=../PolAudio/Scratch Pad/(2013713 16571)/Scratch Pad-96-127-BWUM.aif

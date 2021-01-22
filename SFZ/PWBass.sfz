@@ -1,124 +1,124 @@
 // this file was generated from PWBass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=643 end=38332 sample=../Audio/PWBass/PWBass2424.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1126 end=38868 sample=../Audio/PWBass/PWBass2525.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 sample=../Audio/PWBass/PWBass2626.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1028 end=38452 sample=../Audio/PWBass/PWBass2727.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 end=36073 sample=../Audio/PWBass/PWBass2828.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1073 end=38260 sample=../Audio/PWBass/PWBass2929.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1215 end=38779 sample=../Audio/PWBass/PWBass3030.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=969 end=39901 sample=../Audio/PWBass/PWBass3131.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=781 sample=../Audio/PWBass/PWBass3232.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=37419 sample=../Audio/PWBass/PWBass3333.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=39477 sample=../Audio/PWBass/PWBass3434.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1098 end=42309 sample=../Audio/PWBass/PWBass3535.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1056 end=34603 sample=../Audio/PWBass/PWBass3636.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 sample=../Audio/PWBass/PWBass3737.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1157 end=37089 sample=../Audio/PWBass/PWBass3838.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 end=39757 sample=../Audio/PWBass/PWBass3939.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=942 end=46139 sample=../Audio/PWBass/PWBass4040.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1184 end=41261 sample=../Audio/PWBass/PWBass4141.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 end=41086 sample=../Audio/PWBass/PWBass4242.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=985 end=43497 sample=../Audio/PWBass/PWBass4343.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 end=41232 sample=../Audio/PWBass/PWBass4444.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1036 end=36759 sample=../Audio/PWBass/PWBass4545.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=836 sample=../Audio/PWBass/PWBass4646.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=995 end=44905 sample=../Audio/PWBass/PWBass4747.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=916 end=47239 sample=../Audio/PWBass/PWBass4848.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=44448 sample=../Audio/PWBass/PWBass4949.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=49551 sample=../Audio/PWBass/PWBass5050.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=808 sample=../Audio/PWBass/PWBass5151.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 end=49957 sample=../Audio/PWBass/PWBass5252.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=805 end=45758 sample=../Audio/PWBass/PWBass5353.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=705 sample=../Audio/PWBass/PWBass5454.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=49415 sample=../Audio/PWBass/PWBass5555.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 sample=../Audio/PWBass/PWBass5656.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1046 end=47596 sample=../Audio/PWBass/PWBass5757.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=966 end=51680 sample=../Audio/PWBass/PWBass5858.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=653 end=51852 sample=../Audio/PWBass/PWBass5959.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=985 end=46661 sample=../Audio/PWBass/PWBass6060.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 end=53573 sample=../Audio/PWBass/PWBass6161.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 end=50397 sample=../Audio/PWBass/PWBass6262.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=901 end=48758 sample=../Audio/PWBass/PWBass6363.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=986 end=50587 sample=../Audio/PWBass/PWBass6464.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=954 end=54211 sample=../Audio/PWBass/PWBass6565.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=958 end=49853 sample=../Audio/PWBass/PWBass6666.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1016 end=59174 sample=../Audio/PWBass/PWBass6767.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=889 end=51653 sample=../Audio/PWBass/PWBass6868.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=859 sample=../Audio/PWBass/PWBass6969.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1112 end=53483 sample=../Audio/PWBass/PWBass7070.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1058 end=60131 sample=../Audio/PWBass/PWBass7171.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1030 end=51396 sample=../Audio/PWBass/PWBass7272.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=564 end=60630 sample=../Audio/PWBass/PWBass7373.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1024 end=55743 sample=../Audio/PWBass/PWBass7474.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=954 end=56751 sample=../Audio/PWBass/PWBass7575.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1206 sample=../Audio/PWBass/PWBass7676.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=804 end=61398 sample=../Audio/PWBass/PWBass7777.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=939 end=51873 sample=../Audio/PWBass/PWBass7878.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=913 end=68824 sample=../Audio/PWBass/PWBass7979.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1210 sample=../Audio/PWBass/PWBass8080.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 end=57898 sample=../Audio/PWBass/PWBass8181.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=61953 sample=../Audio/PWBass/PWBass8282.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=913 sample=../Audio/PWBass/PWBass8383.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=861 end=51911 sample=../Audio/PWBass/PWBass8484.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=643 end=38332 sample=../PolAudio/PWBass/PWBass2424.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1126 end=38868 sample=../PolAudio/PWBass/PWBass2525.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=625 sample=../PolAudio/PWBass/PWBass2626.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1028 end=38452 sample=../PolAudio/PWBass/PWBass2727.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=664 end=36073 sample=../PolAudio/PWBass/PWBass2828.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1073 end=38260 sample=../PolAudio/PWBass/PWBass2929.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1215 end=38779 sample=../PolAudio/PWBass/PWBass3030.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=969 end=39901 sample=../PolAudio/PWBass/PWBass3131.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=781 sample=../PolAudio/PWBass/PWBass3232.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=809 end=37419 sample=../PolAudio/PWBass/PWBass3333.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=785 end=39477 sample=../PolAudio/PWBass/PWBass3434.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1098 end=42309 sample=../PolAudio/PWBass/PWBass3535.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1056 end=34603 sample=../PolAudio/PWBass/PWBass3636.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1062 sample=../PolAudio/PWBass/PWBass3737.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1157 end=37089 sample=../PolAudio/PWBass/PWBass3838.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=891 end=39757 sample=../PolAudio/PWBass/PWBass3939.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=942 end=46139 sample=../PolAudio/PWBass/PWBass4040.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1184 end=41261 sample=../PolAudio/PWBass/PWBass4141.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=932 end=41086 sample=../PolAudio/PWBass/PWBass4242.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=985 end=43497 sample=../PolAudio/PWBass/PWBass4343.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=791 end=41232 sample=../PolAudio/PWBass/PWBass4444.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1036 end=36759 sample=../PolAudio/PWBass/PWBass4545.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=836 sample=../PolAudio/PWBass/PWBass4646.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=995 end=44905 sample=../PolAudio/PWBass/PWBass4747.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=916 end=47239 sample=../PolAudio/PWBass/PWBass4848.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=720 end=44448 sample=../PolAudio/PWBass/PWBass4949.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=862 end=49551 sample=../PolAudio/PWBass/PWBass5050.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=808 sample=../PolAudio/PWBass/PWBass5151.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=692 end=49957 sample=../PolAudio/PWBass/PWBass5252.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=805 end=45758 sample=../PolAudio/PWBass/PWBass5353.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=705 sample=../PolAudio/PWBass/PWBass5454.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=624 end=49415 sample=../PolAudio/PWBass/PWBass5555.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=678 sample=../PolAudio/PWBass/PWBass5656.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1046 end=47596 sample=../PolAudio/PWBass/PWBass5757.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=966 end=51680 sample=../PolAudio/PWBass/PWBass5858.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=653 end=51852 sample=../PolAudio/PWBass/PWBass5959.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=985 end=46661 sample=../PolAudio/PWBass/PWBass6060.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=840 end=53573 sample=../PolAudio/PWBass/PWBass6161.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=762 end=50397 sample=../PolAudio/PWBass/PWBass6262.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=901 end=48758 sample=../PolAudio/PWBass/PWBass6363.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=986 end=50587 sample=../PolAudio/PWBass/PWBass6464.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=954 end=54211 sample=../PolAudio/PWBass/PWBass6565.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=958 end=49853 sample=../PolAudio/PWBass/PWBass6666.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1016 end=59174 sample=../PolAudio/PWBass/PWBass6767.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=889 end=51653 sample=../PolAudio/PWBass/PWBass6868.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=859 sample=../PolAudio/PWBass/PWBass6969.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1112 end=53483 sample=../PolAudio/PWBass/PWBass7070.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1058 end=60131 sample=../PolAudio/PWBass/PWBass7171.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1030 end=51396 sample=../PolAudio/PWBass/PWBass7272.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=564 end=60630 sample=../PolAudio/PWBass/PWBass7373.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1024 end=55743 sample=../PolAudio/PWBass/PWBass7474.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=954 end=56751 sample=../PolAudio/PWBass/PWBass7575.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1206 sample=../PolAudio/PWBass/PWBass7676.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=804 end=61398 sample=../PolAudio/PWBass/PWBass7777.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=939 end=51873 sample=../PolAudio/PWBass/PWBass7878.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=913 end=68824 sample=../PolAudio/PWBass/PWBass7979.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1210 sample=../PolAudio/PWBass/PWBass8080.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=755 end=57898 sample=../PolAudio/PWBass/PWBass8181.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1062 end=61953 sample=../PolAudio/PWBass/PWBass8282.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=913 sample=../PolAudio/PWBass/PWBass8383.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=861 end=51911 sample=../PolAudio/PWBass/PWBass8484.aif

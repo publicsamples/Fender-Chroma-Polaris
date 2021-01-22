@@ -1,124 +1,124 @@
 // this file was generated from Sweetner.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=383311 loop_end=479066 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-1S3Y.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=328700 loop_end=425127 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-97GT.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=328067 loop_end=423887 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-24UI.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=392324 loop_end=488510 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-YROB.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=382442 loop_end=478488 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-CMPJ.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=382921 loop_end=477684 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-CMTK.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=379117 loop_end=475009 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-13XM.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377079 loop_end=473147 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-WYXE.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=381209 loop_end=477827 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-SMVH.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377450 loop_end=474142 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-GHQ9.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378193 loop_end=474734 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-NTWL.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378238 loop_end=473640 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-3TRU.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378059 loop_end=474244 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-03XT.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377032 loop_end=473297 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-SE5U.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378000 loop_end=474300 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-VELH.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377585 loop_end=473645 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-5KK5.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=376291 loop_end=471791 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-M7N2.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378981 loop_end=474118 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-AZX2.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=394429 loop_end=490305 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-JDA2.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377838 loop_end=474206 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-AT1B.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=394767 loop_end=491146 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-U4LZ.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=391596 loop_end=487718 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-8GWL.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=394244 loop_end=490739 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-ABHG.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=392589 loop_end=488882 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-WFUD.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377078 loop_end=472721 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-B5GL.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378730 loop_end=475280 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-XHSH.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=391472 loop_end=488017 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-P6UL.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=368798 loop_end=464506 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-TTTK.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378712 loop_end=475355 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-OA3F.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377068 loop_end=472843 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-NUZM.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=377921 loop_end=474169 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-RC65.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=378081 loop_end=473693 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-55D4.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=379005 loop_end=475299 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-8GZI.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=392330 loop_end=488653 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-VSIE.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=355314 loop_end=451057 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-4QJJ.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336747 loop_end=432473 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-4F6A.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=368247 loop_end=463972 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-S2FM.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=383090 loop_end=479234 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-UE3D.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=383037 loop_end=478626 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-I5V1.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=376397 loop_end=472353 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-PTLD.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=381122 loop_end=477368 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-IOWJ.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=395384 loop_end=491760 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-HL0V.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=322475 loop_end=418079 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-RYSY.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=396464 loop_end=473216 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-KWUG.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=398550 loop_end=475379 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-CQJJ.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=379087 loop_end=455871 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-VLQG.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=394419 loop_end=490701 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-SWZT.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=358560 loop_end=454819 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-0BSQ.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=323367 loop_end=399911 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-LB9E.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=409787 loop_end=486653 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-EIVN.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=390318 loop_end=486578 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-4KPP.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=387218 loop_end=464075 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-6MB8.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=384158 loop_end=460956 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-WJZB.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=404637 loop_end=481532 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-M1RI.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=406665 loop_end=483576 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-9F4W.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=402610 loop_end=479371 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-RY10.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=400631 loop_end=477360 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-UFZB.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=395400 loop_end=491714 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-JLUM.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=399024 loop_end=475940 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-2K3P.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=409339 loop_end=486063 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-8RM7.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=338166 loop_end=491734 sample=../Audio/Sweetner/(2013714 185523)/Sweetner-HHS3.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=383311 loop_end=479066 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-1S3Y.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=328700 loop_end=425127 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-97GT.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=328067 loop_end=423887 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-24UI.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=392324 loop_end=488510 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-YROB.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=382442 loop_end=478488 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-CMPJ.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=382921 loop_end=477684 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-CMTK.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=379117 loop_end=475009 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-13XM.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377079 loop_end=473147 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-WYXE.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=381209 loop_end=477827 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-SMVH.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377450 loop_end=474142 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-GHQ9.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378193 loop_end=474734 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-NTWL.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378238 loop_end=473640 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-3TRU.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378059 loop_end=474244 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-03XT.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377032 loop_end=473297 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-SE5U.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378000 loop_end=474300 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-VELH.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377585 loop_end=473645 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-5KK5.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=376291 loop_end=471791 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-M7N2.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378981 loop_end=474118 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-AZX2.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=394429 loop_end=490305 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-JDA2.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377838 loop_end=474206 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-AT1B.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=394767 loop_end=491146 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-U4LZ.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=391596 loop_end=487718 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-8GWL.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=394244 loop_end=490739 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-ABHG.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=392589 loop_end=488882 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-WFUD.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377078 loop_end=472721 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-B5GL.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378730 loop_end=475280 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-XHSH.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=391472 loop_end=488017 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-P6UL.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=368798 loop_end=464506 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-TTTK.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378712 loop_end=475355 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-OA3F.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377068 loop_end=472843 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-NUZM.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=377921 loop_end=474169 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-RC65.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=378081 loop_end=473693 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-55D4.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=379005 loop_end=475299 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-8GZI.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=392330 loop_end=488653 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-VSIE.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=355314 loop_end=451057 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-4QJJ.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=336747 loop_end=432473 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-4F6A.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=368247 loop_end=463972 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-S2FM.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=383090 loop_end=479234 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-UE3D.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=383037 loop_end=478626 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-I5V1.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=376397 loop_end=472353 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-PTLD.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=381122 loop_end=477368 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-IOWJ.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=395384 loop_end=491760 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-HL0V.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=322475 loop_end=418079 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-RYSY.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=396464 loop_end=473216 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-KWUG.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=398550 loop_end=475379 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-CQJJ.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=379087 loop_end=455871 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-VLQG.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=394419 loop_end=490701 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-SWZT.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=358560 loop_end=454819 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-0BSQ.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=323367 loop_end=399911 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-LB9E.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=409787 loop_end=486653 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-EIVN.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=390318 loop_end=486578 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-4KPP.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=387218 loop_end=464075 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-6MB8.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=384158 loop_end=460956 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-WJZB.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=404637 loop_end=481532 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-M1RI.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=406665 loop_end=483576 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-9F4W.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=402610 loop_end=479371 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-RY10.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=400631 loop_end=477360 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-UFZB.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=395400 loop_end=491714 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-JLUM.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=399024 loop_end=475940 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-2K3P.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=409339 loop_end=486063 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-8RM7.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=338166 loop_end=491734 sample=../PolAudio/Sweetner/(2013714 185523)/Sweetner-HHS3.aif

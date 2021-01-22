@@ -1,124 +1,124 @@
 // this file was generated from DoingItsThing.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1148 end=251989 sample=../Audio/DoingItsThing/DoingItsThing2424.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=249753 sample=../Audio/DoingItsThing/DoingItsThing2525.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1002 sample=../Audio/DoingItsThing/DoingItsThing2626.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=984 end=245078 sample=../Audio/DoingItsThing/DoingItsThing2727.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1027 sample=../Audio/DoingItsThing/DoingItsThing2828.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=242449 sample=../Audio/DoingItsThing/DoingItsThing2929.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 end=242687 sample=../Audio/DoingItsThing/DoingItsThing3030.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=240349 sample=../Audio/DoingItsThing/DoingItsThing3131.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=841 end=238069 sample=../Audio/DoingItsThing/DoingItsThing3232.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=914 end=238903 sample=../Audio/DoingItsThing/DoingItsThing3333.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=777 end=237735 sample=../Audio/DoingItsThing/DoingItsThing3434.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=949 end=231544 sample=../Audio/DoingItsThing/DoingItsThing3535.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1200 end=234714 sample=../Audio/DoingItsThing/DoingItsThing3636.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=911 end=234688 sample=../Audio/DoingItsThing/DoingItsThing3737.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1118 end=231860 sample=../Audio/DoingItsThing/DoingItsThing3838.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1110 end=230897 sample=../Audio/DoingItsThing/DoingItsThing3939.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1002 end=230902 sample=../Audio/DoingItsThing/DoingItsThing4040.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=921 end=225766 sample=../Audio/DoingItsThing/DoingItsThing4141.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=781 end=227828 sample=../Audio/DoingItsThing/DoingItsThing4242.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=936 end=225507 sample=../Audio/DoingItsThing/DoingItsThing4343.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1044 end=226333 sample=../Audio/DoingItsThing/DoingItsThing4444.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=989 end=227837 sample=../Audio/DoingItsThing/DoingItsThing4545.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=871 end=223288 sample=../Audio/DoingItsThing/DoingItsThing4646.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1220 end=228152 sample=../Audio/DoingItsThing/DoingItsThing4747.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=938 end=227748 sample=../Audio/DoingItsThing/DoingItsThing4848.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1259 end=227594 sample=../Audio/DoingItsThing/DoingItsThing4949.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1122 end=228764 sample=../Audio/DoingItsThing/DoingItsThing5050.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=892 end=228989 sample=../Audio/DoingItsThing/DoingItsThing5151.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=737 end=225104 sample=../Audio/DoingItsThing/DoingItsThing5252.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1050 end=226366 sample=../Audio/DoingItsThing/DoingItsThing5353.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 end=224883 sample=../Audio/DoingItsThing/DoingItsThing5454.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=980 end=224837 sample=../Audio/DoingItsThing/DoingItsThing5555.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1156 sample=../Audio/DoingItsThing/DoingItsThing5656.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=731 end=222694 sample=../Audio/DoingItsThing/DoingItsThing5757.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1059 end=68000 sample=../Audio/DoingItsThing/DoingItsThing5858.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1106 end=225526 sample=../Audio/DoingItsThing/DoingItsThing5959.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 end=222411 sample=../Audio/DoingItsThing/DoingItsThing6060.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=792 sample=../Audio/DoingItsThing/DoingItsThing6161.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=702 end=57232 sample=../Audio/DoingItsThing/DoingItsThing6262.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=773 end=59791 sample=../Audio/DoingItsThing/DoingItsThing6363.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=873 end=61472 sample=../Audio/DoingItsThing/DoingItsThing6464.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1099 end=56425 sample=../Audio/DoingItsThing/DoingItsThing6565.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1048 end=57098 sample=../Audio/DoingItsThing/DoingItsThing6666.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=926 end=53179 sample=../Audio/DoingItsThing/DoingItsThing6767.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1051 end=51281 sample=../Audio/DoingItsThing/DoingItsThing6868.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 sample=../Audio/DoingItsThing/DoingItsThing6969.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=49927 sample=../Audio/DoingItsThing/DoingItsThing7070.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=961 sample=../Audio/DoingItsThing/DoingItsThing7171.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 sample=../Audio/DoingItsThing/DoingItsThing7272.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=921 end=48671 sample=../Audio/DoingItsThing/DoingItsThing7373.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=44556 sample=../Audio/DoingItsThing/DoingItsThing7474.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 end=44158 sample=../Audio/DoingItsThing/DoingItsThing7575.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=853 end=47319 sample=../Audio/DoingItsThing/DoingItsThing7676.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=984 end=42868 sample=../Audio/DoingItsThing/DoingItsThing7777.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1150 sample=../Audio/DoingItsThing/DoingItsThing7878.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1143 end=41097 sample=../Audio/DoingItsThing/DoingItsThing7979.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=869 end=39690 sample=../Audio/DoingItsThing/DoingItsThing8080.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1020 end=39502 sample=../Audio/DoingItsThing/DoingItsThing8181.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 end=39833 sample=../Audio/DoingItsThing/DoingItsThing8282.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1042 end=231522 sample=../Audio/DoingItsThing/DoingItsThing8383.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=37515 sample=../Audio/DoingItsThing/DoingItsThing8484.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1148 end=251989 sample=../PolAudio/DoingItsThing/DoingItsThing2424.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=754 end=249753 sample=../PolAudio/DoingItsThing/DoingItsThing2525.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1002 sample=../PolAudio/DoingItsThing/DoingItsThing2626.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=984 end=245078 sample=../PolAudio/DoingItsThing/DoingItsThing2727.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1027 sample=../PolAudio/DoingItsThing/DoingItsThing2828.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=789 end=242449 sample=../PolAudio/DoingItsThing/DoingItsThing2929.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=937 end=242687 sample=../PolAudio/DoingItsThing/DoingItsThing3030.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=899 end=240349 sample=../PolAudio/DoingItsThing/DoingItsThing3131.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=841 end=238069 sample=../PolAudio/DoingItsThing/DoingItsThing3232.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=914 end=238903 sample=../PolAudio/DoingItsThing/DoingItsThing3333.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=777 end=237735 sample=../PolAudio/DoingItsThing/DoingItsThing3434.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=949 end=231544 sample=../PolAudio/DoingItsThing/DoingItsThing3535.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1200 end=234714 sample=../PolAudio/DoingItsThing/DoingItsThing3636.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=911 end=234688 sample=../PolAudio/DoingItsThing/DoingItsThing3737.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1118 end=231860 sample=../PolAudio/DoingItsThing/DoingItsThing3838.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1110 end=230897 sample=../PolAudio/DoingItsThing/DoingItsThing3939.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1002 end=230902 sample=../PolAudio/DoingItsThing/DoingItsThing4040.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=921 end=225766 sample=../PolAudio/DoingItsThing/DoingItsThing4141.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=781 end=227828 sample=../PolAudio/DoingItsThing/DoingItsThing4242.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=936 end=225507 sample=../PolAudio/DoingItsThing/DoingItsThing4343.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1044 end=226333 sample=../PolAudio/DoingItsThing/DoingItsThing4444.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=989 end=227837 sample=../PolAudio/DoingItsThing/DoingItsThing4545.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=871 end=223288 sample=../PolAudio/DoingItsThing/DoingItsThing4646.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1220 end=228152 sample=../PolAudio/DoingItsThing/DoingItsThing4747.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=938 end=227748 sample=../PolAudio/DoingItsThing/DoingItsThing4848.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1259 end=227594 sample=../PolAudio/DoingItsThing/DoingItsThing4949.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1122 end=228764 sample=../PolAudio/DoingItsThing/DoingItsThing5050.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=892 end=228989 sample=../PolAudio/DoingItsThing/DoingItsThing5151.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=737 end=225104 sample=../PolAudio/DoingItsThing/DoingItsThing5252.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1050 end=226366 sample=../PolAudio/DoingItsThing/DoingItsThing5353.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=988 end=224883 sample=../PolAudio/DoingItsThing/DoingItsThing5454.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=980 end=224837 sample=../PolAudio/DoingItsThing/DoingItsThing5555.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1156 sample=../PolAudio/DoingItsThing/DoingItsThing5656.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=731 end=222694 sample=../PolAudio/DoingItsThing/DoingItsThing5757.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1059 end=68000 sample=../PolAudio/DoingItsThing/DoingItsThing5858.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1106 end=225526 sample=../PolAudio/DoingItsThing/DoingItsThing5959.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=791 end=222411 sample=../PolAudio/DoingItsThing/DoingItsThing6060.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=792 sample=../PolAudio/DoingItsThing/DoingItsThing6161.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=702 end=57232 sample=../PolAudio/DoingItsThing/DoingItsThing6262.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=773 end=59791 sample=../PolAudio/DoingItsThing/DoingItsThing6363.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=873 end=61472 sample=../PolAudio/DoingItsThing/DoingItsThing6464.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1099 end=56425 sample=../PolAudio/DoingItsThing/DoingItsThing6565.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1048 end=57098 sample=../PolAudio/DoingItsThing/DoingItsThing6666.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=926 end=53179 sample=../PolAudio/DoingItsThing/DoingItsThing6767.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1051 end=51281 sample=../PolAudio/DoingItsThing/DoingItsThing6868.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=664 sample=../PolAudio/DoingItsThing/DoingItsThing6969.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=877 end=49927 sample=../PolAudio/DoingItsThing/DoingItsThing7070.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=961 sample=../PolAudio/DoingItsThing/DoingItsThing7171.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=931 sample=../PolAudio/DoingItsThing/DoingItsThing7272.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=921 end=48671 sample=../PolAudio/DoingItsThing/DoingItsThing7373.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=696 end=44556 sample=../PolAudio/DoingItsThing/DoingItsThing7474.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=992 end=44158 sample=../PolAudio/DoingItsThing/DoingItsThing7575.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=853 end=47319 sample=../PolAudio/DoingItsThing/DoingItsThing7676.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=984 end=42868 sample=../PolAudio/DoingItsThing/DoingItsThing7777.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1150 sample=../PolAudio/DoingItsThing/DoingItsThing7878.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1143 end=41097 sample=../PolAudio/DoingItsThing/DoingItsThing7979.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=869 end=39690 sample=../PolAudio/DoingItsThing/DoingItsThing8080.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1020 end=39502 sample=../PolAudio/DoingItsThing/DoingItsThing8181.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=931 end=39833 sample=../PolAudio/DoingItsThing/DoingItsThing8282.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1042 end=231522 sample=../PolAudio/DoingItsThing/DoingItsThing8383.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=707 end=37515 sample=../PolAudio/DoingItsThing/DoingItsThing8484.aif

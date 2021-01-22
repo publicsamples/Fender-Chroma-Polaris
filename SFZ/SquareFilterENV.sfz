@@ -1,429 +1,429 @@
 // this file was generated from SquareFilterENV.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=504 end=445609 sample=../Audio/SquareFilter/24C0-3LDX.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=845 end=448540 sample=../Audio/SquareFilter/24C0-P6XU.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=616 end=448600 sample=../Audio/SquareFilter/24C0-OXPO.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=815 sample=../Audio/SquareFilter/24C0-U6YK.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=952 end=445022 sample=../Audio/SquareFilter/24C0-YCCZ.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=1018 sample=../Audio/SquareFilter/24C0-92WF.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=658 sample=../Audio/SquareFilter/25C#0-2AEI.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=591 end=444526 sample=../Audio/SquareFilter/25C#0-09ZB.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=793 sample=../Audio/SquareFilter/25C#0-RH8F.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=871 end=444596 sample=../Audio/SquareFilter/25C#0-1YY3.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=491 end=445305 sample=../Audio/SquareFilter/25C#0-LS81.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=495 sample=../Audio/SquareFilter/25C#0-L4HL.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=615 end=444714 sample=../Audio/SquareFilter/26D0-T71F.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=754 end=444518 sample=../Audio/SquareFilter/26D0-22NX.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=942 end=446932 sample=../Audio/SquareFilter/26D0-JTJS.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=712 end=447868 sample=../Audio/SquareFilter/26D0-8YBI.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=786 end=442961 sample=../Audio/SquareFilter/26D0-RU8K.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=929 end=446211 sample=../Audio/SquareFilter/26D0-B8OT.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=480 end=448729 sample=../Audio/SquareFilter/27D#0-OCFQ.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=913 end=444751 sample=../Audio/SquareFilter/27D#0-WJ6V.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=444 sample=../Audio/SquareFilter/27D#0-V6W9.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=773 end=449235 sample=../Audio/SquareFilter/27D#0-F6G9.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=877 end=444387 sample=../Audio/SquareFilter/27D#0-QKAO.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=454 end=444358 sample=../Audio/SquareFilter/27D#0-ON3L.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=432 end=450134 sample=../Audio/SquareFilter/28E0-374F.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=671 end=445485 sample=../Audio/SquareFilter/28E0-V7RQ.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=941 end=445784 sample=../Audio/SquareFilter/28E0-EP6I.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=868 end=444505 sample=../Audio/SquareFilter/28E0-G1MK.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=629 end=446579 sample=../Audio/SquareFilter/28E0-ON1N.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=886 end=449629 sample=../Audio/SquareFilter/28E0-22PM.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=606 end=445429 sample=../Audio/SquareFilter/29F0-8AWG.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=955 end=444656 sample=../Audio/SquareFilter/29F0-2CRQ.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=869 end=450467 sample=../Audio/SquareFilter/29F0-DDII.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=793 end=448631 sample=../Audio/SquareFilter/29F0-HUG4.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=785 end=445491 sample=../Audio/SquareFilter/29F0-TIBI.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=742 end=445664 sample=../Audio/SquareFilter/29F0-E885.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=783 end=445677 sample=../Audio/SquareFilter/30F#0-PSPX.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=515 end=445276 sample=../Audio/SquareFilter/30F#0-0FL4.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=535 end=445223 sample=../Audio/SquareFilter/30F#0-0RFN.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=653 end=446946 sample=../Audio/SquareFilter/30F#0-1WBW.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=725 end=449083 sample=../Audio/SquareFilter/30F#0-0RAV.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=729 end=444393 sample=../Audio/SquareFilter/30F#0-TGOQ.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=764 end=444012 sample=../Audio/SquareFilter/31G0-NGVH.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=728 end=446007 sample=../Audio/SquareFilter/31G0-R04A.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=539 end=444012 sample=../Audio/SquareFilter/31G0-YRC9.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=507 end=447007 sample=../Audio/SquareFilter/31G0-O2YQ.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=670 end=444353 sample=../Audio/SquareFilter/31G0-34SM.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=811 sample=../Audio/SquareFilter/31G0-Q598.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=947 sample=../Audio/SquareFilter/32G#0-JU2M.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=768 end=445530 sample=../Audio/SquareFilter/32G#0-33A0.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=792 end=444922 sample=../Audio/SquareFilter/32G#0-0XJM.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=644 end=447372 sample=../Audio/SquareFilter/32G#0-XE31.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=491 end=443382 sample=../Audio/SquareFilter/32G#0-CHY6.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=857 end=444535 sample=../Audio/SquareFilter/32G#0-3T5I.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=903 end=445602 sample=../Audio/SquareFilter/33A0-DIT3.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=573 end=445431 sample=../Audio/SquareFilter/33A0-IFJX.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=959 end=444398 sample=../Audio/SquareFilter/33A0-JL0R.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=459 end=444914 sample=../Audio/SquareFilter/33A0-MK2G.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=670 end=445293 sample=../Audio/SquareFilter/33A0-7GZT.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=823 end=444528 sample=../Audio/SquareFilter/33A0-JOCN.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=703 end=445292 sample=../Audio/SquareFilter/34A#0-QOXJ.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=587 end=443967 sample=../Audio/SquareFilter/34A#0-FDQY.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=896 end=445550 sample=../Audio/SquareFilter/34A#0-5Q1G.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=817 end=445558 sample=../Audio/SquareFilter/34A#0-WAVU.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=813 end=447832 sample=../Audio/SquareFilter/34A#0-DZ7W.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=882 end=445690 sample=../Audio/SquareFilter/34A#0-FOUK.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=907 end=445514 sample=../Audio/SquareFilter/35B0-NOIX.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=787 end=444143 sample=../Audio/SquareFilter/35B0-Z96D.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=747 end=443827 sample=../Audio/SquareFilter/35B0-CAF2.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=517 end=443887 sample=../Audio/SquareFilter/35B0-OQ5W.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=905 sample=../Audio/SquareFilter/35B0-IU9C.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=571 end=444128 sample=../Audio/SquareFilter/35B0-48RS.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=701 end=445387 sample=../Audio/SquareFilter/36C1-AUNM.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=730 sample=../Audio/SquareFilter/36C1-22E9.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=867 end=442869 sample=../Audio/SquareFilter/36C1-A59T.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=854 end=444131 sample=../Audio/SquareFilter/36C1-ABDS.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=674 end=443520 sample=../Audio/SquareFilter/36C1-CW3I.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=601 sample=../Audio/SquareFilter/36C1-RPXK.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=504 end=445005 sample=../Audio/SquareFilter/37C#1-QCXB.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=666 end=445411 sample=../Audio/SquareFilter/37C#1-LX6E.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=701 end=445194 sample=../Audio/SquareFilter/37C#1-9Z68.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=576 sample=../Audio/SquareFilter/37C#1-7945.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=839 end=444202 sample=../Audio/SquareFilter/37C#1-M9L9.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=533 end=444269 sample=../Audio/SquareFilter/37C#1-ESNB.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=884 end=443770 sample=../Audio/SquareFilter/38D1-QB3J.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=836 end=445565 sample=../Audio/SquareFilter/38D1-ASIC.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=485 end=444795 sample=../Audio/SquareFilter/38D1-YE4M.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=691 end=444152 sample=../Audio/SquareFilter/38D1-EJ4U.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=652 end=443973 sample=../Audio/SquareFilter/38D1-7L0U.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=583 end=445150 sample=../Audio/SquareFilter/38D1-YIS4.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=721 end=446862 sample=../Audio/SquareFilter/39D#1-I704.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=781 end=444246 sample=../Audio/SquareFilter/39D#1-3V7G.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=620 sample=../Audio/SquareFilter/39D#1-CUZ6.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=736 end=445424 sample=../Audio/SquareFilter/39D#1-JZZ2.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=643 end=444119 sample=../Audio/SquareFilter/39D#1-X81H.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=733 end=445259 sample=../Audio/SquareFilter/39D#1-71KX.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=783 end=445178 sample=../Audio/SquareFilter/40E1-F77B.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=691 end=443837 sample=../Audio/SquareFilter/40E1-QITZ.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=539 end=445047 sample=../Audio/SquareFilter/40E1-62RQ.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=566 end=445445 sample=../Audio/SquareFilter/40E1-DTAR.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=567 end=445112 sample=../Audio/SquareFilter/40E1-SK8B.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=444 end=445166 sample=../Audio/SquareFilter/40E1-APN4.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=985 end=444296 sample=../Audio/SquareFilter/41F1-Y77M.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=976 end=445137 sample=../Audio/SquareFilter/41F1-IRX7.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=663 end=445137 sample=../Audio/SquareFilter/41F1-BUD0.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=722 end=443765 sample=../Audio/SquareFilter/41F1-NNZA.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=612 end=445048 sample=../Audio/SquareFilter/41F1-90WS.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=818 end=445129 sample=../Audio/SquareFilter/41F1-M8HW.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=828 sample=../Audio/SquareFilter/42F#1-EI7S.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=852 sample=../Audio/SquareFilter/42F#1-5WGE.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=631 end=444107 sample=../Audio/SquareFilter/42F#1-HZOQ.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=664 end=443229 sample=../Audio/SquareFilter/42F#1-LYRS.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=941 end=445311 sample=../Audio/SquareFilter/42F#1-XP0B.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=535 end=446662 sample=../Audio/SquareFilter/42F#1-O4YN.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=1017 end=445690 sample=../Audio/SquareFilter/43G1-AAVX.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=854 end=444911 sample=../Audio/SquareFilter/43G1-C95I.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=848 end=444207 sample=../Audio/SquareFilter/43G1-YB5D.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=633 end=446847 sample=../Audio/SquareFilter/43G1-3QHO.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=493 end=443068 sample=../Audio/SquareFilter/43G1-PUDG.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=658 sample=../Audio/SquareFilter/43G1-8T0S.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=546 end=443469 sample=../Audio/SquareFilter/44G#1-BDHR.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=666 end=443659 sample=../Audio/SquareFilter/44G#1-QXLM.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=669 end=444001 sample=../Audio/SquareFilter/44G#1-UFVQ.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=789 end=447564 sample=../Audio/SquareFilter/44G#1-K9RI.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=1011 end=447828 sample=../Audio/SquareFilter/44G#1-NODE.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=864 end=445036 sample=../Audio/SquareFilter/44G#1-GJT9.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=886 end=445244 sample=../Audio/SquareFilter/45A1-ZXB1.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=782 end=443748 sample=../Audio/SquareFilter/45A1-R2Z7.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=753 end=444141 sample=../Audio/SquareFilter/45A1-PTTS.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=933 end=444797 sample=../Audio/SquareFilter/45A1-SBEP.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=940 end=445417 sample=../Audio/SquareFilter/45A1-DGH7.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=847 end=445684 sample=../Audio/SquareFilter/45A1-JQEF.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=552 end=444890 sample=../Audio/SquareFilter/46A#1-69PK.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=576 end=443560 sample=../Audio/SquareFilter/46A#1-711B.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=934 end=444791 sample=../Audio/SquareFilter/46A#1-AP0X.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=476 end=444155 sample=../Audio/SquareFilter/46A#1-ZWKR.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=441 end=444847 sample=../Audio/SquareFilter/46A#1-AQXT.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=869 end=444151 sample=../Audio/SquareFilter/46A#1-NCFL.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=542 end=443634 sample=../Audio/SquareFilter/47B1-WRDN.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=988 sample=../Audio/SquareFilter/47B1-IXQT.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=569 end=445038 sample=../Audio/SquareFilter/47B1-SOLY.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=732 end=444608 sample=../Audio/SquareFilter/47B1-7HRE.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=877 end=443720 sample=../Audio/SquareFilter/47B1-6SCY.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=496 end=445167 sample=../Audio/SquareFilter/47B1-EHVJ.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=747 end=444272 sample=../Audio/SquareFilter/48C2-4VHI.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=502 end=445031 sample=../Audio/SquareFilter/48C2-2VIX.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=793 end=445382 sample=../Audio/SquareFilter/48C2-4LIZ.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=879 end=445014 sample=../Audio/SquareFilter/48C2-E1JA.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=552 end=442064 sample=../Audio/SquareFilter/48C2-L5TC.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=531 end=444100 sample=../Audio/SquareFilter/48C2-TNE9.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=1024 end=444226 sample=../Audio/SquareFilter/49C#2-S7RV.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=844 end=443995 sample=../Audio/SquareFilter/49C#2-YXNM.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=789 end=445177 sample=../Audio/SquareFilter/49C#2-C030.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=529 end=445879 sample=../Audio/SquareFilter/49C#2-7ZDN.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=797 end=444093 sample=../Audio/SquareFilter/49C#2-B9OB.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=630 end=444926 sample=../Audio/SquareFilter/49C#2-7NEI.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=813 end=445146 sample=../Audio/SquareFilter/50D2-ZRVD.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=569 end=444771 sample=../Audio/SquareFilter/50D2-K1IV.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=595 end=443087 sample=../Audio/SquareFilter/50D2-REF4.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=712 end=445201 sample=../Audio/SquareFilter/50D2-5944.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=916 end=445008 sample=../Audio/SquareFilter/50D2-RB7Q.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=612 end=443970 sample=../Audio/SquareFilter/50D2-1Y39.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=687 end=445386 sample=../Audio/SquareFilter/51D#2-FXN2.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=1040 end=442971 sample=../Audio/SquareFilter/51D#2-SYKZ.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=559 end=444874 sample=../Audio/SquareFilter/51D#2-0C5G.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=985 end=445568 sample=../Audio/SquareFilter/51D#2-3SSH.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=701 end=443947 sample=../Audio/SquareFilter/51D#2-N5PX.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=534 end=443825 sample=../Audio/SquareFilter/51D#2-TCVS.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=809 sample=../Audio/SquareFilter/52E2-T2CY.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=520 end=443644 sample=../Audio/SquareFilter/52E2-4787.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=613 end=443689 sample=../Audio/SquareFilter/52E2-O27D.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=804 end=445131 sample=../Audio/SquareFilter/52E2-SFS9.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=1002 end=445432 sample=../Audio/SquareFilter/52E2-9CHT.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=695 end=443996 sample=../Audio/SquareFilter/52E2-K6H9.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=865 end=445428 sample=../Audio/SquareFilter/53F2-1EJ3.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=958 end=445377 sample=../Audio/SquareFilter/53F2-EY2K.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=829 end=444027 sample=../Audio/SquareFilter/53F2-QM7Q.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=997 end=443127 sample=../Audio/SquareFilter/53F2-NW8Q.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=461 end=444376 sample=../Audio/SquareFilter/53F2-9FC6.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=694 end=444080 sample=../Audio/SquareFilter/53F2-MXHZ.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=875 end=445723 sample=../Audio/SquareFilter/54F#2-I9GP.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=633 end=444628 sample=../Audio/SquareFilter/54F#2-94M6.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=877 end=444980 sample=../Audio/SquareFilter/54F#2-YAX0.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=415 end=444926 sample=../Audio/SquareFilter/54F#2-S9Z2.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=697 end=444785 sample=../Audio/SquareFilter/54F#2-L0IJ.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=915 end=444524 sample=../Audio/SquareFilter/54F#2-TKOF.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=706 end=448884 sample=../Audio/SquareFilter/55G2-PHW2.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=534 end=443558 sample=../Audio/SquareFilter/55G2-ZD0B.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=912 end=444237 sample=../Audio/SquareFilter/55G2-YKE0.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=953 end=442858 sample=../Audio/SquareFilter/55G2-CP8T.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=947 sample=../Audio/SquareFilter/55G2-OI82.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=876 end=444192 sample=../Audio/SquareFilter/55G2-AQ4K.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=866 end=443893 sample=../Audio/SquareFilter/56G#2-VAY7.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=666 end=443728 sample=../Audio/SquareFilter/56G#2-1L2K.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=599 end=444956 sample=../Audio/SquareFilter/56G#2-38Z9.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=767 end=443391 sample=../Audio/SquareFilter/56G#2-4LDP.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=643 end=447188 sample=../Audio/SquareFilter/56G#2-AP9M.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=758 end=443646 sample=../Audio/SquareFilter/56G#2-OOB6.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=750 end=443904 sample=../Audio/SquareFilter/57A2-773P.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=620 end=443751 sample=../Audio/SquareFilter/57A2-058E.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=896 end=444188 sample=../Audio/SquareFilter/57A2-D4F7.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=575 end=444786 sample=../Audio/SquareFilter/57A2-CGYL.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=981 end=445038 sample=../Audio/SquareFilter/57A2-LKS0.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=602 end=443915 sample=../Audio/SquareFilter/57A2-V941.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=950 end=444510 sample=../Audio/SquareFilter/58A#2-JPNC.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=806 end=445215 sample=../Audio/SquareFilter/58A#2-QWWM.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=720 end=445052 sample=../Audio/SquareFilter/58A#2-DMN7.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=899 end=444981 sample=../Audio/SquareFilter/58A#2-O3EC.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=962 end=445139 sample=../Audio/SquareFilter/58A#2-PW6O.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=970 end=445555 sample=../Audio/SquareFilter/58A#2-49NZ.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=841 end=444441 sample=../Audio/SquareFilter/59B2-W80X.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=835 end=445215 sample=../Audio/SquareFilter/59B2-DAGL.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=947 end=444159 sample=../Audio/SquareFilter/59B2-BIHI.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=686 end=443501 sample=../Audio/SquareFilter/59B2-L2VO.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=407 end=444637 sample=../Audio/SquareFilter/59B2-X5JG.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=431 sample=../Audio/SquareFilter/59B2-GXD1.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=761 end=443632 sample=../Audio/SquareFilter/60C3-7CSU.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=944 sample=../Audio/SquareFilter/60C3-JAKQ.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=973 end=444414 sample=../Audio/SquareFilter/60C3-F42U.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=839 end=443278 sample=../Audio/SquareFilter/60C3-K5MX.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=647 end=444905 sample=../Audio/SquareFilter/60C3-AP08.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=624 end=445312 sample=../Audio/SquareFilter/60C3-WOBN.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=587 end=443382 sample=../Audio/SquareFilter/61C#3-IRX1.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=558 end=445237 sample=../Audio/SquareFilter/61C#3-6MBL.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=531 end=446539 sample=../Audio/SquareFilter/61C#3-VS3O.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=461 end=443615 sample=../Audio/SquareFilter/61C#3-HM6Z.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=770 end=444141 sample=../Audio/SquareFilter/61C#3-HLSO.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=817 sample=../Audio/SquareFilter/61C#3-FSYV.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=826 end=443629 sample=../Audio/SquareFilter/62D3-4QF8.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=520 end=443904 sample=../Audio/SquareFilter/62D3-XI71.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=798 end=445040 sample=../Audio/SquareFilter/62D3-DAS7.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=768 end=444233 sample=../Audio/SquareFilter/62D3-CIHS.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=666 end=445181 sample=../Audio/SquareFilter/62D3-XI2V.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=619 end=445047 sample=../Audio/SquareFilter/62D3-YSHT.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=538 end=444038 sample=../Audio/SquareFilter/63D#3-L6G8.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=790 end=445022 sample=../Audio/SquareFilter/63D#3-3QNO.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=916 end=445157 sample=../Audio/SquareFilter/63D#3-Z44Q.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=814 end=442360 sample=../Audio/SquareFilter/63D#3-DDDQ.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=888 end=443775 sample=../Audio/SquareFilter/63D#3-IOZ0.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=734 end=443764 sample=../Audio/SquareFilter/63D#3-16D0.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=418 end=444011 sample=../Audio/SquareFilter/64E3-2KTD.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=791 end=444927 sample=../Audio/SquareFilter/64E3-FKAN.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=602 end=445051 sample=../Audio/SquareFilter/64E3-TFX0.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=850 end=444974 sample=../Audio/SquareFilter/64E3-38WV.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=475 end=444539 sample=../Audio/SquareFilter/64E3-U0MP.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=922 end=444250 sample=../Audio/SquareFilter/64E3-8WOX.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=378 end=444028 sample=../Audio/SquareFilter/65F3-CLIQ.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=718 sample=../Audio/SquareFilter/65F3-F1IC.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=866 end=445098 sample=../Audio/SquareFilter/65F3-IEYO.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=578 end=444916 sample=../Audio/SquareFilter/65F3-KBY7.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=545 end=444738 sample=../Audio/SquareFilter/65F3-DXPY.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=833 end=445133 sample=../Audio/SquareFilter/65F3-3A31.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=894 end=444364 sample=../Audio/SquareFilter/66F#3-77A1.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=626 sample=../Audio/SquareFilter/66F#3-E44B.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=903 end=445017 sample=../Audio/SquareFilter/66F#3-ZTPT.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=491 end=443805 sample=../Audio/SquareFilter/66F#3-KIOH.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=647 end=444879 sample=../Audio/SquareFilter/66F#3-BE9E.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=524 end=445242 sample=../Audio/SquareFilter/66F#3-V9XR.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=814 end=444024 sample=../Audio/SquareFilter/67G3-VWGJ.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=698 end=447590 sample=../Audio/SquareFilter/67G3-PC4O.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=725 end=444019 sample=../Audio/SquareFilter/67G3-EQKP.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=574 end=444758 sample=../Audio/SquareFilter/67G3-Z9SN.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=836 end=443932 sample=../Audio/SquareFilter/67G3-BPAX.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=872 sample=../Audio/SquareFilter/67G3-S8CH.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=672 end=443988 sample=../Audio/SquareFilter/68G#3-G18U.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=922 end=444846 sample=../Audio/SquareFilter/68G#3-CO28.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=655 end=444055 sample=../Audio/SquareFilter/68G#3-C536.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=786 end=443888 sample=../Audio/SquareFilter/68G#3-C2QL.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=590 sample=../Audio/SquareFilter/68G#3-A2DG.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=808 end=443880 sample=../Audio/SquareFilter/68G#3-ZUGU.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=632 end=443871 sample=../Audio/SquareFilter/69A3-UT4Y.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=1024 end=445550 sample=../Audio/SquareFilter/69A3-6BJZ.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=498 end=443585 sample=../Audio/SquareFilter/69A3-H1JW.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=770 end=443972 sample=../Audio/SquareFilter/69A3-U3P3.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=890 end=445250 sample=../Audio/SquareFilter/69A3-QRYA.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=711 end=444859 sample=../Audio/SquareFilter/69A3-CFET.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=643 sample=../Audio/SquareFilter/70A#3-4QF6.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=498 end=443616 sample=../Audio/SquareFilter/70A#3-GGI6.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=976 end=445255 sample=../Audio/SquareFilter/70A#3-6FUS.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=693 end=443731 sample=../Audio/SquareFilter/70A#3-WIL0.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=511 sample=../Audio/SquareFilter/70A#3-0QUM.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=787 end=445026 sample=../Audio/SquareFilter/70A#3-PMYL.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=618 end=441912 sample=../Audio/SquareFilter/71B3-YLYD.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=936 end=445340 sample=../Audio/SquareFilter/71B3-NUF5.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=638 end=445004 sample=../Audio/SquareFilter/71B3-8NYY.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=681 end=445047 sample=../Audio/SquareFilter/71B3-4X98.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=462 end=443582 sample=../Audio/SquareFilter/71B3-QD0B.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=852 end=445179 sample=../Audio/SquareFilter/71B3-9UG0.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=954 sample=../Audio/SquareFilter/72C4-WA02.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=718 end=442080 sample=../Audio/SquareFilter/72C4-OFMW.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=567 end=444785 sample=../Audio/SquareFilter/72C4-MRCM.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=870 end=443805 sample=../Audio/SquareFilter/72C4-TGTS.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=804 end=443632 sample=../Audio/SquareFilter/72C4-N94R.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=666 end=445014 sample=../Audio/SquareFilter/72C4-XESV.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=844 end=442114 sample=../Audio/SquareFilter/73C#4-ZZDQ.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=646 end=442739 sample=../Audio/SquareFilter/73C#4-C6Q3.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=700 sample=../Audio/SquareFilter/73C#4-WKRO.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=715 end=445075 sample=../Audio/SquareFilter/73C#4-SV2N.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=792 end=445408 sample=../Audio/SquareFilter/73C#4-LM6Y.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=456 end=443885 sample=../Audio/SquareFilter/73C#4-6F02.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=794 end=442142 sample=../Audio/SquareFilter/74D4-IQN7.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=746 end=444999 sample=../Audio/SquareFilter/74D4-YQ60.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=935 end=444301 sample=../Audio/SquareFilter/74D4-HVLR.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=888 end=445264 sample=../Audio/SquareFilter/74D4-9ARG.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=629 end=443667 sample=../Audio/SquareFilter/74D4-YU1A.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=636 end=443841 sample=../Audio/SquareFilter/74D4-WDLC.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=784 end=443664 sample=../Audio/SquareFilter/75D#4-458F.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=937 end=443772 sample=../Audio/SquareFilter/75D#4-9T0S.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=732 end=443879 sample=../Audio/SquareFilter/75D#4-JBDN.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=767 end=445090 sample=../Audio/SquareFilter/75D#4-O3I3.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=627 end=444997 sample=../Audio/SquareFilter/75D#4-L6F9.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=607 end=443879 sample=../Audio/SquareFilter/75D#4-G955.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=746 end=442126 sample=../Audio/SquareFilter/76E4-MV2D.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=494 end=442732 sample=../Audio/SquareFilter/76E4-S3P8.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=919 end=445468 sample=../Audio/SquareFilter/76E4-UBNY.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=655 end=444063 sample=../Audio/SquareFilter/76E4-OSJK.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=627 end=445149 sample=../Audio/SquareFilter/76E4-L1Y3.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=883 end=444396 sample=../Audio/SquareFilter/76E4-2ZRE.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=789 end=442211 sample=../Audio/SquareFilter/77F4-GC88.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=759 end=444902 sample=../Audio/SquareFilter/77F4-GG2I.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=677 end=445278 sample=../Audio/SquareFilter/77F4-GDNH.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=668 end=445024 sample=../Audio/SquareFilter/77F4-OMON.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=697 end=444000 sample=../Audio/SquareFilter/77F4-NZ7L.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=712 end=443902 sample=../Audio/SquareFilter/77F4-1T22.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=554 end=442526 sample=../Audio/SquareFilter/78F#4-JOY2.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=662 end=444651 sample=../Audio/SquareFilter/78F#4-CZFO.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=736 end=443841 sample=../Audio/SquareFilter/78F#4-URJI.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=852 sample=../Audio/SquareFilter/78F#4-IYLO.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=626 end=444935 sample=../Audio/SquareFilter/78F#4-0W3Z.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=682 sample=../Audio/SquareFilter/78F#4-DPQ0.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=685 end=442496 sample=../Audio/SquareFilter/79G4-JTAO.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=862 end=443206 sample=../Audio/SquareFilter/79G4-QXN7.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=458 end=443493 sample=../Audio/SquareFilter/79G4-UEPP.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=668 end=445438 sample=../Audio/SquareFilter/79G4-SDG6.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=887 end=445567 sample=../Audio/SquareFilter/79G4-6MYP.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=767 end=444406 sample=../Audio/SquareFilter/79G4-VAMV.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=745 sample=../Audio/SquareFilter/80G#4-24Q4.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=852 end=444717 sample=../Audio/SquareFilter/80G#4-6369.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=518 end=444499 sample=../Audio/SquareFilter/80G#4-JM4N.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=1057 end=445542 sample=../Audio/SquareFilter/80G#4-9V2X.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=559 end=443767 sample=../Audio/SquareFilter/80G#4-7XPT.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=1040 end=445667 sample=../Audio/SquareFilter/80G#4-OORL.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=845 end=444016 sample=../Audio/SquareFilter/81A4-CMKN.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=822 end=443113 sample=../Audio/SquareFilter/81A4-BWWD.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=850 end=444206 sample=../Audio/SquareFilter/81A4-9NUO.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=921 end=444414 sample=../Audio/SquareFilter/81A4-8QO1.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=725 end=444101 sample=../Audio/SquareFilter/81A4-WXK8.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=917 end=444385 sample=../Audio/SquareFilter/81A4-JJ73.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=887 end=442385 sample=../Audio/SquareFilter/82A#4-ESB7.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=537 end=443107 sample=../Audio/SquareFilter/82A#4-ZRHT.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=902 end=445567 sample=../Audio/SquareFilter/82A#4-GES7.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=826 end=445300 sample=../Audio/SquareFilter/82A#4-N8GY.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=831 end=443979 sample=../Audio/SquareFilter/82A#4-7U9U.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=826 end=445337 sample=../Audio/SquareFilter/82A#4-UA6T.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=418 end=441749 sample=../Audio/SquareFilter/83B4-UO7F.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=819 end=443213 sample=../Audio/SquareFilter/83B4-1UYD.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=414 end=444741 sample=../Audio/SquareFilter/83B4-R2XP.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=794 end=445243 sample=../Audio/SquareFilter/83B4-S9I5.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=797 end=444263 sample=../Audio/SquareFilter/83B4-UVJ9.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=920 end=444225 sample=../Audio/SquareFilter/83B4-RZPW.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=842 end=444062 sample=../Audio/SquareFilter/84C5-R6JV.wav
-	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=937 end=442735 sample=../Audio/SquareFilter/84C5-BPQM.wav
-	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=887 end=444131 sample=../Audio/SquareFilter/84C5-WG5W.wav
-	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=670 end=443805 sample=../Audio/SquareFilter/84C5-H2PE.wav
-	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=499 end=444957 sample=../Audio/SquareFilter/84C5-X0ZT.wav
-	<region> lovel=101 hivel=127 amp_velcurve_127=1 offset=707 end=444179 sample=../Audio/SquareFilter/84C5-BFS1.wav
+<group> key=24 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=504 end=445609 sample=../PolAudio/SquareFilter/24C0-3LDX.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=845 end=448540 sample=../PolAudio/SquareFilter/24C0-P6XU.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=616 end=448600 sample=../PolAudio/SquareFilter/24C0-OXPO.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=815 sample=../PolAudio/SquareFilter/24C0-U6YK.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=952 end=445022 sample=../PolAudio/SquareFilter/24C0-YCCZ.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1018 sample=../PolAudio/SquareFilter/24C0-92WF.wav
+<group> key=25 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=658 sample=../PolAudio/SquareFilter/25C#0-2AEI.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=591 end=444526 sample=../PolAudio/SquareFilter/25C#0-09ZB.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=793 sample=../PolAudio/SquareFilter/25C#0-RH8F.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=871 end=444596 sample=../PolAudio/SquareFilter/25C#0-1YY3.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=491 end=445305 sample=../PolAudio/SquareFilter/25C#0-LS81.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=495 sample=../PolAudio/SquareFilter/25C#0-L4HL.wav
+<group> key=26 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=615 end=444714 sample=../PolAudio/SquareFilter/26D0-T71F.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=754 end=444518 sample=../PolAudio/SquareFilter/26D0-22NX.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=942 end=446932 sample=../PolAudio/SquareFilter/26D0-JTJS.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=712 end=447868 sample=../PolAudio/SquareFilter/26D0-8YBI.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=786 end=442961 sample=../PolAudio/SquareFilter/26D0-RU8K.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=929 end=446211 sample=../PolAudio/SquareFilter/26D0-B8OT.wav
+<group> key=27 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=480 end=448729 sample=../PolAudio/SquareFilter/27D#0-OCFQ.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=913 end=444751 sample=../PolAudio/SquareFilter/27D#0-WJ6V.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=444 sample=../PolAudio/SquareFilter/27D#0-V6W9.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=773 end=449235 sample=../PolAudio/SquareFilter/27D#0-F6G9.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=877 end=444387 sample=../PolAudio/SquareFilter/27D#0-QKAO.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=454 end=444358 sample=../PolAudio/SquareFilter/27D#0-ON3L.wav
+<group> key=28 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=432 end=450134 sample=../PolAudio/SquareFilter/28E0-374F.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=671 end=445485 sample=../PolAudio/SquareFilter/28E0-V7RQ.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=941 end=445784 sample=../PolAudio/SquareFilter/28E0-EP6I.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=868 end=444505 sample=../PolAudio/SquareFilter/28E0-G1MK.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=629 end=446579 sample=../PolAudio/SquareFilter/28E0-ON1N.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=886 end=449629 sample=../PolAudio/SquareFilter/28E0-22PM.wav
+<group> key=29 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=606 end=445429 sample=../PolAudio/SquareFilter/29F0-8AWG.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=955 end=444656 sample=../PolAudio/SquareFilter/29F0-2CRQ.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=869 end=450467 sample=../PolAudio/SquareFilter/29F0-DDII.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=793 end=448631 sample=../PolAudio/SquareFilter/29F0-HUG4.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=785 end=445491 sample=../PolAudio/SquareFilter/29F0-TIBI.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=742 end=445664 sample=../PolAudio/SquareFilter/29F0-E885.wav
+<group> key=30 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=783 end=445677 sample=../PolAudio/SquareFilter/30F#0-PSPX.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=515 end=445276 sample=../PolAudio/SquareFilter/30F#0-0FL4.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=535 end=445223 sample=../PolAudio/SquareFilter/30F#0-0RFN.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=653 end=446946 sample=../PolAudio/SquareFilter/30F#0-1WBW.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=725 end=449083 sample=../PolAudio/SquareFilter/30F#0-0RAV.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=729 end=444393 sample=../PolAudio/SquareFilter/30F#0-TGOQ.wav
+<group> key=31 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=764 end=444012 sample=../PolAudio/SquareFilter/31G0-NGVH.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=728 end=446007 sample=../PolAudio/SquareFilter/31G0-R04A.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=539 end=444012 sample=../PolAudio/SquareFilter/31G0-YRC9.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=507 end=447007 sample=../PolAudio/SquareFilter/31G0-O2YQ.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=670 end=444353 sample=../PolAudio/SquareFilter/31G0-34SM.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=811 sample=../PolAudio/SquareFilter/31G0-Q598.wav
+<group> key=32 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=947 sample=../PolAudio/SquareFilter/32G#0-JU2M.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=768 end=445530 sample=../PolAudio/SquareFilter/32G#0-33A0.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=792 end=444922 sample=../PolAudio/SquareFilter/32G#0-0XJM.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=644 end=447372 sample=../PolAudio/SquareFilter/32G#0-XE31.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=491 end=443382 sample=../PolAudio/SquareFilter/32G#0-CHY6.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=857 end=444535 sample=../PolAudio/SquareFilter/32G#0-3T5I.wav
+<group> key=33 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=903 end=445602 sample=../PolAudio/SquareFilter/33A0-DIT3.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=573 end=445431 sample=../PolAudio/SquareFilter/33A0-IFJX.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=959 end=444398 sample=../PolAudio/SquareFilter/33A0-JL0R.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=459 end=444914 sample=../PolAudio/SquareFilter/33A0-MK2G.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=670 end=445293 sample=../PolAudio/SquareFilter/33A0-7GZT.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=823 end=444528 sample=../PolAudio/SquareFilter/33A0-JOCN.wav
+<group> key=34 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=703 end=445292 sample=../PolAudio/SquareFilter/34A#0-QOXJ.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=587 end=443967 sample=../PolAudio/SquareFilter/34A#0-FDQY.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=896 end=445550 sample=../PolAudio/SquareFilter/34A#0-5Q1G.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=817 end=445558 sample=../PolAudio/SquareFilter/34A#0-WAVU.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=813 end=447832 sample=../PolAudio/SquareFilter/34A#0-DZ7W.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=882 end=445690 sample=../PolAudio/SquareFilter/34A#0-FOUK.wav
+<group> key=35 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=907 end=445514 sample=../PolAudio/SquareFilter/35B0-NOIX.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=787 end=444143 sample=../PolAudio/SquareFilter/35B0-Z96D.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=747 end=443827 sample=../PolAudio/SquareFilter/35B0-CAF2.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=517 end=443887 sample=../PolAudio/SquareFilter/35B0-OQ5W.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=905 sample=../PolAudio/SquareFilter/35B0-IU9C.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=571 end=444128 sample=../PolAudio/SquareFilter/35B0-48RS.wav
+<group> key=36 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=701 end=445387 sample=../PolAudio/SquareFilter/36C1-AUNM.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=730 sample=../PolAudio/SquareFilter/36C1-22E9.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=867 end=442869 sample=../PolAudio/SquareFilter/36C1-A59T.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=854 end=444131 sample=../PolAudio/SquareFilter/36C1-ABDS.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=674 end=443520 sample=../PolAudio/SquareFilter/36C1-CW3I.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=601 sample=../PolAudio/SquareFilter/36C1-RPXK.wav
+<group> key=37 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=504 end=445005 sample=../PolAudio/SquareFilter/37C#1-QCXB.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=666 end=445411 sample=../PolAudio/SquareFilter/37C#1-LX6E.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=701 end=445194 sample=../PolAudio/SquareFilter/37C#1-9Z68.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=576 sample=../PolAudio/SquareFilter/37C#1-7945.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=839 end=444202 sample=../PolAudio/SquareFilter/37C#1-M9L9.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=533 end=444269 sample=../PolAudio/SquareFilter/37C#1-ESNB.wav
+<group> key=38 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=884 end=443770 sample=../PolAudio/SquareFilter/38D1-QB3J.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=836 end=445565 sample=../PolAudio/SquareFilter/38D1-ASIC.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=485 end=444795 sample=../PolAudio/SquareFilter/38D1-YE4M.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=691 end=444152 sample=../PolAudio/SquareFilter/38D1-EJ4U.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=652 end=443973 sample=../PolAudio/SquareFilter/38D1-7L0U.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=583 end=445150 sample=../PolAudio/SquareFilter/38D1-YIS4.wav
+<group> key=39 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=721 end=446862 sample=../PolAudio/SquareFilter/39D#1-I704.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=781 end=444246 sample=../PolAudio/SquareFilter/39D#1-3V7G.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=620 sample=../PolAudio/SquareFilter/39D#1-CUZ6.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=736 end=445424 sample=../PolAudio/SquareFilter/39D#1-JZZ2.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=643 end=444119 sample=../PolAudio/SquareFilter/39D#1-X81H.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=733 end=445259 sample=../PolAudio/SquareFilter/39D#1-71KX.wav
+<group> key=40 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=783 end=445178 sample=../PolAudio/SquareFilter/40E1-F77B.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=691 end=443837 sample=../PolAudio/SquareFilter/40E1-QITZ.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=539 end=445047 sample=../PolAudio/SquareFilter/40E1-62RQ.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=566 end=445445 sample=../PolAudio/SquareFilter/40E1-DTAR.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=567 end=445112 sample=../PolAudio/SquareFilter/40E1-SK8B.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=444 end=445166 sample=../PolAudio/SquareFilter/40E1-APN4.wav
+<group> key=41 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=985 end=444296 sample=../PolAudio/SquareFilter/41F1-Y77M.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=976 end=445137 sample=../PolAudio/SquareFilter/41F1-IRX7.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=663 end=445137 sample=../PolAudio/SquareFilter/41F1-BUD0.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=722 end=443765 sample=../PolAudio/SquareFilter/41F1-NNZA.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=612 end=445048 sample=../PolAudio/SquareFilter/41F1-90WS.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=818 end=445129 sample=../PolAudio/SquareFilter/41F1-M8HW.wav
+<group> key=42 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=828 sample=../PolAudio/SquareFilter/42F#1-EI7S.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=852 sample=../PolAudio/SquareFilter/42F#1-5WGE.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=631 end=444107 sample=../PolAudio/SquareFilter/42F#1-HZOQ.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=664 end=443229 sample=../PolAudio/SquareFilter/42F#1-LYRS.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=941 end=445311 sample=../PolAudio/SquareFilter/42F#1-XP0B.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=535 end=446662 sample=../PolAudio/SquareFilter/42F#1-O4YN.wav
+<group> key=43 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=1017 end=445690 sample=../PolAudio/SquareFilter/43G1-AAVX.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=854 end=444911 sample=../PolAudio/SquareFilter/43G1-C95I.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=848 end=444207 sample=../PolAudio/SquareFilter/43G1-YB5D.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=633 end=446847 sample=../PolAudio/SquareFilter/43G1-3QHO.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=493 end=443068 sample=../PolAudio/SquareFilter/43G1-PUDG.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=658 sample=../PolAudio/SquareFilter/43G1-8T0S.wav
+<group> key=44 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=546 end=443469 sample=../PolAudio/SquareFilter/44G#1-BDHR.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=666 end=443659 sample=../PolAudio/SquareFilter/44G#1-QXLM.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=669 end=444001 sample=../PolAudio/SquareFilter/44G#1-UFVQ.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=789 end=447564 sample=../PolAudio/SquareFilter/44G#1-K9RI.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=1011 end=447828 sample=../PolAudio/SquareFilter/44G#1-NODE.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=864 end=445036 sample=../PolAudio/SquareFilter/44G#1-GJT9.wav
+<group> key=45 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=886 end=445244 sample=../PolAudio/SquareFilter/45A1-ZXB1.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=782 end=443748 sample=../PolAudio/SquareFilter/45A1-R2Z7.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=753 end=444141 sample=../PolAudio/SquareFilter/45A1-PTTS.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=933 end=444797 sample=../PolAudio/SquareFilter/45A1-SBEP.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=940 end=445417 sample=../PolAudio/SquareFilter/45A1-DGH7.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=847 end=445684 sample=../PolAudio/SquareFilter/45A1-JQEF.wav
+<group> key=46 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=552 end=444890 sample=../PolAudio/SquareFilter/46A#1-69PK.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=576 end=443560 sample=../PolAudio/SquareFilter/46A#1-711B.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=934 end=444791 sample=../PolAudio/SquareFilter/46A#1-AP0X.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=476 end=444155 sample=../PolAudio/SquareFilter/46A#1-ZWKR.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=441 end=444847 sample=../PolAudio/SquareFilter/46A#1-AQXT.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=869 end=444151 sample=../PolAudio/SquareFilter/46A#1-NCFL.wav
+<group> key=47 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=542 end=443634 sample=../PolAudio/SquareFilter/47B1-WRDN.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=988 sample=../PolAudio/SquareFilter/47B1-IXQT.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=569 end=445038 sample=../PolAudio/SquareFilter/47B1-SOLY.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=732 end=444608 sample=../PolAudio/SquareFilter/47B1-7HRE.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=877 end=443720 sample=../PolAudio/SquareFilter/47B1-6SCY.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=496 end=445167 sample=../PolAudio/SquareFilter/47B1-EHVJ.wav
+<group> key=48 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=747 end=444272 sample=../PolAudio/SquareFilter/48C2-4VHI.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=502 end=445031 sample=../PolAudio/SquareFilter/48C2-2VIX.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=793 end=445382 sample=../PolAudio/SquareFilter/48C2-4LIZ.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=879 end=445014 sample=../PolAudio/SquareFilter/48C2-E1JA.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=552 end=442064 sample=../PolAudio/SquareFilter/48C2-L5TC.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=531 end=444100 sample=../PolAudio/SquareFilter/48C2-TNE9.wav
+<group> key=49 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=1024 end=444226 sample=../PolAudio/SquareFilter/49C#2-S7RV.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=844 end=443995 sample=../PolAudio/SquareFilter/49C#2-YXNM.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=789 end=445177 sample=../PolAudio/SquareFilter/49C#2-C030.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=529 end=445879 sample=../PolAudio/SquareFilter/49C#2-7ZDN.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=797 end=444093 sample=../PolAudio/SquareFilter/49C#2-B9OB.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=630 end=444926 sample=../PolAudio/SquareFilter/49C#2-7NEI.wav
+<group> key=50 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=813 end=445146 sample=../PolAudio/SquareFilter/50D2-ZRVD.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=569 end=444771 sample=../PolAudio/SquareFilter/50D2-K1IV.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=595 end=443087 sample=../PolAudio/SquareFilter/50D2-REF4.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=712 end=445201 sample=../PolAudio/SquareFilter/50D2-5944.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=916 end=445008 sample=../PolAudio/SquareFilter/50D2-RB7Q.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=612 end=443970 sample=../PolAudio/SquareFilter/50D2-1Y39.wav
+<group> key=51 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=687 end=445386 sample=../PolAudio/SquareFilter/51D#2-FXN2.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=1040 end=442971 sample=../PolAudio/SquareFilter/51D#2-SYKZ.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=559 end=444874 sample=../PolAudio/SquareFilter/51D#2-0C5G.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=985 end=445568 sample=../PolAudio/SquareFilter/51D#2-3SSH.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=701 end=443947 sample=../PolAudio/SquareFilter/51D#2-N5PX.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=534 end=443825 sample=../PolAudio/SquareFilter/51D#2-TCVS.wav
+<group> key=52 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=809 sample=../PolAudio/SquareFilter/52E2-T2CY.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=520 end=443644 sample=../PolAudio/SquareFilter/52E2-4787.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=613 end=443689 sample=../PolAudio/SquareFilter/52E2-O27D.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=804 end=445131 sample=../PolAudio/SquareFilter/52E2-SFS9.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=1002 end=445432 sample=../PolAudio/SquareFilter/52E2-9CHT.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=695 end=443996 sample=../PolAudio/SquareFilter/52E2-K6H9.wav
+<group> key=53 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=865 end=445428 sample=../PolAudio/SquareFilter/53F2-1EJ3.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=958 end=445377 sample=../PolAudio/SquareFilter/53F2-EY2K.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=829 end=444027 sample=../PolAudio/SquareFilter/53F2-QM7Q.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=997 end=443127 sample=../PolAudio/SquareFilter/53F2-NW8Q.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=461 end=444376 sample=../PolAudio/SquareFilter/53F2-9FC6.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=694 end=444080 sample=../PolAudio/SquareFilter/53F2-MXHZ.wav
+<group> key=54 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=875 end=445723 sample=../PolAudio/SquareFilter/54F#2-I9GP.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=633 end=444628 sample=../PolAudio/SquareFilter/54F#2-94M6.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=877 end=444980 sample=../PolAudio/SquareFilter/54F#2-YAX0.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=415 end=444926 sample=../PolAudio/SquareFilter/54F#2-S9Z2.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=697 end=444785 sample=../PolAudio/SquareFilter/54F#2-L0IJ.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=915 end=444524 sample=../PolAudio/SquareFilter/54F#2-TKOF.wav
+<group> key=55 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=706 end=448884 sample=../PolAudio/SquareFilter/55G2-PHW2.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=534 end=443558 sample=../PolAudio/SquareFilter/55G2-ZD0B.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=912 end=444237 sample=../PolAudio/SquareFilter/55G2-YKE0.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=953 end=442858 sample=../PolAudio/SquareFilter/55G2-CP8T.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=947 sample=../PolAudio/SquareFilter/55G2-OI82.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=876 end=444192 sample=../PolAudio/SquareFilter/55G2-AQ4K.wav
+<group> key=56 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=866 end=443893 sample=../PolAudio/SquareFilter/56G#2-VAY7.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=666 end=443728 sample=../PolAudio/SquareFilter/56G#2-1L2K.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=599 end=444956 sample=../PolAudio/SquareFilter/56G#2-38Z9.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=767 end=443391 sample=../PolAudio/SquareFilter/56G#2-4LDP.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=643 end=447188 sample=../PolAudio/SquareFilter/56G#2-AP9M.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=758 end=443646 sample=../PolAudio/SquareFilter/56G#2-OOB6.wav
+<group> key=57 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=750 end=443904 sample=../PolAudio/SquareFilter/57A2-773P.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=620 end=443751 sample=../PolAudio/SquareFilter/57A2-058E.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=896 end=444188 sample=../PolAudio/SquareFilter/57A2-D4F7.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=575 end=444786 sample=../PolAudio/SquareFilter/57A2-CGYL.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=981 end=445038 sample=../PolAudio/SquareFilter/57A2-LKS0.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=602 end=443915 sample=../PolAudio/SquareFilter/57A2-V941.wav
+<group> key=58 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=950 end=444510 sample=../PolAudio/SquareFilter/58A#2-JPNC.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=806 end=445215 sample=../PolAudio/SquareFilter/58A#2-QWWM.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=720 end=445052 sample=../PolAudio/SquareFilter/58A#2-DMN7.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=899 end=444981 sample=../PolAudio/SquareFilter/58A#2-O3EC.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=962 end=445139 sample=../PolAudio/SquareFilter/58A#2-PW6O.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=970 end=445555 sample=../PolAudio/SquareFilter/58A#2-49NZ.wav
+<group> key=59 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=841 end=444441 sample=../PolAudio/SquareFilter/59B2-W80X.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=835 end=445215 sample=../PolAudio/SquareFilter/59B2-DAGL.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=947 end=444159 sample=../PolAudio/SquareFilter/59B2-BIHI.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=686 end=443501 sample=../PolAudio/SquareFilter/59B2-L2VO.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=407 end=444637 sample=../PolAudio/SquareFilter/59B2-X5JG.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=431 sample=../PolAudio/SquareFilter/59B2-GXD1.wav
+<group> key=60 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=761 end=443632 sample=../PolAudio/SquareFilter/60C3-7CSU.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=944 sample=../PolAudio/SquareFilter/60C3-JAKQ.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=973 end=444414 sample=../PolAudio/SquareFilter/60C3-F42U.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=839 end=443278 sample=../PolAudio/SquareFilter/60C3-K5MX.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=647 end=444905 sample=../PolAudio/SquareFilter/60C3-AP08.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=624 end=445312 sample=../PolAudio/SquareFilter/60C3-WOBN.wav
+<group> key=61 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=587 end=443382 sample=../PolAudio/SquareFilter/61C#3-IRX1.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=558 end=445237 sample=../PolAudio/SquareFilter/61C#3-6MBL.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=531 end=446539 sample=../PolAudio/SquareFilter/61C#3-VS3O.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=461 end=443615 sample=../PolAudio/SquareFilter/61C#3-HM6Z.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=770 end=444141 sample=../PolAudio/SquareFilter/61C#3-HLSO.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=817 sample=../PolAudio/SquareFilter/61C#3-FSYV.wav
+<group> key=62 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=826 end=443629 sample=../PolAudio/SquareFilter/62D3-4QF8.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=520 end=443904 sample=../PolAudio/SquareFilter/62D3-XI71.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=798 end=445040 sample=../PolAudio/SquareFilter/62D3-DAS7.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=768 end=444233 sample=../PolAudio/SquareFilter/62D3-CIHS.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=666 end=445181 sample=../PolAudio/SquareFilter/62D3-XI2V.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=619 end=445047 sample=../PolAudio/SquareFilter/62D3-YSHT.wav
+<group> key=63 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=538 end=444038 sample=../PolAudio/SquareFilter/63D#3-L6G8.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=790 end=445022 sample=../PolAudio/SquareFilter/63D#3-3QNO.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=916 end=445157 sample=../PolAudio/SquareFilter/63D#3-Z44Q.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=814 end=442360 sample=../PolAudio/SquareFilter/63D#3-DDDQ.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=888 end=443775 sample=../PolAudio/SquareFilter/63D#3-IOZ0.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=734 end=443764 sample=../PolAudio/SquareFilter/63D#3-16D0.wav
+<group> key=64 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=418 end=444011 sample=../PolAudio/SquareFilter/64E3-2KTD.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=791 end=444927 sample=../PolAudio/SquareFilter/64E3-FKAN.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=602 end=445051 sample=../PolAudio/SquareFilter/64E3-TFX0.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=850 end=444974 sample=../PolAudio/SquareFilter/64E3-38WV.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=475 end=444539 sample=../PolAudio/SquareFilter/64E3-U0MP.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=922 end=444250 sample=../PolAudio/SquareFilter/64E3-8WOX.wav
+<group> key=65 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=378 end=444028 sample=../PolAudio/SquareFilter/65F3-CLIQ.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=718 sample=../PolAudio/SquareFilter/65F3-F1IC.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=866 end=445098 sample=../PolAudio/SquareFilter/65F3-IEYO.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=578 end=444916 sample=../PolAudio/SquareFilter/65F3-KBY7.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=545 end=444738 sample=../PolAudio/SquareFilter/65F3-DXPY.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=833 end=445133 sample=../PolAudio/SquareFilter/65F3-3A31.wav
+<group> key=66 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=894 end=444364 sample=../PolAudio/SquareFilter/66F#3-77A1.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=626 sample=../PolAudio/SquareFilter/66F#3-E44B.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=903 end=445017 sample=../PolAudio/SquareFilter/66F#3-ZTPT.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=491 end=443805 sample=../PolAudio/SquareFilter/66F#3-KIOH.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=647 end=444879 sample=../PolAudio/SquareFilter/66F#3-BE9E.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=524 end=445242 sample=../PolAudio/SquareFilter/66F#3-V9XR.wav
+<group> key=67 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=814 end=444024 sample=../PolAudio/SquareFilter/67G3-VWGJ.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=698 end=447590 sample=../PolAudio/SquareFilter/67G3-PC4O.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=725 end=444019 sample=../PolAudio/SquareFilter/67G3-EQKP.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=574 end=444758 sample=../PolAudio/SquareFilter/67G3-Z9SN.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=836 end=443932 sample=../PolAudio/SquareFilter/67G3-BPAX.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=872 sample=../PolAudio/SquareFilter/67G3-S8CH.wav
+<group> key=68 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=672 end=443988 sample=../PolAudio/SquareFilter/68G#3-G18U.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=922 end=444846 sample=../PolAudio/SquareFilter/68G#3-CO28.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=655 end=444055 sample=../PolAudio/SquareFilter/68G#3-C536.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=786 end=443888 sample=../PolAudio/SquareFilter/68G#3-C2QL.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=590 sample=../PolAudio/SquareFilter/68G#3-A2DG.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=808 end=443880 sample=../PolAudio/SquareFilter/68G#3-ZUGU.wav
+<group> key=69 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=632 end=443871 sample=../PolAudio/SquareFilter/69A3-UT4Y.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=1024 end=445550 sample=../PolAudio/SquareFilter/69A3-6BJZ.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=498 end=443585 sample=../PolAudio/SquareFilter/69A3-H1JW.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=770 end=443972 sample=../PolAudio/SquareFilter/69A3-U3P3.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=890 end=445250 sample=../PolAudio/SquareFilter/69A3-QRYA.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=711 end=444859 sample=../PolAudio/SquareFilter/69A3-CFET.wav
+<group> key=70 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=643 sample=../PolAudio/SquareFilter/70A#3-4QF6.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=498 end=443616 sample=../PolAudio/SquareFilter/70A#3-GGI6.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=976 end=445255 sample=../PolAudio/SquareFilter/70A#3-6FUS.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=693 end=443731 sample=../PolAudio/SquareFilter/70A#3-WIL0.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=511 sample=../PolAudio/SquareFilter/70A#3-0QUM.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=787 end=445026 sample=../PolAudio/SquareFilter/70A#3-PMYL.wav
+<group> key=71 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=618 end=441912 sample=../PolAudio/SquareFilter/71B3-YLYD.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=936 end=445340 sample=../PolAudio/SquareFilter/71B3-NUF5.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=638 end=445004 sample=../PolAudio/SquareFilter/71B3-8NYY.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=681 end=445047 sample=../PolAudio/SquareFilter/71B3-4X98.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=462 end=443582 sample=../PolAudio/SquareFilter/71B3-QD0B.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=852 end=445179 sample=../PolAudio/SquareFilter/71B3-9UG0.wav
+<group> key=72 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=954 sample=../PolAudio/SquareFilter/72C4-WA02.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=718 end=442080 sample=../PolAudio/SquareFilter/72C4-OFMW.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=567 end=444785 sample=../PolAudio/SquareFilter/72C4-MRCM.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=870 end=443805 sample=../PolAudio/SquareFilter/72C4-TGTS.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=804 end=443632 sample=../PolAudio/SquareFilter/72C4-N94R.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=666 end=445014 sample=../PolAudio/SquareFilter/72C4-XESV.wav
+<group> key=73 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=844 end=442114 sample=../PolAudio/SquareFilter/73C#4-ZZDQ.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=646 end=442739 sample=../PolAudio/SquareFilter/73C#4-C6Q3.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=700 sample=../PolAudio/SquareFilter/73C#4-WKRO.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=715 end=445075 sample=../PolAudio/SquareFilter/73C#4-SV2N.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=792 end=445408 sample=../PolAudio/SquareFilter/73C#4-LM6Y.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=456 end=443885 sample=../PolAudio/SquareFilter/73C#4-6F02.wav
+<group> key=74 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=794 end=442142 sample=../PolAudio/SquareFilter/74D4-IQN7.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=746 end=444999 sample=../PolAudio/SquareFilter/74D4-YQ60.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=935 end=444301 sample=../PolAudio/SquareFilter/74D4-HVLR.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=888 end=445264 sample=../PolAudio/SquareFilter/74D4-9ARG.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=629 end=443667 sample=../PolAudio/SquareFilter/74D4-YU1A.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=636 end=443841 sample=../PolAudio/SquareFilter/74D4-WDLC.wav
+<group> key=75 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=784 end=443664 sample=../PolAudio/SquareFilter/75D#4-458F.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=937 end=443772 sample=../PolAudio/SquareFilter/75D#4-9T0S.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=732 end=443879 sample=../PolAudio/SquareFilter/75D#4-JBDN.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=767 end=445090 sample=../PolAudio/SquareFilter/75D#4-O3I3.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=627 end=444997 sample=../PolAudio/SquareFilter/75D#4-L6F9.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=607 end=443879 sample=../PolAudio/SquareFilter/75D#4-G955.wav
+<group> key=76 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=746 end=442126 sample=../PolAudio/SquareFilter/76E4-MV2D.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=494 end=442732 sample=../PolAudio/SquareFilter/76E4-S3P8.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=919 end=445468 sample=../PolAudio/SquareFilter/76E4-UBNY.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=655 end=444063 sample=../PolAudio/SquareFilter/76E4-OSJK.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=627 end=445149 sample=../PolAudio/SquareFilter/76E4-L1Y3.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=883 end=444396 sample=../PolAudio/SquareFilter/76E4-2ZRE.wav
+<group> key=77 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=789 end=442211 sample=../PolAudio/SquareFilter/77F4-GC88.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=759 end=444902 sample=../PolAudio/SquareFilter/77F4-GG2I.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=677 end=445278 sample=../PolAudio/SquareFilter/77F4-GDNH.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=668 end=445024 sample=../PolAudio/SquareFilter/77F4-OMON.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=697 end=444000 sample=../PolAudio/SquareFilter/77F4-NZ7L.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=712 end=443902 sample=../PolAudio/SquareFilter/77F4-1T22.wav
+<group> key=78 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=554 end=442526 sample=../PolAudio/SquareFilter/78F#4-JOY2.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=662 end=444651 sample=../PolAudio/SquareFilter/78F#4-CZFO.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=736 end=443841 sample=../PolAudio/SquareFilter/78F#4-URJI.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=852 sample=../PolAudio/SquareFilter/78F#4-IYLO.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=626 end=444935 sample=../PolAudio/SquareFilter/78F#4-0W3Z.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=682 sample=../PolAudio/SquareFilter/78F#4-DPQ0.wav
+<group> key=79 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=685 end=442496 sample=../PolAudio/SquareFilter/79G4-JTAO.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=862 end=443206 sample=../PolAudio/SquareFilter/79G4-QXN7.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=458 end=443493 sample=../PolAudio/SquareFilter/79G4-UEPP.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=668 end=445438 sample=../PolAudio/SquareFilter/79G4-SDG6.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=887 end=445567 sample=../PolAudio/SquareFilter/79G4-6MYP.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=767 end=444406 sample=../PolAudio/SquareFilter/79G4-VAMV.wav
+<group> key=80 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=745 sample=../PolAudio/SquareFilter/80G#4-24Q4.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=852 end=444717 sample=../PolAudio/SquareFilter/80G#4-6369.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=518 end=444499 sample=../PolAudio/SquareFilter/80G#4-JM4N.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=1057 end=445542 sample=../PolAudio/SquareFilter/80G#4-9V2X.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=559 end=443767 sample=../PolAudio/SquareFilter/80G#4-7XPT.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1040 end=445667 sample=../PolAudio/SquareFilter/80G#4-OORL.wav
+<group> key=81 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=845 end=444016 sample=../PolAudio/SquareFilter/81A4-CMKN.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=822 end=443113 sample=../PolAudio/SquareFilter/81A4-BWWD.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=850 end=444206 sample=../PolAudio/SquareFilter/81A4-9NUO.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=921 end=444414 sample=../PolAudio/SquareFilter/81A4-8QO1.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=725 end=444101 sample=../PolAudio/SquareFilter/81A4-WXK8.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=917 end=444385 sample=../PolAudio/SquareFilter/81A4-JJ73.wav
+<group> key=82 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=887 end=442385 sample=../PolAudio/SquareFilter/82A#4-ESB7.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=537 end=443107 sample=../PolAudio/SquareFilter/82A#4-ZRHT.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=902 end=445567 sample=../PolAudio/SquareFilter/82A#4-GES7.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=826 end=445300 sample=../PolAudio/SquareFilter/82A#4-N8GY.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=831 end=443979 sample=../PolAudio/SquareFilter/82A#4-7U9U.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=826 end=445337 sample=../PolAudio/SquareFilter/82A#4-UA6T.wav
+<group> key=83 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=418 end=441749 sample=../PolAudio/SquareFilter/83B4-UO7F.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=819 end=443213 sample=../PolAudio/SquareFilter/83B4-1UYD.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=414 end=444741 sample=../PolAudio/SquareFilter/83B4-R2XP.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=794 end=445243 sample=../PolAudio/SquareFilter/83B4-S9I5.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=797 end=444263 sample=../PolAudio/SquareFilter/83B4-UVJ9.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=920 end=444225 sample=../PolAudio/SquareFilter/83B4-RZPW.wav
+<group> key=84 
+	<region> lovel=001 hivel=020 amp_velcurve_020=1 offset=842 end=444062 sample=../PolAudio/SquareFilter/84C5-R6JV.wav
+	<region> lovel=021 hivel=040 amp_velcurve_040=1 offset=937 end=442735 sample=../PolAudio/SquareFilter/84C5-BPQM.wav
+	<region> lovel=041 hivel=060 amp_velcurve_060=1 offset=887 end=444131 sample=../PolAudio/SquareFilter/84C5-WG5W.wav
+	<region> lovel=061 hivel=080 amp_velcurve_080=1 offset=670 end=443805 sample=../PolAudio/SquareFilter/84C5-H2PE.wav
+	<region> lovel=081 hivel=100 amp_velcurve_100=1 offset=499 end=444957 sample=../PolAudio/SquareFilter/84C5-X0ZT.wav
+	<region> lovel=101 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=707 end=444179 sample=../PolAudio/SquareFilter/84C5-BFS1.wav

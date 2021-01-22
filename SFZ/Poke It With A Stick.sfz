@@ -1,124 +1,124 @@
 // this file was generated from Poke It With A Stick.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=549 end=476743 sample=../Audio/Poke It With A Stick/24C0-SUCO.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=749 end=469222 sample=../Audio/Poke It With A Stick/25C#0-JG9E.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=548 end=472770 sample=../Audio/Poke It With A Stick/26D0-Y7WW.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=583 end=472419 sample=../Audio/Poke It With A Stick/27D#0-4GCL.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 end=478849 sample=../Audio/Poke It With A Stick/28E0-SDOM.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=710 sample=../Audio/Poke It With A Stick/29F0-5B82.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=849 sample=../Audio/Poke It With A Stick/30F#0-5N20.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=487 sample=../Audio/Poke It With A Stick/31G0-331E.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=472869 sample=../Audio/Poke It With A Stick/32G#0-OYR5.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=565 end=471425 sample=../Audio/Poke It With A Stick/33A0-ACHC.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=745 sample=../Audio/Poke It With A Stick/34A#0-WUWB.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=960 end=490356 sample=../Audio/Poke It With A Stick/35B0-R3GJ.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1008 sample=../Audio/Poke It With A Stick/36C1-QYX4.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 sample=../Audio/Poke It With A Stick/37C#1-WMRG.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 end=473584 sample=../Audio/Poke It With A Stick/38D1-CN3W.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=652 end=471547 sample=../Audio/Poke It With A Stick/39D#1-5NNG.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=475050 sample=../Audio/Poke It With A Stick/40E1-QZRW.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 sample=../Audio/Poke It With A Stick/41F1-0K20.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=581 sample=../Audio/Poke It With A Stick/42F#1-HKRW.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=470357 sample=../Audio/Poke It With A Stick/43G1-FBT5.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=842 end=473776 sample=../Audio/Poke It With A Stick/44G#1-XMO5.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=609 end=470437 sample=../Audio/Poke It With A Stick/45A1-KU33.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 sample=../Audio/Poke It With A Stick/46A#1-CAPP.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=880 end=491248 sample=../Audio/Poke It With A Stick/47B1-T4UD.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=476423 sample=../Audio/Poke It With A Stick/48C2-6WD3.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=792 end=468834 sample=../Audio/Poke It With A Stick/49C#2-LU77.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=863 end=474274 sample=../Audio/Poke It With A Stick/50D2-X95D.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=929 end=470159 sample=../Audio/Poke It With A Stick/51D#2-X81F.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=878 sample=../Audio/Poke It With A Stick/52E2-XGIE.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=942 end=489856 sample=../Audio/Poke It With A Stick/53F2-AKUN.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=583 sample=../Audio/Poke It With A Stick/54F#2-VQ3M.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=380 end=469836 sample=../Audio/Poke It With A Stick/55G2-B4R2.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1012 end=473281 sample=../Audio/Poke It With A Stick/56G#2-MSDJ.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=574 sample=../Audio/Poke It With A Stick/57A2-LP34.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=660 end=478874 sample=../Audio/Poke It With A Stick/58A#2-MPNG.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=800 sample=../Audio/Poke It With A Stick/59B2-A504.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=694 end=476474 sample=../Audio/Poke It With A Stick/60C3-1L8O.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=728 end=468853 sample=../Audio/Poke It With A Stick/61C#3-1T27.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 end=472527 sample=../Audio/Poke It With A Stick/62D3-0UTU.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=437 end=472595 sample=../Audio/Poke It With A Stick/63D#3-SY3P.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=811 end=478834 sample=../Audio/Poke It With A Stick/64E3-4ZW0.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=490348 sample=../Audio/Poke It With A Stick/65F3-8N71.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=675 end=473926 sample=../Audio/Poke It With A Stick/66F#3-34N5.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=837 end=469001 sample=../Audio/Poke It With A Stick/67G3-52PQ.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=472582 sample=../Audio/Poke It With A Stick/68G#3-VHK0.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=675 end=471835 sample=../Audio/Poke It With A Stick/69A3-CQK8.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=979 end=477955 sample=../Audio/Poke It With A Stick/70A#3-098M.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 end=488926 sample=../Audio/Poke It With A Stick/71B3-23S7.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=868 end=472011 sample=../Audio/Poke It With A Stick/72C4-2QQ0.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=796 end=469316 sample=../Audio/Poke It With A Stick/73C#4-2GVB.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=534 end=471577 sample=../Audio/Poke It With A Stick/74D4-X9VL.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=805 end=472224 sample=../Audio/Poke It With A Stick/75D#4-PWHQ.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=910 end=479416 sample=../Audio/Poke It With A Stick/76E4-HXFV.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=599 sample=../Audio/Poke It With A Stick/77F4-L7PH.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=645 end=476987 sample=../Audio/Poke It With A Stick/78F#4-LIQ4.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=543 end=469236 sample=../Audio/Poke It With A Stick/79G4-6KJD.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 end=473295 sample=../Audio/Poke It With A Stick/80G#4-JQKT.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=881 end=472624 sample=../Audio/Poke It With A Stick/81A4-XXA1.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=477442 sample=../Audio/Poke It With A Stick/82A#4-A9GT.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 sample=../Audio/Poke It With A Stick/83B4-CVSV.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=790 end=476713 sample=../Audio/Poke It With A Stick/84C5-42ZW.wav
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=549 end=476743 sample=../PolAudio/Poke It With A Stick/24C0-SUCO.wav
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=749 end=469222 sample=../PolAudio/Poke It With A Stick/25C#0-JG9E.wav
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=548 end=472770 sample=../PolAudio/Poke It With A Stick/26D0-Y7WW.wav
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=583 end=472419 sample=../PolAudio/Poke It With A Stick/27D#0-4GCL.wav
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=678 end=478849 sample=../PolAudio/Poke It With A Stick/28E0-SDOM.wav
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=710 sample=../PolAudio/Poke It With A Stick/29F0-5B82.wav
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=849 sample=../PolAudio/Poke It With A Stick/30F#0-5N20.wav
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=487 sample=../PolAudio/Poke It With A Stick/31G0-331E.wav
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=763 end=472869 sample=../PolAudio/Poke It With A Stick/32G#0-OYR5.wav
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=565 end=471425 sample=../PolAudio/Poke It With A Stick/33A0-ACHC.wav
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=745 sample=../PolAudio/Poke It With A Stick/34A#0-WUWB.wav
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=960 end=490356 sample=../PolAudio/Poke It With A Stick/35B0-R3GJ.wav
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1008 sample=../PolAudio/Poke It With A Stick/36C1-QYX4.wav
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=920 sample=../PolAudio/Poke It With A Stick/37C#1-WMRG.wav
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=403 end=473584 sample=../PolAudio/Poke It With A Stick/38D1-CN3W.wav
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=652 end=471547 sample=../PolAudio/Poke It With A Stick/39D#1-5NNG.wav
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=753 end=475050 sample=../PolAudio/Poke It With A Stick/40E1-QZRW.wav
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=624 sample=../PolAudio/Poke It With A Stick/41F1-0K20.wav
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=581 sample=../PolAudio/Poke It With A Stick/42F#1-HKRW.wav
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=862 end=470357 sample=../PolAudio/Poke It With A Stick/43G1-FBT5.wav
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=842 end=473776 sample=../PolAudio/Poke It With A Stick/44G#1-XMO5.wav
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=609 end=470437 sample=../PolAudio/Poke It With A Stick/45A1-KU33.wav
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=779 sample=../PolAudio/Poke It With A Stick/46A#1-CAPP.wav
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=880 end=491248 sample=../PolAudio/Poke It With A Stick/47B1-T4UD.wav
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=862 end=476423 sample=../PolAudio/Poke It With A Stick/48C2-6WD3.wav
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=792 end=468834 sample=../PolAudio/Poke It With A Stick/49C#2-LU77.wav
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=863 end=474274 sample=../PolAudio/Poke It With A Stick/50D2-X95D.wav
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=929 end=470159 sample=../PolAudio/Poke It With A Stick/51D#2-X81F.wav
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=878 sample=../PolAudio/Poke It With A Stick/52E2-XGIE.wav
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=942 end=489856 sample=../PolAudio/Poke It With A Stick/53F2-AKUN.wav
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=583 sample=../PolAudio/Poke It With A Stick/54F#2-VQ3M.wav
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=380 end=469836 sample=../PolAudio/Poke It With A Stick/55G2-B4R2.wav
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1012 end=473281 sample=../PolAudio/Poke It With A Stick/56G#2-MSDJ.wav
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=574 sample=../PolAudio/Poke It With A Stick/57A2-LP34.wav
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=660 end=478874 sample=../PolAudio/Poke It With A Stick/58A#2-MPNG.wav
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=800 sample=../PolAudio/Poke It With A Stick/59B2-A504.wav
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=694 end=476474 sample=../PolAudio/Poke It With A Stick/60C3-1L8O.wav
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=728 end=468853 sample=../PolAudio/Poke It With A Stick/61C#3-1T27.wav
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=542 end=472527 sample=../PolAudio/Poke It With A Stick/62D3-0UTU.wav
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=437 end=472595 sample=../PolAudio/Poke It With A Stick/63D#3-SY3P.wav
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=811 end=478834 sample=../PolAudio/Poke It With A Stick/64E3-4ZW0.wav
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=752 end=490348 sample=../PolAudio/Poke It With A Stick/65F3-8N71.wav
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=675 end=473926 sample=../PolAudio/Poke It With A Stick/66F#3-34N5.wav
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=837 end=469001 sample=../PolAudio/Poke It With A Stick/67G3-52PQ.wav
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=631 end=472582 sample=../PolAudio/Poke It With A Stick/68G#3-VHK0.wav
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=675 end=471835 sample=../PolAudio/Poke It With A Stick/69A3-CQK8.wav
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=979 end=477955 sample=../PolAudio/Poke It With A Stick/70A#3-098M.wav
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=620 end=488926 sample=../PolAudio/Poke It With A Stick/71B3-23S7.wav
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=868 end=472011 sample=../PolAudio/Poke It With A Stick/72C4-2QQ0.wav
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=796 end=469316 sample=../PolAudio/Poke It With A Stick/73C#4-2GVB.wav
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=534 end=471577 sample=../PolAudio/Poke It With A Stick/74D4-X9VL.wav
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=805 end=472224 sample=../PolAudio/Poke It With A Stick/75D#4-PWHQ.wav
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=910 end=479416 sample=../PolAudio/Poke It With A Stick/76E4-HXFV.wav
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=599 sample=../PolAudio/Poke It With A Stick/77F4-L7PH.wav
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=645 end=476987 sample=../PolAudio/Poke It With A Stick/78F#4-LIQ4.wav
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=543 end=469236 sample=../PolAudio/Poke It With A Stick/79G4-6KJD.wav
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=840 end=473295 sample=../PolAudio/Poke It With A Stick/80G#4-JQKT.wav
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=881 end=472624 sample=../PolAudio/Poke It With A Stick/81A4-XXA1.wav
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=877 end=477442 sample=../PolAudio/Poke It With A Stick/82A#4-A9GT.wav
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=578 sample=../PolAudio/Poke It With A Stick/83B4-CVSV.wav
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=790 end=476713 sample=../PolAudio/Poke It With A Stick/84C5-42ZW.wav

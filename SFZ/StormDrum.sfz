@@ -1,836 +1,836 @@
 // this file was generated from StormDrum.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=700 end=34990 sample=../Audio/StormDrum/36C1-02SO.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=552 end=36446 sample=../Audio/StormDrum/36C1-JS5Z.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=872 end=34694 sample=../Audio/StormDrum/36C1-X2XI.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=559 end=34950 sample=../Audio/StormDrum/36C1-4BRY.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=903 end=37131 sample=../Audio/StormDrum/36C1-AOO6.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=753 end=35376 sample=../Audio/StormDrum/36C1-4P11.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=690 end=35961 sample=../Audio/StormDrum/36C1-OUB1.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=824 end=34965 sample=../Audio/StormDrum/36C1-AL3N.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=665 end=35579 sample=../Audio/StormDrum/36C1-88W9.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=829 end=37714 sample=../Audio/StormDrum/36C1-CNGK.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=574 end=36372 sample=../Audio/StormDrum/36C1-RRED.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=593 end=35944 sample=../Audio/StormDrum/36C1-6OK4.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=832 end=34948 sample=../Audio/StormDrum/36C1-HCQN.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=859 end=35711 sample=../Audio/StormDrum/36C1-YPPU.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=518 end=35998 sample=../Audio/StormDrum/36C1-O1KM.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=819 end=35790 sample=../Audio/StormDrum/36C1-1GCJ.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=898 end=30257 sample=../Audio/StormDrum/37C#1-5AKG.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=425 end=29787 sample=../Audio/StormDrum/37C#1-CTG1.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=882 end=29102 sample=../Audio/StormDrum/37C#1-M9X5.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=881 end=30180 sample=../Audio/StormDrum/37C#1-US4L.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=972 end=30187 sample=../Audio/StormDrum/37C#1-QOVV.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=1005 end=29583 sample=../Audio/StormDrum/37C#1-M609.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=683 end=30333 sample=../Audio/StormDrum/37C#1-J1OQ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=646 end=29198 sample=../Audio/StormDrum/37C#1-8TFJ.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=421 end=29806 sample=../Audio/StormDrum/37C#1-OKOL.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=475 end=29671 sample=../Audio/StormDrum/37C#1-7TRN.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=718 end=29662 sample=../Audio/StormDrum/37C#1-DGRE.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=735 end=29093 sample=../Audio/StormDrum/37C#1-E8KG.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=917 end=30567 sample=../Audio/StormDrum/37C#1-R6DT.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=749 end=29875 sample=../Audio/StormDrum/37C#1-9TVS.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=786 end=30961 sample=../Audio/StormDrum/37C#1-ZSGW.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=812 end=29047 sample=../Audio/StormDrum/37C#1-0ZIA.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=830 end=33395 sample=../Audio/StormDrum/38D1-P0WQ.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=635 sample=../Audio/StormDrum/38D1-AXBM.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=473 end=33714 sample=../Audio/StormDrum/38D1-GHHH.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=723 sample=../Audio/StormDrum/38D1-MC0D.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=684 end=33337 sample=../Audio/StormDrum/38D1-Q6UV.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=918 sample=../Audio/StormDrum/38D1-ODY4.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=407 sample=../Audio/StormDrum/38D1-78BM.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=595 end=32263 sample=../Audio/StormDrum/38D1-B4O1.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=511 end=33372 sample=../Audio/StormDrum/38D1-US3W.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=840 sample=../Audio/StormDrum/38D1-H8C8.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=781 end=33857 sample=../Audio/StormDrum/38D1-NH7M.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=829 end=33926 sample=../Audio/StormDrum/38D1-1YD7.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=746 end=33013 sample=../Audio/StormDrum/38D1-P58C.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=701 end=33309 sample=../Audio/StormDrum/38D1-IVKL.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=760 end=33063 sample=../Audio/StormDrum/38D1-U0EN.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=587 end=33473 sample=../Audio/StormDrum/38D1-1YNL.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=824 end=32019 sample=../Audio/StormDrum/39D#1-7DQ1.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=586 end=31721 sample=../Audio/StormDrum/39D#1-LSWU.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=796 end=32265 sample=../Audio/StormDrum/39D#1-0XC7.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=879 sample=../Audio/StormDrum/39D#1-DRTF.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=738 end=31574 sample=../Audio/StormDrum/39D#1-X55Y.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=609 end=32701 sample=../Audio/StormDrum/39D#1-YK3N.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=963 end=31723 sample=../Audio/StormDrum/39D#1-CVCB.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=670 end=32631 sample=../Audio/StormDrum/39D#1-YFEH.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=555 end=32463 sample=../Audio/StormDrum/39D#1-A65V.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=471 end=31659 sample=../Audio/StormDrum/39D#1-6GRK.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=948 end=32057 sample=../Audio/StormDrum/39D#1-TTFM.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=557 end=32382 sample=../Audio/StormDrum/39D#1-JF5C.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=583 end=31576 sample=../Audio/StormDrum/39D#1-J5DR.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=694 sample=../Audio/StormDrum/39D#1-9XCP.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=791 end=33066 sample=../Audio/StormDrum/39D#1-Q7ZC.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=930 sample=../Audio/StormDrum/39D#1-QQOP.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=476 end=38031 sample=../Audio/StormDrum/40E1-2UTK.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=781 end=37579 sample=../Audio/StormDrum/40E1-TDWR.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=991 end=36457 sample=../Audio/StormDrum/40E1-FOMH.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=918 end=36128 sample=../Audio/StormDrum/40E1-NGFL.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=526 end=38726 sample=../Audio/StormDrum/40E1-GOWF.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=717 end=37469 sample=../Audio/StormDrum/40E1-XYVZ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=913 end=38606 sample=../Audio/StormDrum/40E1-UGO8.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=843 end=36734 sample=../Audio/StormDrum/40E1-SXVE.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=677 end=37127 sample=../Audio/StormDrum/40E1-QB84.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=618 end=38049 sample=../Audio/StormDrum/40E1-QN3F.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=459 end=38403 sample=../Audio/StormDrum/40E1-FQM3.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=840 end=35898 sample=../Audio/StormDrum/40E1-ROLF.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=494 end=37241 sample=../Audio/StormDrum/40E1-WXEZ.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=664 end=37686 sample=../Audio/StormDrum/40E1-X22F.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=473 end=36236 sample=../Audio/StormDrum/40E1-NXME.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=427 end=36051 sample=../Audio/StormDrum/40E1-MV9L.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=937 end=49042 sample=../Audio/StormDrum/41F1-4EFS.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=564 sample=../Audio/StormDrum/41F1-S0G5.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=585 end=49842 sample=../Audio/StormDrum/41F1-M57A.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=542 end=50037 sample=../Audio/StormDrum/41F1-QKX9.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=751 end=49917 sample=../Audio/StormDrum/41F1-V0OY.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=880 end=49242 sample=../Audio/StormDrum/41F1-U313.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=968 end=49186 sample=../Audio/StormDrum/41F1-VZQZ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=938 end=49250 sample=../Audio/StormDrum/41F1-CD7S.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=932 end=50144 sample=../Audio/StormDrum/41F1-RJAA.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=764 end=49266 sample=../Audio/StormDrum/41F1-TA7W.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=701 end=49391 sample=../Audio/StormDrum/41F1-225U.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=487 sample=../Audio/StormDrum/41F1-SFVA.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=531 end=47472 sample=../Audio/StormDrum/41F1-COH3.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=399 end=48735 sample=../Audio/StormDrum/41F1-0G83.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=573 end=49195 sample=../Audio/StormDrum/41F1-UET6.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=604 end=49533 sample=../Audio/StormDrum/41F1-9L20.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=529 end=36504 sample=../Audio/StormDrum/42F#1-3BW1.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=500 end=35943 sample=../Audio/StormDrum/42F#1-TG1T.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=776 sample=../Audio/StormDrum/42F#1-NSZL.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=660 end=37759 sample=../Audio/StormDrum/42F#1-WZQE.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=820 end=36658 sample=../Audio/StormDrum/42F#1-JQYL.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=896 end=36516 sample=../Audio/StormDrum/42F#1-BUO9.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=800 end=36969 sample=../Audio/StormDrum/42F#1-HWLY.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=489 end=36666 sample=../Audio/StormDrum/42F#1-I39S.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=634 end=36667 sample=../Audio/StormDrum/42F#1-5SBD.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=579 end=36974 sample=../Audio/StormDrum/42F#1-9DZI.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=397 end=36263 sample=../Audio/StormDrum/42F#1-MFX1.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=729 end=37739 sample=../Audio/StormDrum/42F#1-YVW0.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=779 end=36746 sample=../Audio/StormDrum/42F#1-84KS.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=736 end=36924 sample=../Audio/StormDrum/42F#1-Y7VV.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=651 end=36958 sample=../Audio/StormDrum/42F#1-6CIH.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=440 end=35334 sample=../Audio/StormDrum/42F#1-498F.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=820 end=29938 sample=../Audio/StormDrum/43G1-PKHU.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=477 end=30401 sample=../Audio/StormDrum/43G1-VP5T.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=591 end=29445 sample=../Audio/StormDrum/43G1-M6KG.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=689 end=29303 sample=../Audio/StormDrum/43G1-BW6F.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=735 end=30211 sample=../Audio/StormDrum/43G1-N4IO.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=879 end=30533 sample=../Audio/StormDrum/43G1-HG4S.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=659 end=29900 sample=../Audio/StormDrum/43G1-5S8N.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=831 end=30382 sample=../Audio/StormDrum/43G1-S1NB.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=418 end=30240 sample=../Audio/StormDrum/43G1-C7PO.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=914 end=30419 sample=../Audio/StormDrum/43G1-S6L7.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=414 end=29827 sample=../Audio/StormDrum/43G1-LPY4.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=598 end=30152 sample=../Audio/StormDrum/43G1-2UE7.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=553 end=30234 sample=../Audio/StormDrum/43G1-OIJC.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=732 end=29839 sample=../Audio/StormDrum/43G1-HXQZ.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=819 end=29996 sample=../Audio/StormDrum/43G1-5I94.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=506 end=29628 sample=../Audio/StormDrum/43G1-DNKA.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=610 end=34017 sample=../Audio/StormDrum/44G#1-NBUG.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=1032 end=33536 sample=../Audio/StormDrum/44G#1-W57Z.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=826 end=34450 sample=../Audio/StormDrum/44G#1-ESN2.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=746 end=33743 sample=../Audio/StormDrum/44G#1-YP50.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=590 sample=../Audio/StormDrum/44G#1-M6V7.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=474 end=33865 sample=../Audio/StormDrum/44G#1-BY08.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=811 end=33837 sample=../Audio/StormDrum/44G#1-65UE.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=884 end=34189 sample=../Audio/StormDrum/44G#1-HVHQ.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=543 end=33819 sample=../Audio/StormDrum/44G#1-4H9K.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=723 end=33123 sample=../Audio/StormDrum/44G#1-TKCR.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=995 end=34266 sample=../Audio/StormDrum/44G#1-ZIMT.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=723 end=34047 sample=../Audio/StormDrum/44G#1-TMU7.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=652 end=34541 sample=../Audio/StormDrum/44G#1-YZYC.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=644 end=34006 sample=../Audio/StormDrum/44G#1-LZPR.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=699 end=33179 sample=../Audio/StormDrum/44G#1-3AD7.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=882 end=33883 sample=../Audio/StormDrum/44G#1-XSQT.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=430 end=31573 sample=../Audio/StormDrum/45A1-OQMH.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=891 end=32329 sample=../Audio/StormDrum/45A1-QPX5.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=790 end=32703 sample=../Audio/StormDrum/45A1-RY9C.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=414 end=33381 sample=../Audio/StormDrum/45A1-TE8Q.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=797 end=33325 sample=../Audio/StormDrum/45A1-EADM.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=550 end=32585 sample=../Audio/StormDrum/45A1-RC19.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=555 end=32057 sample=../Audio/StormDrum/45A1-RJV0.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=899 end=31622 sample=../Audio/StormDrum/45A1-90XB.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=847 end=32300 sample=../Audio/StormDrum/45A1-DA4D.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=981 end=33129 sample=../Audio/StormDrum/45A1-9QFE.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=742 end=32753 sample=../Audio/StormDrum/45A1-3HBB.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=933 end=33798 sample=../Audio/StormDrum/45A1-TZZJ.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=728 end=32547 sample=../Audio/StormDrum/45A1-PW2Z.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=969 end=32995 sample=../Audio/StormDrum/45A1-KHH2.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=650 end=32282 sample=../Audio/StormDrum/45A1-329Y.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=679 end=32962 sample=../Audio/StormDrum/45A1-3A2W.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=552 end=37865 sample=../Audio/StormDrum/46A#1-2PDB.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=640 end=37952 sample=../Audio/StormDrum/46A#1-FVEW.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=512 end=38404 sample=../Audio/StormDrum/46A#1-7RX6.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=646 end=37482 sample=../Audio/StormDrum/46A#1-PXFB.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=697 sample=../Audio/StormDrum/46A#1-9BCF.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=779 end=36997 sample=../Audio/StormDrum/46A#1-V6BI.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=813 end=38283 sample=../Audio/StormDrum/46A#1-OAFS.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=704 end=36765 sample=../Audio/StormDrum/46A#1-ZSZF.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=716 end=38249 sample=../Audio/StormDrum/46A#1-FZ8M.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=869 end=37521 sample=../Audio/StormDrum/46A#1-KNH9.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=575 end=38698 sample=../Audio/StormDrum/46A#1-5BYZ.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=404 end=37642 sample=../Audio/StormDrum/46A#1-AQDV.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=966 end=37619 sample=../Audio/StormDrum/46A#1-4KB4.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=583 end=36616 sample=../Audio/StormDrum/46A#1-FMFM.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=560 end=37768 sample=../Audio/StormDrum/46A#1-831S.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=753 end=38316 sample=../Audio/StormDrum/46A#1-XMX2.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=454 end=49771 sample=../Audio/StormDrum/47B1-L7PP.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=1045 sample=../Audio/StormDrum/47B1-3O9I.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=892 end=50166 sample=../Audio/StormDrum/47B1-OU9J.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=605 end=49115 sample=../Audio/StormDrum/47B1-J85H.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=902 end=49883 sample=../Audio/StormDrum/47B1-OKNU.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=721 end=48743 sample=../Audio/StormDrum/47B1-3NI2.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=602 end=50176 sample=../Audio/StormDrum/47B1-O865.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=652 end=49021 sample=../Audio/StormDrum/47B1-8PE2.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=726 end=48281 sample=../Audio/StormDrum/47B1-UIBG.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=633 end=49386 sample=../Audio/StormDrum/47B1-OPJY.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=812 end=48459 sample=../Audio/StormDrum/47B1-J7RV.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=520 end=48183 sample=../Audio/StormDrum/47B1-TK92.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=854 end=47618 sample=../Audio/StormDrum/47B1-61JK.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=871 end=48932 sample=../Audio/StormDrum/47B1-C303.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=569 end=49728 sample=../Audio/StormDrum/47B1-DLVJ.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=685 end=50046 sample=../Audio/StormDrum/47B1-JX7T.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=822 end=36658 sample=../Audio/StormDrum/48C2-51NL.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=644 end=37425 sample=../Audio/StormDrum/48C2-W209.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=531 end=36549 sample=../Audio/StormDrum/48C2-8SRP.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=475 end=36410 sample=../Audio/StormDrum/48C2-NOVV.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=685 end=37366 sample=../Audio/StormDrum/48C2-B54R.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=880 end=36588 sample=../Audio/StormDrum/48C2-3OZQ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=679 end=36773 sample=../Audio/StormDrum/48C2-8Z4I.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=955 end=36961 sample=../Audio/StormDrum/48C2-SJ9I.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=648 end=36441 sample=../Audio/StormDrum/48C2-FV0P.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=599 end=34964 sample=../Audio/StormDrum/48C2-Q8EV.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=614 end=37533 sample=../Audio/StormDrum/48C2-5XRO.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=409 end=36396 sample=../Audio/StormDrum/48C2-BJG8.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=489 end=36300 sample=../Audio/StormDrum/48C2-HZ57.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=831 end=36820 sample=../Audio/StormDrum/48C2-9U1L.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=934 end=37154 sample=../Audio/StormDrum/48C2-CLS0.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=834 sample=../Audio/StormDrum/48C2-6TI5.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=800 end=29667 sample=../Audio/StormDrum/49C#2-11AW.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=850 end=30138 sample=../Audio/StormDrum/49C#2-FCLU.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=606 end=29699 sample=../Audio/StormDrum/49C#2-AF2B.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=857 end=30071 sample=../Audio/StormDrum/49C#2-J30S.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=441 end=30083 sample=../Audio/StormDrum/49C#2-HK4I.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=772 end=30281 sample=../Audio/StormDrum/49C#2-M2Q5.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=817 end=29821 sample=../Audio/StormDrum/49C#2-1NWA.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=585 end=29839 sample=../Audio/StormDrum/49C#2-GL27.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=856 end=30615 sample=../Audio/StormDrum/49C#2-LLFP.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=565 end=29931 sample=../Audio/StormDrum/49C#2-GIKW.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=676 end=30032 sample=../Audio/StormDrum/49C#2-W537.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=609 end=29915 sample=../Audio/StormDrum/49C#2-CXZC.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=938 end=30825 sample=../Audio/StormDrum/49C#2-DUWG.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=719 sample=../Audio/StormDrum/49C#2-O5HD.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=740 end=30296 sample=../Audio/StormDrum/49C#2-YNNZ.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=781 end=30242 sample=../Audio/StormDrum/49C#2-3R7W.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=825 end=34063 sample=../Audio/StormDrum/50D2-CQEF.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=774 end=33992 sample=../Audio/StormDrum/50D2-IBHF.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=776 end=33877 sample=../Audio/StormDrum/50D2-90Z1.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=791 end=33600 sample=../Audio/StormDrum/50D2-8GJM.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=897 end=34293 sample=../Audio/StormDrum/50D2-W75U.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=790 end=34107 sample=../Audio/StormDrum/50D2-7PLQ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=766 end=33608 sample=../Audio/StormDrum/50D2-DWZ1.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=823 end=32989 sample=../Audio/StormDrum/50D2-4HN8.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=620 end=33819 sample=../Audio/StormDrum/50D2-28YG.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=616 end=33604 sample=../Audio/StormDrum/50D2-ICNT.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=995 end=34457 sample=../Audio/StormDrum/50D2-AH7W.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=946 sample=../Audio/StormDrum/50D2-HFYE.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=669 end=34089 sample=../Audio/StormDrum/50D2-NBT5.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=715 end=33785 sample=../Audio/StormDrum/50D2-BVCK.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=834 end=33741 sample=../Audio/StormDrum/50D2-GTFR.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=633 end=33666 sample=../Audio/StormDrum/50D2-2QQ8.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=594 end=32125 sample=../Audio/StormDrum/51D#2-XWMH.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=450 end=33091 sample=../Audio/StormDrum/51D#2-QP1N.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=778 end=32199 sample=../Audio/StormDrum/51D#2-SL6E.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=629 sample=../Audio/StormDrum/51D#2-21YR.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=855 end=32519 sample=../Audio/StormDrum/51D#2-RJUM.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=705 end=32662 sample=../Audio/StormDrum/51D#2-8JRN.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=782 end=33053 sample=../Audio/StormDrum/51D#2-LX4R.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=557 end=33282 sample=../Audio/StormDrum/51D#2-ZRNE.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=666 end=31876 sample=../Audio/StormDrum/51D#2-9G9F.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=596 end=31616 sample=../Audio/StormDrum/51D#2-2NDY.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=792 end=33196 sample=../Audio/StormDrum/51D#2-3C6R.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=696 end=31616 sample=../Audio/StormDrum/51D#2-LMWA.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=732 sample=../Audio/StormDrum/51D#2-GSW5.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=928 end=32916 sample=../Audio/StormDrum/51D#2-XIXV.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=707 end=32526 sample=../Audio/StormDrum/51D#2-5P3T.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=715 end=32921 sample=../Audio/StormDrum/51D#2-EW3I.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=816 end=38291 sample=../Audio/StormDrum/52E2-NRAT.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=572 end=38166 sample=../Audio/StormDrum/52E2-RUG0.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=690 end=37076 sample=../Audio/StormDrum/52E2-E7ZF.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=904 end=38828 sample=../Audio/StormDrum/52E2-6J5F.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=859 end=39386 sample=../Audio/StormDrum/52E2-IXDS.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=652 end=37850 sample=../Audio/StormDrum/52E2-5GEQ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=377 sample=../Audio/StormDrum/52E2-3NJ7.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=480 end=37888 sample=../Audio/StormDrum/52E2-ABH1.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=815 sample=../Audio/StormDrum/52E2-674O.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=679 end=38557 sample=../Audio/StormDrum/52E2-VWAX.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=636 end=36995 sample=../Audio/StormDrum/52E2-F80C.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=765 end=38120 sample=../Audio/StormDrum/52E2-LZ7Y.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=787 end=38659 sample=../Audio/StormDrum/52E2-KDXZ.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=609 end=37399 sample=../Audio/StormDrum/52E2-FH1Y.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=842 end=37882 sample=../Audio/StormDrum/52E2-SEF4.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=864 end=36862 sample=../Audio/StormDrum/52E2-4N90.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=468 end=47871 sample=../Audio/StormDrum/53F2-LLK7.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=765 end=48960 sample=../Audio/StormDrum/53F2-0TUJ.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=441 end=49659 sample=../Audio/StormDrum/53F2-9MW8.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=929 end=49851 sample=../Audio/StormDrum/53F2-H1U6.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=841 end=48571 sample=../Audio/StormDrum/53F2-LXGH.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=766 end=49368 sample=../Audio/StormDrum/53F2-0XK5.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=841 end=49647 sample=../Audio/StormDrum/53F2-UVS5.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=616 end=48665 sample=../Audio/StormDrum/53F2-LUUF.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=559 end=49634 sample=../Audio/StormDrum/53F2-4GRA.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=530 end=49151 sample=../Audio/StormDrum/53F2-YN1C.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=773 end=49662 sample=../Audio/StormDrum/53F2-JRPW.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=427 end=49132 sample=../Audio/StormDrum/53F2-KACV.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=645 end=50026 sample=../Audio/StormDrum/53F2-CZPJ.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=936 end=50028 sample=../Audio/StormDrum/53F2-XUQJ.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=896 end=50907 sample=../Audio/StormDrum/53F2-04UA.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=969 end=49902 sample=../Audio/StormDrum/53F2-F48O.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=438 sample=../Audio/StormDrum/54F#2-9EUG.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=794 end=36303 sample=../Audio/StormDrum/54F#2-M66F.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=1003 end=38017 sample=../Audio/StormDrum/54F#2-4J0K.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=911 end=37605 sample=../Audio/StormDrum/54F#2-2DL8.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=549 end=36445 sample=../Audio/StormDrum/54F#2-918V.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=873 end=37244 sample=../Audio/StormDrum/54F#2-YILM.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=746 end=38518 sample=../Audio/StormDrum/54F#2-7ROH.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=966 end=36883 sample=../Audio/StormDrum/54F#2-IF4Y.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=545 end=36456 sample=../Audio/StormDrum/54F#2-2R1A.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=976 end=36234 sample=../Audio/StormDrum/54F#2-YHOD.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=615 end=36429 sample=../Audio/StormDrum/54F#2-T4E3.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=607 end=37185 sample=../Audio/StormDrum/54F#2-OA7V.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=666 end=36993 sample=../Audio/StormDrum/54F#2-46GG.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=595 end=36030 sample=../Audio/StormDrum/54F#2-SN9F.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=500 end=36403 sample=../Audio/StormDrum/54F#2-HMSE.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=457 end=35932 sample=../Audio/StormDrum/54F#2-SYRW.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=943 end=30224 sample=../Audio/StormDrum/55G2-ASDE.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=849 end=30492 sample=../Audio/StormDrum/55G2-1XL7.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=837 end=30369 sample=../Audio/StormDrum/55G2-77I8.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=997 end=30430 sample=../Audio/StormDrum/55G2-0YZB.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=432 end=30037 sample=../Audio/StormDrum/55G2-VT8J.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=908 end=30514 sample=../Audio/StormDrum/55G2-VJUJ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=877 end=30337 sample=../Audio/StormDrum/55G2-SXJN.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=468 end=30296 sample=../Audio/StormDrum/55G2-JMDG.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=683 end=29810 sample=../Audio/StormDrum/55G2-I5M8.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=796 end=30238 sample=../Audio/StormDrum/55G2-3W8Y.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=757 end=30035 sample=../Audio/StormDrum/55G2-QNTA.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=976 end=30311 sample=../Audio/StormDrum/55G2-RWBZ.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=460 end=29571 sample=../Audio/StormDrum/55G2-T8R2.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=756 end=30450 sample=../Audio/StormDrum/55G2-18GS.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=629 end=29831 sample=../Audio/StormDrum/55G2-3JXI.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=900 end=29827 sample=../Audio/StormDrum/55G2-6R6Z.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=736 end=33800 sample=../Audio/StormDrum/56G#2-FEZN.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=858 end=34133 sample=../Audio/StormDrum/56G#2-2DUO.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=601 end=34192 sample=../Audio/StormDrum/56G#2-YOJ6.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=635 end=33749 sample=../Audio/StormDrum/56G#2-FGGF.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=700 end=33693 sample=../Audio/StormDrum/56G#2-6XMP.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=631 end=34188 sample=../Audio/StormDrum/56G#2-NF8O.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=558 end=33444 sample=../Audio/StormDrum/56G#2-TTPJ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=518 end=34126 sample=../Audio/StormDrum/56G#2-13LG.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=460 end=33920 sample=../Audio/StormDrum/56G#2-G98B.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=504 end=33830 sample=../Audio/StormDrum/56G#2-I4QA.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=930 end=34341 sample=../Audio/StormDrum/56G#2-3E20.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=838 end=33812 sample=../Audio/StormDrum/56G#2-K6VW.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=959 end=34370 sample=../Audio/StormDrum/56G#2-JQNA.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=669 end=34085 sample=../Audio/StormDrum/56G#2-2K29.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=681 end=33664 sample=../Audio/StormDrum/56G#2-R7M8.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=775 end=34961 sample=../Audio/StormDrum/56G#2-ZIDF.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=638 end=32789 sample=../Audio/StormDrum/57A2-EUBY.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=738 end=32404 sample=../Audio/StormDrum/57A2-ISTS.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=987 end=32641 sample=../Audio/StormDrum/57A2-R4RH.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=862 end=33017 sample=../Audio/StormDrum/57A2-1QMT.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=855 end=33046 sample=../Audio/StormDrum/57A2-9K1I.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=422 end=32520 sample=../Audio/StormDrum/57A2-CSWU.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=600 end=33444 sample=../Audio/StormDrum/57A2-R3YU.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=910 end=32006 sample=../Audio/StormDrum/57A2-5FH3.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=760 sample=../Audio/StormDrum/57A2-HZP8.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=730 end=32772 sample=../Audio/StormDrum/57A2-CFS8.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=835 end=33036 sample=../Audio/StormDrum/57A2-TD0N.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=643 end=32049 sample=../Audio/StormDrum/57A2-QKOV.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=620 end=32571 sample=../Audio/StormDrum/57A2-OOK1.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=596 sample=../Audio/StormDrum/57A2-BSYR.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=516 end=32008 sample=../Audio/StormDrum/57A2-C4TV.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=640 end=32156 sample=../Audio/StormDrum/57A2-8XI3.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=417 end=37737 sample=../Audio/StormDrum/58A#2-KFW0.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=759 end=38937 sample=../Audio/StormDrum/58A#2-G0WW.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=982 end=39042 sample=../Audio/StormDrum/58A#2-KHGP.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=455 sample=../Audio/StormDrum/58A#2-0R0Z.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=957 end=37300 sample=../Audio/StormDrum/58A#2-A4OR.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=784 end=38592 sample=../Audio/StormDrum/58A#2-Q42R.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=783 end=37850 sample=../Audio/StormDrum/58A#2-SEPJ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=458 end=39047 sample=../Audio/StormDrum/58A#2-KA7N.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=580 end=38919 sample=../Audio/StormDrum/58A#2-VNUM.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=859 end=39397 sample=../Audio/StormDrum/58A#2-C91Y.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=603 end=37643 sample=../Audio/StormDrum/58A#2-BZEO.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=554 end=38666 sample=../Audio/StormDrum/58A#2-GKXK.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=701 end=39743 sample=../Audio/StormDrum/58A#2-OBDY.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=636 end=40010 sample=../Audio/StormDrum/58A#2-DDO9.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=441 end=37723 sample=../Audio/StormDrum/58A#2-7T94.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=916 end=39165 sample=../Audio/StormDrum/58A#2-LH27.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=831 end=49616 sample=../Audio/StormDrum/59B2-NG6W.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=812 sample=../Audio/StormDrum/59B2-H3EJ.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=984 end=50133 sample=../Audio/StormDrum/59B2-4YY8.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=453 end=49345 sample=../Audio/StormDrum/59B2-9TLI.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=908 end=48943 sample=../Audio/StormDrum/59B2-RB3W.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=531 end=49525 sample=../Audio/StormDrum/59B2-9OHX.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=647 end=48380 sample=../Audio/StormDrum/59B2-C8VU.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=890 end=50152 sample=../Audio/StormDrum/59B2-Q2X2.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=533 end=48891 sample=../Audio/StormDrum/59B2-7G8H.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=468 end=49265 sample=../Audio/StormDrum/59B2-1RB0.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=924 end=50148 sample=../Audio/StormDrum/59B2-SPJ6.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=911 end=50015 sample=../Audio/StormDrum/59B2-9HWS.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=634 end=49772 sample=../Audio/StormDrum/59B2-4MM6.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=610 end=49465 sample=../Audio/StormDrum/59B2-7VFN.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=776 end=49740 sample=../Audio/StormDrum/59B2-414A.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=658 end=49485 sample=../Audio/StormDrum/59B2-81XW.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=453 sample=../Audio/StormDrum/60C3-D0SB.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=713 end=38169 sample=../Audio/StormDrum/60C3-Z2FS.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=577 end=36818 sample=../Audio/StormDrum/60C3-7IFD.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=552 end=36162 sample=../Audio/StormDrum/60C3-SFVL.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=809 end=36124 sample=../Audio/StormDrum/60C3-FYME.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=691 end=37530 sample=../Audio/StormDrum/60C3-XG61.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=488 end=36990 sample=../Audio/StormDrum/60C3-D32M.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=648 end=36729 sample=../Audio/StormDrum/60C3-XSLR.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=761 end=37380 sample=../Audio/StormDrum/60C3-Z8EA.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=485 end=36223 sample=../Audio/StormDrum/60C3-BB9O.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=808 end=37164 sample=../Audio/StormDrum/60C3-GROS.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=692 end=36613 sample=../Audio/StormDrum/60C3-JFJG.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=834 end=36484 sample=../Audio/StormDrum/60C3-9CZA.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=788 end=36580 sample=../Audio/StormDrum/60C3-JVYM.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=633 sample=../Audio/StormDrum/60C3-9D8H.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=846 end=36851 sample=../Audio/StormDrum/60C3-O3QS.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=519 end=29637 sample=../Audio/StormDrum/61C#3-6BEZ.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=736 end=29713 sample=../Audio/StormDrum/61C#3-PIF8.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=549 end=29514 sample=../Audio/StormDrum/61C#3-NG0O.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=516 sample=../Audio/StormDrum/61C#3-2ZI7.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=590 end=29855 sample=../Audio/StormDrum/61C#3-VOAP.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=510 end=30171 sample=../Audio/StormDrum/61C#3-YSEX.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=964 end=30662 sample=../Audio/StormDrum/61C#3-FHNI.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=947 sample=../Audio/StormDrum/61C#3-6EE9.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=778 end=30582 sample=../Audio/StormDrum/61C#3-9OUP.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=565 end=30214 sample=../Audio/StormDrum/61C#3-26NH.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=574 sample=../Audio/StormDrum/61C#3-JBUS.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=617 end=30208 sample=../Audio/StormDrum/61C#3-6KL7.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=578 end=29485 sample=../Audio/StormDrum/61C#3-08ZX.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=649 sample=../Audio/StormDrum/61C#3-6X4H.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=873 end=30219 sample=../Audio/StormDrum/61C#3-6Q56.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=626 end=29804 sample=../Audio/StormDrum/61C#3-27XG.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=567 end=33794 sample=../Audio/StormDrum/62D3-9RO7.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=720 end=34327 sample=../Audio/StormDrum/62D3-XJZQ.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=826 end=34458 sample=../Audio/StormDrum/62D3-RLLL.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=632 end=33750 sample=../Audio/StormDrum/62D3-J3KW.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=634 end=33893 sample=../Audio/StormDrum/62D3-U3FF.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=648 end=33801 sample=../Audio/StormDrum/62D3-YCZ9.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=995 end=33512 sample=../Audio/StormDrum/62D3-4ISF.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=539 end=33918 sample=../Audio/StormDrum/62D3-OSAI.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=779 end=33439 sample=../Audio/StormDrum/62D3-UO7O.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=735 end=33807 sample=../Audio/StormDrum/62D3-8LGF.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=646 end=34274 sample=../Audio/StormDrum/62D3-26O1.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=906 sample=../Audio/StormDrum/62D3-DP1Y.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=831 end=34516 sample=../Audio/StormDrum/62D3-ELXI.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=742 end=33102 sample=../Audio/StormDrum/62D3-1SEL.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=474 end=33422 sample=../Audio/StormDrum/62D3-HD3E.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=868 end=34263 sample=../Audio/StormDrum/62D3-KPYK.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=742 end=32376 sample=../Audio/StormDrum/63D#3-IM78.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=876 end=32392 sample=../Audio/StormDrum/63D#3-7TSV.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=505 end=32074 sample=../Audio/StormDrum/63D#3-CXAK.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=589 end=32694 sample=../Audio/StormDrum/63D#3-20S9.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=902 end=32906 sample=../Audio/StormDrum/63D#3-6X9D.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=687 end=33051 sample=../Audio/StormDrum/63D#3-56YQ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=892 end=33171 sample=../Audio/StormDrum/63D#3-EMDO.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=930 end=32957 sample=../Audio/StormDrum/63D#3-4TJC.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=675 end=32896 sample=../Audio/StormDrum/63D#3-8MN9.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=614 end=31573 sample=../Audio/StormDrum/63D#3-Q4DN.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=897 end=32704 sample=../Audio/StormDrum/63D#3-SYVI.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=853 end=33240 sample=../Audio/StormDrum/63D#3-VQO6.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=494 end=32821 sample=../Audio/StormDrum/63D#3-45J9.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=522 end=31911 sample=../Audio/StormDrum/63D#3-T4EX.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=484 end=31886 sample=../Audio/StormDrum/63D#3-7YZD.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=564 end=32583 sample=../Audio/StormDrum/63D#3-ZKP8.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=465 end=37596 sample=../Audio/StormDrum/64E3-9816.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=395 end=38533 sample=../Audio/StormDrum/64E3-UYII.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=520 end=37685 sample=../Audio/StormDrum/64E3-ZN7W.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=671 end=38461 sample=../Audio/StormDrum/64E3-MB8E.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=650 end=38104 sample=../Audio/StormDrum/64E3-4WXF.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=532 end=38564 sample=../Audio/StormDrum/64E3-B9MU.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=522 end=37797 sample=../Audio/StormDrum/64E3-4FZO.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=864 end=38547 sample=../Audio/StormDrum/64E3-0PCL.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=793 end=39203 sample=../Audio/StormDrum/64E3-Y4XM.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=667 end=38165 sample=../Audio/StormDrum/64E3-K2Q1.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=522 end=36887 sample=../Audio/StormDrum/64E3-BVD4.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=567 end=39239 sample=../Audio/StormDrum/64E3-ZF0T.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=384 end=38536 sample=../Audio/StormDrum/64E3-VEN8.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=621 end=37942 sample=../Audio/StormDrum/64E3-1T7K.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=942 end=38372 sample=../Audio/StormDrum/64E3-BGK3.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=592 end=37410 sample=../Audio/StormDrum/64E3-3YNA.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=955 end=49270 sample=../Audio/StormDrum/65F3-NL3A.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=393 end=48491 sample=../Audio/StormDrum/65F3-NQGQ.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=482 end=49509 sample=../Audio/StormDrum/65F3-LOTL.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=517 end=49780 sample=../Audio/StormDrum/65F3-07LF.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=763 end=49479 sample=../Audio/StormDrum/65F3-T0EW.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=610 end=49739 sample=../Audio/StormDrum/65F3-5YTT.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=539 end=48234 sample=../Audio/StormDrum/65F3-JERR.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=916 end=49781 sample=../Audio/StormDrum/65F3-KQZY.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=724 end=49709 sample=../Audio/StormDrum/65F3-IGS6.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=429 end=49112 sample=../Audio/StormDrum/65F3-JEN4.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=648 end=48482 sample=../Audio/StormDrum/65F3-AIHK.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=749 end=49350 sample=../Audio/StormDrum/65F3-PSAS.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=863 end=50044 sample=../Audio/StormDrum/65F3-1I2M.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=763 end=49644 sample=../Audio/StormDrum/65F3-T0MZ.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=452 end=48889 sample=../Audio/StormDrum/65F3-OH1W.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=797 end=49952 sample=../Audio/StormDrum/65F3-5RUN.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=970 end=37009 sample=../Audio/StormDrum/66F#3-ETA8.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=644 end=36481 sample=../Audio/StormDrum/66F#3-S5C3.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=702 end=37489 sample=../Audio/StormDrum/66F#3-RH6F.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=528 end=36766 sample=../Audio/StormDrum/66F#3-G60R.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=671 end=37334 sample=../Audio/StormDrum/66F#3-U7IO.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=840 end=36692 sample=../Audio/StormDrum/66F#3-UBOI.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=776 end=37894 sample=../Audio/StormDrum/66F#3-G002.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=976 end=36543 sample=../Audio/StormDrum/66F#3-VMZU.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=1031 end=36018 sample=../Audio/StormDrum/66F#3-RYFM.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=865 end=37531 sample=../Audio/StormDrum/66F#3-31ZG.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=509 end=36723 sample=../Audio/StormDrum/66F#3-Q93Z.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=858 end=36460 sample=../Audio/StormDrum/66F#3-EEN3.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=858 end=37957 sample=../Audio/StormDrum/66F#3-7PZI.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=430 end=37286 sample=../Audio/StormDrum/66F#3-YPWK.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=853 end=36698 sample=../Audio/StormDrum/66F#3-BN6B.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=850 end=35969 sample=../Audio/StormDrum/66F#3-WZPE.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=519 end=30670 sample=../Audio/StormDrum/67G3-Q8K3.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=582 end=30219 sample=../Audio/StormDrum/67G3-08CA.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=476 end=30156 sample=../Audio/StormDrum/67G3-1PGR.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=568 end=29937 sample=../Audio/StormDrum/67G3-953J.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=450 end=29861 sample=../Audio/StormDrum/67G3-GAHS.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=915 end=29903 sample=../Audio/StormDrum/67G3-LRWV.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=506 end=30167 sample=../Audio/StormDrum/67G3-SD87.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=846 end=30245 sample=../Audio/StormDrum/67G3-APJW.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=760 end=30258 sample=../Audio/StormDrum/67G3-2IJ7.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=637 end=30211 sample=../Audio/StormDrum/67G3-OD84.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=525 end=30411 sample=../Audio/StormDrum/67G3-LUMM.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=856 end=30681 sample=../Audio/StormDrum/67G3-54LW.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=947 end=30140 sample=../Audio/StormDrum/67G3-OS0L.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=604 end=30227 sample=../Audio/StormDrum/67G3-CZP1.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=450 end=30690 sample=../Audio/StormDrum/67G3-OOG3.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=498 end=30057 sample=../Audio/StormDrum/67G3-5XI1.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=868 end=33417 sample=../Audio/StormDrum/68G#3-07E8.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=930 sample=../Audio/StormDrum/68G#3-H7RD.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=825 end=34321 sample=../Audio/StormDrum/68G#3-C2RM.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=960 end=34560 sample=../Audio/StormDrum/68G#3-SGXG.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=413 end=33682 sample=../Audio/StormDrum/68G#3-TND0.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=431 end=33793 sample=../Audio/StormDrum/68G#3-XOO7.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=782 end=34125 sample=../Audio/StormDrum/68G#3-XQML.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=952 end=33317 sample=../Audio/StormDrum/68G#3-EH05.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=845 end=34156 sample=../Audio/StormDrum/68G#3-XLHD.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=442 end=33358 sample=../Audio/StormDrum/68G#3-CP5T.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=958 end=33792 sample=../Audio/StormDrum/68G#3-DAHH.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=751 end=34260 sample=../Audio/StormDrum/68G#3-E061.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=677 end=33926 sample=../Audio/StormDrum/68G#3-PAAO.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=502 sample=../Audio/StormDrum/68G#3-B21L.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=621 sample=../Audio/StormDrum/68G#3-ZZ6G.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=510 end=32963 sample=../Audio/StormDrum/68G#3-SDZ3.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=634 end=32523 sample=../Audio/StormDrum/69A3-DXAA.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=575 end=32705 sample=../Audio/StormDrum/69A3-TSPN.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=471 end=32290 sample=../Audio/StormDrum/69A3-OZ76.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=798 end=32678 sample=../Audio/StormDrum/69A3-H1TO.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=578 end=32181 sample=../Audio/StormDrum/69A3-DH60.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=564 end=31815 sample=../Audio/StormDrum/69A3-WHEI.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=466 end=32521 sample=../Audio/StormDrum/69A3-WU2J.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=639 end=32691 sample=../Audio/StormDrum/69A3-IPIW.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=526 end=32647 sample=../Audio/StormDrum/69A3-D0M6.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=773 end=32173 sample=../Audio/StormDrum/69A3-11OV.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=672 end=32820 sample=../Audio/StormDrum/69A3-OD6B.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=413 end=32233 sample=../Audio/StormDrum/69A3-K58O.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=730 end=31661 sample=../Audio/StormDrum/69A3-CFUH.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=540 end=32830 sample=../Audio/StormDrum/69A3-B2PU.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=430 end=31984 sample=../Audio/StormDrum/69A3-UN3N.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=674 end=32905 sample=../Audio/StormDrum/69A3-PCQ2.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=620 end=37861 sample=../Audio/StormDrum/70A#3-6HXH.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=626 end=37991 sample=../Audio/StormDrum/70A#3-PTF5.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=629 end=37521 sample=../Audio/StormDrum/70A#3-7AT9.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=599 end=38629 sample=../Audio/StormDrum/70A#3-YSX1.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=762 end=36920 sample=../Audio/StormDrum/70A#3-2G1Y.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=502 end=37307 sample=../Audio/StormDrum/70A#3-TXAQ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=895 end=38028 sample=../Audio/StormDrum/70A#3-51S9.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=916 end=38547 sample=../Audio/StormDrum/70A#3-11YV.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=946 end=38895 sample=../Audio/StormDrum/70A#3-4MWH.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=990 end=38475 sample=../Audio/StormDrum/70A#3-ERRY.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=888 end=37121 sample=../Audio/StormDrum/70A#3-CUFU.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=630 end=38351 sample=../Audio/StormDrum/70A#3-VP7N.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=911 sample=../Audio/StormDrum/70A#3-M9MP.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=529 end=38322 sample=../Audio/StormDrum/70A#3-M5E4.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=389 end=38770 sample=../Audio/StormDrum/70A#3-81JF.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=828 end=38890 sample=../Audio/StormDrum/70A#3-UNY8.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=977 end=50393 sample=../Audio/StormDrum/71B3-GK50.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=710 end=48908 sample=../Audio/StormDrum/71B3-F82B.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=606 end=49790 sample=../Audio/StormDrum/71B3-IMLR.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=737 sample=../Audio/StormDrum/71B3-DNR3.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=679 end=49914 sample=../Audio/StormDrum/71B3-IPPU.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=836 end=49153 sample=../Audio/StormDrum/71B3-I9SG.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=792 end=49315 sample=../Audio/StormDrum/71B3-3KX2.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=850 end=49871 sample=../Audio/StormDrum/71B3-83HA.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=552 end=49663 sample=../Audio/StormDrum/71B3-LX54.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=714 sample=../Audio/StormDrum/71B3-16FU.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=950 end=48884 sample=../Audio/StormDrum/71B3-4QHM.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=1008 end=49386 sample=../Audio/StormDrum/71B3-YRXE.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=758 end=49832 sample=../Audio/StormDrum/71B3-JLVY.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=924 end=48624 sample=../Audio/StormDrum/71B3-TS8E.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=835 end=49258 sample=../Audio/StormDrum/71B3-57ME.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=915 end=49479 sample=../Audio/StormDrum/71B3-VE7V.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=740 end=37027 sample=../Audio/StormDrum/72C4-MXDQ.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=822 end=37066 sample=../Audio/StormDrum/72C4-DGVS.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=408 end=36425 sample=../Audio/StormDrum/72C4-7DEK.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=867 end=37282 sample=../Audio/StormDrum/72C4-73N6.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=683 end=37392 sample=../Audio/StormDrum/72C4-OA20.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=793 end=36678 sample=../Audio/StormDrum/72C4-2YSW.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=1009 end=37529 sample=../Audio/StormDrum/72C4-5UUA.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=772 end=36937 sample=../Audio/StormDrum/72C4-11D4.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=538 end=36692 sample=../Audio/StormDrum/72C4-FZ9L.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=542 end=37155 sample=../Audio/StormDrum/72C4-5ONK.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=571 end=36363 sample=../Audio/StormDrum/72C4-0MU0.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=700 end=37230 sample=../Audio/StormDrum/72C4-ADCJ.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=749 end=36614 sample=../Audio/StormDrum/72C4-GFY5.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=521 end=37606 sample=../Audio/StormDrum/72C4-3WYY.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=566 end=36318 sample=../Audio/StormDrum/72C4-29RK.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=848 end=36807 sample=../Audio/StormDrum/72C4-Q2QO.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=563 end=30302 sample=../Audio/StormDrum/73C#4-KK4E.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=442 end=29816 sample=../Audio/StormDrum/73C#4-O0WV.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=573 end=30323 sample=../Audio/StormDrum/73C#4-R3U6.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=554 end=30265 sample=../Audio/StormDrum/73C#4-P1RS.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=696 end=30402 sample=../Audio/StormDrum/73C#4-XCST.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=989 end=30648 sample=../Audio/StormDrum/73C#4-E30F.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=677 end=30100 sample=../Audio/StormDrum/73C#4-QZ56.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=903 end=30498 sample=../Audio/StormDrum/73C#4-VT2M.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=555 end=29214 sample=../Audio/StormDrum/73C#4-S6W8.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=941 end=30482 sample=../Audio/StormDrum/73C#4-3G1R.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=703 end=30160 sample=../Audio/StormDrum/73C#4-G1DY.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=610 end=29849 sample=../Audio/StormDrum/73C#4-OXPC.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=687 end=30339 sample=../Audio/StormDrum/73C#4-M9RK.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=1005 end=30421 sample=../Audio/StormDrum/73C#4-GO0Y.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=646 end=29453 sample=../Audio/StormDrum/73C#4-YGKO.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=724 end=30447 sample=../Audio/StormDrum/73C#4-E0U2.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=847 end=34362 sample=../Audio/StormDrum/74D4-WJ0K.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=952 end=33484 sample=../Audio/StormDrum/74D4-3JSC.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=717 end=33871 sample=../Audio/StormDrum/74D4-B773.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=786 end=34638 sample=../Audio/StormDrum/74D4-8AQC.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=854 end=34327 sample=../Audio/StormDrum/74D4-U6JK.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=771 end=34186 sample=../Audio/StormDrum/74D4-GZF1.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=714 end=33867 sample=../Audio/StormDrum/74D4-L71A.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=725 end=34090 sample=../Audio/StormDrum/74D4-681H.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=539 end=33557 sample=../Audio/StormDrum/74D4-QAID.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=801 end=34074 sample=../Audio/StormDrum/74D4-502Z.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=449 end=34271 sample=../Audio/StormDrum/74D4-1WLC.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=636 end=33812 sample=../Audio/StormDrum/74D4-OLOO.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=758 end=33924 sample=../Audio/StormDrum/74D4-FU9W.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=749 end=34216 sample=../Audio/StormDrum/74D4-7BNZ.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=871 end=33779 sample=../Audio/StormDrum/74D4-JSPM.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=847 end=34054 sample=../Audio/StormDrum/74D4-WK0U.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=772 end=32478 sample=../Audio/StormDrum/75D#4-JU36.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=1001 end=32905 sample=../Audio/StormDrum/75D#4-TLXW.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=944 end=33075 sample=../Audio/StormDrum/75D#4-IY25.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=926 sample=../Audio/StormDrum/75D#4-PK4Z.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=636 end=32294 sample=../Audio/StormDrum/75D#4-TXN1.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=542 end=32782 sample=../Audio/StormDrum/75D#4-IRQQ.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=871 end=32782 sample=../Audio/StormDrum/75D#4-BD5K.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=639 end=32841 sample=../Audio/StormDrum/75D#4-FRJE.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=606 end=32566 sample=../Audio/StormDrum/75D#4-1H8A.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=873 end=33003 sample=../Audio/StormDrum/75D#4-SPMI.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=427 end=32150 sample=../Audio/StormDrum/75D#4-PCCK.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=692 sample=../Audio/StormDrum/75D#4-U85G.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=706 end=33235 sample=../Audio/StormDrum/75D#4-92A7.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=510 end=32254 sample=../Audio/StormDrum/75D#4-5S91.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=701 end=32913 sample=../Audio/StormDrum/75D#4-S48G.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=733 end=31792 sample=../Audio/StormDrum/75D#4-65OF.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=871 end=39031 sample=../Audio/StormDrum/76E4-W3LM.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=441 end=37922 sample=../Audio/StormDrum/76E4-ECF6.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=550 end=37221 sample=../Audio/StormDrum/76E4-8HXY.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=642 end=38916 sample=../Audio/StormDrum/76E4-GAIX.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=701 end=39023 sample=../Audio/StormDrum/76E4-O2E8.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=748 end=38787 sample=../Audio/StormDrum/76E4-R15O.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=462 end=37299 sample=../Audio/StormDrum/76E4-JDSQ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=574 end=38662 sample=../Audio/StormDrum/76E4-NTVV.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=603 end=38589 sample=../Audio/StormDrum/76E4-KAS5.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=504 end=38759 sample=../Audio/StormDrum/76E4-T088.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=453 end=38295 sample=../Audio/StormDrum/76E4-9PQJ.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=719 end=37299 sample=../Audio/StormDrum/76E4-4NJE.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=779 end=37671 sample=../Audio/StormDrum/76E4-P2TR.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=605 end=37368 sample=../Audio/StormDrum/76E4-ZX4J.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=613 end=37286 sample=../Audio/StormDrum/76E4-BDTI.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=796 end=38786 sample=../Audio/StormDrum/76E4-V4JG.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=962 end=49852 sample=../Audio/StormDrum/77F4-9GF2.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=468 end=49699 sample=../Audio/StormDrum/77F4-8BU5.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=667 end=49777 sample=../Audio/StormDrum/77F4-DI4Q.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=902 end=50098 sample=../Audio/StormDrum/77F4-39KU.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=736 end=48784 sample=../Audio/StormDrum/77F4-WEUB.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=419 end=48754 sample=../Audio/StormDrum/77F4-OMC1.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=569 end=49387 sample=../Audio/StormDrum/77F4-TDCY.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=760 end=49529 sample=../Audio/StormDrum/77F4-L99M.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=855 sample=../Audio/StormDrum/77F4-EX6K.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=761 end=48827 sample=../Audio/StormDrum/77F4-DQRI.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=807 end=48855 sample=../Audio/StormDrum/77F4-BJ8F.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=677 end=49658 sample=../Audio/StormDrum/77F4-P7PX.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=601 end=47946 sample=../Audio/StormDrum/77F4-89SM.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=552 end=48500 sample=../Audio/StormDrum/77F4-DLYZ.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=911 end=49344 sample=../Audio/StormDrum/77F4-0TDP.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=520 end=48608 sample=../Audio/StormDrum/77F4-DQF1.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=547 end=36406 sample=../Audio/StormDrum/78F#4-SX2S.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=874 end=37762 sample=../Audio/StormDrum/78F#4-PPL1.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=881 end=38603 sample=../Audio/StormDrum/78F#4-CMFP.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=704 end=36864 sample=../Audio/StormDrum/78F#4-0CJN.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=482 sample=../Audio/StormDrum/78F#4-MGU2.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=915 end=37736 sample=../Audio/StormDrum/78F#4-GGEI.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=854 end=36875 sample=../Audio/StormDrum/78F#4-ZPSS.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=665 end=36964 sample=../Audio/StormDrum/78F#4-A3BX.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=733 end=37010 sample=../Audio/StormDrum/78F#4-X7QP.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=872 end=37809 sample=../Audio/StormDrum/78F#4-2HJN.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=965 end=37094 sample=../Audio/StormDrum/78F#4-5537.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=755 end=36759 sample=../Audio/StormDrum/78F#4-T64Z.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=695 sample=../Audio/StormDrum/78F#4-F4OG.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=748 end=36760 sample=../Audio/StormDrum/78F#4-FO1Z.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=586 end=36934 sample=../Audio/StormDrum/78F#4-6X70.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=707 sample=../Audio/StormDrum/78F#4-X6H7.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=916 end=30790 sample=../Audio/StormDrum/79G4-UH6C.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=895 end=30367 sample=../Audio/StormDrum/79G4-OZZU.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=691 end=30582 sample=../Audio/StormDrum/79G4-H7BH.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=752 end=30439 sample=../Audio/StormDrum/79G4-2C81.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=842 end=30044 sample=../Audio/StormDrum/79G4-FRIZ.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=726 end=30478 sample=../Audio/StormDrum/79G4-WW0Q.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=633 end=30145 sample=../Audio/StormDrum/79G4-CCJJ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=861 end=29894 sample=../Audio/StormDrum/79G4-KVOY.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=600 end=29923 sample=../Audio/StormDrum/79G4-7IRJ.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=688 sample=../Audio/StormDrum/79G4-1GX0.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=846 end=29704 sample=../Audio/StormDrum/79G4-STQO.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=975 end=30552 sample=../Audio/StormDrum/79G4-JYCX.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=615 end=30455 sample=../Audio/StormDrum/79G4-KR8H.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=607 sample=../Audio/StormDrum/79G4-27P7.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=539 end=30439 sample=../Audio/StormDrum/79G4-FR34.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=830 end=29983 sample=../Audio/StormDrum/79G4-P6AW.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=896 end=34094 sample=../Audio/StormDrum/80G#4-NNG2.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=915 end=34394 sample=../Audio/StormDrum/80G#4-PCHH.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=884 end=33569 sample=../Audio/StormDrum/80G#4-HA7L.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=535 end=33791 sample=../Audio/StormDrum/80G#4-EHU2.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=412 end=33341 sample=../Audio/StormDrum/80G#4-HS8K.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=867 end=33966 sample=../Audio/StormDrum/80G#4-7JAV.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=707 end=33799 sample=../Audio/StormDrum/80G#4-WTI1.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=595 end=34020 sample=../Audio/StormDrum/80G#4-619J.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=918 end=34212 sample=../Audio/StormDrum/80G#4-CO3R.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=517 end=33753 sample=../Audio/StormDrum/80G#4-OXMT.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=907 end=35089 sample=../Audio/StormDrum/80G#4-V061.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=552 sample=../Audio/StormDrum/80G#4-RLW2.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=683 end=34140 sample=../Audio/StormDrum/80G#4-PRF9.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=653 end=33068 sample=../Audio/StormDrum/80G#4-QDKS.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=618 sample=../Audio/StormDrum/80G#4-DBKS.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=529 end=33858 sample=../Audio/StormDrum/80G#4-PG08.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=669 end=32270 sample=../Audio/StormDrum/81A4-O24F.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=683 sample=../Audio/StormDrum/81A4-3LSW.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=879 end=32857 sample=../Audio/StormDrum/81A4-QMC4.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=448 end=32649 sample=../Audio/StormDrum/81A4-MZT8.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=935 end=33156 sample=../Audio/StormDrum/81A4-98NH.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=786 end=32915 sample=../Audio/StormDrum/81A4-F1C4.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=933 end=33057 sample=../Audio/StormDrum/81A4-U9YK.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=955 end=32300 sample=../Audio/StormDrum/81A4-8VNT.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=618 end=32997 sample=../Audio/StormDrum/81A4-HY1Z.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=532 end=32684 sample=../Audio/StormDrum/81A4-4LDX.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=919 end=32911 sample=../Audio/StormDrum/81A4-UMO3.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=504 end=31919 sample=../Audio/StormDrum/81A4-T3QW.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=844 end=32210 sample=../Audio/StormDrum/81A4-DVRE.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=476 end=32896 sample=../Audio/StormDrum/81A4-IBGT.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=625 end=33047 sample=../Audio/StormDrum/81A4-48II.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=769 end=33034 sample=../Audio/StormDrum/81A4-V6C4.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=744 end=39152 sample=../Audio/StormDrum/82A#4-ZQLV.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=654 end=38491 sample=../Audio/StormDrum/82A#4-HJET.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=750 end=38906 sample=../Audio/StormDrum/82A#4-0XQK.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=948 sample=../Audio/StormDrum/82A#4-7B8R.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=563 end=38158 sample=../Audio/StormDrum/82A#4-N89N.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=957 end=39073 sample=../Audio/StormDrum/82A#4-TW78.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=931 sample=../Audio/StormDrum/82A#4-2CTU.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=430 end=38034 sample=../Audio/StormDrum/82A#4-5DE9.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=935 end=38633 sample=../Audio/StormDrum/82A#4-SAM0.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=888 end=39143 sample=../Audio/StormDrum/82A#4-L5F2.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=639 end=38029 sample=../Audio/StormDrum/82A#4-QK00.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=584 end=36933 sample=../Audio/StormDrum/82A#4-KP20.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=705 end=38682 sample=../Audio/StormDrum/82A#4-D84O.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=607 end=37934 sample=../Audio/StormDrum/82A#4-O1K0.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=664 end=38619 sample=../Audio/StormDrum/82A#4-JTX7.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=396 end=37967 sample=../Audio/StormDrum/82A#4-WG4I.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=880 end=49043 sample=../Audio/StormDrum/83B4-B29L.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=774 end=49640 sample=../Audio/StormDrum/83B4-J8WA.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=934 end=50283 sample=../Audio/StormDrum/83B4-M63J.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=460 end=49273 sample=../Audio/StormDrum/83B4-2B3P.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=494 end=49744 sample=../Audio/StormDrum/83B4-GXZB.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=581 end=48663 sample=../Audio/StormDrum/83B4-22VM.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=814 end=49709 sample=../Audio/StormDrum/83B4-PJRJ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=770 end=49658 sample=../Audio/StormDrum/83B4-9W8W.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=495 end=48000 sample=../Audio/StormDrum/83B4-ETXA.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=418 end=48956 sample=../Audio/StormDrum/83B4-NF71.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=595 sample=../Audio/StormDrum/83B4-3XU3.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=568 end=49492 sample=../Audio/StormDrum/83B4-YFHI.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=537 end=49637 sample=../Audio/StormDrum/83B4-UVGX.wav
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=682 end=49765 sample=../Audio/StormDrum/83B4-VYW0.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=584 end=48180 sample=../Audio/StormDrum/83B4-CV44.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=744 end=48893 sample=../Audio/StormDrum/83B4-GALQ.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=664 end=36605 sample=../Audio/StormDrum/84C5-2WAP.wav
-	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=549 end=36575 sample=../Audio/StormDrum/84C5-1RNW.wav
-	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=802 end=37394 sample=../Audio/StormDrum/84C5-AKM0.wav
-<group>lokey=84 hikey=126 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=894 end=36608 sample=../Audio/StormDrum/84C5-YTZM.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=480 end=36993 sample=../Audio/StormDrum/84C5-INMF.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=421 end=36897 sample=../Audio/StormDrum/84C5-701O.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=878 end=36855 sample=../Audio/StormDrum/84C5-P98A.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=722 sample=../Audio/StormDrum/84C5-F0D2.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=1002 end=36533 sample=../Audio/StormDrum/84C5-A2U4.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=543 end=36478 sample=../Audio/StormDrum/84C5-OUCU.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=806 end=36873 sample=../Audio/StormDrum/84C5-2HE9.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=535 end=37168 sample=../Audio/StormDrum/84C5-W78X.wav
-	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=897 end=37081 sample=../Audio/StormDrum/84C5-KFXB.wav
-	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=568 end=36693 sample=../Audio/StormDrum/84C5-ZDM6.wav
-	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=478 end=36356 sample=../Audio/StormDrum/84C5-XIIX.wav
-	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=829 end=37286 sample=../Audio/StormDrum/84C5-6Y7G.wav
+<group> key=36 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=700 end=34990 sample=../PolAudio/StormDrum/36C1-02SO.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=552 end=36446 sample=../PolAudio/StormDrum/36C1-JS5Z.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=872 end=34694 sample=../PolAudio/StormDrum/36C1-X2XI.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=559 end=34950 sample=../PolAudio/StormDrum/36C1-4BRY.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=903 end=37131 sample=../PolAudio/StormDrum/36C1-AOO6.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=753 end=35376 sample=../PolAudio/StormDrum/36C1-4P11.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=690 end=35961 sample=../PolAudio/StormDrum/36C1-OUB1.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=824 end=34965 sample=../PolAudio/StormDrum/36C1-AL3N.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=665 end=35579 sample=../PolAudio/StormDrum/36C1-88W9.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=829 end=37714 sample=../PolAudio/StormDrum/36C1-CNGK.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=574 end=36372 sample=../PolAudio/StormDrum/36C1-RRED.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=593 end=35944 sample=../PolAudio/StormDrum/36C1-6OK4.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=832 end=34948 sample=../PolAudio/StormDrum/36C1-HCQN.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=859 end=35711 sample=../PolAudio/StormDrum/36C1-YPPU.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=518 end=35998 sample=../PolAudio/StormDrum/36C1-O1KM.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=819 end=35790 sample=../PolAudio/StormDrum/36C1-1GCJ.wav
+<group> key=37 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=898 end=30257 sample=../PolAudio/StormDrum/37C#1-5AKG.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=425 end=29787 sample=../PolAudio/StormDrum/37C#1-CTG1.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=882 end=29102 sample=../PolAudio/StormDrum/37C#1-M9X5.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=881 end=30180 sample=../PolAudio/StormDrum/37C#1-US4L.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=972 end=30187 sample=../PolAudio/StormDrum/37C#1-QOVV.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=1005 end=29583 sample=../PolAudio/StormDrum/37C#1-M609.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=683 end=30333 sample=../PolAudio/StormDrum/37C#1-J1OQ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=646 end=29198 sample=../PolAudio/StormDrum/37C#1-8TFJ.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=421 end=29806 sample=../PolAudio/StormDrum/37C#1-OKOL.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=475 end=29671 sample=../PolAudio/StormDrum/37C#1-7TRN.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=718 end=29662 sample=../PolAudio/StormDrum/37C#1-DGRE.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=735 end=29093 sample=../PolAudio/StormDrum/37C#1-E8KG.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=917 end=30567 sample=../PolAudio/StormDrum/37C#1-R6DT.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=749 end=29875 sample=../PolAudio/StormDrum/37C#1-9TVS.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=786 end=30961 sample=../PolAudio/StormDrum/37C#1-ZSGW.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=812 end=29047 sample=../PolAudio/StormDrum/37C#1-0ZIA.wav
+<group> key=38 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=830 end=33395 sample=../PolAudio/StormDrum/38D1-P0WQ.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=635 sample=../PolAudio/StormDrum/38D1-AXBM.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=473 end=33714 sample=../PolAudio/StormDrum/38D1-GHHH.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=723 sample=../PolAudio/StormDrum/38D1-MC0D.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=684 end=33337 sample=../PolAudio/StormDrum/38D1-Q6UV.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=918 sample=../PolAudio/StormDrum/38D1-ODY4.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=407 sample=../PolAudio/StormDrum/38D1-78BM.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=595 end=32263 sample=../PolAudio/StormDrum/38D1-B4O1.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=511 end=33372 sample=../PolAudio/StormDrum/38D1-US3W.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=840 sample=../PolAudio/StormDrum/38D1-H8C8.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=781 end=33857 sample=../PolAudio/StormDrum/38D1-NH7M.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=829 end=33926 sample=../PolAudio/StormDrum/38D1-1YD7.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=746 end=33013 sample=../PolAudio/StormDrum/38D1-P58C.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=701 end=33309 sample=../PolAudio/StormDrum/38D1-IVKL.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=760 end=33063 sample=../PolAudio/StormDrum/38D1-U0EN.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=587 end=33473 sample=../PolAudio/StormDrum/38D1-1YNL.wav
+<group> key=39 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=824 end=32019 sample=../PolAudio/StormDrum/39D#1-7DQ1.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=586 end=31721 sample=../PolAudio/StormDrum/39D#1-LSWU.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=796 end=32265 sample=../PolAudio/StormDrum/39D#1-0XC7.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=879 sample=../PolAudio/StormDrum/39D#1-DRTF.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=738 end=31574 sample=../PolAudio/StormDrum/39D#1-X55Y.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=609 end=32701 sample=../PolAudio/StormDrum/39D#1-YK3N.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=963 end=31723 sample=../PolAudio/StormDrum/39D#1-CVCB.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=670 end=32631 sample=../PolAudio/StormDrum/39D#1-YFEH.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=555 end=32463 sample=../PolAudio/StormDrum/39D#1-A65V.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=471 end=31659 sample=../PolAudio/StormDrum/39D#1-6GRK.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=948 end=32057 sample=../PolAudio/StormDrum/39D#1-TTFM.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=557 end=32382 sample=../PolAudio/StormDrum/39D#1-JF5C.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=583 end=31576 sample=../PolAudio/StormDrum/39D#1-J5DR.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=694 sample=../PolAudio/StormDrum/39D#1-9XCP.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=791 end=33066 sample=../PolAudio/StormDrum/39D#1-Q7ZC.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=930 sample=../PolAudio/StormDrum/39D#1-QQOP.wav
+<group> key=40 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=476 end=38031 sample=../PolAudio/StormDrum/40E1-2UTK.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=781 end=37579 sample=../PolAudio/StormDrum/40E1-TDWR.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=991 end=36457 sample=../PolAudio/StormDrum/40E1-FOMH.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=918 end=36128 sample=../PolAudio/StormDrum/40E1-NGFL.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=526 end=38726 sample=../PolAudio/StormDrum/40E1-GOWF.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=717 end=37469 sample=../PolAudio/StormDrum/40E1-XYVZ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=913 end=38606 sample=../PolAudio/StormDrum/40E1-UGO8.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=843 end=36734 sample=../PolAudio/StormDrum/40E1-SXVE.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=677 end=37127 sample=../PolAudio/StormDrum/40E1-QB84.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=618 end=38049 sample=../PolAudio/StormDrum/40E1-QN3F.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=459 end=38403 sample=../PolAudio/StormDrum/40E1-FQM3.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=840 end=35898 sample=../PolAudio/StormDrum/40E1-ROLF.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=494 end=37241 sample=../PolAudio/StormDrum/40E1-WXEZ.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=664 end=37686 sample=../PolAudio/StormDrum/40E1-X22F.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=473 end=36236 sample=../PolAudio/StormDrum/40E1-NXME.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=427 end=36051 sample=../PolAudio/StormDrum/40E1-MV9L.wav
+<group> key=41 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=937 end=49042 sample=../PolAudio/StormDrum/41F1-4EFS.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=564 sample=../PolAudio/StormDrum/41F1-S0G5.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=585 end=49842 sample=../PolAudio/StormDrum/41F1-M57A.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=542 end=50037 sample=../PolAudio/StormDrum/41F1-QKX9.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=751 end=49917 sample=../PolAudio/StormDrum/41F1-V0OY.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=880 end=49242 sample=../PolAudio/StormDrum/41F1-U313.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=968 end=49186 sample=../PolAudio/StormDrum/41F1-VZQZ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=938 end=49250 sample=../PolAudio/StormDrum/41F1-CD7S.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=932 end=50144 sample=../PolAudio/StormDrum/41F1-RJAA.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=764 end=49266 sample=../PolAudio/StormDrum/41F1-TA7W.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=701 end=49391 sample=../PolAudio/StormDrum/41F1-225U.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=487 sample=../PolAudio/StormDrum/41F1-SFVA.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=531 end=47472 sample=../PolAudio/StormDrum/41F1-COH3.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=399 end=48735 sample=../PolAudio/StormDrum/41F1-0G83.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=573 end=49195 sample=../PolAudio/StormDrum/41F1-UET6.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=604 end=49533 sample=../PolAudio/StormDrum/41F1-9L20.wav
+<group> key=42 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=529 end=36504 sample=../PolAudio/StormDrum/42F#1-3BW1.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=500 end=35943 sample=../PolAudio/StormDrum/42F#1-TG1T.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=776 sample=../PolAudio/StormDrum/42F#1-NSZL.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=660 end=37759 sample=../PolAudio/StormDrum/42F#1-WZQE.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=820 end=36658 sample=../PolAudio/StormDrum/42F#1-JQYL.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=896 end=36516 sample=../PolAudio/StormDrum/42F#1-BUO9.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=800 end=36969 sample=../PolAudio/StormDrum/42F#1-HWLY.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=489 end=36666 sample=../PolAudio/StormDrum/42F#1-I39S.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=634 end=36667 sample=../PolAudio/StormDrum/42F#1-5SBD.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=579 end=36974 sample=../PolAudio/StormDrum/42F#1-9DZI.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=397 end=36263 sample=../PolAudio/StormDrum/42F#1-MFX1.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=729 end=37739 sample=../PolAudio/StormDrum/42F#1-YVW0.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=779 end=36746 sample=../PolAudio/StormDrum/42F#1-84KS.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=736 end=36924 sample=../PolAudio/StormDrum/42F#1-Y7VV.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=651 end=36958 sample=../PolAudio/StormDrum/42F#1-6CIH.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=440 end=35334 sample=../PolAudio/StormDrum/42F#1-498F.wav
+<group> key=43 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=820 end=29938 sample=../PolAudio/StormDrum/43G1-PKHU.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=477 end=30401 sample=../PolAudio/StormDrum/43G1-VP5T.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=591 end=29445 sample=../PolAudio/StormDrum/43G1-M6KG.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=689 end=29303 sample=../PolAudio/StormDrum/43G1-BW6F.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=735 end=30211 sample=../PolAudio/StormDrum/43G1-N4IO.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=879 end=30533 sample=../PolAudio/StormDrum/43G1-HG4S.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=659 end=29900 sample=../PolAudio/StormDrum/43G1-5S8N.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=831 end=30382 sample=../PolAudio/StormDrum/43G1-S1NB.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=418 end=30240 sample=../PolAudio/StormDrum/43G1-C7PO.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=914 end=30419 sample=../PolAudio/StormDrum/43G1-S6L7.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=414 end=29827 sample=../PolAudio/StormDrum/43G1-LPY4.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=598 end=30152 sample=../PolAudio/StormDrum/43G1-2UE7.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=553 end=30234 sample=../PolAudio/StormDrum/43G1-OIJC.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=732 end=29839 sample=../PolAudio/StormDrum/43G1-HXQZ.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=819 end=29996 sample=../PolAudio/StormDrum/43G1-5I94.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=506 end=29628 sample=../PolAudio/StormDrum/43G1-DNKA.wav
+<group> key=44 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=610 end=34017 sample=../PolAudio/StormDrum/44G#1-NBUG.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=1032 end=33536 sample=../PolAudio/StormDrum/44G#1-W57Z.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=826 end=34450 sample=../PolAudio/StormDrum/44G#1-ESN2.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=746 end=33743 sample=../PolAudio/StormDrum/44G#1-YP50.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=590 sample=../PolAudio/StormDrum/44G#1-M6V7.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=474 end=33865 sample=../PolAudio/StormDrum/44G#1-BY08.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=811 end=33837 sample=../PolAudio/StormDrum/44G#1-65UE.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=884 end=34189 sample=../PolAudio/StormDrum/44G#1-HVHQ.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=543 end=33819 sample=../PolAudio/StormDrum/44G#1-4H9K.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=723 end=33123 sample=../PolAudio/StormDrum/44G#1-TKCR.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=995 end=34266 sample=../PolAudio/StormDrum/44G#1-ZIMT.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=723 end=34047 sample=../PolAudio/StormDrum/44G#1-TMU7.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=652 end=34541 sample=../PolAudio/StormDrum/44G#1-YZYC.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=644 end=34006 sample=../PolAudio/StormDrum/44G#1-LZPR.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=699 end=33179 sample=../PolAudio/StormDrum/44G#1-3AD7.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=882 end=33883 sample=../PolAudio/StormDrum/44G#1-XSQT.wav
+<group> key=45 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=430 end=31573 sample=../PolAudio/StormDrum/45A1-OQMH.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=891 end=32329 sample=../PolAudio/StormDrum/45A1-QPX5.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=790 end=32703 sample=../PolAudio/StormDrum/45A1-RY9C.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=414 end=33381 sample=../PolAudio/StormDrum/45A1-TE8Q.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=797 end=33325 sample=../PolAudio/StormDrum/45A1-EADM.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=550 end=32585 sample=../PolAudio/StormDrum/45A1-RC19.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=555 end=32057 sample=../PolAudio/StormDrum/45A1-RJV0.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=899 end=31622 sample=../PolAudio/StormDrum/45A1-90XB.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=847 end=32300 sample=../PolAudio/StormDrum/45A1-DA4D.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=981 end=33129 sample=../PolAudio/StormDrum/45A1-9QFE.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=742 end=32753 sample=../PolAudio/StormDrum/45A1-3HBB.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=933 end=33798 sample=../PolAudio/StormDrum/45A1-TZZJ.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=728 end=32547 sample=../PolAudio/StormDrum/45A1-PW2Z.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=969 end=32995 sample=../PolAudio/StormDrum/45A1-KHH2.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=650 end=32282 sample=../PolAudio/StormDrum/45A1-329Y.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=679 end=32962 sample=../PolAudio/StormDrum/45A1-3A2W.wav
+<group> key=46 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=552 end=37865 sample=../PolAudio/StormDrum/46A#1-2PDB.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=640 end=37952 sample=../PolAudio/StormDrum/46A#1-FVEW.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=512 end=38404 sample=../PolAudio/StormDrum/46A#1-7RX6.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=646 end=37482 sample=../PolAudio/StormDrum/46A#1-PXFB.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=697 sample=../PolAudio/StormDrum/46A#1-9BCF.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=779 end=36997 sample=../PolAudio/StormDrum/46A#1-V6BI.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=813 end=38283 sample=../PolAudio/StormDrum/46A#1-OAFS.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=704 end=36765 sample=../PolAudio/StormDrum/46A#1-ZSZF.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=716 end=38249 sample=../PolAudio/StormDrum/46A#1-FZ8M.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=869 end=37521 sample=../PolAudio/StormDrum/46A#1-KNH9.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=575 end=38698 sample=../PolAudio/StormDrum/46A#1-5BYZ.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=404 end=37642 sample=../PolAudio/StormDrum/46A#1-AQDV.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=966 end=37619 sample=../PolAudio/StormDrum/46A#1-4KB4.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=583 end=36616 sample=../PolAudio/StormDrum/46A#1-FMFM.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=560 end=37768 sample=../PolAudio/StormDrum/46A#1-831S.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=753 end=38316 sample=../PolAudio/StormDrum/46A#1-XMX2.wav
+<group> key=47 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=454 end=49771 sample=../PolAudio/StormDrum/47B1-L7PP.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=1045 sample=../PolAudio/StormDrum/47B1-3O9I.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=892 end=50166 sample=../PolAudio/StormDrum/47B1-OU9J.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=605 end=49115 sample=../PolAudio/StormDrum/47B1-J85H.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=902 end=49883 sample=../PolAudio/StormDrum/47B1-OKNU.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=721 end=48743 sample=../PolAudio/StormDrum/47B1-3NI2.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=602 end=50176 sample=../PolAudio/StormDrum/47B1-O865.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=652 end=49021 sample=../PolAudio/StormDrum/47B1-8PE2.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=726 end=48281 sample=../PolAudio/StormDrum/47B1-UIBG.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=633 end=49386 sample=../PolAudio/StormDrum/47B1-OPJY.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=812 end=48459 sample=../PolAudio/StormDrum/47B1-J7RV.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=520 end=48183 sample=../PolAudio/StormDrum/47B1-TK92.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=854 end=47618 sample=../PolAudio/StormDrum/47B1-61JK.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=871 end=48932 sample=../PolAudio/StormDrum/47B1-C303.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=569 end=49728 sample=../PolAudio/StormDrum/47B1-DLVJ.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=685 end=50046 sample=../PolAudio/StormDrum/47B1-JX7T.wav
+<group> key=48 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=822 end=36658 sample=../PolAudio/StormDrum/48C2-51NL.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=644 end=37425 sample=../PolAudio/StormDrum/48C2-W209.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=531 end=36549 sample=../PolAudio/StormDrum/48C2-8SRP.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=475 end=36410 sample=../PolAudio/StormDrum/48C2-NOVV.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=685 end=37366 sample=../PolAudio/StormDrum/48C2-B54R.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=880 end=36588 sample=../PolAudio/StormDrum/48C2-3OZQ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=679 end=36773 sample=../PolAudio/StormDrum/48C2-8Z4I.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=955 end=36961 sample=../PolAudio/StormDrum/48C2-SJ9I.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=648 end=36441 sample=../PolAudio/StormDrum/48C2-FV0P.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=599 end=34964 sample=../PolAudio/StormDrum/48C2-Q8EV.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=614 end=37533 sample=../PolAudio/StormDrum/48C2-5XRO.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=409 end=36396 sample=../PolAudio/StormDrum/48C2-BJG8.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=489 end=36300 sample=../PolAudio/StormDrum/48C2-HZ57.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=831 end=36820 sample=../PolAudio/StormDrum/48C2-9U1L.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=934 end=37154 sample=../PolAudio/StormDrum/48C2-CLS0.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=834 sample=../PolAudio/StormDrum/48C2-6TI5.wav
+<group> key=49 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=800 end=29667 sample=../PolAudio/StormDrum/49C#2-11AW.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=850 end=30138 sample=../PolAudio/StormDrum/49C#2-FCLU.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=606 end=29699 sample=../PolAudio/StormDrum/49C#2-AF2B.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=857 end=30071 sample=../PolAudio/StormDrum/49C#2-J30S.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=441 end=30083 sample=../PolAudio/StormDrum/49C#2-HK4I.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=772 end=30281 sample=../PolAudio/StormDrum/49C#2-M2Q5.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=817 end=29821 sample=../PolAudio/StormDrum/49C#2-1NWA.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=585 end=29839 sample=../PolAudio/StormDrum/49C#2-GL27.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=856 end=30615 sample=../PolAudio/StormDrum/49C#2-LLFP.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=565 end=29931 sample=../PolAudio/StormDrum/49C#2-GIKW.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=676 end=30032 sample=../PolAudio/StormDrum/49C#2-W537.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=609 end=29915 sample=../PolAudio/StormDrum/49C#2-CXZC.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=938 end=30825 sample=../PolAudio/StormDrum/49C#2-DUWG.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=719 sample=../PolAudio/StormDrum/49C#2-O5HD.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=740 end=30296 sample=../PolAudio/StormDrum/49C#2-YNNZ.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=781 end=30242 sample=../PolAudio/StormDrum/49C#2-3R7W.wav
+<group> key=50 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=825 end=34063 sample=../PolAudio/StormDrum/50D2-CQEF.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=774 end=33992 sample=../PolAudio/StormDrum/50D2-IBHF.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=776 end=33877 sample=../PolAudio/StormDrum/50D2-90Z1.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=791 end=33600 sample=../PolAudio/StormDrum/50D2-8GJM.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=897 end=34293 sample=../PolAudio/StormDrum/50D2-W75U.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=790 end=34107 sample=../PolAudio/StormDrum/50D2-7PLQ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=766 end=33608 sample=../PolAudio/StormDrum/50D2-DWZ1.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=823 end=32989 sample=../PolAudio/StormDrum/50D2-4HN8.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=620 end=33819 sample=../PolAudio/StormDrum/50D2-28YG.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=616 end=33604 sample=../PolAudio/StormDrum/50D2-ICNT.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=995 end=34457 sample=../PolAudio/StormDrum/50D2-AH7W.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=946 sample=../PolAudio/StormDrum/50D2-HFYE.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=669 end=34089 sample=../PolAudio/StormDrum/50D2-NBT5.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=715 end=33785 sample=../PolAudio/StormDrum/50D2-BVCK.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=834 end=33741 sample=../PolAudio/StormDrum/50D2-GTFR.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=633 end=33666 sample=../PolAudio/StormDrum/50D2-2QQ8.wav
+<group> key=51 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=594 end=32125 sample=../PolAudio/StormDrum/51D#2-XWMH.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=450 end=33091 sample=../PolAudio/StormDrum/51D#2-QP1N.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=778 end=32199 sample=../PolAudio/StormDrum/51D#2-SL6E.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=629 sample=../PolAudio/StormDrum/51D#2-21YR.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=855 end=32519 sample=../PolAudio/StormDrum/51D#2-RJUM.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=705 end=32662 sample=../PolAudio/StormDrum/51D#2-8JRN.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=782 end=33053 sample=../PolAudio/StormDrum/51D#2-LX4R.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=557 end=33282 sample=../PolAudio/StormDrum/51D#2-ZRNE.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=666 end=31876 sample=../PolAudio/StormDrum/51D#2-9G9F.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=596 end=31616 sample=../PolAudio/StormDrum/51D#2-2NDY.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=792 end=33196 sample=../PolAudio/StormDrum/51D#2-3C6R.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=696 end=31616 sample=../PolAudio/StormDrum/51D#2-LMWA.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=732 sample=../PolAudio/StormDrum/51D#2-GSW5.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=928 end=32916 sample=../PolAudio/StormDrum/51D#2-XIXV.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=707 end=32526 sample=../PolAudio/StormDrum/51D#2-5P3T.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=715 end=32921 sample=../PolAudio/StormDrum/51D#2-EW3I.wav
+<group> key=52 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=816 end=38291 sample=../PolAudio/StormDrum/52E2-NRAT.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=572 end=38166 sample=../PolAudio/StormDrum/52E2-RUG0.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=690 end=37076 sample=../PolAudio/StormDrum/52E2-E7ZF.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=904 end=38828 sample=../PolAudio/StormDrum/52E2-6J5F.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=859 end=39386 sample=../PolAudio/StormDrum/52E2-IXDS.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=652 end=37850 sample=../PolAudio/StormDrum/52E2-5GEQ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=377 sample=../PolAudio/StormDrum/52E2-3NJ7.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=480 end=37888 sample=../PolAudio/StormDrum/52E2-ABH1.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=815 sample=../PolAudio/StormDrum/52E2-674O.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=679 end=38557 sample=../PolAudio/StormDrum/52E2-VWAX.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=636 end=36995 sample=../PolAudio/StormDrum/52E2-F80C.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=765 end=38120 sample=../PolAudio/StormDrum/52E2-LZ7Y.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=787 end=38659 sample=../PolAudio/StormDrum/52E2-KDXZ.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=609 end=37399 sample=../PolAudio/StormDrum/52E2-FH1Y.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=842 end=37882 sample=../PolAudio/StormDrum/52E2-SEF4.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=864 end=36862 sample=../PolAudio/StormDrum/52E2-4N90.wav
+<group> key=53 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=468 end=47871 sample=../PolAudio/StormDrum/53F2-LLK7.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=765 end=48960 sample=../PolAudio/StormDrum/53F2-0TUJ.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=441 end=49659 sample=../PolAudio/StormDrum/53F2-9MW8.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=929 end=49851 sample=../PolAudio/StormDrum/53F2-H1U6.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=841 end=48571 sample=../PolAudio/StormDrum/53F2-LXGH.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=766 end=49368 sample=../PolAudio/StormDrum/53F2-0XK5.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=841 end=49647 sample=../PolAudio/StormDrum/53F2-UVS5.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=616 end=48665 sample=../PolAudio/StormDrum/53F2-LUUF.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=559 end=49634 sample=../PolAudio/StormDrum/53F2-4GRA.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=530 end=49151 sample=../PolAudio/StormDrum/53F2-YN1C.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=773 end=49662 sample=../PolAudio/StormDrum/53F2-JRPW.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=427 end=49132 sample=../PolAudio/StormDrum/53F2-KACV.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=645 end=50026 sample=../PolAudio/StormDrum/53F2-CZPJ.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=936 end=50028 sample=../PolAudio/StormDrum/53F2-XUQJ.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=896 end=50907 sample=../PolAudio/StormDrum/53F2-04UA.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=969 end=49902 sample=../PolAudio/StormDrum/53F2-F48O.wav
+<group> key=54 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=438 sample=../PolAudio/StormDrum/54F#2-9EUG.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=794 end=36303 sample=../PolAudio/StormDrum/54F#2-M66F.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=1003 end=38017 sample=../PolAudio/StormDrum/54F#2-4J0K.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=911 end=37605 sample=../PolAudio/StormDrum/54F#2-2DL8.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=549 end=36445 sample=../PolAudio/StormDrum/54F#2-918V.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=873 end=37244 sample=../PolAudio/StormDrum/54F#2-YILM.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=746 end=38518 sample=../PolAudio/StormDrum/54F#2-7ROH.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=966 end=36883 sample=../PolAudio/StormDrum/54F#2-IF4Y.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=545 end=36456 sample=../PolAudio/StormDrum/54F#2-2R1A.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=976 end=36234 sample=../PolAudio/StormDrum/54F#2-YHOD.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=615 end=36429 sample=../PolAudio/StormDrum/54F#2-T4E3.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=607 end=37185 sample=../PolAudio/StormDrum/54F#2-OA7V.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=666 end=36993 sample=../PolAudio/StormDrum/54F#2-46GG.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=595 end=36030 sample=../PolAudio/StormDrum/54F#2-SN9F.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=500 end=36403 sample=../PolAudio/StormDrum/54F#2-HMSE.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=457 end=35932 sample=../PolAudio/StormDrum/54F#2-SYRW.wav
+<group> key=55 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=943 end=30224 sample=../PolAudio/StormDrum/55G2-ASDE.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=849 end=30492 sample=../PolAudio/StormDrum/55G2-1XL7.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=837 end=30369 sample=../PolAudio/StormDrum/55G2-77I8.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=997 end=30430 sample=../PolAudio/StormDrum/55G2-0YZB.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=432 end=30037 sample=../PolAudio/StormDrum/55G2-VT8J.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=908 end=30514 sample=../PolAudio/StormDrum/55G2-VJUJ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=877 end=30337 sample=../PolAudio/StormDrum/55G2-SXJN.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=468 end=30296 sample=../PolAudio/StormDrum/55G2-JMDG.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=683 end=29810 sample=../PolAudio/StormDrum/55G2-I5M8.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=796 end=30238 sample=../PolAudio/StormDrum/55G2-3W8Y.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=757 end=30035 sample=../PolAudio/StormDrum/55G2-QNTA.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=976 end=30311 sample=../PolAudio/StormDrum/55G2-RWBZ.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=460 end=29571 sample=../PolAudio/StormDrum/55G2-T8R2.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=756 end=30450 sample=../PolAudio/StormDrum/55G2-18GS.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=629 end=29831 sample=../PolAudio/StormDrum/55G2-3JXI.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=900 end=29827 sample=../PolAudio/StormDrum/55G2-6R6Z.wav
+<group> key=56 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=736 end=33800 sample=../PolAudio/StormDrum/56G#2-FEZN.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=858 end=34133 sample=../PolAudio/StormDrum/56G#2-2DUO.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=601 end=34192 sample=../PolAudio/StormDrum/56G#2-YOJ6.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=635 end=33749 sample=../PolAudio/StormDrum/56G#2-FGGF.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=700 end=33693 sample=../PolAudio/StormDrum/56G#2-6XMP.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=631 end=34188 sample=../PolAudio/StormDrum/56G#2-NF8O.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=558 end=33444 sample=../PolAudio/StormDrum/56G#2-TTPJ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=518 end=34126 sample=../PolAudio/StormDrum/56G#2-13LG.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=460 end=33920 sample=../PolAudio/StormDrum/56G#2-G98B.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=504 end=33830 sample=../PolAudio/StormDrum/56G#2-I4QA.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=930 end=34341 sample=../PolAudio/StormDrum/56G#2-3E20.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=838 end=33812 sample=../PolAudio/StormDrum/56G#2-K6VW.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=959 end=34370 sample=../PolAudio/StormDrum/56G#2-JQNA.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=669 end=34085 sample=../PolAudio/StormDrum/56G#2-2K29.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=681 end=33664 sample=../PolAudio/StormDrum/56G#2-R7M8.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=775 end=34961 sample=../PolAudio/StormDrum/56G#2-ZIDF.wav
+<group> key=57 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=638 end=32789 sample=../PolAudio/StormDrum/57A2-EUBY.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=738 end=32404 sample=../PolAudio/StormDrum/57A2-ISTS.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=987 end=32641 sample=../PolAudio/StormDrum/57A2-R4RH.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=862 end=33017 sample=../PolAudio/StormDrum/57A2-1QMT.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=855 end=33046 sample=../PolAudio/StormDrum/57A2-9K1I.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=422 end=32520 sample=../PolAudio/StormDrum/57A2-CSWU.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=600 end=33444 sample=../PolAudio/StormDrum/57A2-R3YU.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=910 end=32006 sample=../PolAudio/StormDrum/57A2-5FH3.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=760 sample=../PolAudio/StormDrum/57A2-HZP8.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=730 end=32772 sample=../PolAudio/StormDrum/57A2-CFS8.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=835 end=33036 sample=../PolAudio/StormDrum/57A2-TD0N.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=643 end=32049 sample=../PolAudio/StormDrum/57A2-QKOV.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=620 end=32571 sample=../PolAudio/StormDrum/57A2-OOK1.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=596 sample=../PolAudio/StormDrum/57A2-BSYR.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=516 end=32008 sample=../PolAudio/StormDrum/57A2-C4TV.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=640 end=32156 sample=../PolAudio/StormDrum/57A2-8XI3.wav
+<group> key=58 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=417 end=37737 sample=../PolAudio/StormDrum/58A#2-KFW0.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=759 end=38937 sample=../PolAudio/StormDrum/58A#2-G0WW.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=982 end=39042 sample=../PolAudio/StormDrum/58A#2-KHGP.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=455 sample=../PolAudio/StormDrum/58A#2-0R0Z.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=957 end=37300 sample=../PolAudio/StormDrum/58A#2-A4OR.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=784 end=38592 sample=../PolAudio/StormDrum/58A#2-Q42R.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=783 end=37850 sample=../PolAudio/StormDrum/58A#2-SEPJ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=458 end=39047 sample=../PolAudio/StormDrum/58A#2-KA7N.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=580 end=38919 sample=../PolAudio/StormDrum/58A#2-VNUM.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=859 end=39397 sample=../PolAudio/StormDrum/58A#2-C91Y.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=603 end=37643 sample=../PolAudio/StormDrum/58A#2-BZEO.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=554 end=38666 sample=../PolAudio/StormDrum/58A#2-GKXK.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=701 end=39743 sample=../PolAudio/StormDrum/58A#2-OBDY.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=636 end=40010 sample=../PolAudio/StormDrum/58A#2-DDO9.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=441 end=37723 sample=../PolAudio/StormDrum/58A#2-7T94.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=916 end=39165 sample=../PolAudio/StormDrum/58A#2-LH27.wav
+<group> key=59 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=831 end=49616 sample=../PolAudio/StormDrum/59B2-NG6W.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=812 sample=../PolAudio/StormDrum/59B2-H3EJ.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=984 end=50133 sample=../PolAudio/StormDrum/59B2-4YY8.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=453 end=49345 sample=../PolAudio/StormDrum/59B2-9TLI.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=908 end=48943 sample=../PolAudio/StormDrum/59B2-RB3W.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=531 end=49525 sample=../PolAudio/StormDrum/59B2-9OHX.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=647 end=48380 sample=../PolAudio/StormDrum/59B2-C8VU.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=890 end=50152 sample=../PolAudio/StormDrum/59B2-Q2X2.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=533 end=48891 sample=../PolAudio/StormDrum/59B2-7G8H.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=468 end=49265 sample=../PolAudio/StormDrum/59B2-1RB0.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=924 end=50148 sample=../PolAudio/StormDrum/59B2-SPJ6.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=911 end=50015 sample=../PolAudio/StormDrum/59B2-9HWS.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=634 end=49772 sample=../PolAudio/StormDrum/59B2-4MM6.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=610 end=49465 sample=../PolAudio/StormDrum/59B2-7VFN.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=776 end=49740 sample=../PolAudio/StormDrum/59B2-414A.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=658 end=49485 sample=../PolAudio/StormDrum/59B2-81XW.wav
+<group> key=60 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=453 sample=../PolAudio/StormDrum/60C3-D0SB.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=713 end=38169 sample=../PolAudio/StormDrum/60C3-Z2FS.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=577 end=36818 sample=../PolAudio/StormDrum/60C3-7IFD.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=552 end=36162 sample=../PolAudio/StormDrum/60C3-SFVL.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=809 end=36124 sample=../PolAudio/StormDrum/60C3-FYME.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=691 end=37530 sample=../PolAudio/StormDrum/60C3-XG61.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=488 end=36990 sample=../PolAudio/StormDrum/60C3-D32M.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=648 end=36729 sample=../PolAudio/StormDrum/60C3-XSLR.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=761 end=37380 sample=../PolAudio/StormDrum/60C3-Z8EA.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=485 end=36223 sample=../PolAudio/StormDrum/60C3-BB9O.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=808 end=37164 sample=../PolAudio/StormDrum/60C3-GROS.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=692 end=36613 sample=../PolAudio/StormDrum/60C3-JFJG.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=834 end=36484 sample=../PolAudio/StormDrum/60C3-9CZA.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=788 end=36580 sample=../PolAudio/StormDrum/60C3-JVYM.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=633 sample=../PolAudio/StormDrum/60C3-9D8H.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=846 end=36851 sample=../PolAudio/StormDrum/60C3-O3QS.wav
+<group> key=61 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=519 end=29637 sample=../PolAudio/StormDrum/61C#3-6BEZ.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=736 end=29713 sample=../PolAudio/StormDrum/61C#3-PIF8.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=549 end=29514 sample=../PolAudio/StormDrum/61C#3-NG0O.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=516 sample=../PolAudio/StormDrum/61C#3-2ZI7.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=590 end=29855 sample=../PolAudio/StormDrum/61C#3-VOAP.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=510 end=30171 sample=../PolAudio/StormDrum/61C#3-YSEX.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=964 end=30662 sample=../PolAudio/StormDrum/61C#3-FHNI.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=947 sample=../PolAudio/StormDrum/61C#3-6EE9.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=778 end=30582 sample=../PolAudio/StormDrum/61C#3-9OUP.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=565 end=30214 sample=../PolAudio/StormDrum/61C#3-26NH.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=574 sample=../PolAudio/StormDrum/61C#3-JBUS.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=617 end=30208 sample=../PolAudio/StormDrum/61C#3-6KL7.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=578 end=29485 sample=../PolAudio/StormDrum/61C#3-08ZX.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=649 sample=../PolAudio/StormDrum/61C#3-6X4H.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=873 end=30219 sample=../PolAudio/StormDrum/61C#3-6Q56.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=626 end=29804 sample=../PolAudio/StormDrum/61C#3-27XG.wav
+<group> key=62 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=567 end=33794 sample=../PolAudio/StormDrum/62D3-9RO7.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=720 end=34327 sample=../PolAudio/StormDrum/62D3-XJZQ.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=826 end=34458 sample=../PolAudio/StormDrum/62D3-RLLL.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=632 end=33750 sample=../PolAudio/StormDrum/62D3-J3KW.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=634 end=33893 sample=../PolAudio/StormDrum/62D3-U3FF.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=648 end=33801 sample=../PolAudio/StormDrum/62D3-YCZ9.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=995 end=33512 sample=../PolAudio/StormDrum/62D3-4ISF.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=539 end=33918 sample=../PolAudio/StormDrum/62D3-OSAI.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=779 end=33439 sample=../PolAudio/StormDrum/62D3-UO7O.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=735 end=33807 sample=../PolAudio/StormDrum/62D3-8LGF.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=646 end=34274 sample=../PolAudio/StormDrum/62D3-26O1.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=906 sample=../PolAudio/StormDrum/62D3-DP1Y.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=831 end=34516 sample=../PolAudio/StormDrum/62D3-ELXI.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=742 end=33102 sample=../PolAudio/StormDrum/62D3-1SEL.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=474 end=33422 sample=../PolAudio/StormDrum/62D3-HD3E.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=868 end=34263 sample=../PolAudio/StormDrum/62D3-KPYK.wav
+<group> key=63 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=742 end=32376 sample=../PolAudio/StormDrum/63D#3-IM78.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=876 end=32392 sample=../PolAudio/StormDrum/63D#3-7TSV.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=505 end=32074 sample=../PolAudio/StormDrum/63D#3-CXAK.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=589 end=32694 sample=../PolAudio/StormDrum/63D#3-20S9.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=902 end=32906 sample=../PolAudio/StormDrum/63D#3-6X9D.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=687 end=33051 sample=../PolAudio/StormDrum/63D#3-56YQ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=892 end=33171 sample=../PolAudio/StormDrum/63D#3-EMDO.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=930 end=32957 sample=../PolAudio/StormDrum/63D#3-4TJC.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=675 end=32896 sample=../PolAudio/StormDrum/63D#3-8MN9.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=614 end=31573 sample=../PolAudio/StormDrum/63D#3-Q4DN.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=897 end=32704 sample=../PolAudio/StormDrum/63D#3-SYVI.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=853 end=33240 sample=../PolAudio/StormDrum/63D#3-VQO6.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=494 end=32821 sample=../PolAudio/StormDrum/63D#3-45J9.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=522 end=31911 sample=../PolAudio/StormDrum/63D#3-T4EX.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=484 end=31886 sample=../PolAudio/StormDrum/63D#3-7YZD.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=564 end=32583 sample=../PolAudio/StormDrum/63D#3-ZKP8.wav
+<group> key=64 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=465 end=37596 sample=../PolAudio/StormDrum/64E3-9816.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=395 end=38533 sample=../PolAudio/StormDrum/64E3-UYII.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=520 end=37685 sample=../PolAudio/StormDrum/64E3-ZN7W.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=671 end=38461 sample=../PolAudio/StormDrum/64E3-MB8E.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=650 end=38104 sample=../PolAudio/StormDrum/64E3-4WXF.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=532 end=38564 sample=../PolAudio/StormDrum/64E3-B9MU.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=522 end=37797 sample=../PolAudio/StormDrum/64E3-4FZO.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=864 end=38547 sample=../PolAudio/StormDrum/64E3-0PCL.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=793 end=39203 sample=../PolAudio/StormDrum/64E3-Y4XM.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=667 end=38165 sample=../PolAudio/StormDrum/64E3-K2Q1.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=522 end=36887 sample=../PolAudio/StormDrum/64E3-BVD4.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=567 end=39239 sample=../PolAudio/StormDrum/64E3-ZF0T.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=384 end=38536 sample=../PolAudio/StormDrum/64E3-VEN8.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=621 end=37942 sample=../PolAudio/StormDrum/64E3-1T7K.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=942 end=38372 sample=../PolAudio/StormDrum/64E3-BGK3.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=592 end=37410 sample=../PolAudio/StormDrum/64E3-3YNA.wav
+<group> key=65 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=955 end=49270 sample=../PolAudio/StormDrum/65F3-NL3A.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=393 end=48491 sample=../PolAudio/StormDrum/65F3-NQGQ.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=482 end=49509 sample=../PolAudio/StormDrum/65F3-LOTL.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=517 end=49780 sample=../PolAudio/StormDrum/65F3-07LF.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=763 end=49479 sample=../PolAudio/StormDrum/65F3-T0EW.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=610 end=49739 sample=../PolAudio/StormDrum/65F3-5YTT.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=539 end=48234 sample=../PolAudio/StormDrum/65F3-JERR.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=916 end=49781 sample=../PolAudio/StormDrum/65F3-KQZY.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=724 end=49709 sample=../PolAudio/StormDrum/65F3-IGS6.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=429 end=49112 sample=../PolAudio/StormDrum/65F3-JEN4.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=648 end=48482 sample=../PolAudio/StormDrum/65F3-AIHK.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=749 end=49350 sample=../PolAudio/StormDrum/65F3-PSAS.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=863 end=50044 sample=../PolAudio/StormDrum/65F3-1I2M.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=763 end=49644 sample=../PolAudio/StormDrum/65F3-T0MZ.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=452 end=48889 sample=../PolAudio/StormDrum/65F3-OH1W.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=797 end=49952 sample=../PolAudio/StormDrum/65F3-5RUN.wav
+<group> key=66 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=970 end=37009 sample=../PolAudio/StormDrum/66F#3-ETA8.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=644 end=36481 sample=../PolAudio/StormDrum/66F#3-S5C3.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=702 end=37489 sample=../PolAudio/StormDrum/66F#3-RH6F.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=528 end=36766 sample=../PolAudio/StormDrum/66F#3-G60R.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=671 end=37334 sample=../PolAudio/StormDrum/66F#3-U7IO.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=840 end=36692 sample=../PolAudio/StormDrum/66F#3-UBOI.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=776 end=37894 sample=../PolAudio/StormDrum/66F#3-G002.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=976 end=36543 sample=../PolAudio/StormDrum/66F#3-VMZU.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=1031 end=36018 sample=../PolAudio/StormDrum/66F#3-RYFM.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=865 end=37531 sample=../PolAudio/StormDrum/66F#3-31ZG.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=509 end=36723 sample=../PolAudio/StormDrum/66F#3-Q93Z.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=858 end=36460 sample=../PolAudio/StormDrum/66F#3-EEN3.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=858 end=37957 sample=../PolAudio/StormDrum/66F#3-7PZI.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=430 end=37286 sample=../PolAudio/StormDrum/66F#3-YPWK.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=853 end=36698 sample=../PolAudio/StormDrum/66F#3-BN6B.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=850 end=35969 sample=../PolAudio/StormDrum/66F#3-WZPE.wav
+<group> key=67 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=519 end=30670 sample=../PolAudio/StormDrum/67G3-Q8K3.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=582 end=30219 sample=../PolAudio/StormDrum/67G3-08CA.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=476 end=30156 sample=../PolAudio/StormDrum/67G3-1PGR.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=568 end=29937 sample=../PolAudio/StormDrum/67G3-953J.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=450 end=29861 sample=../PolAudio/StormDrum/67G3-GAHS.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=915 end=29903 sample=../PolAudio/StormDrum/67G3-LRWV.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=506 end=30167 sample=../PolAudio/StormDrum/67G3-SD87.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=846 end=30245 sample=../PolAudio/StormDrum/67G3-APJW.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=760 end=30258 sample=../PolAudio/StormDrum/67G3-2IJ7.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=637 end=30211 sample=../PolAudio/StormDrum/67G3-OD84.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=525 end=30411 sample=../PolAudio/StormDrum/67G3-LUMM.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=856 end=30681 sample=../PolAudio/StormDrum/67G3-54LW.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=947 end=30140 sample=../PolAudio/StormDrum/67G3-OS0L.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=604 end=30227 sample=../PolAudio/StormDrum/67G3-CZP1.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=450 end=30690 sample=../PolAudio/StormDrum/67G3-OOG3.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=498 end=30057 sample=../PolAudio/StormDrum/67G3-5XI1.wav
+<group> key=68 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=868 end=33417 sample=../PolAudio/StormDrum/68G#3-07E8.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=930 sample=../PolAudio/StormDrum/68G#3-H7RD.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=825 end=34321 sample=../PolAudio/StormDrum/68G#3-C2RM.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=960 end=34560 sample=../PolAudio/StormDrum/68G#3-SGXG.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=413 end=33682 sample=../PolAudio/StormDrum/68G#3-TND0.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=431 end=33793 sample=../PolAudio/StormDrum/68G#3-XOO7.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=782 end=34125 sample=../PolAudio/StormDrum/68G#3-XQML.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=952 end=33317 sample=../PolAudio/StormDrum/68G#3-EH05.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=845 end=34156 sample=../PolAudio/StormDrum/68G#3-XLHD.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=442 end=33358 sample=../PolAudio/StormDrum/68G#3-CP5T.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=958 end=33792 sample=../PolAudio/StormDrum/68G#3-DAHH.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=751 end=34260 sample=../PolAudio/StormDrum/68G#3-E061.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=677 end=33926 sample=../PolAudio/StormDrum/68G#3-PAAO.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=502 sample=../PolAudio/StormDrum/68G#3-B21L.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=621 sample=../PolAudio/StormDrum/68G#3-ZZ6G.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=510 end=32963 sample=../PolAudio/StormDrum/68G#3-SDZ3.wav
+<group> key=69 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=634 end=32523 sample=../PolAudio/StormDrum/69A3-DXAA.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=575 end=32705 sample=../PolAudio/StormDrum/69A3-TSPN.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=471 end=32290 sample=../PolAudio/StormDrum/69A3-OZ76.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=798 end=32678 sample=../PolAudio/StormDrum/69A3-H1TO.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=578 end=32181 sample=../PolAudio/StormDrum/69A3-DH60.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=564 end=31815 sample=../PolAudio/StormDrum/69A3-WHEI.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=466 end=32521 sample=../PolAudio/StormDrum/69A3-WU2J.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=639 end=32691 sample=../PolAudio/StormDrum/69A3-IPIW.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=526 end=32647 sample=../PolAudio/StormDrum/69A3-D0M6.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=773 end=32173 sample=../PolAudio/StormDrum/69A3-11OV.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=672 end=32820 sample=../PolAudio/StormDrum/69A3-OD6B.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=413 end=32233 sample=../PolAudio/StormDrum/69A3-K58O.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=730 end=31661 sample=../PolAudio/StormDrum/69A3-CFUH.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=540 end=32830 sample=../PolAudio/StormDrum/69A3-B2PU.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=430 end=31984 sample=../PolAudio/StormDrum/69A3-UN3N.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=674 end=32905 sample=../PolAudio/StormDrum/69A3-PCQ2.wav
+<group> key=70 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=620 end=37861 sample=../PolAudio/StormDrum/70A#3-6HXH.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=626 end=37991 sample=../PolAudio/StormDrum/70A#3-PTF5.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=629 end=37521 sample=../PolAudio/StormDrum/70A#3-7AT9.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=599 end=38629 sample=../PolAudio/StormDrum/70A#3-YSX1.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=762 end=36920 sample=../PolAudio/StormDrum/70A#3-2G1Y.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=502 end=37307 sample=../PolAudio/StormDrum/70A#3-TXAQ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=895 end=38028 sample=../PolAudio/StormDrum/70A#3-51S9.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=916 end=38547 sample=../PolAudio/StormDrum/70A#3-11YV.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=946 end=38895 sample=../PolAudio/StormDrum/70A#3-4MWH.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=990 end=38475 sample=../PolAudio/StormDrum/70A#3-ERRY.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=888 end=37121 sample=../PolAudio/StormDrum/70A#3-CUFU.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=630 end=38351 sample=../PolAudio/StormDrum/70A#3-VP7N.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=911 sample=../PolAudio/StormDrum/70A#3-M9MP.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=529 end=38322 sample=../PolAudio/StormDrum/70A#3-M5E4.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=389 end=38770 sample=../PolAudio/StormDrum/70A#3-81JF.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=828 end=38890 sample=../PolAudio/StormDrum/70A#3-UNY8.wav
+<group> key=71 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=977 end=50393 sample=../PolAudio/StormDrum/71B3-GK50.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=710 end=48908 sample=../PolAudio/StormDrum/71B3-F82B.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=606 end=49790 sample=../PolAudio/StormDrum/71B3-IMLR.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=737 sample=../PolAudio/StormDrum/71B3-DNR3.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=679 end=49914 sample=../PolAudio/StormDrum/71B3-IPPU.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=836 end=49153 sample=../PolAudio/StormDrum/71B3-I9SG.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=792 end=49315 sample=../PolAudio/StormDrum/71B3-3KX2.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=850 end=49871 sample=../PolAudio/StormDrum/71B3-83HA.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=552 end=49663 sample=../PolAudio/StormDrum/71B3-LX54.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=714 sample=../PolAudio/StormDrum/71B3-16FU.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=950 end=48884 sample=../PolAudio/StormDrum/71B3-4QHM.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=1008 end=49386 sample=../PolAudio/StormDrum/71B3-YRXE.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=758 end=49832 sample=../PolAudio/StormDrum/71B3-JLVY.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=924 end=48624 sample=../PolAudio/StormDrum/71B3-TS8E.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=835 end=49258 sample=../PolAudio/StormDrum/71B3-57ME.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=915 end=49479 sample=../PolAudio/StormDrum/71B3-VE7V.wav
+<group> key=72 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=740 end=37027 sample=../PolAudio/StormDrum/72C4-MXDQ.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=822 end=37066 sample=../PolAudio/StormDrum/72C4-DGVS.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=408 end=36425 sample=../PolAudio/StormDrum/72C4-7DEK.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=867 end=37282 sample=../PolAudio/StormDrum/72C4-73N6.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=683 end=37392 sample=../PolAudio/StormDrum/72C4-OA20.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=793 end=36678 sample=../PolAudio/StormDrum/72C4-2YSW.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=1009 end=37529 sample=../PolAudio/StormDrum/72C4-5UUA.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=772 end=36937 sample=../PolAudio/StormDrum/72C4-11D4.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=538 end=36692 sample=../PolAudio/StormDrum/72C4-FZ9L.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=542 end=37155 sample=../PolAudio/StormDrum/72C4-5ONK.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=571 end=36363 sample=../PolAudio/StormDrum/72C4-0MU0.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=700 end=37230 sample=../PolAudio/StormDrum/72C4-ADCJ.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=749 end=36614 sample=../PolAudio/StormDrum/72C4-GFY5.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=521 end=37606 sample=../PolAudio/StormDrum/72C4-3WYY.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=566 end=36318 sample=../PolAudio/StormDrum/72C4-29RK.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=848 end=36807 sample=../PolAudio/StormDrum/72C4-Q2QO.wav
+<group> key=73 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=563 end=30302 sample=../PolAudio/StormDrum/73C#4-KK4E.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=442 end=29816 sample=../PolAudio/StormDrum/73C#4-O0WV.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=573 end=30323 sample=../PolAudio/StormDrum/73C#4-R3U6.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=554 end=30265 sample=../PolAudio/StormDrum/73C#4-P1RS.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=696 end=30402 sample=../PolAudio/StormDrum/73C#4-XCST.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=989 end=30648 sample=../PolAudio/StormDrum/73C#4-E30F.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=677 end=30100 sample=../PolAudio/StormDrum/73C#4-QZ56.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=903 end=30498 sample=../PolAudio/StormDrum/73C#4-VT2M.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=555 end=29214 sample=../PolAudio/StormDrum/73C#4-S6W8.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=941 end=30482 sample=../PolAudio/StormDrum/73C#4-3G1R.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=703 end=30160 sample=../PolAudio/StormDrum/73C#4-G1DY.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=610 end=29849 sample=../PolAudio/StormDrum/73C#4-OXPC.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=687 end=30339 sample=../PolAudio/StormDrum/73C#4-M9RK.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=1005 end=30421 sample=../PolAudio/StormDrum/73C#4-GO0Y.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=646 end=29453 sample=../PolAudio/StormDrum/73C#4-YGKO.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=724 end=30447 sample=../PolAudio/StormDrum/73C#4-E0U2.wav
+<group> key=74 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=847 end=34362 sample=../PolAudio/StormDrum/74D4-WJ0K.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=952 end=33484 sample=../PolAudio/StormDrum/74D4-3JSC.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=717 end=33871 sample=../PolAudio/StormDrum/74D4-B773.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=786 end=34638 sample=../PolAudio/StormDrum/74D4-8AQC.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=854 end=34327 sample=../PolAudio/StormDrum/74D4-U6JK.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=771 end=34186 sample=../PolAudio/StormDrum/74D4-GZF1.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=714 end=33867 sample=../PolAudio/StormDrum/74D4-L71A.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=725 end=34090 sample=../PolAudio/StormDrum/74D4-681H.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=539 end=33557 sample=../PolAudio/StormDrum/74D4-QAID.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=801 end=34074 sample=../PolAudio/StormDrum/74D4-502Z.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=449 end=34271 sample=../PolAudio/StormDrum/74D4-1WLC.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=636 end=33812 sample=../PolAudio/StormDrum/74D4-OLOO.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=758 end=33924 sample=../PolAudio/StormDrum/74D4-FU9W.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=749 end=34216 sample=../PolAudio/StormDrum/74D4-7BNZ.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=871 end=33779 sample=../PolAudio/StormDrum/74D4-JSPM.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=847 end=34054 sample=../PolAudio/StormDrum/74D4-WK0U.wav
+<group> key=75 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=772 end=32478 sample=../PolAudio/StormDrum/75D#4-JU36.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=1001 end=32905 sample=../PolAudio/StormDrum/75D#4-TLXW.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=944 end=33075 sample=../PolAudio/StormDrum/75D#4-IY25.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=926 sample=../PolAudio/StormDrum/75D#4-PK4Z.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=636 end=32294 sample=../PolAudio/StormDrum/75D#4-TXN1.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=542 end=32782 sample=../PolAudio/StormDrum/75D#4-IRQQ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=871 end=32782 sample=../PolAudio/StormDrum/75D#4-BD5K.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=639 end=32841 sample=../PolAudio/StormDrum/75D#4-FRJE.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=606 end=32566 sample=../PolAudio/StormDrum/75D#4-1H8A.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=873 end=33003 sample=../PolAudio/StormDrum/75D#4-SPMI.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=427 end=32150 sample=../PolAudio/StormDrum/75D#4-PCCK.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=692 sample=../PolAudio/StormDrum/75D#4-U85G.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=706 end=33235 sample=../PolAudio/StormDrum/75D#4-92A7.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=510 end=32254 sample=../PolAudio/StormDrum/75D#4-5S91.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=701 end=32913 sample=../PolAudio/StormDrum/75D#4-S48G.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=733 end=31792 sample=../PolAudio/StormDrum/75D#4-65OF.wav
+<group> key=76 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=871 end=39031 sample=../PolAudio/StormDrum/76E4-W3LM.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=441 end=37922 sample=../PolAudio/StormDrum/76E4-ECF6.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=550 end=37221 sample=../PolAudio/StormDrum/76E4-8HXY.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=642 end=38916 sample=../PolAudio/StormDrum/76E4-GAIX.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=701 end=39023 sample=../PolAudio/StormDrum/76E4-O2E8.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=748 end=38787 sample=../PolAudio/StormDrum/76E4-R15O.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=462 end=37299 sample=../PolAudio/StormDrum/76E4-JDSQ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=574 end=38662 sample=../PolAudio/StormDrum/76E4-NTVV.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=603 end=38589 sample=../PolAudio/StormDrum/76E4-KAS5.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=504 end=38759 sample=../PolAudio/StormDrum/76E4-T088.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=453 end=38295 sample=../PolAudio/StormDrum/76E4-9PQJ.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=719 end=37299 sample=../PolAudio/StormDrum/76E4-4NJE.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=779 end=37671 sample=../PolAudio/StormDrum/76E4-P2TR.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=605 end=37368 sample=../PolAudio/StormDrum/76E4-ZX4J.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=613 end=37286 sample=../PolAudio/StormDrum/76E4-BDTI.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=796 end=38786 sample=../PolAudio/StormDrum/76E4-V4JG.wav
+<group> key=77 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=962 end=49852 sample=../PolAudio/StormDrum/77F4-9GF2.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=468 end=49699 sample=../PolAudio/StormDrum/77F4-8BU5.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=667 end=49777 sample=../PolAudio/StormDrum/77F4-DI4Q.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=902 end=50098 sample=../PolAudio/StormDrum/77F4-39KU.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=736 end=48784 sample=../PolAudio/StormDrum/77F4-WEUB.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=419 end=48754 sample=../PolAudio/StormDrum/77F4-OMC1.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=569 end=49387 sample=../PolAudio/StormDrum/77F4-TDCY.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=760 end=49529 sample=../PolAudio/StormDrum/77F4-L99M.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=855 sample=../PolAudio/StormDrum/77F4-EX6K.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=761 end=48827 sample=../PolAudio/StormDrum/77F4-DQRI.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=807 end=48855 sample=../PolAudio/StormDrum/77F4-BJ8F.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=677 end=49658 sample=../PolAudio/StormDrum/77F4-P7PX.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=601 end=47946 sample=../PolAudio/StormDrum/77F4-89SM.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=552 end=48500 sample=../PolAudio/StormDrum/77F4-DLYZ.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=911 end=49344 sample=../PolAudio/StormDrum/77F4-0TDP.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=520 end=48608 sample=../PolAudio/StormDrum/77F4-DQF1.wav
+<group> key=78 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=547 end=36406 sample=../PolAudio/StormDrum/78F#4-SX2S.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=874 end=37762 sample=../PolAudio/StormDrum/78F#4-PPL1.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=881 end=38603 sample=../PolAudio/StormDrum/78F#4-CMFP.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=704 end=36864 sample=../PolAudio/StormDrum/78F#4-0CJN.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=482 sample=../PolAudio/StormDrum/78F#4-MGU2.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=915 end=37736 sample=../PolAudio/StormDrum/78F#4-GGEI.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=854 end=36875 sample=../PolAudio/StormDrum/78F#4-ZPSS.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=665 end=36964 sample=../PolAudio/StormDrum/78F#4-A3BX.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=733 end=37010 sample=../PolAudio/StormDrum/78F#4-X7QP.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=872 end=37809 sample=../PolAudio/StormDrum/78F#4-2HJN.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=965 end=37094 sample=../PolAudio/StormDrum/78F#4-5537.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=755 end=36759 sample=../PolAudio/StormDrum/78F#4-T64Z.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=695 sample=../PolAudio/StormDrum/78F#4-F4OG.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=748 end=36760 sample=../PolAudio/StormDrum/78F#4-FO1Z.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=586 end=36934 sample=../PolAudio/StormDrum/78F#4-6X70.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=707 sample=../PolAudio/StormDrum/78F#4-X6H7.wav
+<group> key=79 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=916 end=30790 sample=../PolAudio/StormDrum/79G4-UH6C.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=895 end=30367 sample=../PolAudio/StormDrum/79G4-OZZU.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=691 end=30582 sample=../PolAudio/StormDrum/79G4-H7BH.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=752 end=30439 sample=../PolAudio/StormDrum/79G4-2C81.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=842 end=30044 sample=../PolAudio/StormDrum/79G4-FRIZ.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=726 end=30478 sample=../PolAudio/StormDrum/79G4-WW0Q.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=633 end=30145 sample=../PolAudio/StormDrum/79G4-CCJJ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=861 end=29894 sample=../PolAudio/StormDrum/79G4-KVOY.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=600 end=29923 sample=../PolAudio/StormDrum/79G4-7IRJ.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=688 sample=../PolAudio/StormDrum/79G4-1GX0.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=846 end=29704 sample=../PolAudio/StormDrum/79G4-STQO.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=975 end=30552 sample=../PolAudio/StormDrum/79G4-JYCX.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=615 end=30455 sample=../PolAudio/StormDrum/79G4-KR8H.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=607 sample=../PolAudio/StormDrum/79G4-27P7.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=539 end=30439 sample=../PolAudio/StormDrum/79G4-FR34.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=830 end=29983 sample=../PolAudio/StormDrum/79G4-P6AW.wav
+<group> key=80 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=896 end=34094 sample=../PolAudio/StormDrum/80G#4-NNG2.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=915 end=34394 sample=../PolAudio/StormDrum/80G#4-PCHH.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=884 end=33569 sample=../PolAudio/StormDrum/80G#4-HA7L.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=535 end=33791 sample=../PolAudio/StormDrum/80G#4-EHU2.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=412 end=33341 sample=../PolAudio/StormDrum/80G#4-HS8K.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=867 end=33966 sample=../PolAudio/StormDrum/80G#4-7JAV.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=707 end=33799 sample=../PolAudio/StormDrum/80G#4-WTI1.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=595 end=34020 sample=../PolAudio/StormDrum/80G#4-619J.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=918 end=34212 sample=../PolAudio/StormDrum/80G#4-CO3R.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=517 end=33753 sample=../PolAudio/StormDrum/80G#4-OXMT.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=907 end=35089 sample=../PolAudio/StormDrum/80G#4-V061.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=552 sample=../PolAudio/StormDrum/80G#4-RLW2.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=683 end=34140 sample=../PolAudio/StormDrum/80G#4-PRF9.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=653 end=33068 sample=../PolAudio/StormDrum/80G#4-QDKS.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=618 sample=../PolAudio/StormDrum/80G#4-DBKS.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=529 end=33858 sample=../PolAudio/StormDrum/80G#4-PG08.wav
+<group> key=81 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=669 end=32270 sample=../PolAudio/StormDrum/81A4-O24F.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=683 sample=../PolAudio/StormDrum/81A4-3LSW.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=879 end=32857 sample=../PolAudio/StormDrum/81A4-QMC4.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=448 end=32649 sample=../PolAudio/StormDrum/81A4-MZT8.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=935 end=33156 sample=../PolAudio/StormDrum/81A4-98NH.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=786 end=32915 sample=../PolAudio/StormDrum/81A4-F1C4.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=933 end=33057 sample=../PolAudio/StormDrum/81A4-U9YK.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=955 end=32300 sample=../PolAudio/StormDrum/81A4-8VNT.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=618 end=32997 sample=../PolAudio/StormDrum/81A4-HY1Z.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=532 end=32684 sample=../PolAudio/StormDrum/81A4-4LDX.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=919 end=32911 sample=../PolAudio/StormDrum/81A4-UMO3.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=504 end=31919 sample=../PolAudio/StormDrum/81A4-T3QW.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=844 end=32210 sample=../PolAudio/StormDrum/81A4-DVRE.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=476 end=32896 sample=../PolAudio/StormDrum/81A4-IBGT.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=625 end=33047 sample=../PolAudio/StormDrum/81A4-48II.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=769 end=33034 sample=../PolAudio/StormDrum/81A4-V6C4.wav
+<group> key=82 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=744 end=39152 sample=../PolAudio/StormDrum/82A#4-ZQLV.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=654 end=38491 sample=../PolAudio/StormDrum/82A#4-HJET.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=750 end=38906 sample=../PolAudio/StormDrum/82A#4-0XQK.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=948 sample=../PolAudio/StormDrum/82A#4-7B8R.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=563 end=38158 sample=../PolAudio/StormDrum/82A#4-N89N.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=957 end=39073 sample=../PolAudio/StormDrum/82A#4-TW78.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=931 sample=../PolAudio/StormDrum/82A#4-2CTU.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=430 end=38034 sample=../PolAudio/StormDrum/82A#4-5DE9.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=935 end=38633 sample=../PolAudio/StormDrum/82A#4-SAM0.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=888 end=39143 sample=../PolAudio/StormDrum/82A#4-L5F2.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=639 end=38029 sample=../PolAudio/StormDrum/82A#4-QK00.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=584 end=36933 sample=../PolAudio/StormDrum/82A#4-KP20.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=705 end=38682 sample=../PolAudio/StormDrum/82A#4-D84O.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=607 end=37934 sample=../PolAudio/StormDrum/82A#4-O1K0.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=664 end=38619 sample=../PolAudio/StormDrum/82A#4-JTX7.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=396 end=37967 sample=../PolAudio/StormDrum/82A#4-WG4I.wav
+<group> key=83 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=880 end=49043 sample=../PolAudio/StormDrum/83B4-B29L.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=774 end=49640 sample=../PolAudio/StormDrum/83B4-J8WA.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=934 end=50283 sample=../PolAudio/StormDrum/83B4-M63J.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=460 end=49273 sample=../PolAudio/StormDrum/83B4-2B3P.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=494 end=49744 sample=../PolAudio/StormDrum/83B4-GXZB.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=581 end=48663 sample=../PolAudio/StormDrum/83B4-22VM.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=814 end=49709 sample=../PolAudio/StormDrum/83B4-PJRJ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=770 end=49658 sample=../PolAudio/StormDrum/83B4-9W8W.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=495 end=48000 sample=../PolAudio/StormDrum/83B4-ETXA.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=418 end=48956 sample=../PolAudio/StormDrum/83B4-NF71.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=595 sample=../PolAudio/StormDrum/83B4-3XU3.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=568 end=49492 sample=../PolAudio/StormDrum/83B4-YFHI.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=537 end=49637 sample=../PolAudio/StormDrum/83B4-UVGX.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=682 end=49765 sample=../PolAudio/StormDrum/83B4-VYW0.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=584 end=48180 sample=../PolAudio/StormDrum/83B4-CV44.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=744 end=48893 sample=../PolAudio/StormDrum/83B4-GALQ.wav
+<group> key=84 
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=664 end=36605 sample=../PolAudio/StormDrum/84C5-2WAP.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=549 end=36575 sample=../PolAudio/StormDrum/84C5-1RNW.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=802 end=37394 sample=../PolAudio/StormDrum/84C5-AKM0.wav
+<group>lokey=84 hikey=126 pitch_keycenter=84 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=894 end=36608 sample=../PolAudio/StormDrum/84C5-YTZM.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=480 end=36993 sample=../PolAudio/StormDrum/84C5-INMF.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=421 end=36897 sample=../PolAudio/StormDrum/84C5-701O.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=878 end=36855 sample=../PolAudio/StormDrum/84C5-P98A.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=722 sample=../PolAudio/StormDrum/84C5-F0D2.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=1002 end=36533 sample=../PolAudio/StormDrum/84C5-A2U4.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=543 end=36478 sample=../PolAudio/StormDrum/84C5-OUCU.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=806 end=36873 sample=../PolAudio/StormDrum/84C5-2HE9.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=535 end=37168 sample=../PolAudio/StormDrum/84C5-W78X.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=897 end=37081 sample=../PolAudio/StormDrum/84C5-KFXB.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=568 end=36693 sample=../PolAudio/StormDrum/84C5-ZDM6.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=478 end=36356 sample=../PolAudio/StormDrum/84C5-XIIX.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=829 end=37286 sample=../PolAudio/StormDrum/84C5-6Y7G.wav

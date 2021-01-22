@@ -1,124 +1,124 @@
 // this file was generated from Linkage.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=853 sample=../Audio/Linkage/Linkage2424.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=988 end=532258 sample=../Audio/Linkage/Linkage2525.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=765 sample=../Audio/Linkage/Linkage2626.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1070 sample=../Audio/Linkage/Linkage2727.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=879 end=516253 sample=../Audio/Linkage/Linkage2828.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=588 end=537419 sample=../Audio/Linkage/Linkage2929.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=684 end=531611 sample=../Audio/Linkage/Linkage3030.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=848 end=532636 sample=../Audio/Linkage/Linkage3131.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1178 end=581771 sample=../Audio/Linkage/Linkage3232.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=927 end=564091 sample=../Audio/Linkage/Linkage3333.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=979 end=515459 sample=../Audio/Linkage/Linkage3434.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=700 end=536091 sample=../Audio/Linkage/Linkage3535.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1013 end=530328 sample=../Audio/Linkage/Linkage3636.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=975 sample=../Audio/Linkage/Linkage3737.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=965 end=581855 sample=../Audio/Linkage/Linkage3838.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=823 sample=../Audio/Linkage/Linkage3939.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1015 end=515514 sample=../Audio/Linkage/Linkage4040.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=686 sample=../Audio/Linkage/Linkage4141.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=909 end=531338 sample=../Audio/Linkage/Linkage4242.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=658 end=531481 sample=../Audio/Linkage/Linkage4343.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1169 end=582068 sample=../Audio/Linkage/Linkage4444.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1087 end=564737 sample=../Audio/Linkage/Linkage4545.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=788 end=516493 sample=../Audio/Linkage/Linkage4646.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1173 end=537861 sample=../Audio/Linkage/Linkage4747.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1039 end=531616 sample=../Audio/Linkage/Linkage4848.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=675 sample=../Audio/Linkage/Linkage4949.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=919 end=581760 sample=../Audio/Linkage/Linkage5050.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=757 end=564138 sample=../Audio/Linkage/Linkage5151.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=891 end=515617 sample=../Audio/Linkage/Linkage5252.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=924 sample=../Audio/Linkage/Linkage5353.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=740 sample=../Audio/Linkage/Linkage5454.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=756 end=531272 sample=../Audio/Linkage/Linkage5555.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=978 end=581761 sample=../Audio/Linkage/Linkage5656.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=849 end=564357 sample=../Audio/Linkage/Linkage5757.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=670 end=515604 sample=../Audio/Linkage/Linkage5858.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=936 end=534410 sample=../Audio/Linkage/Linkage5959.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=814 end=528856 sample=../Audio/Linkage/Linkage6060.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=923 sample=../Audio/Linkage/Linkage6161.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=870 end=582018 sample=../Audio/Linkage/Linkage6262.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=955 end=561301 sample=../Audio/Linkage/Linkage6363.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=741 sample=../Audio/Linkage/Linkage6464.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1002 end=530819 sample=../Audio/Linkage/Linkage6565.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1130 sample=../Audio/Linkage/Linkage6666.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=655 end=526660 sample=../Audio/Linkage/Linkage6767.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=737 end=557186 sample=../Audio/Linkage/Linkage6868.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=938 end=543891 sample=../Audio/Linkage/Linkage6969.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=774 end=513411 sample=../Audio/Linkage/Linkage7070.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1124 end=530222 sample=../Audio/Linkage/Linkage7171.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=672 end=523280 sample=../Audio/Linkage/Linkage7272.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=832 end=522431 sample=../Audio/Linkage/Linkage7373.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=663 sample=../Audio/Linkage/Linkage7474.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=778 end=540690 sample=../Audio/Linkage/Linkage7575.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=913 end=511878 sample=../Audio/Linkage/Linkage7676.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=923 sample=../Audio/Linkage/Linkage7777.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1111 end=523788 sample=../Audio/Linkage/Linkage7878.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=849 end=519826 sample=../Audio/Linkage/Linkage7979.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=759 sample=../Audio/Linkage/Linkage8080.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=930 end=536966 sample=../Audio/Linkage/Linkage8181.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=967 sample=../Audio/Linkage/Linkage8282.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1131 end=520454 sample=../Audio/Linkage/Linkage8383.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=628 end=517892 sample=../Audio/Linkage/Linkage8484.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=853 sample=../PolAudio/Linkage/Linkage2424.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=988 end=532258 sample=../PolAudio/Linkage/Linkage2525.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=765 sample=../PolAudio/Linkage/Linkage2626.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1070 sample=../PolAudio/Linkage/Linkage2727.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=879 end=516253 sample=../PolAudio/Linkage/Linkage2828.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=588 end=537419 sample=../PolAudio/Linkage/Linkage2929.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=684 end=531611 sample=../PolAudio/Linkage/Linkage3030.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=848 end=532636 sample=../PolAudio/Linkage/Linkage3131.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1178 end=581771 sample=../PolAudio/Linkage/Linkage3232.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=927 end=564091 sample=../PolAudio/Linkage/Linkage3333.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=979 end=515459 sample=../PolAudio/Linkage/Linkage3434.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=700 end=536091 sample=../PolAudio/Linkage/Linkage3535.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1013 end=530328 sample=../PolAudio/Linkage/Linkage3636.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=975 sample=../PolAudio/Linkage/Linkage3737.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=965 end=581855 sample=../PolAudio/Linkage/Linkage3838.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=823 sample=../PolAudio/Linkage/Linkage3939.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1015 end=515514 sample=../PolAudio/Linkage/Linkage4040.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=686 sample=../PolAudio/Linkage/Linkage4141.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=909 end=531338 sample=../PolAudio/Linkage/Linkage4242.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=658 end=531481 sample=../PolAudio/Linkage/Linkage4343.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1169 end=582068 sample=../PolAudio/Linkage/Linkage4444.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1087 end=564737 sample=../PolAudio/Linkage/Linkage4545.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=788 end=516493 sample=../PolAudio/Linkage/Linkage4646.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1173 end=537861 sample=../PolAudio/Linkage/Linkage4747.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1039 end=531616 sample=../PolAudio/Linkage/Linkage4848.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=675 sample=../PolAudio/Linkage/Linkage4949.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=919 end=581760 sample=../PolAudio/Linkage/Linkage5050.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=757 end=564138 sample=../PolAudio/Linkage/Linkage5151.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=891 end=515617 sample=../PolAudio/Linkage/Linkage5252.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=924 sample=../PolAudio/Linkage/Linkage5353.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=740 sample=../PolAudio/Linkage/Linkage5454.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=756 end=531272 sample=../PolAudio/Linkage/Linkage5555.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=978 end=581761 sample=../PolAudio/Linkage/Linkage5656.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=849 end=564357 sample=../PolAudio/Linkage/Linkage5757.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=670 end=515604 sample=../PolAudio/Linkage/Linkage5858.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=936 end=534410 sample=../PolAudio/Linkage/Linkage5959.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=814 end=528856 sample=../PolAudio/Linkage/Linkage6060.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=923 sample=../PolAudio/Linkage/Linkage6161.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=870 end=582018 sample=../PolAudio/Linkage/Linkage6262.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=955 end=561301 sample=../PolAudio/Linkage/Linkage6363.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=741 sample=../PolAudio/Linkage/Linkage6464.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1002 end=530819 sample=../PolAudio/Linkage/Linkage6565.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1130 sample=../PolAudio/Linkage/Linkage6666.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=655 end=526660 sample=../PolAudio/Linkage/Linkage6767.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=737 end=557186 sample=../PolAudio/Linkage/Linkage6868.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=938 end=543891 sample=../PolAudio/Linkage/Linkage6969.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=774 end=513411 sample=../PolAudio/Linkage/Linkage7070.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1124 end=530222 sample=../PolAudio/Linkage/Linkage7171.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=672 end=523280 sample=../PolAudio/Linkage/Linkage7272.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=832 end=522431 sample=../PolAudio/Linkage/Linkage7373.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=663 sample=../PolAudio/Linkage/Linkage7474.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=778 end=540690 sample=../PolAudio/Linkage/Linkage7575.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=913 end=511878 sample=../PolAudio/Linkage/Linkage7676.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=923 sample=../PolAudio/Linkage/Linkage7777.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1111 end=523788 sample=../PolAudio/Linkage/Linkage7878.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=849 end=519826 sample=../PolAudio/Linkage/Linkage7979.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=759 sample=../PolAudio/Linkage/Linkage8080.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=930 end=536966 sample=../PolAudio/Linkage/Linkage8181.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=967 sample=../PolAudio/Linkage/Linkage8282.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1131 end=520454 sample=../PolAudio/Linkage/Linkage8383.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=628 end=517892 sample=../PolAudio/Linkage/Linkage8484.aif

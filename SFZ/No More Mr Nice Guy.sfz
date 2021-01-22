@@ -1,124 +1,124 @@
 // this file was generated from No More Mr Nice Guy.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2394 end=540702 sample=../Audio/No More Mr Nice Guy/24C0-HMBX.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2508 end=519922 sample=../Audio/No More Mr Nice Guy/25C#0-CSZX.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2611 sample=../Audio/No More Mr Nice Guy/26D0-HSG8.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1126 end=642876 sample=../Audio/No More Mr Nice Guy/27D#0-YN48.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2466 end=561552 sample=../Audio/No More Mr Nice Guy/28E0-48UQ.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3529 end=496582 sample=../Audio/No More Mr Nice Guy/29F0-XEYC.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2475 end=530076 sample=../Audio/No More Mr Nice Guy/30F#0-BMAX.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3673 end=521023 sample=../Audio/No More Mr Nice Guy/31G0-38BK.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2027 end=573110 sample=../Audio/No More Mr Nice Guy/32G#0-K9Q0.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1453 end=642510 sample=../Audio/No More Mr Nice Guy/33A0-TUTZ.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2054 sample=../Audio/No More Mr Nice Guy/34A#0-EEBO.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3663 end=494870 sample=../Audio/No More Mr Nice Guy/35B0-MNHQ.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2501 sample=../Audio/No More Mr Nice Guy/36C1-NA7F.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2893 end=518669 sample=../Audio/No More Mr Nice Guy/37C#1-AVTY.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2390 sample=../Audio/No More Mr Nice Guy/38D1-MV4G.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1143 end=643306 sample=../Audio/No More Mr Nice Guy/39D#1-SO1A.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2099 end=551952 sample=../Audio/No More Mr Nice Guy/40E1-P2D6.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=4218 end=493997 sample=../Audio/No More Mr Nice Guy/41F1-FEIE.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2930 end=528534 sample=../Audio/No More Mr Nice Guy/42F#1-KDII.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2763 end=516946 sample=../Audio/No More Mr Nice Guy/43G1-5V1S.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2269 end=557032 sample=../Audio/No More Mr Nice Guy/44G#1-2N5M.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1068 end=641852 sample=../Audio/No More Mr Nice Guy/45A1-IDA8.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2634 sample=../Audio/No More Mr Nice Guy/46A#1-8MHO.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3829 sample=../Audio/No More Mr Nice Guy/47B1-ZP1E.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2940 end=524973 sample=../Audio/No More Mr Nice Guy/48C2-TD22.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2462 end=515479 sample=../Audio/No More Mr Nice Guy/49C#2-2IY3.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3185 end=556312 sample=../Audio/No More Mr Nice Guy/50D2-OZ4N.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1273 end=642523 sample=../Audio/No More Mr Nice Guy/51D#2-KSYM.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2494 sample=../Audio/No More Mr Nice Guy/52E2-CMUP.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3507 end=492808 sample=../Audio/No More Mr Nice Guy/53F2-YCBT.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2162 end=523583 sample=../Audio/No More Mr Nice Guy/54F#2-SKM6.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3166 sample=../Audio/No More Mr Nice Guy/55G2-KCO4.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2243 sample=../Audio/No More Mr Nice Guy/56G#2-I3EX.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1454 sample=../Audio/No More Mr Nice Guy/57A2-XH3W.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2660 end=542600 sample=../Audio/No More Mr Nice Guy/58A#2-VHOR.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3436 end=491292 sample=../Audio/No More Mr Nice Guy/59B2-THH0.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3830 sample=../Audio/No More Mr Nice Guy/60C3-9Y90.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3698 end=512305 sample=../Audio/No More Mr Nice Guy/61C#3-9TC4.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2180 end=552246 sample=../Audio/No More Mr Nice Guy/62D3-PR4S.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1097 end=642081 sample=../Audio/No More Mr Nice Guy/63D#3-92QG.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2531 end=543261 sample=../Audio/No More Mr Nice Guy/64E3-7X56.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=4300 sample=../Audio/No More Mr Nice Guy/65F3-VHLK.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3308 end=524936 sample=../Audio/No More Mr Nice Guy/66F#3-5C77.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2430 end=510627 sample=../Audio/No More Mr Nice Guy/67G3-4S4C.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2650 end=548487 sample=../Audio/No More Mr Nice Guy/68G#3-6AN9.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1393 end=642633 sample=../Audio/No More Mr Nice Guy/69A3-GP8S.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2446 sample=../Audio/No More Mr Nice Guy/70A#3-LW9Y.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5183 sample=../Audio/No More Mr Nice Guy/71B3-XTOT.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3276 end=516918 sample=../Audio/No More Mr Nice Guy/72C4-TAZU.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3684 end=510235 sample=../Audio/No More Mr Nice Guy/73C#4-GVFO.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2785 end=547850 sample=../Audio/No More Mr Nice Guy/74D4-A7IL.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1215 end=652184 sample=../Audio/No More Mr Nice Guy/75D#4-8UM6.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2531 sample=../Audio/No More Mr Nice Guy/76E4-IHM8.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5081 end=504964 sample=../Audio/No More Mr Nice Guy/77F4-T94P.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3310 sample=../Audio/No More Mr Nice Guy/78F#4-99Y0.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3559 end=540815 sample=../Audio/No More Mr Nice Guy/79G4-15KZ.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2396 sample=../Audio/No More Mr Nice Guy/80G#4-W945.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1355 sample=../Audio/No More Mr Nice Guy/81A4-CCZO.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3175 end=564063 sample=../Audio/No More Mr Nice Guy/82A#4-PCAR.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=4479 end=579854 sample=../Audio/No More Mr Nice Guy/83B4-CWR0.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3450 end=522007 sample=../Audio/No More Mr Nice Guy/84C5-15G7.wav
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2394 end=540702 sample=../PolAudio/No More Mr Nice Guy/24C0-HMBX.wav
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2508 end=519922 sample=../PolAudio/No More Mr Nice Guy/25C#0-CSZX.wav
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2611 sample=../PolAudio/No More Mr Nice Guy/26D0-HSG8.wav
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1126 end=642876 sample=../PolAudio/No More Mr Nice Guy/27D#0-YN48.wav
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2466 end=561552 sample=../PolAudio/No More Mr Nice Guy/28E0-48UQ.wav
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3529 end=496582 sample=../PolAudio/No More Mr Nice Guy/29F0-XEYC.wav
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2475 end=530076 sample=../PolAudio/No More Mr Nice Guy/30F#0-BMAX.wav
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3673 end=521023 sample=../PolAudio/No More Mr Nice Guy/31G0-38BK.wav
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2027 end=573110 sample=../PolAudio/No More Mr Nice Guy/32G#0-K9Q0.wav
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1453 end=642510 sample=../PolAudio/No More Mr Nice Guy/33A0-TUTZ.wav
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2054 sample=../PolAudio/No More Mr Nice Guy/34A#0-EEBO.wav
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3663 end=494870 sample=../PolAudio/No More Mr Nice Guy/35B0-MNHQ.wav
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2501 sample=../PolAudio/No More Mr Nice Guy/36C1-NA7F.wav
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2893 end=518669 sample=../PolAudio/No More Mr Nice Guy/37C#1-AVTY.wav
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2390 sample=../PolAudio/No More Mr Nice Guy/38D1-MV4G.wav
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1143 end=643306 sample=../PolAudio/No More Mr Nice Guy/39D#1-SO1A.wav
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2099 end=551952 sample=../PolAudio/No More Mr Nice Guy/40E1-P2D6.wav
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=4218 end=493997 sample=../PolAudio/No More Mr Nice Guy/41F1-FEIE.wav
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2930 end=528534 sample=../PolAudio/No More Mr Nice Guy/42F#1-KDII.wav
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2763 end=516946 sample=../PolAudio/No More Mr Nice Guy/43G1-5V1S.wav
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2269 end=557032 sample=../PolAudio/No More Mr Nice Guy/44G#1-2N5M.wav
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1068 end=641852 sample=../PolAudio/No More Mr Nice Guy/45A1-IDA8.wav
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2634 sample=../PolAudio/No More Mr Nice Guy/46A#1-8MHO.wav
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3829 sample=../PolAudio/No More Mr Nice Guy/47B1-ZP1E.wav
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2940 end=524973 sample=../PolAudio/No More Mr Nice Guy/48C2-TD22.wav
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2462 end=515479 sample=../PolAudio/No More Mr Nice Guy/49C#2-2IY3.wav
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3185 end=556312 sample=../PolAudio/No More Mr Nice Guy/50D2-OZ4N.wav
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1273 end=642523 sample=../PolAudio/No More Mr Nice Guy/51D#2-KSYM.wav
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2494 sample=../PolAudio/No More Mr Nice Guy/52E2-CMUP.wav
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3507 end=492808 sample=../PolAudio/No More Mr Nice Guy/53F2-YCBT.wav
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2162 end=523583 sample=../PolAudio/No More Mr Nice Guy/54F#2-SKM6.wav
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3166 sample=../PolAudio/No More Mr Nice Guy/55G2-KCO4.wav
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2243 sample=../PolAudio/No More Mr Nice Guy/56G#2-I3EX.wav
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1454 sample=../PolAudio/No More Mr Nice Guy/57A2-XH3W.wav
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2660 end=542600 sample=../PolAudio/No More Mr Nice Guy/58A#2-VHOR.wav
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3436 end=491292 sample=../PolAudio/No More Mr Nice Guy/59B2-THH0.wav
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3830 sample=../PolAudio/No More Mr Nice Guy/60C3-9Y90.wav
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3698 end=512305 sample=../PolAudio/No More Mr Nice Guy/61C#3-9TC4.wav
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2180 end=552246 sample=../PolAudio/No More Mr Nice Guy/62D3-PR4S.wav
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1097 end=642081 sample=../PolAudio/No More Mr Nice Guy/63D#3-92QG.wav
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2531 end=543261 sample=../PolAudio/No More Mr Nice Guy/64E3-7X56.wav
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=4300 sample=../PolAudio/No More Mr Nice Guy/65F3-VHLK.wav
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3308 end=524936 sample=../PolAudio/No More Mr Nice Guy/66F#3-5C77.wav
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2430 end=510627 sample=../PolAudio/No More Mr Nice Guy/67G3-4S4C.wav
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2650 end=548487 sample=../PolAudio/No More Mr Nice Guy/68G#3-6AN9.wav
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1393 end=642633 sample=../PolAudio/No More Mr Nice Guy/69A3-GP8S.wav
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2446 sample=../PolAudio/No More Mr Nice Guy/70A#3-LW9Y.wav
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=5183 sample=../PolAudio/No More Mr Nice Guy/71B3-XTOT.wav
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3276 end=516918 sample=../PolAudio/No More Mr Nice Guy/72C4-TAZU.wav
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3684 end=510235 sample=../PolAudio/No More Mr Nice Guy/73C#4-GVFO.wav
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2785 end=547850 sample=../PolAudio/No More Mr Nice Guy/74D4-A7IL.wav
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1215 end=652184 sample=../PolAudio/No More Mr Nice Guy/75D#4-8UM6.wav
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2531 sample=../PolAudio/No More Mr Nice Guy/76E4-IHM8.wav
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=5081 end=504964 sample=../PolAudio/No More Mr Nice Guy/77F4-T94P.wav
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3310 sample=../PolAudio/No More Mr Nice Guy/78F#4-99Y0.wav
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3559 end=540815 sample=../PolAudio/No More Mr Nice Guy/79G4-15KZ.wav
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=2396 sample=../PolAudio/No More Mr Nice Guy/80G#4-W945.wav
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1355 sample=../PolAudio/No More Mr Nice Guy/81A4-CCZO.wav
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3175 end=564063 sample=../PolAudio/No More Mr Nice Guy/82A#4-PCAR.wav
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=4479 end=579854 sample=../PolAudio/No More Mr Nice Guy/83B4-CWR0.wav
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=3450 end=522007 sample=../PolAudio/No More Mr Nice Guy/84C5-15G7.wav

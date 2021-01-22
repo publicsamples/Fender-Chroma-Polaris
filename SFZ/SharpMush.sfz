@@ -1,124 +1,124 @@
 // this file was generated from SharpMush.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200947 loop_end=384238 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-9FX0.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224944 loop_end=293508 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-0UQ7.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284267 loop_end=339461 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-YKWN.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211318 loop_end=349625 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-8B6R.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235080 loop_end=329129 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-DVJQ.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254823 loop_end=390996 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-WYBP.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266817 loop_end=319043 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-D3EG.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251807 loop_end=367737 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-00BK.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258205 loop_end=360932 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-H0J1.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253780 loop_end=322617 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-D5M5.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214984 loop_end=387904 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-SGU1.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207187 loop_end=389992 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-QT94.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232709 loop_end=348432 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-MD0H.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290254 loop_end=392609 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-RLQL.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237321 loop_end=288268 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-FVQ1.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220100 loop_end=274372 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-PYEN.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277778 loop_end=330006 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-J0LX.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285179 loop_end=392028 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-UH88.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269432 loop_end=390303 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-4LSL.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267160 loop_end=343903 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-LBSC.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=196887 loop_end=278615 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-8F55.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187189 loop_end=387532 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-TZA8.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225837 loop_end=305466 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-7FXZ.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253776 loop_end=374932 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-4403.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241690 loop_end=326717 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-ZNM0.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286325 loop_end=377047 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-ZFQ4.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267300 loop_end=337277 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-UZ9X.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261568 loop_end=368116 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-U0UM.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249785 loop_end=388880 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-E39B.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340596 loop_end=391958 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-L94I.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275157 loop_end=357093 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-VK72.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290622 loop_end=342812 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-EVXL.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236245 loop_end=289589 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-J4JE.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219700 loop_end=387089 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-0088.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217370 loop_end=371562 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-8FS1.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270531 loop_end=342942 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-9EFC.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224920 loop_end=390685 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-YBX7.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229252 loop_end=309155 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-FOOY.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244388 loop_end=392687 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-I45G.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226273 loop_end=388101 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-OL0E.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237586 loop_end=383142 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-0FVQ.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218777 loop_end=375456 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-RUYG.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320051 loop_end=390714 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-8RPM.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229926 loop_end=378378 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-9MR3.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278698 loop_end=330005 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-NAW1.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238069 loop_end=292420 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-818K.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313297 loop_end=365486 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-OYRP.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221338 loop_end=274585 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-TOR9.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251836 loop_end=391129 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-YB0F.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295533 loop_end=372179 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-FGF8.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287232 loop_end=349299 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-UQ19.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233873 loop_end=390549 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-PPPX.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241212 loop_end=383489 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-9M4D.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276207 loop_end=341676 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-DI3U.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258844 loop_end=310064 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-XIWQ.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288882 loop_end=333931 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-7XQ8.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235163 loop_end=356931 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-LDX0.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237129 loop_end=299540 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-WU90.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239447 loop_end=378598 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-8D8N.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279758 loop_end=330862 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-X7SI.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275908 loop_end=357789 sample=../Audio/SharpMush/(2013714 221443)/SharpMush-6FI9.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=200947 loop_end=384238 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-9FX0.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=224944 loop_end=293508 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-0UQ7.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=284267 loop_end=339461 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-YKWN.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=211318 loop_end=349625 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-8B6R.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=235080 loop_end=329129 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-DVJQ.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=254823 loop_end=390996 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-WYBP.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=266817 loop_end=319043 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-D3EG.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=251807 loop_end=367737 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-00BK.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=258205 loop_end=360932 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-H0J1.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=253780 loop_end=322617 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-D5M5.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=214984 loop_end=387904 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-SGU1.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=207187 loop_end=389992 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-QT94.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=232709 loop_end=348432 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-MD0H.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=290254 loop_end=392609 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-RLQL.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=237321 loop_end=288268 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-FVQ1.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=220100 loop_end=274372 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-PYEN.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=277778 loop_end=330006 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-J0LX.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=285179 loop_end=392028 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-UH88.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=269432 loop_end=390303 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-4LSL.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=267160 loop_end=343903 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-LBSC.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=196887 loop_end=278615 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-8F55.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=187189 loop_end=387532 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-TZA8.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=225837 loop_end=305466 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-7FXZ.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=253776 loop_end=374932 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-4403.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=241690 loop_end=326717 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-ZNM0.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=286325 loop_end=377047 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-ZFQ4.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=267300 loop_end=337277 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-UZ9X.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=261568 loop_end=368116 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-U0UM.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=249785 loop_end=388880 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-E39B.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=340596 loop_end=391958 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-L94I.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=275157 loop_end=357093 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-VK72.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=290622 loop_end=342812 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-EVXL.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=236245 loop_end=289589 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-J4JE.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=219700 loop_end=387089 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-0088.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=217370 loop_end=371562 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-8FS1.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=270531 loop_end=342942 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-9EFC.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=224920 loop_end=390685 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-YBX7.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=229252 loop_end=309155 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-FOOY.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=244388 loop_end=392687 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-I45G.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=226273 loop_end=388101 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-OL0E.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=237586 loop_end=383142 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-0FVQ.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=218777 loop_end=375456 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-RUYG.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=320051 loop_end=390714 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-8RPM.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=229926 loop_end=378378 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-9MR3.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=278698 loop_end=330005 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-NAW1.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=238069 loop_end=292420 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-818K.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=313297 loop_end=365486 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-OYRP.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=221338 loop_end=274585 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-TOR9.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=251836 loop_end=391129 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-YB0F.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=295533 loop_end=372179 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-FGF8.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=287232 loop_end=349299 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-UQ19.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=233873 loop_end=390549 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-PPPX.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=241212 loop_end=383489 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-9M4D.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=276207 loop_end=341676 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-DI3U.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=258844 loop_end=310064 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-XIWQ.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=288882 loop_end=333931 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-7XQ8.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=235163 loop_end=356931 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-LDX0.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=237129 loop_end=299540 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-WU90.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=239447 loop_end=378598 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-8D8N.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=279758 loop_end=330862 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-X7SI.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  loop_mode=loop_sustain loop_start=275908 loop_end=357789 sample=../PolAudio/SharpMush/(2013714 221443)/SharpMush-6FI9.aif

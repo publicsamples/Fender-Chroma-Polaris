@@ -1,123 +1,123 @@
 // this file was generated from SquelchyBonus.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=24 hikey=26 pitch_keycenter=24 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=763 end=446457 loop_mode=loop_sustain loop_start=1625 loop_end=74575 sample=../Audio/Squelchy/26C0-DLK4.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=895 end=445913 loop_mode=loop_sustain loop_start=222990 loop_end=320267 sample=../Audio/Squelchy/26C0-NXX6.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=875 end=443611 loop_mode=loop_sustain loop_start=134908 loop_end=329468 sample=../Audio/Squelchy/26C0-7L7B.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=625 end=444154 loop_mode=loop_sustain loop_start=143057 loop_end=240332 sample=../Audio/Squelchy/26C0-A7X3.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=837 end=444153 loop_mode=loop_sustain loop_start=39758 loop_end=361296 sample=../Audio/Squelchy/26C0-EJB7.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=930 end=444711 loop_mode=loop_sustain loop_start=43384 loop_end=364922 sample=../Audio/Squelchy/26C0-Z7JT.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=811 loop_mode=loop_sustain loop_start=16452 loop_end=240704 sample=../Audio/Squelchy/26C0-8X1B.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=709 end=444543 loop_mode=loop_sustain loop_start=35818 loop_end=357353 sample=../Audio/Squelchy/26C0-6MUI.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=632 end=444389 loop_mode=loop_sustain loop_start=9274 loop_end=106550 sample=../Audio/Squelchy/26C0-U1H2.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=604 end=443065 loop_mode=loop_sustain loop_start=13245 loop_end=110521 sample=../Audio/Squelchy/26C0-ZCHZ.wav
-<group>lokey=27 hikey=32 pitch_keycenter=30 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=665 end=444623 loop_mode=loop_sustain loop_start=914 loop_end=75230 sample=../Audio/Squelchy/32F#0-K2CZ.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=458 end=444420 loop_mode=loop_sustain loop_start=44724 loop_end=126638 sample=../Audio/Squelchy/32F#0-BOTL.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=736 end=444646 loop_mode=loop_sustain loop_start=249763 loop_end=331676 sample=../Audio/Squelchy/32F#0-JU5M.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=704 end=446480 loop_mode=loop_sustain loop_start=50976 loop_end=296734 sample=../Audio/Squelchy/32F#0-K48E.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=787 end=444486 loop_mode=loop_sustain loop_start=57248 loop_end=139163 sample=../Audio/Squelchy/32F#0-7ZI8.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=477 end=444121 loop_mode=loop_sustain loop_start=160481 loop_end=242403 sample=../Audio/Squelchy/32F#0-OOJG.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=489 end=446238 loop_mode=loop_sustain loop_start=105147 loop_end=364220 sample=../Audio/Squelchy/32F#0-HQNZ.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=852 end=444008 loop_mode=loop_sustain loop_start=278623 loop_end=360544 sample=../Audio/Squelchy/32F#0-O2XM.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=661 end=444103 loop_mode=loop_sustain loop_start=252749 loop_end=334666 sample=../Audio/Squelchy/32F#0-RQQX.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=557 loop_mode=loop_sustain loop_start=119514 loop_end=201430 sample=../Audio/Squelchy/32F#0-KBF9.wav
-<group>lokey=33 hikey=38 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=962 end=445183 loop_mode=loop_sustain loop_start=1981 loop_end=74640 sample=../Audio/Squelchy/38C1-RHF1.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=436 end=444448 loop_mode=loop_sustain loop_start=165794 loop_end=352855 sample=../Audio/Squelchy/38C1-ZG8W.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=407 end=444409 loop_mode=loop_sustain loop_start=214106 loop_end=308310 sample=../Audio/Squelchy/38C1-ZIQ2.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=725 end=444030 loop_mode=loop_sustain loop_start=12869 loop_end=294148 sample=../Audio/Squelchy/38C1-ZT9Z.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=928 end=444396 loop_mode=loop_sustain loop_start=111468 loop_end=205670 sample=../Audio/Squelchy/38C1-VNVY.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=481 end=442674 loop_mode=loop_sustain loop_start=107963 loop_end=200819 sample=../Audio/Squelchy/38C1-E28K.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=761 end=443873 loop_mode=loop_sustain loop_start=221620 loop_end=314482 sample=../Audio/Squelchy/38C1-RP2Z.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=886 end=444664 loop_mode=loop_sustain loop_start=84290 loop_end=179840 sample=../Audio/Squelchy/38C1-GXKN.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=937 end=444793 loop_mode=loop_sustain loop_start=206527 loop_end=300731 sample=../Audio/Squelchy/38C1-45KK.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=846 end=444787 loop_mode=loop_sustain loop_start=79455 loop_end=362070 sample=../Audio/Squelchy/38C1-IBKT.wav
-<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=516 end=446572 loop_mode=loop_sustain loop_start=185142 loop_end=308055 sample=../Audio/Squelchy/44F#1-TPD2.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=381 end=444408 loop_mode=loop_sustain loop_start=44875 loop_end=346953 sample=../Audio/Squelchy/44F#1-572H.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=393 end=444377 loop_mode=loop_sustain loop_start=197812 loop_end=334076 sample=../Audio/Squelchy/44F#1-4XCU.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=656 end=444032 loop_mode=loop_sustain loop_start=4384 loop_end=141614 sample=../Audio/Squelchy/44F#1-K49D.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=487 end=444502 loop_mode=loop_sustain loop_start=62656 loop_end=364721 sample=../Audio/Squelchy/44F#1-1AE8.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=730 end=444343 loop_mode=loop_sustain loop_start=120813 loop_end=258040 sample=../Audio/Squelchy/44F#1-CMGC.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=930 end=444658 loop_mode=loop_sustain loop_start=39392 loop_end=177570 sample=../Audio/Squelchy/44F#1-YFNO.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=890 end=444540 loop_mode=loop_sustain loop_start=26616 loop_end=164777 sample=../Audio/Squelchy/44F#1-W71R.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=1046 end=444648 loop_mode=loop_sustain loop_start=90402 loop_end=227619 sample=../Audio/Squelchy/44F#1-4QBC.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=471 end=444256 loop_mode=loop_sustain loop_start=66102 loop_end=203325 sample=../Audio/Squelchy/44F#1-PN62.wav
-<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=534 end=442720 loop_mode=loop_sustain loop_start=20283 loop_end=94281 sample=../Audio/Squelchy/50C2-4TMV.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=573 loop_mode=loop_sustain loop_start=230801 loop_end=312208 sample=../Audio/Squelchy/50C2-G1U8.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=616 end=444138 loop_mode=loop_sustain loop_start=116266 loop_end=253510 sample=../Audio/Squelchy/50C2-YG2I.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=851 end=444085 loop_mode=loop_sustain loop_start=14558 loop_end=221768 sample=../Audio/Squelchy/50C2-O2SV.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=737 end=443622 loop_mode=loop_sustain loop_start=141180 loop_end=351090 sample=../Audio/Squelchy/50C2-3W7B.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=710 end=444267 loop_mode=loop_sustain loop_start=104812 loop_end=362489 sample=../Audio/Squelchy/50C2-98TB.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=914 end=444280 loop_mode=loop_sustain loop_start=80572 loop_end=363820 sample=../Audio/Squelchy/50C2-H0Z7.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=649 end=443247 loop_mode=loop_sustain loop_start=190052 loop_end=295680 sample=../Audio/Squelchy/50C2-XUQM.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=780 end=443376 loop_mode=loop_sustain loop_start=57719 loop_end=363824 sample=../Audio/Squelchy/50C2-F8EO.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=672 end=443774 loop_mode=loop_sustain loop_start=31166 loop_end=153612 sample=../Audio/Squelchy/50C2-9XT7.wav
-<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=783 end=443152 loop_mode=loop_sustain loop_start=237584 loop_end=345637 sample=../Audio/Squelchy/56F#2-COAU.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=813 end=443464 loop_mode=loop_sustain loop_start=121441 loop_end=245194 sample=../Audio/Squelchy/56F#2-JXYI.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=548 end=443890 loop_mode=loop_sustain loop_start=71073 loop_end=194840 sample=../Audio/Squelchy/56F#2-HEAK.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=780 loop_mode=loop_sustain loop_start=182202 loop_end=330963 sample=../Audio/Squelchy/56F#2-IOS2.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=698 end=443643 loop_mode=loop_sustain loop_start=33810 loop_end=158522 sample=../Audio/Squelchy/56F#2-TU9G.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=442 end=443117 loop_mode=loop_sustain loop_start=120080 loop_end=244788 sample=../Audio/Squelchy/56F#2-Y3C5.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=859 end=444008 loop_mode=loop_sustain loop_start=2664 loop_end=125472 sample=../Audio/Squelchy/56F#2-EM71.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=574 end=443774 loop_mode=loop_sustain loop_start=132704 loop_end=258366 sample=../Audio/Squelchy/56F#2-O13A.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=813 end=444144 loop_mode=loop_sustain loop_start=229509 loop_end=312809 sample=../Audio/Squelchy/56F#2-NEQU.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=883 end=444411 loop_mode=loop_sustain loop_start=20651 loop_end=143459 sample=../Audio/Squelchy/56F#2-HZ9Q.wav
-<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=738 end=443012 loop_mode=loop_sustain loop_start=262290 loop_end=349086 sample=../Audio/Squelchy/62C3-HX70.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=416 end=443108 loop_mode=loop_sustain loop_start=164356 loop_end=258550 sample=../Audio/Squelchy/62C3-QK66.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=651 end=442925 loop_mode=loop_sustain loop_start=179685 loop_end=260081 sample=../Audio/Squelchy/62C3-ROA1.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=1028 end=444533 loop_mode=loop_sustain loop_start=92447 loop_end=187318 sample=../Audio/Squelchy/62C3-4PGP.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=966 end=444045 loop_mode=loop_sustain loop_start=94693 loop_end=355086 sample=../Audio/Squelchy/62C3-PLEL.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=731 end=443098 loop_mode=loop_sustain loop_start=226622 loop_end=359172 sample=../Audio/Squelchy/62C3-PLEO.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=576 end=443384 loop_mode=loop_sustain loop_start=205333 loop_end=284560 sample=../Audio/Squelchy/62C3-QLYC.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=871 end=443932 loop_mode=loop_sustain loop_start=77894 loop_end=363172 sample=../Audio/Squelchy/62C3-KFTK.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=649 end=443644 loop_mode=loop_sustain loop_start=16373 loop_end=140846 sample=../Audio/Squelchy/62C3-PYVT.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=481 end=443754 loop_mode=loop_sustain loop_start=187841 loop_end=268913 sample=../Audio/Squelchy/62C3-4L0B.wav
-<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=756 end=443746 loop_mode=loop_sustain loop_start=55890 loop_end=131965 sample=../Audio/Squelchy/68F#3-HJJ2.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=501 end=443413 loop_mode=loop_sustain loop_start=21935 loop_end=351643 sample=../Audio/Squelchy/68F#3-EXIE.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=788 end=443724 loop_mode=loop_sustain loop_start=14508 loop_end=328762 sample=../Audio/Squelchy/68F#3-CDKQ.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=605 loop_mode=loop_sustain loop_start=188641 loop_end=295603 sample=../Audio/Squelchy/68F#3-BPNW.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=876 end=443961 loop_mode=loop_sustain loop_start=22415 loop_end=349508 sample=../Audio/Squelchy/68F#3-40DB.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=1008 end=446496 loop_mode=loop_sustain loop_start=252658 loop_end=347032 sample=../Audio/Squelchy/68F#3-ZQJP.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=862 end=444112 loop_mode=loop_sustain loop_start=217148 loop_end=312710 sample=../Audio/Squelchy/68F#3-LG3F.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=839 end=443902 loop_mode=loop_sustain loop_start=37204 loop_end=350756 sample=../Audio/Squelchy/68F#3-PHH2.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=808 end=443900 loop_mode=loop_sustain loop_start=116814 loop_end=335039 sample=../Audio/Squelchy/68F#3-EX1S.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=533 end=443448 loop_mode=loop_sustain loop_start=239245 loop_end=347408 sample=../Audio/Squelchy/68F#3-BOQI.wav
-<group>lokey=69 hikey=74 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=879 end=442900 loop_mode=loop_sustain loop_start=198990 loop_end=272346 sample=../Audio/Squelchy/74C4-9EHF.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=588 end=442901 loop_mode=loop_sustain loop_start=196485 loop_end=355975 sample=../Audio/Squelchy/74C4-EGNK.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=838 end=443126 loop_mode=loop_sustain loop_start=10628 loop_end=126880 sample=../Audio/Squelchy/74C4-UGLW.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=822 end=443526 loop_mode=loop_sustain loop_start=240428 loop_end=327063 sample=../Audio/Squelchy/74C4-8V3Y.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=759 end=443475 loop_mode=loop_sustain loop_start=82405 loop_end=357985 sample=../Audio/Squelchy/74C4-H293.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=672 loop_mode=loop_sustain loop_start=88691 loop_end=210828 sample=../Audio/Squelchy/74C4-O5B6.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=742 loop_mode=loop_sustain loop_start=140906 loop_end=235621 sample=../Audio/Squelchy/74C4-H0QY.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=701 end=443146 loop_mode=loop_sustain loop_start=181779 loop_end=271954 sample=../Audio/Squelchy/74C4-J36M.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=556 end=442881 loop_mode=loop_sustain loop_start=192192 loop_end=359576 sample=../Audio/Squelchy/74C4-L2XT.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=531 end=443107 loop_mode=loop_sustain loop_start=209247 loop_end=284445 sample=../Audio/Squelchy/74C4-ND8B.wav
-<group>lokey=75 hikey=80 pitch_keycenter=78 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=869 end=443744 loop_mode=loop_sustain loop_start=231787 loop_end=358977 sample=../Audio/Squelchy/80F#4-X636.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=522 end=443492 loop_mode=loop_sustain loop_start=108836 loop_end=323506 sample=../Audio/Squelchy/80F#4-V9TQ.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=805 end=443774 loop_mode=loop_sustain loop_start=70887 loop_end=146601 sample=../Audio/Squelchy/80F#4-BIT9.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=901 end=443858 loop_mode=loop_sustain loop_start=223986 loop_end=331560 sample=../Audio/Squelchy/80F#4-DVSS.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=770 end=443835 loop_mode=loop_sustain loop_start=36595 loop_end=116828 sample=../Audio/Squelchy/80F#4-WOBK.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=623 loop_mode=loop_sustain loop_start=178674 loop_end=361608 sample=../Audio/Squelchy/80F#4-RYVV.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=827 end=442594 loop_mode=loop_sustain loop_start=118003 loop_end=340158 sample=../Audio/Squelchy/80F#4-TTOE.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=913 end=444226 loop_mode=loop_sustain loop_start=137000 loop_end=211169 sample=../Audio/Squelchy/80F#4-LA3O.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=663 end=442709 loop_mode=loop_sustain loop_start=68152 loop_end=199137 sample=../Audio/Squelchy/80F#4-P52I.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=790 end=442874 loop_mode=loop_sustain loop_start=150049 loop_end=225765 sample=../Audio/Squelchy/80F#4-WGZ5.wav
-<group>lokey=81 hikey=84 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=500 end=443447 loop_mode=loop_sustain loop_start=91765 loop_end=347838 sample=../Audio/Squelchy/84C5-HVSG.wav
-	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=735 end=443635 loop_mode=loop_sustain loop_start=224738 loop_end=320997 sample=../Audio/Squelchy/84C5-N1MC.wav
-	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=475 end=443374 loop_mode=loop_sustain loop_start=599 loop_end=188674 sample=../Audio/Squelchy/84C5-NT3D.wav
-	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=842 end=442539 loop_mode=loop_sustain loop_start=181898 loop_end=261417 sample=../Audio/Squelchy/84C5-ZT6V.wav
-	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=1024 end=444003 loop_mode=loop_sustain loop_start=152435 loop_end=363827 sample=../Audio/Squelchy/84C5-ZVJG.wav
-	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=768 end=447620 loop_mode=loop_sustain loop_start=257875 loop_end=359857 sample=../Audio/Squelchy/84C5-VKAG.wav
-	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=929 end=442857 loop_mode=loop_sustain loop_start=249606 loop_end=321467 sample=../Audio/Squelchy/84C5-2BHD.wav
-	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=619 end=443880 loop_mode=loop_sustain loop_start=256349 loop_end=349333 sample=../Audio/Squelchy/84C5-LYMK.wav
-	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=629 end=443810 loop_mode=loop_sustain loop_start=244915 loop_end=363054 sample=../Audio/Squelchy/84C5-JRMJ.wav
-	<region> lovel=072 hivel=127 amp_velcurve_127=1 offset=783 end=443961 loop_mode=loop_sustain loop_start=183425 loop_end=352984 sample=../Audio/Squelchy/84C5-PTN1.wav
+<group>lokey=24 hikey=26 pitch_keycenter=24 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=763 end=446457 loop_mode=loop_sustain loop_start=1625 loop_end=74575 sample=../PolAudio/Squelchy/26C0-DLK4.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=895 end=445913 loop_mode=loop_sustain loop_start=222990 loop_end=320267 sample=../PolAudio/Squelchy/26C0-NXX6.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=875 end=443611 loop_mode=loop_sustain loop_start=134908 loop_end=329468 sample=../PolAudio/Squelchy/26C0-7L7B.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=625 end=444154 loop_mode=loop_sustain loop_start=143057 loop_end=240332 sample=../PolAudio/Squelchy/26C0-A7X3.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=837 end=444153 loop_mode=loop_sustain loop_start=39758 loop_end=361296 sample=../PolAudio/Squelchy/26C0-EJB7.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=930 end=444711 loop_mode=loop_sustain loop_start=43384 loop_end=364922 sample=../PolAudio/Squelchy/26C0-Z7JT.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=811 loop_mode=loop_sustain loop_start=16452 loop_end=240704 sample=../PolAudio/Squelchy/26C0-8X1B.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=709 end=444543 loop_mode=loop_sustain loop_start=35818 loop_end=357353 sample=../PolAudio/Squelchy/26C0-6MUI.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=632 end=444389 loop_mode=loop_sustain loop_start=9274 loop_end=106550 sample=../PolAudio/Squelchy/26C0-U1H2.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=604 end=443065 loop_mode=loop_sustain loop_start=13245 loop_end=110521 sample=../PolAudio/Squelchy/26C0-ZCHZ.wav
+<group>lokey=27 hikey=32 pitch_keycenter=30 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=665 end=444623 loop_mode=loop_sustain loop_start=914 loop_end=75230 sample=../PolAudio/Squelchy/32F#0-K2CZ.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=458 end=444420 loop_mode=loop_sustain loop_start=44724 loop_end=126638 sample=../PolAudio/Squelchy/32F#0-BOTL.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=736 end=444646 loop_mode=loop_sustain loop_start=249763 loop_end=331676 sample=../PolAudio/Squelchy/32F#0-JU5M.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=704 end=446480 loop_mode=loop_sustain loop_start=50976 loop_end=296734 sample=../PolAudio/Squelchy/32F#0-K48E.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=787 end=444486 loop_mode=loop_sustain loop_start=57248 loop_end=139163 sample=../PolAudio/Squelchy/32F#0-7ZI8.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=477 end=444121 loop_mode=loop_sustain loop_start=160481 loop_end=242403 sample=../PolAudio/Squelchy/32F#0-OOJG.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=489 end=446238 loop_mode=loop_sustain loop_start=105147 loop_end=364220 sample=../PolAudio/Squelchy/32F#0-HQNZ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=852 end=444008 loop_mode=loop_sustain loop_start=278623 loop_end=360544 sample=../PolAudio/Squelchy/32F#0-O2XM.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=661 end=444103 loop_mode=loop_sustain loop_start=252749 loop_end=334666 sample=../PolAudio/Squelchy/32F#0-RQQX.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=557 loop_mode=loop_sustain loop_start=119514 loop_end=201430 sample=../PolAudio/Squelchy/32F#0-KBF9.wav
+<group>lokey=33 hikey=38 pitch_keycenter=36 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=962 end=445183 loop_mode=loop_sustain loop_start=1981 loop_end=74640 sample=../PolAudio/Squelchy/38C1-RHF1.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=436 end=444448 loop_mode=loop_sustain loop_start=165794 loop_end=352855 sample=../PolAudio/Squelchy/38C1-ZG8W.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=407 end=444409 loop_mode=loop_sustain loop_start=214106 loop_end=308310 sample=../PolAudio/Squelchy/38C1-ZIQ2.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=725 end=444030 loop_mode=loop_sustain loop_start=12869 loop_end=294148 sample=../PolAudio/Squelchy/38C1-ZT9Z.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=928 end=444396 loop_mode=loop_sustain loop_start=111468 loop_end=205670 sample=../PolAudio/Squelchy/38C1-VNVY.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=481 end=442674 loop_mode=loop_sustain loop_start=107963 loop_end=200819 sample=../PolAudio/Squelchy/38C1-E28K.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=761 end=443873 loop_mode=loop_sustain loop_start=221620 loop_end=314482 sample=../PolAudio/Squelchy/38C1-RP2Z.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=886 end=444664 loop_mode=loop_sustain loop_start=84290 loop_end=179840 sample=../PolAudio/Squelchy/38C1-GXKN.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=937 end=444793 loop_mode=loop_sustain loop_start=206527 loop_end=300731 sample=../PolAudio/Squelchy/38C1-45KK.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=846 end=444787 loop_mode=loop_sustain loop_start=79455 loop_end=362070 sample=../PolAudio/Squelchy/38C1-IBKT.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=516 end=446572 loop_mode=loop_sustain loop_start=185142 loop_end=308055 sample=../PolAudio/Squelchy/44F#1-TPD2.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=381 end=444408 loop_mode=loop_sustain loop_start=44875 loop_end=346953 sample=../PolAudio/Squelchy/44F#1-572H.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=393 end=444377 loop_mode=loop_sustain loop_start=197812 loop_end=334076 sample=../PolAudio/Squelchy/44F#1-4XCU.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=656 end=444032 loop_mode=loop_sustain loop_start=4384 loop_end=141614 sample=../PolAudio/Squelchy/44F#1-K49D.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=487 end=444502 loop_mode=loop_sustain loop_start=62656 loop_end=364721 sample=../PolAudio/Squelchy/44F#1-1AE8.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=730 end=444343 loop_mode=loop_sustain loop_start=120813 loop_end=258040 sample=../PolAudio/Squelchy/44F#1-CMGC.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=930 end=444658 loop_mode=loop_sustain loop_start=39392 loop_end=177570 sample=../PolAudio/Squelchy/44F#1-YFNO.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=890 end=444540 loop_mode=loop_sustain loop_start=26616 loop_end=164777 sample=../PolAudio/Squelchy/44F#1-W71R.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=1046 end=444648 loop_mode=loop_sustain loop_start=90402 loop_end=227619 sample=../PolAudio/Squelchy/44F#1-4QBC.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=471 end=444256 loop_mode=loop_sustain loop_start=66102 loop_end=203325 sample=../PolAudio/Squelchy/44F#1-PN62.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=534 end=442720 loop_mode=loop_sustain loop_start=20283 loop_end=94281 sample=../PolAudio/Squelchy/50C2-4TMV.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=573 loop_mode=loop_sustain loop_start=230801 loop_end=312208 sample=../PolAudio/Squelchy/50C2-G1U8.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=616 end=444138 loop_mode=loop_sustain loop_start=116266 loop_end=253510 sample=../PolAudio/Squelchy/50C2-YG2I.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=851 end=444085 loop_mode=loop_sustain loop_start=14558 loop_end=221768 sample=../PolAudio/Squelchy/50C2-O2SV.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=737 end=443622 loop_mode=loop_sustain loop_start=141180 loop_end=351090 sample=../PolAudio/Squelchy/50C2-3W7B.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=710 end=444267 loop_mode=loop_sustain loop_start=104812 loop_end=362489 sample=../PolAudio/Squelchy/50C2-98TB.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=914 end=444280 loop_mode=loop_sustain loop_start=80572 loop_end=363820 sample=../PolAudio/Squelchy/50C2-H0Z7.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=649 end=443247 loop_mode=loop_sustain loop_start=190052 loop_end=295680 sample=../PolAudio/Squelchy/50C2-XUQM.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=780 end=443376 loop_mode=loop_sustain loop_start=57719 loop_end=363824 sample=../PolAudio/Squelchy/50C2-F8EO.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=672 end=443774 loop_mode=loop_sustain loop_start=31166 loop_end=153612 sample=../PolAudio/Squelchy/50C2-9XT7.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=783 end=443152 loop_mode=loop_sustain loop_start=237584 loop_end=345637 sample=../PolAudio/Squelchy/56F#2-COAU.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=813 end=443464 loop_mode=loop_sustain loop_start=121441 loop_end=245194 sample=../PolAudio/Squelchy/56F#2-JXYI.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=548 end=443890 loop_mode=loop_sustain loop_start=71073 loop_end=194840 sample=../PolAudio/Squelchy/56F#2-HEAK.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=780 loop_mode=loop_sustain loop_start=182202 loop_end=330963 sample=../PolAudio/Squelchy/56F#2-IOS2.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=698 end=443643 loop_mode=loop_sustain loop_start=33810 loop_end=158522 sample=../PolAudio/Squelchy/56F#2-TU9G.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=442 end=443117 loop_mode=loop_sustain loop_start=120080 loop_end=244788 sample=../PolAudio/Squelchy/56F#2-Y3C5.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=859 end=444008 loop_mode=loop_sustain loop_start=2664 loop_end=125472 sample=../PolAudio/Squelchy/56F#2-EM71.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=574 end=443774 loop_mode=loop_sustain loop_start=132704 loop_end=258366 sample=../PolAudio/Squelchy/56F#2-O13A.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=813 end=444144 loop_mode=loop_sustain loop_start=229509 loop_end=312809 sample=../PolAudio/Squelchy/56F#2-NEQU.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=883 end=444411 loop_mode=loop_sustain loop_start=20651 loop_end=143459 sample=../PolAudio/Squelchy/56F#2-HZ9Q.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=738 end=443012 loop_mode=loop_sustain loop_start=262290 loop_end=349086 sample=../PolAudio/Squelchy/62C3-HX70.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=416 end=443108 loop_mode=loop_sustain loop_start=164356 loop_end=258550 sample=../PolAudio/Squelchy/62C3-QK66.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=651 end=442925 loop_mode=loop_sustain loop_start=179685 loop_end=260081 sample=../PolAudio/Squelchy/62C3-ROA1.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=1028 end=444533 loop_mode=loop_sustain loop_start=92447 loop_end=187318 sample=../PolAudio/Squelchy/62C3-4PGP.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=966 end=444045 loop_mode=loop_sustain loop_start=94693 loop_end=355086 sample=../PolAudio/Squelchy/62C3-PLEL.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=731 end=443098 loop_mode=loop_sustain loop_start=226622 loop_end=359172 sample=../PolAudio/Squelchy/62C3-PLEO.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=576 end=443384 loop_mode=loop_sustain loop_start=205333 loop_end=284560 sample=../PolAudio/Squelchy/62C3-QLYC.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=871 end=443932 loop_mode=loop_sustain loop_start=77894 loop_end=363172 sample=../PolAudio/Squelchy/62C3-KFTK.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=649 end=443644 loop_mode=loop_sustain loop_start=16373 loop_end=140846 sample=../PolAudio/Squelchy/62C3-PYVT.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=481 end=443754 loop_mode=loop_sustain loop_start=187841 loop_end=268913 sample=../PolAudio/Squelchy/62C3-4L0B.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=756 end=443746 loop_mode=loop_sustain loop_start=55890 loop_end=131965 sample=../PolAudio/Squelchy/68F#3-HJJ2.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=501 end=443413 loop_mode=loop_sustain loop_start=21935 loop_end=351643 sample=../PolAudio/Squelchy/68F#3-EXIE.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=788 end=443724 loop_mode=loop_sustain loop_start=14508 loop_end=328762 sample=../PolAudio/Squelchy/68F#3-CDKQ.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=605 loop_mode=loop_sustain loop_start=188641 loop_end=295603 sample=../PolAudio/Squelchy/68F#3-BPNW.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=876 end=443961 loop_mode=loop_sustain loop_start=22415 loop_end=349508 sample=../PolAudio/Squelchy/68F#3-40DB.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=1008 end=446496 loop_mode=loop_sustain loop_start=252658 loop_end=347032 sample=../PolAudio/Squelchy/68F#3-ZQJP.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=862 end=444112 loop_mode=loop_sustain loop_start=217148 loop_end=312710 sample=../PolAudio/Squelchy/68F#3-LG3F.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=839 end=443902 loop_mode=loop_sustain loop_start=37204 loop_end=350756 sample=../PolAudio/Squelchy/68F#3-PHH2.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=808 end=443900 loop_mode=loop_sustain loop_start=116814 loop_end=335039 sample=../PolAudio/Squelchy/68F#3-EX1S.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=533 end=443448 loop_mode=loop_sustain loop_start=239245 loop_end=347408 sample=../PolAudio/Squelchy/68F#3-BOQI.wav
+<group>lokey=69 hikey=74 pitch_keycenter=72 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=879 end=442900 loop_mode=loop_sustain loop_start=198990 loop_end=272346 sample=../PolAudio/Squelchy/74C4-9EHF.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=588 end=442901 loop_mode=loop_sustain loop_start=196485 loop_end=355975 sample=../PolAudio/Squelchy/74C4-EGNK.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=838 end=443126 loop_mode=loop_sustain loop_start=10628 loop_end=126880 sample=../PolAudio/Squelchy/74C4-UGLW.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=822 end=443526 loop_mode=loop_sustain loop_start=240428 loop_end=327063 sample=../PolAudio/Squelchy/74C4-8V3Y.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=759 end=443475 loop_mode=loop_sustain loop_start=82405 loop_end=357985 sample=../PolAudio/Squelchy/74C4-H293.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=672 loop_mode=loop_sustain loop_start=88691 loop_end=210828 sample=../PolAudio/Squelchy/74C4-O5B6.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=742 loop_mode=loop_sustain loop_start=140906 loop_end=235621 sample=../PolAudio/Squelchy/74C4-H0QY.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=701 end=443146 loop_mode=loop_sustain loop_start=181779 loop_end=271954 sample=../PolAudio/Squelchy/74C4-J36M.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=556 end=442881 loop_mode=loop_sustain loop_start=192192 loop_end=359576 sample=../PolAudio/Squelchy/74C4-L2XT.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=531 end=443107 loop_mode=loop_sustain loop_start=209247 loop_end=284445 sample=../PolAudio/Squelchy/74C4-ND8B.wav
+<group>lokey=75 hikey=80 pitch_keycenter=78 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=869 end=443744 loop_mode=loop_sustain loop_start=231787 loop_end=358977 sample=../PolAudio/Squelchy/80F#4-X636.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=522 end=443492 loop_mode=loop_sustain loop_start=108836 loop_end=323506 sample=../PolAudio/Squelchy/80F#4-V9TQ.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=805 end=443774 loop_mode=loop_sustain loop_start=70887 loop_end=146601 sample=../PolAudio/Squelchy/80F#4-BIT9.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=901 end=443858 loop_mode=loop_sustain loop_start=223986 loop_end=331560 sample=../PolAudio/Squelchy/80F#4-DVSS.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=770 end=443835 loop_mode=loop_sustain loop_start=36595 loop_end=116828 sample=../PolAudio/Squelchy/80F#4-WOBK.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=623 loop_mode=loop_sustain loop_start=178674 loop_end=361608 sample=../PolAudio/Squelchy/80F#4-RYVV.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=827 end=442594 loop_mode=loop_sustain loop_start=118003 loop_end=340158 sample=../PolAudio/Squelchy/80F#4-TTOE.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=913 end=444226 loop_mode=loop_sustain loop_start=137000 loop_end=211169 sample=../PolAudio/Squelchy/80F#4-LA3O.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=663 end=442709 loop_mode=loop_sustain loop_start=68152 loop_end=199137 sample=../PolAudio/Squelchy/80F#4-P52I.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=790 end=442874 loop_mode=loop_sustain loop_start=150049 loop_end=225765 sample=../PolAudio/Squelchy/80F#4-WGZ5.wav
+<group>lokey=81 hikey=84 pitch_keycenter=84 
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=500 end=443447 loop_mode=loop_sustain loop_start=91765 loop_end=347838 sample=../PolAudio/Squelchy/84C5-HVSG.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=735 end=443635 loop_mode=loop_sustain loop_start=224738 loop_end=320997 sample=../PolAudio/Squelchy/84C5-N1MC.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=475 end=443374 loop_mode=loop_sustain loop_start=599 loop_end=188674 sample=../PolAudio/Squelchy/84C5-NT3D.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=842 end=442539 loop_mode=loop_sustain loop_start=181898 loop_end=261417 sample=../PolAudio/Squelchy/84C5-ZT6V.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=1024 end=444003 loop_mode=loop_sustain loop_start=152435 loop_end=363827 sample=../PolAudio/Squelchy/84C5-ZVJG.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=768 end=447620 loop_mode=loop_sustain loop_start=257875 loop_end=359857 sample=../PolAudio/Squelchy/84C5-VKAG.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=929 end=442857 loop_mode=loop_sustain loop_start=249606 loop_end=321467 sample=../PolAudio/Squelchy/84C5-2BHD.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=619 end=443880 loop_mode=loop_sustain loop_start=256349 loop_end=349333 sample=../PolAudio/Squelchy/84C5-LYMK.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=629 end=443810 loop_mode=loop_sustain loop_start=244915 loop_end=363054 sample=../PolAudio/Squelchy/84C5-JRMJ.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=783 end=443961 loop_mode=loop_sustain loop_start=183425 loop_end=352984 sample=../PolAudio/Squelchy/84C5-PTN1.wav

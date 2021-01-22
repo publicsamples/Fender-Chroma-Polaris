@@ -1,185 +1,185 @@
 // this file was generated from DustyStack.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=980 sample=../Audio/Dusty/Dusty2424.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=980 sample=../Audio/Dusty/Dusty2424.aif
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=818 sample=../Audio/Dusty/Dusty2525.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=818 sample=../Audio/Dusty/Dusty2525.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=551789 sample=../Audio/Dusty/Dusty2626.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=867 end=551789 sample=../Audio/Dusty/Dusty2626.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=980 end=557055 sample=../Audio/Dusty/Dusty2727.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=980 end=557055 sample=../Audio/Dusty/Dusty2727.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1139 end=541211 sample=../Audio/Dusty/Dusty2828.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1139 end=541211 sample=../Audio/Dusty/Dusty2828.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=981 end=544518 sample=../Audio/Dusty/Dusty2929.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=981 end=544518 sample=../Audio/Dusty/Dusty2929.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=981 sample=../Audio/Dusty/Dusty3030.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=981 sample=../Audio/Dusty/Dusty3030.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1080 end=541018 sample=../Audio/Dusty/Dusty3131.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1080 end=541018 sample=../Audio/Dusty/Dusty3131.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1250 end=543088 sample=../Audio/Dusty/Dusty3232.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1250 end=543088 sample=../Audio/Dusty/Dusty3232.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 end=550905 sample=../Audio/Dusty/Dusty3333.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=937 end=550905 sample=../Audio/Dusty/Dusty3333.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=778 end=546754 sample=../Audio/Dusty/Dusty3434.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=778 end=546754 sample=../Audio/Dusty/Dusty3434.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1071 sample=../Audio/Dusty/Dusty3535.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1071 sample=../Audio/Dusty/Dusty3535.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 sample=../Audio/Dusty/Dusty3636.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=840 sample=../Audio/Dusty/Dusty3636.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 sample=../Audio/Dusty/Dusty3737.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=933 sample=../Audio/Dusty/Dusty3737.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=999 end=546353 sample=../Audio/Dusty/Dusty3838.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=999 end=546353 sample=../Audio/Dusty/Dusty3838.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=898 end=549636 sample=../Audio/Dusty/Dusty3939.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=898 end=549636 sample=../Audio/Dusty/Dusty3939.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=719 end=551017 sample=../Audio/Dusty/Dusty4040.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=719 end=551017 sample=../Audio/Dusty/Dusty4040.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=977 sample=../Audio/Dusty/Dusty4141.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=977 sample=../Audio/Dusty/Dusty4141.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=820 end=551094 sample=../Audio/Dusty/Dusty4242.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=820 end=551094 sample=../Audio/Dusty/Dusty4242.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 sample=../Audio/Dusty/Dusty4343.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=752 sample=../Audio/Dusty/Dusty4343.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=935 sample=../Audio/Dusty/Dusty4444.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=935 sample=../Audio/Dusty/Dusty4444.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1113 end=548481 sample=../Audio/Dusty/Dusty4545.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1113 end=548481 sample=../Audio/Dusty/Dusty4545.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=971 sample=../Audio/Dusty/Dusty4646.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=971 sample=../Audio/Dusty/Dusty4646.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=594 end=550974 sample=../Audio/Dusty/Dusty4747.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=594 end=550974 sample=../Audio/Dusty/Dusty4747.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=902 end=551769 sample=../Audio/Dusty/Dusty4848.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=902 end=551769 sample=../Audio/Dusty/Dusty4848.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=984 end=549075 sample=../Audio/Dusty/Dusty4949.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=984 end=549075 sample=../Audio/Dusty/Dusty4949.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1089 sample=../Audio/Dusty/Dusty5050.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1089 sample=../Audio/Dusty/Dusty5050.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=947 sample=../Audio/Dusty/Dusty5151.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=947 sample=../Audio/Dusty/Dusty5151.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1226 end=548786 sample=../Audio/Dusty/Dusty5252.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1226 end=548786 sample=../Audio/Dusty/Dusty5252.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=706 sample=../Audio/Dusty/Dusty5353.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=706 sample=../Audio/Dusty/Dusty5353.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=965 sample=../Audio/Dusty/Dusty5454.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=965 sample=../Audio/Dusty/Dusty5454.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=551141 sample=../Audio/Dusty/Dusty5555.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=647 end=551141 sample=../Audio/Dusty/Dusty5555.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=705 sample=../Audio/Dusty/Dusty5656.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=705 sample=../Audio/Dusty/Dusty5656.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=765 end=553516 sample=../Audio/Dusty/Dusty5757.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=765 end=553516 sample=../Audio/Dusty/Dusty5757.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1089 end=545185 sample=../Audio/Dusty/Dusty5858.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1089 end=545185 sample=../Audio/Dusty/Dusty5858.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=995 end=551860 sample=../Audio/Dusty/Dusty5959.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=995 end=551860 sample=../Audio/Dusty/Dusty5959.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1000 end=550813 sample=../Audio/Dusty/Dusty6060.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1000 end=550813 sample=../Audio/Dusty/Dusty6060.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=873 sample=../Audio/Dusty/Dusty6161.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=873 sample=../Audio/Dusty/Dusty6161.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=916 end=550486 sample=../Audio/Dusty/Dusty6262.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=916 end=550486 sample=../Audio/Dusty/Dusty6262.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=824 end=562443 sample=../Audio/Dusty/Dusty6363.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=824 end=562443 sample=../Audio/Dusty/Dusty6363.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=913 end=544037 sample=../Audio/Dusty/Dusty6464.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=913 end=544037 sample=../Audio/Dusty/Dusty6464.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=713 end=557718 sample=../Audio/Dusty/Dusty6565.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=713 end=557718 sample=../Audio/Dusty/Dusty6565.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1046 end=551685 sample=../Audio/Dusty/Dusty6666.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1046 end=551685 sample=../Audio/Dusty/Dusty6666.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1056 end=557448 sample=../Audio/Dusty/Dusty6767.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1056 end=557448 sample=../Audio/Dusty/Dusty6767.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1161 end=545556 sample=../Audio/Dusty/Dusty6868.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1161 end=545556 sample=../Audio/Dusty/Dusty6868.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=724 end=557990 sample=../Audio/Dusty/Dusty6969.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=724 end=557990 sample=../Audio/Dusty/Dusty6969.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1148 end=552161 sample=../Audio/Dusty/Dusty7070.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1148 end=552161 sample=../Audio/Dusty/Dusty7070.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1137 end=551800 sample=../Audio/Dusty/Dusty7171.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1137 end=551800 sample=../Audio/Dusty/Dusty7171.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=878 end=553765 sample=../Audio/Dusty/Dusty7272.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=878 end=553765 sample=../Audio/Dusty/Dusty7272.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1169 end=557896 sample=../Audio/Dusty/Dusty7373.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1169 end=557896 sample=../Audio/Dusty/Dusty7373.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=981 end=546312 sample=../Audio/Dusty/Dusty7474.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=981 end=546312 sample=../Audio/Dusty/Dusty7474.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1236 end=557415 sample=../Audio/Dusty/Dusty7575.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1236 end=557415 sample=../Audio/Dusty/Dusty7575.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1086 end=554869 sample=../Audio/Dusty/Dusty7676.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1086 end=554869 sample=../Audio/Dusty/Dusty7676.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 sample=../Audio/Dusty/Dusty7777.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1108 sample=../Audio/Dusty/Dusty7777.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=654 end=550379 sample=../Audio/Dusty/Dusty7878.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=654 end=550379 sample=../Audio/Dusty/Dusty7878.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1083 end=562668 sample=../Audio/Dusty/Dusty7979.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1083 end=562668 sample=../Audio/Dusty/Dusty7979.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1148 sample=../Audio/Dusty/Dusty8080.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1148 sample=../Audio/Dusty/Dusty8080.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1004 end=561793 sample=../Audio/Dusty/Dusty8181.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1004 end=561793 sample=../Audio/Dusty/Dusty8181.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1021 end=557221 sample=../Audio/Dusty/Dusty8282.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1021 end=557221 sample=../Audio/Dusty/Dusty8282.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1161 end=560643 sample=../Audio/Dusty/Dusty8383.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=1161 end=560643 sample=../Audio/Dusty/Dusty8383.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=887 end=558530 sample=../Audio/Dusty/Dusty8484.aif
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=14 offset=887 end=558530 sample=../Audio/Dusty/Dusty8484.aif
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=980 sample=../PolAudio/Dusty/Dusty2424.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=980 sample=../PolAudio/Dusty/Dusty2424.aif
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=818 sample=../PolAudio/Dusty/Dusty2525.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=818 sample=../PolAudio/Dusty/Dusty2525.aif
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=867 end=551789 sample=../PolAudio/Dusty/Dusty2626.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=867 end=551789 sample=../PolAudio/Dusty/Dusty2626.aif
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=980 end=557055 sample=../PolAudio/Dusty/Dusty2727.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=980 end=557055 sample=../PolAudio/Dusty/Dusty2727.aif
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1139 end=541211 sample=../PolAudio/Dusty/Dusty2828.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1139 end=541211 sample=../PolAudio/Dusty/Dusty2828.aif
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=981 end=544518 sample=../PolAudio/Dusty/Dusty2929.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=981 end=544518 sample=../PolAudio/Dusty/Dusty2929.aif
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=981 sample=../PolAudio/Dusty/Dusty3030.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=981 sample=../PolAudio/Dusty/Dusty3030.aif
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1080 end=541018 sample=../PolAudio/Dusty/Dusty3131.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1080 end=541018 sample=../PolAudio/Dusty/Dusty3131.aif
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1250 end=543088 sample=../PolAudio/Dusty/Dusty3232.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1250 end=543088 sample=../PolAudio/Dusty/Dusty3232.aif
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=937 end=550905 sample=../PolAudio/Dusty/Dusty3333.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=937 end=550905 sample=../PolAudio/Dusty/Dusty3333.aif
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=778 end=546754 sample=../PolAudio/Dusty/Dusty3434.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=778 end=546754 sample=../PolAudio/Dusty/Dusty3434.aif
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1071 sample=../PolAudio/Dusty/Dusty3535.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1071 sample=../PolAudio/Dusty/Dusty3535.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=840 sample=../PolAudio/Dusty/Dusty3636.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=840 sample=../PolAudio/Dusty/Dusty3636.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=933 sample=../PolAudio/Dusty/Dusty3737.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=933 sample=../PolAudio/Dusty/Dusty3737.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=999 end=546353 sample=../PolAudio/Dusty/Dusty3838.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=999 end=546353 sample=../PolAudio/Dusty/Dusty3838.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=898 end=549636 sample=../PolAudio/Dusty/Dusty3939.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=898 end=549636 sample=../PolAudio/Dusty/Dusty3939.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=719 end=551017 sample=../PolAudio/Dusty/Dusty4040.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=719 end=551017 sample=../PolAudio/Dusty/Dusty4040.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=977 sample=../PolAudio/Dusty/Dusty4141.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=977 sample=../PolAudio/Dusty/Dusty4141.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=820 end=551094 sample=../PolAudio/Dusty/Dusty4242.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=820 end=551094 sample=../PolAudio/Dusty/Dusty4242.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=752 sample=../PolAudio/Dusty/Dusty4343.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=752 sample=../PolAudio/Dusty/Dusty4343.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=935 sample=../PolAudio/Dusty/Dusty4444.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=935 sample=../PolAudio/Dusty/Dusty4444.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1113 end=548481 sample=../PolAudio/Dusty/Dusty4545.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1113 end=548481 sample=../PolAudio/Dusty/Dusty4545.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=971 sample=../PolAudio/Dusty/Dusty4646.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=971 sample=../PolAudio/Dusty/Dusty4646.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=594 end=550974 sample=../PolAudio/Dusty/Dusty4747.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=594 end=550974 sample=../PolAudio/Dusty/Dusty4747.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=902 end=551769 sample=../PolAudio/Dusty/Dusty4848.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=902 end=551769 sample=../PolAudio/Dusty/Dusty4848.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=984 end=549075 sample=../PolAudio/Dusty/Dusty4949.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=984 end=549075 sample=../PolAudio/Dusty/Dusty4949.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1089 sample=../PolAudio/Dusty/Dusty5050.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1089 sample=../PolAudio/Dusty/Dusty5050.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=947 sample=../PolAudio/Dusty/Dusty5151.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=947 sample=../PolAudio/Dusty/Dusty5151.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1226 end=548786 sample=../PolAudio/Dusty/Dusty5252.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1226 end=548786 sample=../PolAudio/Dusty/Dusty5252.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=706 sample=../PolAudio/Dusty/Dusty5353.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=706 sample=../PolAudio/Dusty/Dusty5353.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=965 sample=../PolAudio/Dusty/Dusty5454.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=965 sample=../PolAudio/Dusty/Dusty5454.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=647 end=551141 sample=../PolAudio/Dusty/Dusty5555.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=647 end=551141 sample=../PolAudio/Dusty/Dusty5555.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=705 sample=../PolAudio/Dusty/Dusty5656.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=705 sample=../PolAudio/Dusty/Dusty5656.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=765 end=553516 sample=../PolAudio/Dusty/Dusty5757.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=765 end=553516 sample=../PolAudio/Dusty/Dusty5757.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1089 end=545185 sample=../PolAudio/Dusty/Dusty5858.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1089 end=545185 sample=../PolAudio/Dusty/Dusty5858.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=995 end=551860 sample=../PolAudio/Dusty/Dusty5959.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=995 end=551860 sample=../PolAudio/Dusty/Dusty5959.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1000 end=550813 sample=../PolAudio/Dusty/Dusty6060.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1000 end=550813 sample=../PolAudio/Dusty/Dusty6060.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=873 sample=../PolAudio/Dusty/Dusty6161.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=873 sample=../PolAudio/Dusty/Dusty6161.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=916 end=550486 sample=../PolAudio/Dusty/Dusty6262.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=916 end=550486 sample=../PolAudio/Dusty/Dusty6262.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=824 end=562443 sample=../PolAudio/Dusty/Dusty6363.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=824 end=562443 sample=../PolAudio/Dusty/Dusty6363.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=913 end=544037 sample=../PolAudio/Dusty/Dusty6464.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=913 end=544037 sample=../PolAudio/Dusty/Dusty6464.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=713 end=557718 sample=../PolAudio/Dusty/Dusty6565.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=713 end=557718 sample=../PolAudio/Dusty/Dusty6565.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1046 end=551685 sample=../PolAudio/Dusty/Dusty6666.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1046 end=551685 sample=../PolAudio/Dusty/Dusty6666.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1056 end=557448 sample=../PolAudio/Dusty/Dusty6767.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1056 end=557448 sample=../PolAudio/Dusty/Dusty6767.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1161 end=545556 sample=../PolAudio/Dusty/Dusty6868.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1161 end=545556 sample=../PolAudio/Dusty/Dusty6868.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=724 end=557990 sample=../PolAudio/Dusty/Dusty6969.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=724 end=557990 sample=../PolAudio/Dusty/Dusty6969.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1148 end=552161 sample=../PolAudio/Dusty/Dusty7070.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1148 end=552161 sample=../PolAudio/Dusty/Dusty7070.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1137 end=551800 sample=../PolAudio/Dusty/Dusty7171.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1137 end=551800 sample=../PolAudio/Dusty/Dusty7171.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=878 end=553765 sample=../PolAudio/Dusty/Dusty7272.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=878 end=553765 sample=../PolAudio/Dusty/Dusty7272.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1169 end=557896 sample=../PolAudio/Dusty/Dusty7373.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1169 end=557896 sample=../PolAudio/Dusty/Dusty7373.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=981 end=546312 sample=../PolAudio/Dusty/Dusty7474.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=981 end=546312 sample=../PolAudio/Dusty/Dusty7474.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1236 end=557415 sample=../PolAudio/Dusty/Dusty7575.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1236 end=557415 sample=../PolAudio/Dusty/Dusty7575.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1086 end=554869 sample=../PolAudio/Dusty/Dusty7676.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1086 end=554869 sample=../PolAudio/Dusty/Dusty7676.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1108 sample=../PolAudio/Dusty/Dusty7777.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1108 sample=../PolAudio/Dusty/Dusty7777.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=654 end=550379 sample=../PolAudio/Dusty/Dusty7878.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=654 end=550379 sample=../PolAudio/Dusty/Dusty7878.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1083 end=562668 sample=../PolAudio/Dusty/Dusty7979.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1083 end=562668 sample=../PolAudio/Dusty/Dusty7979.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1148 sample=../PolAudio/Dusty/Dusty8080.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1148 sample=../PolAudio/Dusty/Dusty8080.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1004 end=561793 sample=../PolAudio/Dusty/Dusty8181.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1004 end=561793 sample=../PolAudio/Dusty/Dusty8181.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1021 end=557221 sample=../PolAudio/Dusty/Dusty8282.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1021 end=557221 sample=../PolAudio/Dusty/Dusty8282.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1161 end=560643 sample=../PolAudio/Dusty/Dusty8383.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=1161 end=560643 sample=../PolAudio/Dusty/Dusty8383.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=887 end=558530 sample=../PolAudio/Dusty/Dusty8484.aif
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=14 offset=887 end=558530 sample=../PolAudio/Dusty/Dusty8484.aif

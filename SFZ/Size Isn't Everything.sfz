@@ -1,124 +1,124 @@
 // this file was generated from Size Isn't Everything.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=24 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=164335 sample=../Audio/Size Isn't Everything/24C0-K7QC.wav
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=808 end=148747 sample=../Audio/Size Isn't Everything/25C#0-N5P0.wav
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=417 end=156672 sample=../Audio/Size Isn't Everything/26D0-YTSI.wav
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=702 sample=../Audio/Size Isn't Everything/27D#0-H0D9.wav
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=723 end=133747 sample=../Audio/Size Isn't Everything/28E0-Z4SF.wav
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 end=105186 sample=../Audio/Size Isn't Everything/29F0-P7HG.wav
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 end=103922 sample=../Audio/Size Isn't Everything/30F#0-P390.wav
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 end=99874 sample=../Audio/Size Isn't Everything/31G0-78TM.wav
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=841 end=97395 sample=../Audio/Size Isn't Everything/32G#0-WBJ6.wav
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=97268 sample=../Audio/Size Isn't Everything/33A0-7G1V.wav
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=607 end=95821 sample=../Audio/Size Isn't Everything/34A#0-857C.wav
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1021 end=96256 sample=../Audio/Size Isn't Everything/35B0-FBG2.wav
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=994 end=92622 sample=../Audio/Size Isn't Everything/36C1-0VKM.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=671 end=98837 sample=../Audio/Size Isn't Everything/37C#1-10CA.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=773 end=96713 sample=../Audio/Size Isn't Everything/38D1-56A3.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=431 end=94150 sample=../Audio/Size Isn't Everything/39D#1-3VWN.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 end=97525 sample=../Audio/Size Isn't Everything/40E1-C1JX.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=525 end=96518 sample=../Audio/Size Isn't Everything/41F1-0B41.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=90367 sample=../Audio/Size Isn't Everything/42F#1-SYM0.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=977 end=91201 sample=../Audio/Size Isn't Everything/43G1-ILII.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 end=92821 sample=../Audio/Size Isn't Everything/44G#1-8SP0.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=894 end=92128 sample=../Audio/Size Isn't Everything/45A1-OF0F.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=568 end=92610 sample=../Audio/Size Isn't Everything/46A#1-OLCW.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=723 end=90196 sample=../Audio/Size Isn't Everything/47B1-FM9U.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=897 end=89305 sample=../Audio/Size Isn't Everything/48C2-7G2T.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=788 end=90621 sample=../Audio/Size Isn't Everything/49C#2-YC1C.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=749 sample=../Audio/Size Isn't Everything/50D2-49OV.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=645 end=73250 sample=../Audio/Size Isn't Everything/51D#2-7SE7.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=875 end=70352 sample=../Audio/Size Isn't Everything/52E2-BU0B.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=957 sample=../Audio/Size Isn't Everything/53F2-BBY6.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=63391 sample=../Audio/Size Isn't Everything/54F#2-L51N.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 end=79246 sample=../Audio/Size Isn't Everything/55G2-1CGN.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=466 end=55197 sample=../Audio/Size Isn't Everything/56G#2-BSD5.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=853 sample=../Audio/Size Isn't Everything/57A2-2MBI.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=948 end=71330 sample=../Audio/Size Isn't Everything/58A#2-0BMX.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=764 end=49328 sample=../Audio/Size Isn't Everything/59B2-MPNL.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=828 end=83231 sample=../Audio/Size Isn't Everything/60C3-YYZO.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=580 sample=../Audio/Size Isn't Everything/61C#3-IW17.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=80200 sample=../Audio/Size Isn't Everything/62D3-Y81T.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=940 end=47246 sample=../Audio/Size Isn't Everything/63D#3-Y8MP.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=960 end=43546 sample=../Audio/Size Isn't Everything/64E3-ZDTJ.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=410 end=94158 sample=../Audio/Size Isn't Everything/65F3-ASZ7.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 end=49804 sample=../Audio/Size Isn't Everything/66F#3-SY80.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=606 end=60532 sample=../Audio/Size Isn't Everything/67G3-TM5J.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=551 end=42797 sample=../Audio/Size Isn't Everything/68G#3-XSTL.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 end=45745 sample=../Audio/Size Isn't Everything/69A3-ZLXZ.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=495 end=38708 sample=../Audio/Size Isn't Everything/70A#3-8ZHL.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=844 end=68674 sample=../Audio/Size Isn't Everything/71B3-WT5B.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=944 end=58104 sample=../Audio/Size Isn't Everything/72C4-9B6F.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=38766 sample=../Audio/Size Isn't Everything/73C#4-QMQ8.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=904 end=98927 sample=../Audio/Size Isn't Everything/74D4-DSI7.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=558 end=32550 sample=../Audio/Size Isn't Everything/75D#4-CUDE.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=525 sample=../Audio/Size Isn't Everything/76E4-KPZI.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=825 end=127941 sample=../Audio/Size Isn't Everything/77F4-IIKL.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 end=93308 sample=../Audio/Size Isn't Everything/78F#4-OUPT.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=613 end=26149 sample=../Audio/Size Isn't Everything/79G4-UTYO.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=552 end=123357 sample=../Audio/Size Isn't Everything/80G#4-0Y3Q.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 end=89041 sample=../Audio/Size Isn't Everything/81A4-AZVA.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=685 end=34049 sample=../Audio/Size Isn't Everything/82A#4-500K.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=551 end=152715 sample=../Audio/Size Isn't Everything/83B4-W1XV.wav
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 sample=../Audio/Size Isn't Everything/84C5-8NAB.wav
+<group> key=24 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=896 end=164335 sample=../PolAudio/Size Isn't Everything/24C0-K7QC.wav
+<group> key=25 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=808 end=148747 sample=../PolAudio/Size Isn't Everything/25C#0-N5P0.wav
+<group> key=26 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=417 end=156672 sample=../PolAudio/Size Isn't Everything/26D0-YTSI.wav
+<group> key=27 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=702 sample=../PolAudio/Size Isn't Everything/27D#0-H0D9.wav
+<group> key=28 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=723 end=133747 sample=../PolAudio/Size Isn't Everything/28E0-Z4SF.wav
+<group> key=29 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=735 end=105186 sample=../PolAudio/Size Isn't Everything/29F0-P7HG.wav
+<group> key=30 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=840 end=103922 sample=../PolAudio/Size Isn't Everything/30F#0-P390.wav
+<group> key=31 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=586 end=99874 sample=../PolAudio/Size Isn't Everything/31G0-78TM.wav
+<group> key=32 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=841 end=97395 sample=../PolAudio/Size Isn't Everything/32G#0-WBJ6.wav
+<group> key=33 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=945 end=97268 sample=../PolAudio/Size Isn't Everything/33A0-7G1V.wav
+<group> key=34 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=607 end=95821 sample=../PolAudio/Size Isn't Everything/34A#0-857C.wav
+<group> key=35 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=1021 end=96256 sample=../PolAudio/Size Isn't Everything/35B0-FBG2.wav
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=994 end=92622 sample=../PolAudio/Size Isn't Everything/36C1-0VKM.wav
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=671 end=98837 sample=../PolAudio/Size Isn't Everything/37C#1-10CA.wav
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=773 end=96713 sample=../PolAudio/Size Isn't Everything/38D1-56A3.wav
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=431 end=94150 sample=../PolAudio/Size Isn't Everything/39D#1-3VWN.wav
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=646 end=97525 sample=../PolAudio/Size Isn't Everything/40E1-C1JX.wav
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=525 end=96518 sample=../PolAudio/Size Isn't Everything/41F1-0B41.wav
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=752 end=90367 sample=../PolAudio/Size Isn't Everything/42F#1-SYM0.wav
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=977 end=91201 sample=../PolAudio/Size Isn't Everything/43G1-ILII.wav
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=845 end=92821 sample=../PolAudio/Size Isn't Everything/44G#1-8SP0.wav
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=894 end=92128 sample=../PolAudio/Size Isn't Everything/45A1-OF0F.wav
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=568 end=92610 sample=../PolAudio/Size Isn't Everything/46A#1-OLCW.wav
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=723 end=90196 sample=../PolAudio/Size Isn't Everything/47B1-FM9U.wav
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=897 end=89305 sample=../PolAudio/Size Isn't Everything/48C2-7G2T.wav
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=788 end=90621 sample=../PolAudio/Size Isn't Everything/49C#2-YC1C.wav
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=749 sample=../PolAudio/Size Isn't Everything/50D2-49OV.wav
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=645 end=73250 sample=../PolAudio/Size Isn't Everything/51D#2-7SE7.wav
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=875 end=70352 sample=../PolAudio/Size Isn't Everything/52E2-BU0B.wav
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=957 sample=../PolAudio/Size Isn't Everything/53F2-BBY6.wav
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=500 end=63391 sample=../PolAudio/Size Isn't Everything/54F#2-L51N.wav
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=762 end=79246 sample=../PolAudio/Size Isn't Everything/55G2-1CGN.wav
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=466 end=55197 sample=../PolAudio/Size Isn't Everything/56G#2-BSD5.wav
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=853 sample=../PolAudio/Size Isn't Everything/57A2-2MBI.wav
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=948 end=71330 sample=../PolAudio/Size Isn't Everything/58A#2-0BMX.wav
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=764 end=49328 sample=../PolAudio/Size Isn't Everything/59B2-MPNL.wav
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=828 end=83231 sample=../PolAudio/Size Isn't Everything/60C3-YYZO.wav
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=580 sample=../PolAudio/Size Isn't Everything/61C#3-IW17.wav
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=789 end=80200 sample=../PolAudio/Size Isn't Everything/62D3-Y81T.wav
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=940 end=47246 sample=../PolAudio/Size Isn't Everything/63D#3-Y8MP.wav
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=960 end=43546 sample=../PolAudio/Size Isn't Everything/64E3-ZDTJ.wav
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=410 end=94158 sample=../PolAudio/Size Isn't Everything/65F3-ASZ7.wav
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=768 end=49804 sample=../PolAudio/Size Isn't Everything/66F#3-SY80.wav
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=606 end=60532 sample=../PolAudio/Size Isn't Everything/67G3-TM5J.wav
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=551 end=42797 sample=../PolAudio/Size Isn't Everything/68G#3-XSTL.wav
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=920 end=45745 sample=../PolAudio/Size Isn't Everything/69A3-ZLXZ.wav
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=495 end=38708 sample=../PolAudio/Size Isn't Everything/70A#3-8ZHL.wav
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=844 end=68674 sample=../PolAudio/Size Isn't Everything/71B3-WT5B.wav
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=944 end=58104 sample=../PolAudio/Size Isn't Everything/72C4-9B6F.wav
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=699 end=38766 sample=../PolAudio/Size Isn't Everything/73C#4-QMQ8.wav
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=904 end=98927 sample=../PolAudio/Size Isn't Everything/74D4-DSI7.wav
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=558 end=32550 sample=../PolAudio/Size Isn't Everything/75D#4-CUDE.wav
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=525 sample=../PolAudio/Size Isn't Everything/76E4-KPZI.wav
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=825 end=127941 sample=../PolAudio/Size Isn't Everything/77F4-IIKL.wav
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=779 end=93308 sample=../PolAudio/Size Isn't Everything/78F#4-OUPT.wav
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=613 end=26149 sample=../PolAudio/Size Isn't Everything/79G4-UTYO.wav
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=552 end=123357 sample=../PolAudio/Size Isn't Everything/80G#4-0Y3Q.wav
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=755 end=89041 sample=../PolAudio/Size Isn't Everything/81A4-AZVA.wav
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=685 end=34049 sample=../PolAudio/Size Isn't Everything/82A#4-500K.wav
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=551 end=152715 sample=../PolAudio/Size Isn't Everything/83B4-W1XV.wav
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  offset=720 sample=../PolAudio/Size Isn't Everything/84C5-8NAB.wav

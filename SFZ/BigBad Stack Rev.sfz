@@ -1,247 +1,247 @@
 // this file was generated from BigBad Stack Rev.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1816 end=673109 sample=../Audio/BigBad/36C1-8KP2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1816 end=673109 sample=../Audio/BigBad/36C1-8KP2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1816 end=673109 sample=../Audio/BigBad/36C1-8KP2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1816 end=673109 sample=../Audio/BigBad/36C1-8KP2.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1702 end=654680 sample=../Audio/BigBad/37C#1-ISWA.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1702 end=654680 sample=../Audio/BigBad/37C#1-ISWA.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1702 end=654680 sample=../Audio/BigBad/37C#1-ISWA.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1702 end=654680 sample=../Audio/BigBad/37C#1-ISWA.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1455 end=679040 sample=../Audio/BigBad/38D1-4G8C.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1455 end=679040 sample=../Audio/BigBad/38D1-4G8C.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1455 end=679040 sample=../Audio/BigBad/38D1-4G8C.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1455 end=679040 sample=../Audio/BigBad/38D1-4G8C.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1066 sample=../Audio/BigBad/39D#1-F1PZ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1066 sample=../Audio/BigBad/39D#1-F1PZ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1066 sample=../Audio/BigBad/39D#1-F1PZ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1066 sample=../Audio/BigBad/39D#1-F1PZ.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1651 sample=../Audio/BigBad/40E1-PE1F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1651 sample=../Audio/BigBad/40E1-PE1F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1651 sample=../Audio/BigBad/40E1-PE1F.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1651 sample=../Audio/BigBad/40E1-PE1F.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1278 end=677202 sample=../Audio/BigBad/41F1-VQHQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1278 end=677202 sample=../Audio/BigBad/41F1-VQHQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1278 end=677202 sample=../Audio/BigBad/41F1-VQHQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1278 end=677202 sample=../Audio/BigBad/41F1-VQHQ.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1502 sample=../Audio/BigBad/42F#1-XNA5.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1502 sample=../Audio/BigBad/42F#1-XNA5.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1502 sample=../Audio/BigBad/42F#1-XNA5.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1502 sample=../Audio/BigBad/42F#1-XNA5.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1427 sample=../Audio/BigBad/43G1-45TX.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1427 sample=../Audio/BigBad/43G1-45TX.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1427 sample=../Audio/BigBad/43G1-45TX.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1427 sample=../Audio/BigBad/43G1-45TX.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1407 sample=../Audio/BigBad/44G#1-EK47.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1407 sample=../Audio/BigBad/44G#1-EK47.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1407 sample=../Audio/BigBad/44G#1-EK47.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1407 sample=../Audio/BigBad/44G#1-EK47.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1411 sample=../Audio/BigBad/45A1-IWP3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1411 sample=../Audio/BigBad/45A1-IWP3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1411 sample=../Audio/BigBad/45A1-IWP3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1411 sample=../Audio/BigBad/45A1-IWP3.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1691 end=676866 sample=../Audio/BigBad/46A#1-NQ5X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1691 end=676866 sample=../Audio/BigBad/46A#1-NQ5X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1691 end=676866 sample=../Audio/BigBad/46A#1-NQ5X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1691 end=676866 sample=../Audio/BigBad/46A#1-NQ5X.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1459 end=654469 sample=../Audio/BigBad/47B1-XGT8.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1459 end=654469 sample=../Audio/BigBad/47B1-XGT8.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1459 end=654469 sample=../Audio/BigBad/47B1-XGT8.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1459 end=654469 sample=../Audio/BigBad/47B1-XGT8.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1841 end=680589 sample=../Audio/BigBad/48C2-YJ4E.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1841 end=680589 sample=../Audio/BigBad/48C2-YJ4E.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1841 end=680589 sample=../Audio/BigBad/48C2-YJ4E.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1841 end=680589 sample=../Audio/BigBad/48C2-YJ4E.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1434 sample=../Audio/BigBad/49C#2-8ISO.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1434 sample=../Audio/BigBad/49C#2-8ISO.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1434 sample=../Audio/BigBad/49C#2-8ISO.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1434 sample=../Audio/BigBad/49C#2-8ISO.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1368 end=658560 sample=../Audio/BigBad/50D2-X9YW.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1368 end=658560 sample=../Audio/BigBad/50D2-X9YW.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1368 end=658560 sample=../Audio/BigBad/50D2-X9YW.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1368 end=658560 sample=../Audio/BigBad/50D2-X9YW.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1369 end=675712 sample=../Audio/BigBad/51D#2-7QMT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1369 end=675712 sample=../Audio/BigBad/51D#2-7QMT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1369 end=675712 sample=../Audio/BigBad/51D#2-7QMT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1369 end=675712 sample=../Audio/BigBad/51D#2-7QMT.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1791 end=653367 sample=../Audio/BigBad/52E2-44BC.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1791 end=653367 sample=../Audio/BigBad/52E2-44BC.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1791 end=653367 sample=../Audio/BigBad/52E2-44BC.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1791 end=653367 sample=../Audio/BigBad/52E2-44BC.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1617 end=679383 sample=../Audio/BigBad/53F2-Q6HB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1617 end=679383 sample=../Audio/BigBad/53F2-Q6HB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1617 end=679383 sample=../Audio/BigBad/53F2-Q6HB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1617 end=679383 sample=../Audio/BigBad/53F2-Q6HB.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1222 sample=../Audio/BigBad/54F#2-J90B.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1222 sample=../Audio/BigBad/54F#2-J90B.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1222 sample=../Audio/BigBad/54F#2-J90B.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1222 sample=../Audio/BigBad/54F#2-J90B.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1322 end=659669 sample=../Audio/BigBad/55G2-F0VY.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1322 end=659669 sample=../Audio/BigBad/55G2-F0VY.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1322 end=659669 sample=../Audio/BigBad/55G2-F0VY.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1322 end=659669 sample=../Audio/BigBad/55G2-F0VY.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1093 end=677484 sample=../Audio/BigBad/56G#2-F4IQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1093 end=677484 sample=../Audio/BigBad/56G#2-F4IQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1093 end=677484 sample=../Audio/BigBad/56G#2-F4IQ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1093 end=677484 sample=../Audio/BigBad/56G#2-F4IQ.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1778 sample=../Audio/BigBad/57A2-9PJM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1778 sample=../Audio/BigBad/57A2-9PJM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1778 sample=../Audio/BigBad/57A2-9PJM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1778 sample=../Audio/BigBad/57A2-9PJM.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1231 end=678528 sample=../Audio/BigBad/58A#2-JQYT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1231 end=678528 sample=../Audio/BigBad/58A#2-JQYT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1231 end=678528 sample=../Audio/BigBad/58A#2-JQYT.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1231 end=678528 sample=../Audio/BigBad/58A#2-JQYT.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1480 end=640896 sample=../Audio/BigBad/59B2-PUBU.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1480 end=640896 sample=../Audio/BigBad/59B2-PUBU.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1480 end=640896 sample=../Audio/BigBad/59B2-PUBU.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1480 end=640896 sample=../Audio/BigBad/59B2-PUBU.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1391 end=658560 sample=../Audio/BigBad/60C3-AJZB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1391 end=658560 sample=../Audio/BigBad/60C3-AJZB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1391 end=658560 sample=../Audio/BigBad/60C3-AJZB.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1391 end=658560 sample=../Audio/BigBad/60C3-AJZB.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2025 end=672640 sample=../Audio/BigBad/61C#3-BYGM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2025 end=672640 sample=../Audio/BigBad/61C#3-BYGM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2025 end=672640 sample=../Audio/BigBad/61C#3-BYGM.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2025 end=672640 sample=../Audio/BigBad/61C#3-BYGM.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1284 end=653312 sample=../Audio/BigBad/62D3-XO9W.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1284 end=653312 sample=../Audio/BigBad/62D3-XO9W.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1284 end=653312 sample=../Audio/BigBad/62D3-XO9W.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1284 end=653312 sample=../Audio/BigBad/62D3-XO9W.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1650 sample=../Audio/BigBad/63D#3-IVK2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1650 sample=../Audio/BigBad/63D#3-IVK2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1650 sample=../Audio/BigBad/63D#3-IVK2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1650 sample=../Audio/BigBad/63D#3-IVK2.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1890 end=640259 sample=../Audio/BigBad/64E3-8J31.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1890 end=640259 sample=../Audio/BigBad/64E3-8J31.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1890 end=640259 sample=../Audio/BigBad/64E3-8J31.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1890 end=640259 sample=../Audio/BigBad/64E3-8J31.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1899 end=660498 sample=../Audio/BigBad/65F3-SKX3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1899 end=660498 sample=../Audio/BigBad/65F3-SKX3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1899 end=660498 sample=../Audio/BigBad/65F3-SKX3.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1899 end=660498 sample=../Audio/BigBad/65F3-SKX3.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1657 end=673792 sample=../Audio/BigBad/66F#3-HQ7J.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1657 end=673792 sample=../Audio/BigBad/66F#3-HQ7J.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1657 end=673792 sample=../Audio/BigBad/66F#3-HQ7J.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1657 end=673792 sample=../Audio/BigBad/66F#3-HQ7J.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2025 end=653440 sample=../Audio/BigBad/67G3-KQ25.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2025 end=653440 sample=../Audio/BigBad/67G3-KQ25.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2025 end=653440 sample=../Audio/BigBad/67G3-KQ25.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2025 end=653440 sample=../Audio/BigBad/67G3-KQ25.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1342 end=676992 sample=../Audio/BigBad/68G#3-C5VZ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1342 end=676992 sample=../Audio/BigBad/68G#3-C5VZ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1342 end=676992 sample=../Audio/BigBad/68G#3-C5VZ.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1342 end=676992 sample=../Audio/BigBad/68G#3-C5VZ.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1749 sample=../Audio/BigBad/69A3-CGO2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1749 sample=../Audio/BigBad/69A3-CGO2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1749 sample=../Audio/BigBad/69A3-CGO2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1749 sample=../Audio/BigBad/69A3-CGO2.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2130 end=658711 sample=../Audio/BigBad/70A#3-BU3X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2130 end=658711 sample=../Audio/BigBad/70A#3-BU3X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2130 end=658711 sample=../Audio/BigBad/70A#3-BU3X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2130 end=658711 sample=../Audio/BigBad/70A#3-BU3X.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1530 end=675200 sample=../Audio/BigBad/71B3-Z8M4.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1530 end=675200 sample=../Audio/BigBad/71B3-Z8M4.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1530 end=675200 sample=../Audio/BigBad/71B3-Z8M4.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1530 end=675200 sample=../Audio/BigBad/71B3-Z8M4.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1740 sample=../Audio/BigBad/72C4-Q71X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1740 sample=../Audio/BigBad/72C4-Q71X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1740 sample=../Audio/BigBad/72C4-Q71X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1740 sample=../Audio/BigBad/72C4-Q71X.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1405 end=676610 sample=../Audio/BigBad/73C#4-85C2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1405 end=676610 sample=../Audio/BigBad/73C#4-85C2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1405 end=676610 sample=../Audio/BigBad/73C#4-85C2.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1405 end=676610 sample=../Audio/BigBad/73C#4-85C2.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1528 sample=../Audio/BigBad/74D4-VE8A.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1528 sample=../Audio/BigBad/74D4-VE8A.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1528 sample=../Audio/BigBad/74D4-VE8A.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1528 sample=../Audio/BigBad/74D4-VE8A.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1542 sample=../Audio/BigBad/75D#4-DA8X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1542 sample=../Audio/BigBad/75D#4-DA8X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1542 sample=../Audio/BigBad/75D#4-DA8X.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1542 sample=../Audio/BigBad/75D#4-DA8X.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1113 sample=../Audio/BigBad/76E4-08AP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1113 sample=../Audio/BigBad/76E4-08AP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1113 sample=../Audio/BigBad/76E4-08AP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1113 sample=../Audio/BigBad/76E4-08AP.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2163 end=652935 sample=../Audio/BigBad/77F4-BUZ6.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2163 end=652935 sample=../Audio/BigBad/77F4-BUZ6.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2163 end=652935 sample=../Audio/BigBad/77F4-BUZ6.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2163 end=652935 sample=../Audio/BigBad/77F4-BUZ6.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1275 end=678656 sample=../Audio/BigBad/78F#4-WLQH.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1275 end=678656 sample=../Audio/BigBad/78F#4-WLQH.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1275 end=678656 sample=../Audio/BigBad/78F#4-WLQH.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1275 end=678656 sample=../Audio/BigBad/78F#4-WLQH.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2160 end=642058 sample=../Audio/BigBad/79G4-02BW.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2160 end=642058 sample=../Audio/BigBad/79G4-02BW.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2160 end=642058 sample=../Audio/BigBad/79G4-02BW.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=2160 end=642058 sample=../Audio/BigBad/79G4-02BW.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1395 end=659976 sample=../Audio/BigBad/80G#4-XW9K.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1395 end=659976 sample=../Audio/BigBad/80G#4-XW9K.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1395 end=659976 sample=../Audio/BigBad/80G#4-XW9K.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1395 end=659976 sample=../Audio/BigBad/80G#4-XW9K.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1342 end=676736 sample=../Audio/BigBad/81A4-1XZP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1342 end=676736 sample=../Audio/BigBad/81A4-1XZP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1342 end=676736 sample=../Audio/BigBad/81A4-1XZP.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1342 end=676736 sample=../Audio/BigBad/81A4-1XZP.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1618 sample=../Audio/BigBad/82A#4-YB8N.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1618 sample=../Audio/BigBad/82A#4-YB8N.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1618 sample=../Audio/BigBad/82A#4-YB8N.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1618 sample=../Audio/BigBad/82A#4-YB8N.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1779 end=677632 sample=../Audio/BigBad/83B4-QKA1.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1779 end=677632 sample=../Audio/BigBad/83B4-QKA1.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1779 end=677632 sample=../Audio/BigBad/83B4-QKA1.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1779 end=677632 sample=../Audio/BigBad/83B4-QKA1.wav
-<group>lokey=84 hikey=121 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1761 sample=../Audio/BigBad/84C5-4ZML.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1761 sample=../Audio/BigBad/84C5-4ZML.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1761 sample=../Audio/BigBad/84C5-4ZML.wav
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 tune=24 volume=12 offset=1761 sample=../Audio/BigBad/84C5-4ZML.wav
+<group>lokey=1 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1816 end=673109 sample=../PolAudio/BigBad/36C1-8KP2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1816 end=673109 sample=../PolAudio/BigBad/36C1-8KP2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1816 end=673109 sample=../PolAudio/BigBad/36C1-8KP2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1816 end=673109 sample=../PolAudio/BigBad/36C1-8KP2.wav
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1702 end=654680 sample=../PolAudio/BigBad/37C#1-ISWA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1702 end=654680 sample=../PolAudio/BigBad/37C#1-ISWA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1702 end=654680 sample=../PolAudio/BigBad/37C#1-ISWA.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1702 end=654680 sample=../PolAudio/BigBad/37C#1-ISWA.wav
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1455 end=679040 sample=../PolAudio/BigBad/38D1-4G8C.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1455 end=679040 sample=../PolAudio/BigBad/38D1-4G8C.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1455 end=679040 sample=../PolAudio/BigBad/38D1-4G8C.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1455 end=679040 sample=../PolAudio/BigBad/38D1-4G8C.wav
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1066 sample=../PolAudio/BigBad/39D#1-F1PZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1066 sample=../PolAudio/BigBad/39D#1-F1PZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1066 sample=../PolAudio/BigBad/39D#1-F1PZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1066 sample=../PolAudio/BigBad/39D#1-F1PZ.wav
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1651 sample=../PolAudio/BigBad/40E1-PE1F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1651 sample=../PolAudio/BigBad/40E1-PE1F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1651 sample=../PolAudio/BigBad/40E1-PE1F.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1651 sample=../PolAudio/BigBad/40E1-PE1F.wav
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1278 end=677202 sample=../PolAudio/BigBad/41F1-VQHQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1278 end=677202 sample=../PolAudio/BigBad/41F1-VQHQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1278 end=677202 sample=../PolAudio/BigBad/41F1-VQHQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1278 end=677202 sample=../PolAudio/BigBad/41F1-VQHQ.wav
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1502 sample=../PolAudio/BigBad/42F#1-XNA5.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1502 sample=../PolAudio/BigBad/42F#1-XNA5.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1502 sample=../PolAudio/BigBad/42F#1-XNA5.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1502 sample=../PolAudio/BigBad/42F#1-XNA5.wav
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1427 sample=../PolAudio/BigBad/43G1-45TX.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1427 sample=../PolAudio/BigBad/43G1-45TX.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1427 sample=../PolAudio/BigBad/43G1-45TX.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1427 sample=../PolAudio/BigBad/43G1-45TX.wav
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1407 sample=../PolAudio/BigBad/44G#1-EK47.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1407 sample=../PolAudio/BigBad/44G#1-EK47.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1407 sample=../PolAudio/BigBad/44G#1-EK47.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1407 sample=../PolAudio/BigBad/44G#1-EK47.wav
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1411 sample=../PolAudio/BigBad/45A1-IWP3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1411 sample=../PolAudio/BigBad/45A1-IWP3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1411 sample=../PolAudio/BigBad/45A1-IWP3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1411 sample=../PolAudio/BigBad/45A1-IWP3.wav
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1691 end=676866 sample=../PolAudio/BigBad/46A#1-NQ5X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1691 end=676866 sample=../PolAudio/BigBad/46A#1-NQ5X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1691 end=676866 sample=../PolAudio/BigBad/46A#1-NQ5X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1691 end=676866 sample=../PolAudio/BigBad/46A#1-NQ5X.wav
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1459 end=654469 sample=../PolAudio/BigBad/47B1-XGT8.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1459 end=654469 sample=../PolAudio/BigBad/47B1-XGT8.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1459 end=654469 sample=../PolAudio/BigBad/47B1-XGT8.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1459 end=654469 sample=../PolAudio/BigBad/47B1-XGT8.wav
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1841 end=680589 sample=../PolAudio/BigBad/48C2-YJ4E.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1841 end=680589 sample=../PolAudio/BigBad/48C2-YJ4E.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1841 end=680589 sample=../PolAudio/BigBad/48C2-YJ4E.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1841 end=680589 sample=../PolAudio/BigBad/48C2-YJ4E.wav
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1434 sample=../PolAudio/BigBad/49C#2-8ISO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1434 sample=../PolAudio/BigBad/49C#2-8ISO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1434 sample=../PolAudio/BigBad/49C#2-8ISO.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1434 sample=../PolAudio/BigBad/49C#2-8ISO.wav
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1368 end=658560 sample=../PolAudio/BigBad/50D2-X9YW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1368 end=658560 sample=../PolAudio/BigBad/50D2-X9YW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1368 end=658560 sample=../PolAudio/BigBad/50D2-X9YW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1368 end=658560 sample=../PolAudio/BigBad/50D2-X9YW.wav
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1369 end=675712 sample=../PolAudio/BigBad/51D#2-7QMT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1369 end=675712 sample=../PolAudio/BigBad/51D#2-7QMT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1369 end=675712 sample=../PolAudio/BigBad/51D#2-7QMT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1369 end=675712 sample=../PolAudio/BigBad/51D#2-7QMT.wav
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1791 end=653367 sample=../PolAudio/BigBad/52E2-44BC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1791 end=653367 sample=../PolAudio/BigBad/52E2-44BC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1791 end=653367 sample=../PolAudio/BigBad/52E2-44BC.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1791 end=653367 sample=../PolAudio/BigBad/52E2-44BC.wav
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1617 end=679383 sample=../PolAudio/BigBad/53F2-Q6HB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1617 end=679383 sample=../PolAudio/BigBad/53F2-Q6HB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1617 end=679383 sample=../PolAudio/BigBad/53F2-Q6HB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1617 end=679383 sample=../PolAudio/BigBad/53F2-Q6HB.wav
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1222 sample=../PolAudio/BigBad/54F#2-J90B.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1222 sample=../PolAudio/BigBad/54F#2-J90B.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1222 sample=../PolAudio/BigBad/54F#2-J90B.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1222 sample=../PolAudio/BigBad/54F#2-J90B.wav
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1322 end=659669 sample=../PolAudio/BigBad/55G2-F0VY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1322 end=659669 sample=../PolAudio/BigBad/55G2-F0VY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1322 end=659669 sample=../PolAudio/BigBad/55G2-F0VY.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1322 end=659669 sample=../PolAudio/BigBad/55G2-F0VY.wav
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1093 end=677484 sample=../PolAudio/BigBad/56G#2-F4IQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1093 end=677484 sample=../PolAudio/BigBad/56G#2-F4IQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1093 end=677484 sample=../PolAudio/BigBad/56G#2-F4IQ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1093 end=677484 sample=../PolAudio/BigBad/56G#2-F4IQ.wav
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1778 sample=../PolAudio/BigBad/57A2-9PJM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1778 sample=../PolAudio/BigBad/57A2-9PJM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1778 sample=../PolAudio/BigBad/57A2-9PJM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1778 sample=../PolAudio/BigBad/57A2-9PJM.wav
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1231 end=678528 sample=../PolAudio/BigBad/58A#2-JQYT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1231 end=678528 sample=../PolAudio/BigBad/58A#2-JQYT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1231 end=678528 sample=../PolAudio/BigBad/58A#2-JQYT.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1231 end=678528 sample=../PolAudio/BigBad/58A#2-JQYT.wav
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1480 end=640896 sample=../PolAudio/BigBad/59B2-PUBU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1480 end=640896 sample=../PolAudio/BigBad/59B2-PUBU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1480 end=640896 sample=../PolAudio/BigBad/59B2-PUBU.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1480 end=640896 sample=../PolAudio/BigBad/59B2-PUBU.wav
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1391 end=658560 sample=../PolAudio/BigBad/60C3-AJZB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1391 end=658560 sample=../PolAudio/BigBad/60C3-AJZB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1391 end=658560 sample=../PolAudio/BigBad/60C3-AJZB.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1391 end=658560 sample=../PolAudio/BigBad/60C3-AJZB.wav
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2025 end=672640 sample=../PolAudio/BigBad/61C#3-BYGM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2025 end=672640 sample=../PolAudio/BigBad/61C#3-BYGM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2025 end=672640 sample=../PolAudio/BigBad/61C#3-BYGM.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2025 end=672640 sample=../PolAudio/BigBad/61C#3-BYGM.wav
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1284 end=653312 sample=../PolAudio/BigBad/62D3-XO9W.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1284 end=653312 sample=../PolAudio/BigBad/62D3-XO9W.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1284 end=653312 sample=../PolAudio/BigBad/62D3-XO9W.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1284 end=653312 sample=../PolAudio/BigBad/62D3-XO9W.wav
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1650 sample=../PolAudio/BigBad/63D#3-IVK2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1650 sample=../PolAudio/BigBad/63D#3-IVK2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1650 sample=../PolAudio/BigBad/63D#3-IVK2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1650 sample=../PolAudio/BigBad/63D#3-IVK2.wav
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1890 end=640259 sample=../PolAudio/BigBad/64E3-8J31.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1890 end=640259 sample=../PolAudio/BigBad/64E3-8J31.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1890 end=640259 sample=../PolAudio/BigBad/64E3-8J31.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1890 end=640259 sample=../PolAudio/BigBad/64E3-8J31.wav
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1899 end=660498 sample=../PolAudio/BigBad/65F3-SKX3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1899 end=660498 sample=../PolAudio/BigBad/65F3-SKX3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1899 end=660498 sample=../PolAudio/BigBad/65F3-SKX3.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1899 end=660498 sample=../PolAudio/BigBad/65F3-SKX3.wav
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1657 end=673792 sample=../PolAudio/BigBad/66F#3-HQ7J.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1657 end=673792 sample=../PolAudio/BigBad/66F#3-HQ7J.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1657 end=673792 sample=../PolAudio/BigBad/66F#3-HQ7J.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1657 end=673792 sample=../PolAudio/BigBad/66F#3-HQ7J.wav
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2025 end=653440 sample=../PolAudio/BigBad/67G3-KQ25.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2025 end=653440 sample=../PolAudio/BigBad/67G3-KQ25.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2025 end=653440 sample=../PolAudio/BigBad/67G3-KQ25.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2025 end=653440 sample=../PolAudio/BigBad/67G3-KQ25.wav
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1342 end=676992 sample=../PolAudio/BigBad/68G#3-C5VZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1342 end=676992 sample=../PolAudio/BigBad/68G#3-C5VZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1342 end=676992 sample=../PolAudio/BigBad/68G#3-C5VZ.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1342 end=676992 sample=../PolAudio/BigBad/68G#3-C5VZ.wav
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1749 sample=../PolAudio/BigBad/69A3-CGO2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1749 sample=../PolAudio/BigBad/69A3-CGO2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1749 sample=../PolAudio/BigBad/69A3-CGO2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1749 sample=../PolAudio/BigBad/69A3-CGO2.wav
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2130 end=658711 sample=../PolAudio/BigBad/70A#3-BU3X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2130 end=658711 sample=../PolAudio/BigBad/70A#3-BU3X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2130 end=658711 sample=../PolAudio/BigBad/70A#3-BU3X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2130 end=658711 sample=../PolAudio/BigBad/70A#3-BU3X.wav
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1530 end=675200 sample=../PolAudio/BigBad/71B3-Z8M4.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1530 end=675200 sample=../PolAudio/BigBad/71B3-Z8M4.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1530 end=675200 sample=../PolAudio/BigBad/71B3-Z8M4.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1530 end=675200 sample=../PolAudio/BigBad/71B3-Z8M4.wav
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1740 sample=../PolAudio/BigBad/72C4-Q71X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1740 sample=../PolAudio/BigBad/72C4-Q71X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1740 sample=../PolAudio/BigBad/72C4-Q71X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1740 sample=../PolAudio/BigBad/72C4-Q71X.wav
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1405 end=676610 sample=../PolAudio/BigBad/73C#4-85C2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1405 end=676610 sample=../PolAudio/BigBad/73C#4-85C2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1405 end=676610 sample=../PolAudio/BigBad/73C#4-85C2.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1405 end=676610 sample=../PolAudio/BigBad/73C#4-85C2.wav
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1528 sample=../PolAudio/BigBad/74D4-VE8A.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1528 sample=../PolAudio/BigBad/74D4-VE8A.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1528 sample=../PolAudio/BigBad/74D4-VE8A.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1528 sample=../PolAudio/BigBad/74D4-VE8A.wav
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1542 sample=../PolAudio/BigBad/75D#4-DA8X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1542 sample=../PolAudio/BigBad/75D#4-DA8X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1542 sample=../PolAudio/BigBad/75D#4-DA8X.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1542 sample=../PolAudio/BigBad/75D#4-DA8X.wav
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1113 sample=../PolAudio/BigBad/76E4-08AP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1113 sample=../PolAudio/BigBad/76E4-08AP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1113 sample=../PolAudio/BigBad/76E4-08AP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1113 sample=../PolAudio/BigBad/76E4-08AP.wav
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2163 end=652935 sample=../PolAudio/BigBad/77F4-BUZ6.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2163 end=652935 sample=../PolAudio/BigBad/77F4-BUZ6.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2163 end=652935 sample=../PolAudio/BigBad/77F4-BUZ6.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2163 end=652935 sample=../PolAudio/BigBad/77F4-BUZ6.wav
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1275 end=678656 sample=../PolAudio/BigBad/78F#4-WLQH.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1275 end=678656 sample=../PolAudio/BigBad/78F#4-WLQH.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1275 end=678656 sample=../PolAudio/BigBad/78F#4-WLQH.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1275 end=678656 sample=../PolAudio/BigBad/78F#4-WLQH.wav
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2160 end=642058 sample=../PolAudio/BigBad/79G4-02BW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2160 end=642058 sample=../PolAudio/BigBad/79G4-02BW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=2160 end=642058 sample=../PolAudio/BigBad/79G4-02BW.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=2160 end=642058 sample=../PolAudio/BigBad/79G4-02BW.wav
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1395 end=659976 sample=../PolAudio/BigBad/80G#4-XW9K.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1395 end=659976 sample=../PolAudio/BigBad/80G#4-XW9K.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1395 end=659976 sample=../PolAudio/BigBad/80G#4-XW9K.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1395 end=659976 sample=../PolAudio/BigBad/80G#4-XW9K.wav
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1342 end=676736 sample=../PolAudio/BigBad/81A4-1XZP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1342 end=676736 sample=../PolAudio/BigBad/81A4-1XZP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1342 end=676736 sample=../PolAudio/BigBad/81A4-1XZP.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1342 end=676736 sample=../PolAudio/BigBad/81A4-1XZP.wav
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1618 sample=../PolAudio/BigBad/82A#4-YB8N.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1618 sample=../PolAudio/BigBad/82A#4-YB8N.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1618 sample=../PolAudio/BigBad/82A#4-YB8N.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1618 sample=../PolAudio/BigBad/82A#4-YB8N.wav
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1779 end=677632 sample=../PolAudio/BigBad/83B4-QKA1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1779 end=677632 sample=../PolAudio/BigBad/83B4-QKA1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1779 end=677632 sample=../PolAudio/BigBad/83B4-QKA1.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1779 end=677632 sample=../PolAudio/BigBad/83B4-QKA1.wav
+<group>lokey=84 hikey=121 pitch_keycenter=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1761 sample=../PolAudio/BigBad/84C5-4ZML.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1761 sample=../PolAudio/BigBad/84C5-4ZML.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  volume=12 offset=1761 sample=../PolAudio/BigBad/84C5-4ZML.wav
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=0  tune=24 volume=12 offset=1761 sample=../PolAudio/BigBad/84C5-4ZML.wav
