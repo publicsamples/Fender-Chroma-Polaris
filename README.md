@@ -11,6 +11,15 @@ CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control
 
 [Download Audio from Dropbox](https://www.dropbox.com/sh/hmra2hmjt6xuu36/AABdzcwEJaIq1uHSJiSwGtyga?dl=0)
 
+<div align="center">
+      <a href="https://youtu.be/RpYX-Zx2QxY">
+     <img 
+      src="https://github.com/publicsamples/Fender-Chroma-Polaris/raw/master/ch.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
+
 # Loading
 
 **EXS24**
