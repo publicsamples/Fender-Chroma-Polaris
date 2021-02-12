@@ -1,6 +1,10 @@
 # Chroma Polaris Sample Library
 
-CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control
+CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control.
+
+ **This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/hmra2hmjt6xuu36/AABdzcwEJaIq1uHSJiSwGtyga?dl=0)
 
 -  **Patches**: 51
 -   **Formats:** EXS24, Kontakt, & SFZ
@@ -8,9 +12,14 @@ CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control
 -   **Info:** [rhodeschroma.com](http://www.rhodeschroma.com/?id=polaris/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/chroma.html)
 
- **This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/hmra2hmjt6xuu36/AABdzcwEJaIq1uHSJiSwGtyga?dl=0)
+<div align="center">
+      <a href="https://youtu.be/RpYX-Zx2QxY">
+     <img 
+      src="https://github.com/publicsamples/Fender-Chroma-Polaris/raw/master/ch.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
 
 # Loading
 
