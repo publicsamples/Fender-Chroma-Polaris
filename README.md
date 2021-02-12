@@ -6,6 +6,7 @@ CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control
 -   **Formats:** EXS24, Kontakt, & SFZ
 -   **Approx Size:** 7.7GB
 -   **Info:** [rhodeschroma.com](http://www.rhodeschroma.com/?id=polaris/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/chroma.html)
 
  **This collection requires you to download the audio seperately**
 
