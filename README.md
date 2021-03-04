@@ -4,7 +4,8 @@ CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control.
 
  **This collection requires you to download the audio seperately**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/hmra2hmjt6xuu36/AABdzcwEJaIq1uHSJiSwGtyga?dl=0)
+[Download Audio from Dropbox Pt1](https://www.dropbox.com/sh/auuv3vx6glxc6jj/AABO7ZvoulgHZ5GRqrBQuUFMa?dl=0)
+[Download Audio from Dropbox Pt2](https://www.dropbox.com/sh/dojio7733mqwvnt/AADtOr9qpz2niaC63qIp4pgia?dl=0)
 
 -  **Patches**: 51
 -   **Formats:** EXS24, Kontakt, & SFZ
